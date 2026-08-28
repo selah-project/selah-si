@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යහ්වේ මොෂේට කථා කොට කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ:"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:17.945089384Z",
+  "model": "glm-5.3"
+}

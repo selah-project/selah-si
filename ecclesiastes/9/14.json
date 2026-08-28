@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "කුඩා නගරයක්, එහි මිනිසුන් මඳ දෙනෙක්; එය වෙත මහා රජෙක් පැමිණ, ⟨את⟩ නගරය වටලෑවේය, එයට එරෙහිව විශාල වටබැමි ඉදිකෙළේය.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "නගරයක්"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "කුඩා"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "සහ මිනිසුන්"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "මඳ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "වටලෑවේය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "නගරය"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ඉදිකෙළේය"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එයට එරෙහිව"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "වටබැමි"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "විශාල"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:01.908557828Z",
+  "model": "glm-5.3"
+}

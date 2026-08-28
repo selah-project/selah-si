@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අවඥාව ⟨යට⟩ කූෂාන්හි කූඩාර මම දුටිමි; මිදියාන් දේශයේ තිර කම්පා වන්නේය.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "און",
+      "gloss": "අවඥාව"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටිමි"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "කූඩාර"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "කූෂාන්"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "කම්පා වන්නේය"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "තිර"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "මිදියාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:43:53.569913810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 92,
+  "translation": "යහ්වේ, ඔබේ ක්‍රියා කෙතරම් මහත් ද! ඔබේ සිතුම් මහත්ලෙස ගැඹුරුය.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කෙතරම්"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "මහත් ද"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ඔබේ ක්‍රියා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "මහත්ලෙස"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ගැඹුරුය"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ඔබේ සිතුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:12:06.753287640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එයිතාන්ගේ පුත්‍රයෝ: අසර්යා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "සහ ... පුත්‍රයෝ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "එයිතාන්ගේ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:25.255903196Z",
+  "model": "glm-5.3"
+}

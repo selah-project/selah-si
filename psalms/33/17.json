@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මුලාවකි ⟨අස⟩ ගැලවීමට; බලයේ බහුලකමෙන් එය ගැලවීම නොකරන්නේය.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "මුලාවකි"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "අස"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ගැලවීමට"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "බහුලකමෙන්"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "එහි බලය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ගැලවන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:22:26.783319951Z",
+  "model": "glm-5.3"
+}

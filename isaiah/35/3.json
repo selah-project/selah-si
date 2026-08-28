@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "කැලතුණු අත් ශක්තිමත් කරන්න, ඇදවැටෙන දණහිස් තද කරන්න.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "ශක්තිමත් කරන්න"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "කැලතුණු"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "හා දණහිස්"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "ඇදවැටෙන"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "තද කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T23:25:53.015057091Z",
+  "model": "glm-5.3"
+}

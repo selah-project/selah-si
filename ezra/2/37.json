@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඉම්මේර්ගේ පුත්‍රයෝ — දහසය, පනස් දෙකය.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ඉම්මේර්ගේ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:55:27.856507462Z",
+  "model": "glm-5.3"
+}

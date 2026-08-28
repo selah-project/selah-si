@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මන්ද සත්‍යය මගේ තල්ලේ උච්චාරණය කරයි; දුෂ්ටකම මගේ තොල්වලට අරුමයකි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යය"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "උච්චාරණය කරයි"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "මගේ තල්ලේ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "සහ අරුමය"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "මගේ තොල්වලට"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටකම"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:52.067038526Z",
+  "model": "glm-5.3"
+}

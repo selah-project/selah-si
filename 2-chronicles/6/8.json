@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එහෙත් යහ්වේ මගේ පියා වන දාවීද්ට කී ය: මගේ නාමයට ගෙයක් තැනීමට ඔබේ සිතේ වූ බැවින්, ඔබේ සිතේ වූ බැවින් ඔබ යහපත් කළෙහි ය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ කී ය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මගේ පියා"
+    },
+    {
+      "surface": "יען",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ක්"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ සිත"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "තැනීමට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "මගේ නාමයට"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "යහපත් කළෙහි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "යන්නක්"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ සිත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:23.560891384Z",
+  "model": "glm-5.3"
+}

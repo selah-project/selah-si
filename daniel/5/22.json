@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබ වනාහි ඔහුගේ පුත් බෙල්ෂට්සර්, මේ සියල්ල දැන සිටියද ඔබේ සිත නොනමා ගත්තෙහි.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "සහ ඔබ වනාහි"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "බෙල්ෂට්සර්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "නමා ගත්තෙහි"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ සිත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "යටතේ"
+    },
+    {
+      "surface": "די",
+      "gloss": "බව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "දැන සිටියෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:40:37.457240288Z",
+  "model": "glm-5.3"
+}

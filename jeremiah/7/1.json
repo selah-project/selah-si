@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යිර්මෙයාහු වෙත යහ්වේ වෙතින් ⟨את⟩ වූ වචනය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිදු වූයේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ වෙතින්",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:48:22.477195201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "දශකයක් දශකයක් කරන්න එක් බැටළුවා සඳහා, සත් බැටළුවන් සඳහාය.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "දශකයක්"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "දශකයක්"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "බැටළුවා සඳහා"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "බැටළුවන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:14.111559289Z",
+  "model": "glm-5.3"
+}

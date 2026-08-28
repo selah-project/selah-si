@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සහ පිළිතුරු දී මෙසේ කියති: අපේ අත් වැගිරූයේ නැත ⟨את⟩ මේ ලේ, අපේ ඇස් දුටුවේ ⟨ද⟩ නැත.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "සහ පිළිතුරු දෙති"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "සහ කියති"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "අපේ අත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "වැගිරූයේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ ලේ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "අපේ ඇස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "දුටුවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:51.131605066Z",
+  "model": "glm-5.3"
+}

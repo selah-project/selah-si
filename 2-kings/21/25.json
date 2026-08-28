@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "අමෝන්ගේ සෙසු කාරණා, ඔහු කළ ඒවා, ඒවා යුදාවේ රජුන්ගේ දිනවල කාරණා පොතේ ලියා නැත්තේද?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "සෙසු"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කාරණා"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "අමෝන්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නැත්තේද?"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ලියා"
+    },
+    {
+      "surface": "על",
+      "gloss": "…මත"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "පොතේ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කාරණා"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "රජුන්ගේ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යුදාවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:30:08.551743079Z",
+  "model": "glm-5.3"
+}

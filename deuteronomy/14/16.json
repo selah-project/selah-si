@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "⟨את⟩ කුඩා ඌ බිත්තාද, ⟨את⟩ විශාල ඌ බිත්තාද, සුදු ඌ බිත්තාද",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුඩා ඌ බිත්තා"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "කුඩා ඌ බිත්තා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "විශාල ඌ බිත්තා"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "විශාල ඌ බිත්තා"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "සුදු ඌ බිත්තා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:52.239462546Z",
+  "model": "glm-5.3"
+}

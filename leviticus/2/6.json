@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එය කැබලි කපා ⟨את⟩ කැබලි, සහ ඒ මතට ඔබ තෙල් වත් කරන්නේය — එය පූජාවකි.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "කපා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "කැබලි"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "කැබලි"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "සහ වත් කරන්නේය"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මතට"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "තෙල්"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "පූජාව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:33.910025336Z",
+  "model": "glm-5.3"
+}

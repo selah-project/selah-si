@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 18:6",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "පූජකයා ඔවුන්ට කීවේය: සාන්තියෙන් යන්න; යහ්වේ ඉදිරියේ ඔබ යන මාර්ගය ⟨ම⟩ වේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "පූජකයා කීවේය"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "සාන්තියෙන්"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "דרככם",
+      "gloss": "ඔබේ මාර්ගය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ඔබ යන"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:47:09.361677311Z",
+  "model": "glm-5.3"
+}

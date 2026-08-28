@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මොෂේ කෝරෛ්ට කීවේ: ඔබ සහ ඔබේ සියලු සභාව යහ්වේ ඉදිරියේ සිටින්න — ඔබ සහ ඔවුන්, සහ අහරොන්, හෙට.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "මොෂේ කීවේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කෝරෛ්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "ඔබේ සභාව"
+    },
+    {
+      "surface": "היו",
+      "gloss": "සිටින්න"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "සහ ඔවුන්"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "සහ අහරොන්"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "හෙට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:41:42.810248767Z",
+  "model": "glm-5.3"
+}

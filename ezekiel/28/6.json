@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එබැවින් අදෝනයි යහ්වේ මෙසේ කියයි: ඔබ ඔබේ හදවත ⟨את⟩ එලෝහීම්ගේ හදවත මෙන් තැබූ බැවින්,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "ඔබ තැබූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ හදවත"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "හදවත මෙන්"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:41:18.135453856Z",
+  "model": "glm-5.3"
+}

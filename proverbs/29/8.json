@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "උපහාසකයෝ නගරය උණුසුම් කරති; එහෙත් ඥානවන්තයෝ කෝපය හරවති.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "උපහාසකයෝ"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "උපහාසයේ"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "උණුසුම් කරති"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "එහෙත් ඥානවන්තයෝ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "හරවති"
+    },
+    {
+      "surface": "אף",
+      "gloss": "කෝපය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:41.124353331Z",
+  "model": "glm-5.3"
+}

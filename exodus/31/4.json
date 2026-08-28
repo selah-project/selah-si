@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මෙහෙණු මෙහෙණු සැලසුම් කිරීමට — රන් හා රිදී හා තඹ තුළ කිරීමට.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "සැලසුම් කිරීමට"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "මෙහෙණු"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "තඹ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:56:31.137202727Z",
+  "model": "glm-5.3"
+}

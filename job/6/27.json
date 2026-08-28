@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔබ ම අනාථයා මතට පතිත කරන්නේ ද, සහ ඔබේ මිතුරා විකුණන්නේ ද?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "඙תום",
+      "gloss": "අනාථයා"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "පතිත කරන්නේ ද"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "විකුණන්නේ ද"
+    },
+    {
+      "surface": "על",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "ඔබේ මිතුරා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:29:50.665462103Z",
+  "model": "glm-5.3"
+}

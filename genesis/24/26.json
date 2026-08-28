@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "එවිට ඒ මිනිසා නමා, යහ්වේ හට වැඳ සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "ඔහු නමා"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ඒ මිනිසා"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "වැඳ සිටියේය"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ හට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:17:37.493309751Z",
+  "model": "glm-5.3"
+}

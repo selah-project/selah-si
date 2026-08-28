@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "කොහිද ඛමාත් රජ, අර්පාද් රජ, සෙපර්වයිම් නගරයේ රජ, හේනා සහ අව්වා?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "කොහිද"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ඛමාත්"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "සහ රජ"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "අර්පාද්"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "සහ රජ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "සෙපර්වයිම්"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "හේනා"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "සහ අව්වා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:02:58.555107978Z",
+  "model": "glm-5.3"
+}

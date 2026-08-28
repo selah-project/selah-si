@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "අඛියා තමා මත තිබූ නව සල්මාව අල්ලාගෙන එය කැබලි දොළහකට ඉරුවේය.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "අල්ලාගත්තේය"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "අඛියා"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "සල්මාව"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "නව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමා මත"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "තිබූ"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "ඉරුවේය"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "කැබලි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:42:00.053893470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "නොඑසේවා ඔබේ තේජස අන්‍යයන්ට නොදෙව, ඔබේ අවුරුදු ද කෲරයාට නොදෙව.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "නොඑසේවා"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙව"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "අන්‍යයන්ට"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ඔබේ තේජස"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "ඔබේ අවුරුදු ද"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "කෲරයාට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:04.446138108Z",
+  "model": "glm-5.3"
+}

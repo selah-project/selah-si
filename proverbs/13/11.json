@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "හිස් දෙයකින් ⟨ලැබූ⟩ ධනය අඩු වේ; අත මත රැස් කරන්නා වැඩි කරයි.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ධනය"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "හිස් දෙයකින්"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "අඩු වේ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "සහ රැස් කරන්නා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "඙רבה",
+      "gloss": "වැඩි කරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:33.131723351Z",
+  "model": "glm-5.3"
+}

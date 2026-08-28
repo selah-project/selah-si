@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කෝහෙලෙත්ගේ වදන් — දාවීඩ්ගේ පුත්, යෙරුෂාලයිම්හි රජු —",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "වදන්"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "කෝහෙලෙත්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීඩ්ගේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "යෙරුෂාලයිම්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:46.334083231Z",
+  "model": "glm-5.3"
+}

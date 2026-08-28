@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "හා යෙහෝෂුආ උදෑසන වේලාවට නැඟී, හා කහනවරු යහ්වේගේ කරඬුව ⟨the⟩ ඔසවා ගත්හ.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "උදෑසන නැඟී"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ඔසවා ගත්හ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "කහනවරු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කරඬුව"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "කරඬුව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:22:13.366756372Z",
+  "model": "glm-5.3"
+}

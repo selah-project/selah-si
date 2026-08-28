@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ෂිම්රොන්-මෙරොන්හි රජ — එක්; අක්ෂාප්හි රජ — එක්;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ෂිම්රොන්"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "මෙරොන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "අක්ෂාප්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:32.727093945Z",
+  "model": "glm-5.3"
+}

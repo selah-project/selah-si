@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නක්ෂොන් ⟨את⟩ සල්මා බිහිකළේය; සල්මා ⟨את⟩ බොඅස් බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "නක්ෂොන්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සල්මා"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "සල්මා"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "සල්මා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බොඅස්"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "බොඅස්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:31.472957498Z",
+  "model": "glm-5.3"
+}

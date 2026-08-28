@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "සම්ප්‍රදායට අනුව නබිවරයා වූ චනන්යාහ් ⟨ඒ⟩ ඒ වර්ෂයේදී, සත්වන මාසයේදී මළේය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "චනන්යාහ්"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "නබිවරයා"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "වර්ෂයේදී"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "මාසයේදී"
+    },
+    {
+      "surface": "වන්දනී",
+      "gloss": "සත්වන"
+    }
+  ],
+  "timestamp": "2026-08-28T00:01:44.042451954Z",
+  "model": "glm-5.3"
+}

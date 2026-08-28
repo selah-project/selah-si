@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "රෙහුම්, හෂබ්නා, මාආසෙයා,",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "රෙහුම්"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "හෂබ්නා"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "මාආසෙයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:41.450472834Z",
+  "model": "glm-5.3"
+}

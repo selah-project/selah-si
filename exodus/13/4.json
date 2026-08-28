@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "අද ඔබ පිටත්ව යන්නේ, අබීව් මාසයේදීය.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "පිටත්ව යන්නේ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "මාසයේදී"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "අබීව්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:14:48.642954672Z",
+  "model": "glm-5.3"
+}

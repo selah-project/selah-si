@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "දැන් කරුණාකර, අදෝනයිගේ බලය මහත් වේවා, ඔබ කතා කළ පරිදි, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "මහත් වේවා"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "כח",
+      "gloss": "බලය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයිගේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "කතා කළ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:33:42.537603795Z",
+  "model": "glm-5.3"
+}

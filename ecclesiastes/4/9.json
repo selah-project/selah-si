@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "දෙදෙනා එක් කෙනෙකුට වඩා හොඳය, මන්ද ඔවුන්ගේ වෙහෙසේ හොඳ ප්‍රතිඵලයක් ඔවුන්ට ඇත.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "දෙදෙනා"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක් කෙනාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ප්‍රතිඵලයක්"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ඔවුන්ගේ වෙහෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:19.656737832Z",
+  "model": "glm-5.3"
+}

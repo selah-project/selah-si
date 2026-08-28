@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "නැත්නම් ඔහුගේ පාරවල් ඉගෙන ගෙන, ඔබේ ජීවිතයට උගුලක් ලැබෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "නැත්නම්"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "ඉගෙන ගෙන"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "ඔහුගේ පාරවල්"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ලැබෙන්නේය"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "උගුලක්"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ඔබේ ජීවිතයට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:16:18.623911663Z",
+  "model": "glm-5.3"
+}

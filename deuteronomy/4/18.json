@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "පොළොව මත රැළෙන සෑම දෙයකම ස්වරූපය, පොළොව යට ජලයෙහි සිටින සෑම මාළුවෙකුගේම ස්වරූපය",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ස්වරූපය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "රැළෙන"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "පොළොව මත"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ස්වරූපය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "මාළුවෙකුගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙහි සිටින"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:28.857958980Z",
+  "model": "glm-5.3"
+}

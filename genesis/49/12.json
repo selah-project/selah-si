@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "ද්‍රාවයෙන් ඇස් දෙදෙන දිලෙනසුලුය; කිරෙන් දත් සුදුය.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "දිලෙනසුලු"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ඇස් දෙදෙන"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ද්‍රාවයෙන්"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "සුදුය"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දත්"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "කිරෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:43.203634821Z",
+  "model": "glm-5.3"
+}

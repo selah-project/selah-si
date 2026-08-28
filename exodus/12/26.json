@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සිදුවන්නේ මෙසේය: ඔබේ පුත්‍රයෝ ඔබට කියන විට — 'මෙම සේවාව ඔබට මොකක්ද?'",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සිදුවන්නේ මෙසේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "විට"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ඔබේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "මෙම සේවාව"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:46:31.002444583Z",
+  "model": "glm-5.3"
+}

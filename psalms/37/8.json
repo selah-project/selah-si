@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "කෝපයෙන් වළකින්න, උදහස අත්හරින්න; නපුර කිරීමට මිස කිසිවකට කෝප නොවන්න.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "වළකින්න"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "කෝපයෙන්"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "අත්හරින්න"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "උදහස"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "කෝප වන්න"
+    },
+    {
+      "surface": "אך",
+      "gloss": "මිස"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "නපුර කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:24:53.908751458Z",
+  "model": "glm-5.3"
+}

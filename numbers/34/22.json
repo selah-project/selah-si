@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "දාන්ගේ පුත්‍රයන්ගේ ගෝත්‍රයට — නායකයා යොග්ලිගේ පුත් බුකී.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ගෝත්‍රයටද"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දාන්"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "නායකයා"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "බුකී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "යොග්ලිගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:20.673052048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මහලල්එල් අවුරුදු අනූ පහක් ජීවත් වූයේය, ⟨את⟩ යාරේද් ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් වූයේය"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "මහලල්එල්"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "හැට"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යාරේද්"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "යාරේද්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:56.643775725Z",
+  "model": "glm-5.3"
+}

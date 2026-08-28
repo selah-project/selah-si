@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඔබ ⟨את⟩ දේශය බලව් — එය කුමක්ද — සහ ⟨את⟩ ජනයා එහි වාසය කරන — ⟨ඔහු⟩ බලවත්ද ⟨ඔහු⟩ දුර්වලද; ⟨ඔහු⟩ අල්පද, නැතහොත් බහුලද.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ඔබ බලව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "වාසය කරන"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "බලවත්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඔහු⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "දුර්වල"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "අල්ප"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඔහු⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බහුල"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:39.695239666Z",
+  "model": "glm-5.3"
+}

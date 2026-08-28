@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "And I will restore ⟨את⟩ the fortune of Judah and ⟨את⟩ the fortune of Israel, and I will rebuild them as at the first.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "And I will restore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the fortune of Judah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "the fortune of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "the fortune of Israel"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "and the fortune of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "and I will rebuild them"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "as at the first"
+    }
+  ],
+  "timestamp": "2026-08-28T00:05:57.305943717Z",
+  "model": "glm-5.3"
+}

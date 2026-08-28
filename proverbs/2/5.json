@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එවිට නුඹ යහ්වේ කෙරෙහි භය තේරුම් ගනිවි, එලෝහීම්ගේ ඥානයද සොයාගනිවි.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "තේරුම් ගනිවි"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "භය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ඥානයද"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "සොයාගනිවි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:08.064236540Z",
+  "model": "glm-5.3"
+}

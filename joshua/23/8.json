@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "නමුත් යහ්වේ ඔබගේ එලෝහීම් සමඟම ඔබ බැඳී සිටින්න, මේ දින දක්වා කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "නමුත්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "එහෙක"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ සමඟ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "බැඳී සිටින්න"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:35:19.211732024Z",
+  "model": "glm-5.3"
+}

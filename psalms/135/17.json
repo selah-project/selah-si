@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 135,
+  "translation": "කන් ඔවුන්ට ඇත, නමුත් ඔවුන් නොඅසති; ඔවුන්ගේ මුඛයෙහි හුළඟක් ද නැත.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "කන්"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නො"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "අසති"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇත⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "හුළඟක්"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ඔවුන්ගේ මුඛයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:42:27.763819136Z",
+  "model": "glm-5.3"
+}

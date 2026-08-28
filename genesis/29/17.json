@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලෙආහගේ ඇස් මෘදු විය, රාෂෙල් වනාහී රූපසම්පන්න සහ දර්ශනීය වූවා ය.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "සහ ඇස්"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලෙආහගේ"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "මෘදු"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "සහ රාෂෙල්"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වූවා ය"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "රූපසම්පන්න"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "රූපයෙන්"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "සහ සුන්දර"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "දිස්නයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:57.937671253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ඔවුන්ගේ සහෝදරයෝ: ෂෙබන්යා, හෝදියා, කෙලීටා, පෙලායා, හනාන්.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "සහ ඔවුන්ගේ සහෝදරයෝ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ෂෙබන්යා"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "හෝදියා"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "කෙලීටා"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "පෙලායා"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "හනාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:42.304864525Z",
+  "model": "glm-5.3"
+}

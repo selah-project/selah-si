@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යහ්වේ මොෂේට වදාළේය, මෙසේ කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:24:26.522041849Z",
+  "model": "glm-5.3"
+}

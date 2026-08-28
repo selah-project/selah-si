@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අටවන දින, ඔහුගේ ප්‍රාන්තරමසුගේ මස මුඩු කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "අටවන දින"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අටවන"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "මුඩු කරනු ලැබේ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ඔහුගේ ප්‍රාන්තරමසුගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:46.491926231Z",
+  "model": "glm-5.3"
+}

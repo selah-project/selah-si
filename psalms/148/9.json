@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 148,
+  "translation": "කඳු සහ ⟨සියලු⟩ ගිරිකුල; ඵල දරන ගස් සහ ⟨සියලු⟩ දේවදාරු ගස්,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ ⟨සියලු⟩"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ගිරිකුල"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵල දරන"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ ⟨සියලු⟩"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "දේවදාරු ගස්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:48:26.682894472Z",
+  "model": "glm-5.3"
+}

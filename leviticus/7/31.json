@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පූජක ⟨את⟩ මේදය දවුරේ මත දවන්නේය; පපුව අහරොන්ට හා ඔහුගේ පුත්‍රයන්ට වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "දවන්නේය"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජක"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේදය"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "මේදය"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "දවුරේ මත"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "පපුව"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "අහරොන්ට"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "හා ඔහුගේ පුත්‍රයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:39.080874191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මම ඵලක දෙක අල්ලාගෙන, මගේ දෑත් දෙකෙන් ඒවා විසි කොට, ඔබේ ඇස් ඉදිරිපිට ඒවා කැඩුවෙමි.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "අල්ලාගෙන"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ඵලක"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "විසි කොට"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉඳන්"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මගේ දෑත්"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "කැඩුවෙමි"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ඔබේ ඇස් ඉදිරිපිට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:43.521043981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "දාවීද් ⟨את⟩ සීයෝන් බලකොටුව අල්ලාගත්තේය; එය ⟨යි⟩ දාවීද්ගේ නගරය ය.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "අල්ලාගත්තේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සීයෝන් බලකොටුව"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "බලකොටුව"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සීයෝන්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:08:42.718624254Z",
+  "model": "glm-5.3"
+}

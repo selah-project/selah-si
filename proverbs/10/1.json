@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ශෙලෝමෝගේ උපමා. ප්‍රඥාවන්ත පුත් ⟨ය⟩ පියාට සතුටු කරයි; මෝඩ පුත් ⟨වන්නේ⟩ මවගේ ශෝකයයි.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "උපමා"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ශෙලෝමෝගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ප්‍රඥාවන්ත"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "සතුටු කරයි"
+    },
+    {
+      "surface": "אב",
+      "gloss": "පියාට"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "සහ පුත්"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "ශෝකය"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "මවගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:01:41.989600563Z",
+  "model": "glm-5.3"
+}

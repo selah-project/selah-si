@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "බිහිරු අයෙකි, අසන්න; අන්ධයෙනි, දැකීමට බලන්න.",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "බිහිරු අයෙකි"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "සහ අන්ධයනි"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "බලන්න"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "දැකීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T09:38:44.281216644Z",
+  "model": "glm-5.3"
+}

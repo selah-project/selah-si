@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "තෙවන ⟨the⟩ පේළිය — ලෙෂෙම්, ෂෙබෝ සහ අක්ලාමා.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "පේළිය"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "තෙවන"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ලෙෂෙම්"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ෂෙබෝ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "සහ අක්ලාමා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:14.974628985Z",
+  "model": "glm-5.3"
+}

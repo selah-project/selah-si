@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යුක්තියේ මාර්ග රැකීමට, ඔහුගේ භක්තිමතුන්ගේ මඟද රකියි.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "යුක්තියේ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "මඟද"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "ඔහුගේ භක්තිමතුන්ගේ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "රකියි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:08.064751277Z",
+  "model": "glm-5.3"
+}

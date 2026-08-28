@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මම මා පමණක් මේ සියලු ජනයා ⟨את⟩ දරාගෙන යා නොහැක්කෙමි, මන්ද මෙහි බර මට වඩා ⟨is⟩ අධිකය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "හැක්කෙමි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "මා පමණක්"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "දරාගෙන යා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ජනයා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බර"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මට වඩා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:16.725806194Z",
+  "model": "glm-5.3"
+}

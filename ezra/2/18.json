@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යෝරාගේ පුත්‍රයෝ — සිය දොළොස් දෙනා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "යෝරාගේ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දොළොස් දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:50.819305221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යහ්වේ මොෂේට කතා කොට කීයේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට කීයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:23:36.857732009Z",
+  "model": "glm-5.3"
+}

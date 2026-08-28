@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "මන්ද ⟨the⟩ අණය අණය මත, අණය අණය මත, රේඛාව රේඛාව මත, රේඛාව රේඛාව මත; මෙහි ටිකක්, එහි ටිකක්.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "צו",
+      "gloss": "අණය"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "අණය මත"
+    },
+    {
+      "surface": "צו",
+      "gloss": "අණය"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "අණය මත"
+    },
+    {
+      "surface": "קו",
+      "gloss": "රේඛාව"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "රේඛාව මත"
+    },
+    {
+      "surface": "קו",
+      "gloss": "රේඛාව"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "රේඛාව මත"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ටිකක්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "මෙහි"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ටිකක්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:20:25.177025263Z",
+  "model": "glm-5.3"
+}

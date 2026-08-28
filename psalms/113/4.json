@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 113,
+  "translation": "සියලු ජාතීන්ට ඉහළින් යහ්වේ ⟨ඉන්නේය⟩; අහසට ඉහළින් ⟨ඇත්තේ⟩ ඔහුගේ තේජසයි.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ඉහළින්"
+    },
+    {
+      "surface": "על",
+      "gloss": "ට ඉහළින්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ජාතීන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ට ඉහළින්"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ඔහුගේ තේජස"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:41.776160368Z",
+  "model": "glm-5.3"
+}

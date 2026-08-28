@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔවුහු යෝනාව ⟨את⟩ එසවූහ; මුහුදට විසි කළහ; මුහුද තම කෝපයෙන් නතර විය.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "එසවූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෝනාව"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "යෝනාව"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "විසි කළහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුදට"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "නතර විය"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "තම කෝපයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:29:11.471737381Z",
+  "model": "glm-5.3"
+}

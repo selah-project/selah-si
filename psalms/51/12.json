@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 51,
+  "translation": "පිරිසිදු හදවතක් මා සඳහා මවන්න, එලෝහීම්; ස්ථිර රූආඛ් එකක් මා තුළ නව කරන්න.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "මවන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මා සඳහා"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "රූආඛ්"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ස්ථිර"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "නව කරන්න"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "මා තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:37:13.087343820Z",
+  "model": "glm-5.3"
+}

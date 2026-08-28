@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "දශමයක් ඔබේ බීජයෙන් නික්මෙන සියලු ඵලයෙන් දශමය කරව — ⟨את⟩ සියලු ⟨the⟩ කෙතෙන් ⟨නික්මෙන⟩, වර්ෂය වර්ෂය.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "දශමයක්"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "දශමය කරව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ඔබේ බීජයේ ඵලය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ඵලය"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ඔබේ බීජයෙන්"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "නික්මෙන"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙතෙන්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වර්ෂය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වර්ෂය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:43:40.685040773Z",
+  "model": "glm-5.3"
+}

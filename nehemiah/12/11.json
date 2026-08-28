@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යොයාදා ⟨את⟩ යොනතන් ලබා දුන්නේය, යොනතන් ⟨את⟩ යදුආ ලබා දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "යොයාදා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා දුන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොනතන්"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "යොනතන්"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "යොනතන්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා දුන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යදුආ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "යදුආ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:12.143670590Z",
+  "model": "glm-5.3"
+}

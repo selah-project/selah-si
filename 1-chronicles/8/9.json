@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "හොදෙෂ් ⟨the⟩ නම් ඔහුගේ බිරිඳගෙන් ඔහු ජනිත කළේ ඉයෝවාව් ⟨את⟩, සිව්යා ⟨את⟩, මේෂා ⟨את⟩, මල්කාම් ⟨את⟩ ය.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ඔහු ජනිත කළේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "හොදෙෂ්"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ඔහුගේ බිරිඳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඉයෝවාව්"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ඉයෝවාව්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "සිව්යා"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "සිව්යා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මේෂා"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "මේෂා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මල්කාම්"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "මල්කාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:03.672951228Z",
+  "model": "glm-5.3"
+}

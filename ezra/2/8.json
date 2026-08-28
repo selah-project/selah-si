@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සත්තූඋගේ පුත්‍රයෝ — නවසිය පන්සිය දෙසැත්තෑ දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "සත්තූඋගේ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පහ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:53:51.087167367Z",
+  "model": "glm-5.3"
+}

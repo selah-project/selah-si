@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ එලෝහීම් ⟨את⟩ ඔහු එදෙන් උද්‍යානයෙන් යවා, ඔහු එයින් ගනු ලැබූ ⟨පස⟩ වගා කරනු පිණිස.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ඔහු යවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "උද්‍යානයෙන්"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "එදෙන්"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "වගා කරනු පිණිස"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පස"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ගනු ලැබූ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "එයින්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:43.936521578Z",
+  "model": "glm-5.3"
+}

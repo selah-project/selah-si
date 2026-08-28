@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 52:20",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 52,
+  "translation": "කණු දෙක, මුහුද එකක්, පාදම් යට ඇති ගවයන් දොළොස් දෙනා — රජු වූ ෂෙලෝමෝ යහ්වේගේ ගෙයට කළ ලෝකඩ — මේ සියලු භාජනවල ලෝකඩට බර නොවීය.",
+  "tokens": [
+    {
+      "surface": "העמודים",
+      "gloss": "කණු"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ගවයන්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දෙනා"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ලෝකඩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "පාදම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙයට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර"
+    },
+    {
+      "surface": "לנחשתם",
+      "gloss": "ඔවුන්ගේ ලෝකඩට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "භාජනවල"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:22:01.017631102Z",
+  "model": "glm-5.3"
+}

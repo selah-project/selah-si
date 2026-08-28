@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "දහස් ගණන් රන් හා රිදී වලටත් වඩා මට හොඳය ඔබේ මුඛයේ තෝරා.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "තෝරා"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ඔබේ මුඛයේ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "දහස් ගණන්... වලටත් වඩා"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "හා රිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:36:50.866824435Z",
+  "model": "glm-5.3"
+}

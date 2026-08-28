@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "⟨את⟩ ඒවා පිළිස්සූ තැනැත්තා තම ඇඳුම් සෝදා, ජලයෙන් ⟨את⟩ තම ශරීරය සෝදා, ඉන් පසු පිට්ටනයට ඒමේය.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "පිළිස්සූ තැනැත්තා"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ඒවා"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "සෝදා"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "තම ඇඳුම්"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "සෝදා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම ශරීරය"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "තම ශරීරය"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙන්"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ඉන් පසු"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ඒමේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "පිට්ටනය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:18:53.483198500Z",
+  "model": "glm-5.3"
+}

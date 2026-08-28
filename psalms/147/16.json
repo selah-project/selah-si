@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 147,
+  "translation": "ලොම් මෙන් හිම දෙන තැනැත්තා; අළු මෙන් විලි පතිත කරයි.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "දෙන තැනැත්තා"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "හිම"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ලොම් මෙන්"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "විලි"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "අළු මෙන්"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "පතිත කරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:50:29.360968511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඒවා සැමවිටම සිත මත බැඳ තබන්න; ඒවා ගෙල මත තබා බඳින්න.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ඒවා බැඳ තබන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "සිත"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "සැමවිටම"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "තබා බඳින්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "ගෙල"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:47.364498099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "නප්තාලී ගෝඤ්‍රයෙන් — වොප්සීගේ පුත් නාක්බී.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයෙන්"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "නප්තාලී"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "නාක්බී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "වොප්සී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:36:01.553221196Z",
+  "model": "glm-5.3"
+}

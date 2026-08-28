@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "පොළොවේ සියලු දශමයෙන් — පොළොවේ බීජයෙන්, ගසේ පලයෙන් — යහ්වේට අයිතිය; එය යහ්වේට පූජිතයි.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "දශමය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "බීජයෙන්"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "පලයෙන්"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ගසේ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජිතයි"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:26:29.375189680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "පිටියේ මුහුණ මත ඔබ වැටෙන්නේය, මන්ද මම ම කීමි — අදෝනයි යහ්වේ වදාරන නියම වදන.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "පිටියේ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ඔබ වැටෙන්නේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ම කීමි"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නියම වදන"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:54:12.387123597Z",
+  "model": "glm-5.3"
+}

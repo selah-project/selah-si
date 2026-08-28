@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "පාපය කරන්නා සිය ගුණයක් නපුර කරද්දී, ඔහුට දිගු කල් වුවද — එලෝහීම්ට බිය වන්නෝ, ඔහු මුහුණට මුහුණ බිය වන්නෝ යහපත් වනු ඇති බව මමද දන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חטא",
+      "gloss": "පාපය කරන්නා"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරයි"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුර"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "සිය ගුණයක්"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "දිගු කරයි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දන්නෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "බිය වන්නෝට"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "බිය වන්නෝ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ඔහු මුහුණට මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:24.756278190Z",
+  "model": "glm-5.3"
+}

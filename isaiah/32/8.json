@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "උදාර තැනැත්තා උදාර දේ යෝජනා කරයි, සහ ඔහු උදාර දේ මත නැඟී සිටී.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "සහ උදාර තැනැත්තා"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "උදාර දේ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "යෝජනා කරයි"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "සහ ඔහු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "උදාර දේ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "නැඟී සිටී"
+    }
+  ],
+  "timestamp": "2026-08-27T23:24:36.200663965Z",
+  "model": "glm-5.3"
+}

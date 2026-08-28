@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "දුෂ්ට අදහස් කුමන්ත්‍රණය කරන හදවත, අයහපතට දිවීමට ඉක්මන් වන පාද",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "කුමන්ත්‍රණය කරන"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "අදහස්"
+    },
+    {
+      "surface": "און",
+      "gloss": "දුෂ්ට"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "පාද"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "ඉක්මන් වන"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "දිවීමට"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "අයහපතට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:44.730804111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "දාවීද් ඒ ඇසූ විට, ⟨את⟩ යොආබ් සහ ⟨את⟩ සියලු බලගතු සේනාව යැව්වේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසූ විට"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොආබ්"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "යොආබ්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු බලගතු සේනාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "බලගතු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:17:59.579658101Z",
+  "model": "glm-5.3"
+}

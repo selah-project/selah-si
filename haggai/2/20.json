@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ යහ්වේගේ වචනය දෙවන වරට හග්ගයි වෙත, මාසයේ විසි හතර වන දින වැටුණි, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහ ⟨විය⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "දෙවන වරට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "හග්ගයි"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:41:59.836249879Z",
+  "model": "glm-5.3"
+}

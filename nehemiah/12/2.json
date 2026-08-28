@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අමර්යා, මල්ලූඛ්, චතූෂ්.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "මල්ලූඛ්"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "චතූෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:11.978035783Z",
+  "model": "glm-5.3"
+}

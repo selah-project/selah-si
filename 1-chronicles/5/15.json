@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අඛී — ආබ්දීඑල්ගේ පුත්, ගූනීගේ පුත් — ඔවුන්ගේ පියවුල් ගෙවල්වලට ප්‍රධානියා විය.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "අඛී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "ආබ්දීඑල්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "ගූනීගේ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ප්‍රධානියා"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙවල්වලට"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ඔවුන්ගේ පියවුල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:05.574670610Z",
+  "model": "glm-5.3"
+}

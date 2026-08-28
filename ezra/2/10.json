@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බානිගේ පුත්‍රයෝ — හයසිය හතළිස් දෙකක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "බානිගේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:28.439027459Z",
+  "model": "glm-5.3"
+}

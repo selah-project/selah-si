@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේගේ දූතයා යෙහෝෂුආට සාක්ෂි දී කීයේ:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "සාක්ෂි දී කීයේ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "යෙහෝෂුආට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:17:14.163921154Z",
+  "model": "glm-5.3"
+}

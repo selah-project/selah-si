@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මගේ මතට දිවා රෑ ඔබේ අත බර විය; මගේ තෙත බව ගිම්හානයේ වියළි දැවීමකට හැරුණි. සෙලා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "දිවා"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "රෑ"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "බර විය"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මගේ මතට"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "හැරුණි"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "මගේ තෙත බව"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "වියළි දැවීමකට"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ගිම්හානයේ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:14.796326743Z",
+  "model": "glm-5.3"
+}

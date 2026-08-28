@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අනතොත් හි පිරිස, සිය විසි අටක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "පිරිස"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "අනතොත්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:34.742787815Z",
+  "model": "glm-5.3"
+}

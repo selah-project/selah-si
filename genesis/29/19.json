@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලාවන් කීවේය: මම ⟨את⟩ ඇයව ඔබට දීම වෙනත් මිනිසෙකුට ⟨את⟩ ඇයව දීමට වඩා යහපත්ය; මම සමඟ වාසය කරන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ කීවේය"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාවන්"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "මම දීම"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ඇය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "වඩා මම දීමට"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ඇය"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසෙකුට"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "වාසය කරන්න"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "මම සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:57.938060916Z",
+  "model": "glm-5.3"
+}

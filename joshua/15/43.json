@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යිප්තා, අෂ්නා සහ නෙසිබ්,",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "යිප්ටා"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "අෂ්නා"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "නෙසිබ්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:14.255889266Z",
+  "model": "glm-5.3"
+}

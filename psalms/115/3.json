@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 115,
+  "translation": "අපගේ එලෝහීම් ⟨ඉන්නේ⟩ අහස තුළ ⟨ය⟩; ඔහු කැමති සියල්ලම ඔහු ⟨කරන⟩ක් කළේය.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහස තුළ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තම"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ඔහු කැමති"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:28:35.406723415Z",
+  "model": "glm-5.3"
+}

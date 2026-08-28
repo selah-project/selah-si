@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලාබන් ඔහුට කීවේය: ඇත්තෙන්ම ඔබ මාගේ ඇටයද මාගේ මස්ද ⟨is⟩ ය; ඔහු ඔහු සමඟ මාසයක් දින වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාබන්"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ඇත්තෙන්ම"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "මාගේ ඇටය"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "මාගේ මස්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ ය"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "මාසයක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:33.788428125Z",
+  "model": "glm-5.3"
+}

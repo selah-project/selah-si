@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බත්-ෂෙබා කීවාය: යහපති; මම ඔබ වෙනුවෙන් රජු ළඟ කතා කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "בת",
+      "gloss": "බත්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ෂෙබා"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපති"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "කතා කරන්නෙමි"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ වෙනුවෙන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ළඟ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:32:03.429707726Z",
+  "model": "glm-5.3"
+}

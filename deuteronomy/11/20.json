@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඒවා ඔබගේ ගෙයි දොරකණුවලද ඔබගේ දොරටුවලද ලියන්නහු ය.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ලියන්නහු ය"
+    },
+    {
+      "surface": "על",
+      "gloss": "ය"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "දොරකණුවලද"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ඔබගේ ගෙයි"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ඔබගේ දොරටුවලද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:50.246651456Z",
+  "model": "glm-5.3"
+}

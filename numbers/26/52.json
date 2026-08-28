@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "යහ්වේ මොෂේ හට කථා කොට කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:11.337828295Z",
+  "model": "glm-5.3"
+}

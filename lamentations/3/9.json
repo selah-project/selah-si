@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු කොටන ලද ගල් පාරුවලින් මගේ මාර්ග වැස්සේය; මගේ පඩිපෙත් කුඩා කළේය.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "වැස්සේය"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මගේ මාර්ග"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "කොටන ලද ගල් පාරුවලින්"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "මගේ පඩිපෙත්"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "කුඩා කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:43.597157286Z",
+  "model": "glm-5.3"
+}

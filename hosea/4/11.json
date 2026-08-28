@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඵෙත්‍යය, සහ වයින්, සහ නව වයින් ⟨අත⟩ හදවත පැහැර ගනී.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "ඵෙත්‍යය"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "සහ වයින්"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "සහ නව වයින්"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "පැහැර ගනී"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    }
+  ],
+  "timestamp": "2026-08-28T10:09:22.699709477Z",
+  "model": "glm-5.3"
+}

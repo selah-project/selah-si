@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඔහුගේ දිනවල එදොම් යෙහුදාහ්ගේ අත යටින් කැරලි ගසා, ඔවුන් මත රජෙකු ⟨ඔවුන්⟩ රජ කරවූහ.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ඔහුගේ දිනවල"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "කැරලි ගසා"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොම්"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යටින්"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහුදාහ්ගේ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "රජ කරවූහ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන් මත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙකු"
+    }
+  ],
+  "timestamp": "2026-08-28T07:37:02.384353264Z",
+  "model": "glm-5.3"
+}

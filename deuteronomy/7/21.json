@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔවුන්ගේ මුහුණට බිය නොවන්න, මන්ද යහ්වේ ඔබේ එලෝහීම් ඔබ මැද සිටියි — මහත් හා භයානක එල් ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ඔවුන්ගේ මුහුණෙන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ඔබ මැද"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "සහ භයානක"
+    }
+  ],
+  "timestamp": "2026-08-27T21:00:46.566959653Z",
+  "model": "glm-5.3"
+}

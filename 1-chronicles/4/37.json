@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ සීසා, ශිපිගේ පුත්, අලොන්ගේ පුත්, යදයාගේ පුත්, ශිම්රිගේ පුත්, ශමයාගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "සහ සීසා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "ශිපි"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "අලොන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "යදයා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ශිම්රි"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ශමයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:08.722131001Z",
+  "model": "glm-5.3"
+}

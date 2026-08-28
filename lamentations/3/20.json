@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සිහි කරමින්, නැවත සිහි කරමින්, මගේ ජීවිතය මා තුළ බැගෑපත් වේ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "සිහි කරමින්"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "නැවත සිහි කරමින්"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "සහ බැගෑපත් වේ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා තුළ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මගේ ජීවිතය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:47.737292547Z",
+  "model": "glm-5.3"
+}

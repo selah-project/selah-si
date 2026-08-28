@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ජලයෙහි කර හා කොරප්පු නැති ඕනෑම දෙයක් — එය ඔබට ශෙකෙට් ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඒවාට"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "කර"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "හා කොරප්පු"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙහි"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ශෙකෙට්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:54.942811163Z",
+  "model": "glm-5.3"
+}

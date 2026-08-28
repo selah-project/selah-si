@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලාබාන් තම දියණිය වන ලේආට, ඇගේ දාසියක් වශයෙන්, ⟨את⟩ තම දාසි සිල්පාව දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාබාන්"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සිල්පා"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "සිල්පා"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "තම දාසි"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ලේආට"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "තම දියණිය"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "දාසියක් වශයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:03.342063032Z",
+  "model": "glm-5.3"
+}

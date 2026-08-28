@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබ, මනුෂ්‍ය පුත්‍රයා, ගඩොලක් ගෙන එය ඔබ ඉදිරියේ තබා, ඒ මත ⟨the⟩ නගරය — යෙරුෂාලයිම් — ⟨את⟩ කොටා දක්වන්න.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍ය"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ගඩොල"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "තබා"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ගඩොල"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ඔබ ඉදිරියේ"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "කොටා දක්වන්න"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මත"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෙරුෂාලයිම්"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "යෙරුෂාලයිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:25:13.087895826Z",
+  "model": "glm-5.3"
+}

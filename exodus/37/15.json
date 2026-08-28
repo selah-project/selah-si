@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔහු ෂිට්ටීම් ලීයෙන් දඬු ⟨את⟩ කළේය, ඒවා රනින් ⟨את⟩ ආවරණය කළේය, මේසය ⟨את⟩ ඔසවා ගෙන යාමට.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දඬු"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "දඬු"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ලීයෙන්"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ෂිට්ටීම්"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ආවරණය කළේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ඔසවා ගෙන යාමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේසය"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "මේසය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:58.717407177Z",
+  "model": "glm-5.3"
+}

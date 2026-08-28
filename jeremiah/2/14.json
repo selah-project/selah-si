@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඉස්රායෙල් වහලෙක්ද? ගෘහජ වහලෙක්ද ⟨he⟩? මන්ද ⟨is⟩ ඔහු කොල්ලකෑමට ලක් විය?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "වහලෙක්ද"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්රායෙල්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "ගෘහජ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෘහජ (ගෙයි)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ලක් විය"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "කොල්ලකෑමට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:42:04.376467557Z",
+  "model": "glm-5.3"
+}

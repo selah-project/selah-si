@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "නමුත් ඔබහු නැඟීමට අකමැති වූහු, යහ්වේ ඔබගේ එලෝහීම්ගේ වචනයට එරෙහිව කැරැලි ගසාහුය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නො"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "අකමැති වූහු"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "නැඟීමට"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "කැරැලි ගසාහු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචනය"
+    },
+    {
+      "surface": "פי",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:37:09.555356791Z",
+  "model": "glm-5.3"
+}

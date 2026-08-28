@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙය අල්ලා ගැනීම යහපති; මෙයින්ද ⟨את⟩ ඔබේ අත නොහරින්න — මන්ද එලෝහීම් ගැන බිය වන්නා ⟨את⟩ ඒ සියල්ලෙන්ම පිටතට එලියට යන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපති"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යමක්"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "අල්ලා ගැනීම"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "සහ ද"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "මෙයින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "හරින්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ අත"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "බිය වන්නා"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "පිටතට එලියට යන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒ සියල්ල"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ඒ සියල්ලෙන්ම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:42.112608949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "රජුගේ තරුණයෝ ඔහුට කීහ: බල, හමාන් අංගණයේ සිටගෙන ⟨සිටී⟩. එහෙයින් රජ කීවේය: එයා එවත්වා.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "තරුණයෝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "המן",
+      "gloss": "හමාන්"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "සිටගෙන"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "අංගණයේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එවත්වා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:29:02.202435878Z",
+  "model": "glm-5.3"
+}

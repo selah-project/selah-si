@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මගේ අවරකඩ එලෝහීම් ⟨සමඟ⟩ ⟨ය⟩ — සෘජු හදවත් ඇත්තන්ගේ ගැලවුම්කරු ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "මගේ අවරකඩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨සමඟ⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ගැලවුම්කරු"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "සෘජු"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:58:22.530999742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මන්ද යහ්වේ කළ ⟨את⟩ සියලු මහා ක්‍රියාව දුටුවේ ඔබේ ඇස්ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "දුටුවේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු මහා ක්‍රියාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:17.684086267Z",
+  "model": "glm-5.3"
+}

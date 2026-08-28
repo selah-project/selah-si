@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මල්කී-සෙදෙක් රජ — ශාලෙම් රජ — පාන් සහ වයින් ගෙනාවේය; ඔහු එල් එල්යෝන්ගේ පූජකයෙකි.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "සහ මල්කී"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "සෙදෙක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ශාලෙම්"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ගෙනාවේය"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "සහ වයින්"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "පූජකයෙකි"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "එල්යෝන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:10:33.392841800Z",
+  "model": "glm-5.3"
+}

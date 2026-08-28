@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "කෙසේවෙතත් ඔබ ⟨the⟩ ගෙය නොතනන්නේහ; නම් ඔබේ උකුලෙන් නික්මෙන ඔබේ පුත් — ඔහු ම ⟨the⟩ ගෙය මගේ නාමයට තනන්නේය.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "කෙසේවෙතත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "තනන්නේහ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "පලක්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නැත... ම"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ඔබේ පුත්"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "නික්මෙන"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "උකුලෙන්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු ම"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "තනන්නේය"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "මගේ නාමයට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:37:40.804890776Z",
+  "model": "glm-5.3"
+}

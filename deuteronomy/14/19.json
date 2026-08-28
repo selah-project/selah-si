@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සහ සියලු පන්නනා වන සතුන් — ඒවා ඔබට අපවිත්‍රයි; ඒවා නොකනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "පන්නනා සතුන්"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "වන සතුන්"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අපවිත්‍රයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "කනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:08.423556998Z",
+  "model": "glm-5.3"
+}

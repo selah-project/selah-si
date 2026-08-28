@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඒ හොඳ, එහි හිමිකරුගෙන් රැක නොගන්න, ඔබේ අත එල් කෙරෙහි ⟨බලය⟩ තිබෙන විට එය කිරීමට.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "රැක ගන්න"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "එහි හිමිකරුගෙන්"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "විට"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "එල් කෙරෙහි"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:21.114694465Z",
+  "model": "glm-5.3"
+}

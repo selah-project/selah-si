@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තනිව වාඩිවී නිශ්ශබ්ද වේවා, මන්ද ⟨ඒ⟩ ඔහු මත පටවා ඇති බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "වාඩිවී සිටීවා"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "තනිව"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "නිශ්ශබ්ද වේවා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "පටවා ඇත"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු මත"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:00.183513111Z",
+  "model": "glm-5.3"
+}

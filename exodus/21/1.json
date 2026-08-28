@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "මේවා නීතියෝ ය — ඔබ ⟨ඒවා⟩ ඔවුන් ඉදිරියේ තැබිය යුතු ඒවා ය.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "නීතියෝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "තැබිය යුතු"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ඔවුන් ඉදිරියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:53:12.064231296Z",
+  "model": "glm-5.3"
+}

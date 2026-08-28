@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මම — ප්‍රඥාව — නුවණැත්කම සමඟ වාසය කරමි; උපක්‍රම පිළිබඳ දැනුම සොයාගනිමි.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "වාසය කරමි"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "නුවණැත්කම"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "උපක්‍රම"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "සොයාගනිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:01.279660137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "එස්රා පෙළට — මෙෂුල්ලාම්; අමර්යා පෙළට — යෙහෝචානාන්.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "එස්රා පෙළට"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "මෙෂුල්ලාම්"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "අමර්යා පෙළට"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "යෙහෝචානාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:24.946873819Z",
+  "model": "glm-5.3"
+}

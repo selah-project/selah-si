@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "ලෙවීගේ පුත්‍රයෝ — ගෙරෙෂොන්, කෙහාත් සහ මෙරාරි.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවීගේ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ගෙරෙෂොන්"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "කෙහාත්"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "මෙරාරි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:48.027651863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යෙරිකෝ පුත්‍රයෝ — තුන්සිය සතළිසපහක් වූහ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "යෙරිකෝ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "සතළිස"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "සහ පහ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:57.881108410Z",
+  "model": "glm-5.3"
+}

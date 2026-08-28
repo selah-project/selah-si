@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යහ්වේගේ වචනය ඔහු වෙත ⟨විය⟩ මෙසේ කියා:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහු වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T22:44:03.243792931Z",
+  "model": "glm-5.3"
+}

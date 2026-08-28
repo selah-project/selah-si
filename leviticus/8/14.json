@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "පාප යාගයේ ගවයා ⟨את⟩ ළඟ ගෙන ආවේය; අහරොන් සහ ඔහුගේ පුත්‍රයෝ පාප යාගයේ ගවයාගේ හිස මත තම අත් ⟨את⟩ තැබූහ.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ළඟ ගෙන ආවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගවයා"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ගවයා"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප යාගයේ"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "තැබූහ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ඔහුගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම අත්"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "තම අත්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ගවයාගේ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප යාගයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:05.635384318Z",
+  "model": "glm-5.3"
+}

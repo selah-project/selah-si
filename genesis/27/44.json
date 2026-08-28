@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු සමඟ දින කිහිපයක් වාසය කරන්න, ඔබේ සහෝදරයාගේ කෝපය නැවත හැරෙන තුරු.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "වාසය කරන්න"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "කිහිපයක්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය ක්"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "නැවත හැරෙන"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ඔබේ සහෝදරයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:44.411743267Z",
+  "model": "glm-5.3"
+}

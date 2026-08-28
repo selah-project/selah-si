@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 92,
+  "translation": "ගීත රාගයක්, ගීතයක් — ශබ්බාත දිනයට ⟨වූ⟩ ගීතයකි.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ගීත රාගයක්"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "දිනයට"
+    },
+    {
+      "surface": "ඔබේ ශබ්බාතය",
+      "gloss": "ශබ්බාතය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:10:58.658252556Z",
+  "model": "glm-5.3"
+}

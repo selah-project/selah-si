@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ලදාන්ගේ පුත්‍රයෝ — ⟨ප්‍රධානී⟩ යෙහීයෙල්, සහ සෙතාම්, සහ යොආල්; තිදෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ලදාන්ගේ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "යෙහීයෙල්"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "සහ සෙතාම්"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "සහ යොආල්"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තිදෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:30.408165914Z",
+  "model": "glm-5.3"
+}

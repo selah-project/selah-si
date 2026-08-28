@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "දැන් ඔබ කියන්නේ: යා යා, ඔබේ ස්වාමියාට කියන්න: මෙන්න, එලියාහු.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියන්නේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා යා"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ඔබේ ස්වාමියාට"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "මෙන්න"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "එලියාහු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:45:08.961419819Z",
+  "model": "glm-5.3"
+}

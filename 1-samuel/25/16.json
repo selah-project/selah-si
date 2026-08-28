@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "අප ඔවුන් සමඟ රැල් රකිමින් සිටි සියලු දින රාත්‍රියේද දවාලේද ඔවුන් අපට ⟨the⟩ තාප්පයක් වැනි වූහ.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "තාප්පයක්"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "රාත්‍රියේද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "දවාලේද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "සිටි"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ඔවුන් සමඟ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "රැල් රකිමින්"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "රැල"
+    }
+  ],
+  "timestamp": "2026-08-27T22:07:53.224911129Z",
+  "model": "glm-5.3"
+}

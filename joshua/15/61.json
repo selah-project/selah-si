@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "මළුවේ: බෙත්-හා-අරාබා, මිද්දීන් සහ සෙකාකා;",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "මළුවේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "හා-අරාබා"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "මිද්දීන්"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "සහ සෙකාකා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:25.510696492Z",
+  "model": "glm-5.3"
+}

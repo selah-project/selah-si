@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔහු උපමා තුන්දහසක් කථා කළේය; ඔහුගේ ගීත පන්දහසක් විය.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්...ක්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "משל",
+      "gloss": "උපමා"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ඔහුගේ ගීත"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පන්දහසක්"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T22:33:16.968971694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 21:5",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඔහු ⟨the⟩ අහස් සේනාව සියල්ලටම පූජාසන යහ්වේගේ ගෙදෙහි ⟨the⟩ අංගන දෙකෙහි තැනීය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "තැනීය"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "පූජාසන"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලටම"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "දෙකෙහි"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "අංගන"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙදෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:06:47.109327361Z",
+  "model": "glm-5.3"
+}

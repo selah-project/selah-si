@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මොෂේ — එලෝහීම්ගේ මිනිසා — ඔහුගේ පුත්‍රයෝ ලෙවී ගෝත්‍රය අතරට කැඳවන ලදහ.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ඔහුගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "කැඳවන ලදහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "අතරට"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ගෝත්‍රය"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ලෙවී"
+    }
+  ],
+  "timestamp": "2026-08-28T11:04:33.365443559Z",
+  "model": "glm-5.3"
+}

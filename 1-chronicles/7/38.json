@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යෙතෙර්ගේ පුත්‍රයෝ: යෙපුන්නේ, පිස්පා සහ ආරා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "යෙතෙර්ගේ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "යෙපුන්නේ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "පිස්පා"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ආරා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:23.968542550Z",
+  "model": "glm-5.3"
+}

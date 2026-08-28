@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මෙතැන් සිට ඔබ මට නොකීවේ ද — 'මගේ පියාණෙනි, මගේ තරුණ වියේ සඟය, ඔබ ය' කියා?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "නො…ද"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "මෙතැන් සිට"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ඔබ කීවේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මගේ පියාණෙනි"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "සඟය"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "මගේ තරුණ වියේ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:44:44.822799988Z",
+  "model": "glm-5.3"
+}

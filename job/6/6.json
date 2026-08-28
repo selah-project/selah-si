@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "රසකළ නොහැකි දෙයක් ලුණු නැතිව කන්නේද? සුදුමසෙහි රසයක් ⟨ඇත්තේද⟩?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "කන්නේද"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "රසකළ නොහැකි දෙයක්"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "නැතිව"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ලුණු"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇත්තේද⟩"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "රසයක්"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "යුෂ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "සුදුමස"
+    }
+  ],
+  "timestamp": "2026-08-28T10:40:12.438826336Z",
+  "model": "glm-5.3"
+}

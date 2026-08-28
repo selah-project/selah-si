@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "සහ ⟨את⟩ අත්රොත්-ෂොපාන්, සහ ⟨את⟩ යඅසේර්, සහ යොග්බෙහා",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අත්රොත්-ෂොපාන්"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "අත්රොත්"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ෂොපාන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "යඅසේර්"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "යජසේර්"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "යොග්බෙහා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:35:35.484998755Z",
+  "model": "glm-5.3"
+}

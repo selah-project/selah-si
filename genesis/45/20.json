@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "ඔබේ ඇස ඔබේ භාණ්ඩ පිළිබඳ අනුකම්පා නොකරන්න, මන්ද මිස්රයිම් සියලු දේශයේ සැපත ඔබේම ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "ඔබේ ඇස"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "අනුකම්පා කරන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "පිළිබඳ"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "භාණ්ඩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "සැපත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිස්රයිම්"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබේම"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨වේ⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T19:34:52.646301259Z",
+  "model": "glm-5.3"
+}

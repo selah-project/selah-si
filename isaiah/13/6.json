@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "හඬන්න, මන්ද යහ්වේගේ දිනය ආසන්නය; ෂද්දයිගෙන් විනාශයක් සේ පැමිණේ.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "හඬන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ආසන්නය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "විනාශයක් සේ"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "ෂද්දයිගෙන්"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "පැමිණේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:32:12.454660309Z",
+  "model": "glm-5.3"
+}

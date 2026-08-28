@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මන්ද රජුගේ අණ ඔවුන් මත විය, ගායකයන් සඳහා දිනපතා නියමිත දේ දිනයේ දිනටම ⟨ලැබිණ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "අණ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන් මත"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "නියමිත දේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "සඳහා"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "ගායකයන්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනපතා"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "දිනයේ දිනටම"
+    }
+  ],
+  "timestamp": "2026-08-28T06:26:50.710168120Z",
+  "model": "glm-5.3"
+}

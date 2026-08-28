@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "කීවේය අලසයා: සිංහයෙක් ⟨යැයි⟩ පිටත; විසල් පෙදෙස් මැද මරණයට පත් වෙමි.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "අලසයා"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "සිංහයෙක්"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "විසල් පෙදෙස්"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "මරණයට පත් වෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T12:05:35.816780966Z",
+  "model": "glm-5.3"
+}

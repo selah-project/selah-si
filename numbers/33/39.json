@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "අහරෝන් හෝර් කඳුවැටියෙහි මිය යන විට වසර සිය තිස් තුනක් වයසැති විය.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "වයසැති"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තිස් තුනක්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විස්සක්"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "මිය යන විට"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කඳුවැටියෙහි"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කඳුවැටිය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:21.219966641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "බලු, ඔහු පුතෙකු ලද්දේය, සහ ⟨את⟩ ඔහුගේ පියා කළ පාප සියල්ල දුටුවේය, බිය වූයේය, ඒ පරිදි නොකළේය.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලද්දේය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පාප සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පාප"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ඔහුගේ පියා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "බිය වූයේය"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ඒ පරිදි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:33:57.088681492Z",
+  "model": "glm-5.3"
+}

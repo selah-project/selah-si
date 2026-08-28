@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මට විනාශයක් නොවන්න; අමාරු දිනයේදී මාගේ රැකවරණය ඔබ වහන්සේය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "විනාශයක්"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "මාගේ රැකවරණය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ වහන්සේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අමාරු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:55:55.647036555Z",
+  "model": "glm-5.3"
+}

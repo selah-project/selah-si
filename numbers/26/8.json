@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "පල්ලූගේ පුත්‍රයෝ — එලියාබ්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "පල්ලූගේ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "එලියාබ්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:45:49.214946617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 14:9",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "අසා ඔහු ඉදිරියට පිටත් වී, ඔවුහු මාරේෂා ළඟ සෙපතා නිම්නයේදී සටනට පෙළගැසුණාහ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත් වී"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ඔහු ඉදිරියට"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "පෙළගැසුණාහ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටනට"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "නිම්නයේදී"
+    },
+    {
+      "surface": "צפתה",
+      "gloss": "සෙපතා"
+    },
+    {
+      "surface": "למרשה",
+      "gloss": "මාරේෂා ළඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:28:25.662819265Z",
+  "model": "glm-5.3"
+}

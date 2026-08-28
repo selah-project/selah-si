@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබ ෂෙවෙට් ⟨රෝදයෙන්⟩ ගසනු ඇත, ඔහුගේ නෙෆෙෂ් ෂෙයෝල් ලෙස ගළවනු ඇත.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ෂෙවෙට් ⟨රෝදයෙන්⟩"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ගසනු ඇත"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ඔහුගේ නෙෆෙෂ්"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ෂෙයෝල් ලෙස"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ගළවනු ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:45.888391284Z",
+  "model": "glm-5.3"
+}

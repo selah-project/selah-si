@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "එන්න, පුත්කුනේ, මට සවන් දෙන්න; යහ්වේගේ භය මම ඔබට ඉගැන්වාමි.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "එන්න"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්කුනේ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "සවන් දෙන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "භය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "මම ඔබට ඉගැන්වාමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:23.524192968Z",
+  "model": "glm-5.3"
+}

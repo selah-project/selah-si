@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යෙහූදාගේ පුත්‍රයෝ: පේරෙට්ස්, හෙට්ස්රෝන්, කර්මී, හූර් සහ ෂෝවල්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාගේ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "පේරෙට්ස්"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "හෙට්ස්රෝන්"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "සහ කර්මී"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "සහ හූර්"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "සහ ෂෝවල්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:01:32.547170906Z",
+  "model": "glm-5.3"
+}

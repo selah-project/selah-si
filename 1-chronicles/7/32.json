@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "හෙබර් ⟨את⟩ යප්ලෙත්, ⟨את⟩ ෂොමෙර්, ⟨את⟩ හොතාම් සහ ⟨את⟩ ෂුවා — ඔවුන්ගේ සහෝදරිය — ලැබීය.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "හෙබර්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යප්ලෙත්"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "යප්ලෙත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ෂොමෙර්"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ෂොමෙර්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "හොතාම්"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "හොතාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ෂුවා"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "ෂුවා"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ඔවුන්ගේ සහෝදරිය"
+    }
+  ],
+  "timestamp": "2026-08-28T11:01:34.321131923Z",
+  "model": "glm-5.3"
+}

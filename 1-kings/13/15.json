@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඔහු ඔහුට කීය: මා ⟨את⟩ සමඟ ගෙදර යන්න, පාන් කන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ සමඟ මා"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ගෙදර"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:40:42.465318721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ආකාස් කීවේය: මම නොඉල්ලමි, යහ්වේ වූ ⟨את⟩ මම අත්හදා නොබලමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ආකාස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ඉල්ලමි"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "අත්හදා බලමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:10:51.199150292Z",
+  "model": "glm-5.3"
+}

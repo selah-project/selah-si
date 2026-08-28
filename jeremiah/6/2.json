@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "⟨ඇය⟩ ආකර්ෂණීය සහ සිනිඳු — සියෝන් දියණිය — මම විනාශ කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "ආකර්ෂණීය"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "සිනිඳු"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "මම විනාශ කරන්නෙමි"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සියෝන්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:48:01.986933072Z",
+  "model": "glm-5.3"
+}

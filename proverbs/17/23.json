@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "දුෂ්ටයා වක්‍රයෙන් ලාභයක් ගන්නේ අධිකරණයේ මාර්ග ඇල කිරීමටය.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ලාභයක්"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "වක්‍රයෙන්"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයා"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගන්නේ"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ඇල කිරීමට"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "අධිකරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:08:08.395315796Z",
+  "model": "glm-5.3"
+}

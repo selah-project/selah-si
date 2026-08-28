@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ජලයෙහි සිටි සියල්ලෙන් ⟨את⟩ මෙය ඔබ කවයි; වරක් සහ කොරපොතු ඇති සියල්ලක් ඔබ කවයි.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙය"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කවයි"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "සියල්ලෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිටි"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙහි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "වරක්"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "සහ කොරපොතු"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කවයි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:04.785998348Z",
+  "model": "glm-5.3"
+}

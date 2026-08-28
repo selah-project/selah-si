@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 84,
+  "translation": "කෙතරම් ප්‍රියද ඔබේ වාසස්ථාන, යහ්වේ සේනාවන්ගේ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කෙතරම්"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ප්‍රියද"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ඔබේ වාසස්ථාන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:08:12.513595455Z",
+  "model": "glm-5.3"
+}

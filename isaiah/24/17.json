@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "භයද, වලද, උගුලද ඔබ මත — පොළොව වෙසෙන්නා.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "භය"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "වල"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "උගුල"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "වෙසෙන්නා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T23:20:59.803841496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තම කම්මුල් පහර දෙන්නාට දෙන්නේය; නින්දිත බවෙන් ⟨ඔහු⟩ පිරෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "දෙන්නේය"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "තම පහර දෙන්නාට"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "කම්මුල"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "පිරෙන්නේය"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "නින්දිත බවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:20.821292270Z",
+  "model": "glm-5.3"
+}

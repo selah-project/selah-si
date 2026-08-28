@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඒ මත ඔලිව් ගස් දෙකක් — එකක් බාජනයේ දකුණු පසෙහි, අනෙක එහි වම් පසෙහි.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ඔලිව් ගස්"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මත"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "දකුණු පසෙහි"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "බාජනයේ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "අනෙක"
+    },
+    {
+      "surface": "על",
+      "gloss": "පසෙහි"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "වම්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:46:13.886602200Z",
+  "model": "glm-5.3"
+}

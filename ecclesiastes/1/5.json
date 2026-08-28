@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "හිරු නැඟී, හිරු බැස යන්නේය; තම ස්ථානයට හාන කම්මැලි කාරණයෙන් දිවයන එය, එහි නැවත උදා වන්නේය.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "සහ නැඟී"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "සහ බැස යන්නේය"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "තම ස්ථානය"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "හාන කම්මැලි කාරණයෙන් දිවයන"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "නැඟෙන"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:25.307533436Z",
+  "model": "glm-5.3"
+}

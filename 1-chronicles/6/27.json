@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එයිතාන්ගේ පුත්, සිම්මාගේ පුත්, ෂිම්උයිගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "එයිතාන්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "සිම්මාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ෂිම්උයිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:18.440877958Z",
+  "model": "glm-5.3"
+}

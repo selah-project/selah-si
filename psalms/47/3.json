@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "මන්ද යහ්වේ උසස්, භය ජනක; මහා රජෙක් ⟨ය⟩ සියලු ⟨පොළොව⟩ මතුයෙහි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "උසස්"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "භය ජනක"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතුයෙහි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:13.345353953Z",
+  "model": "glm-5.3"
+}

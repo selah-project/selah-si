@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "යහ්වේ මොෂේටද අහරෝන්ටද වදාරමින් මෙසේ කීවේය,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "වදාරමින් කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ටද"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ වදාළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:25.730352239Z",
+  "model": "glm-5.3"
+}

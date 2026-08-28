@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "මාරු ගීතයකි — මම මගේ ඇස් කඳු කරා ඔසවමි; මගේ උදව් කොහෙන් පැමිණේද?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයකි"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "මාරු ගීතයකි (මාරුවලට)"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ඔසවමි"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "මගේ ඇස්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "කොහෙන්"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "පැමිණේද"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "මගේ උදව්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:47.209937082Z",
+  "model": "glm-5.3"
+}

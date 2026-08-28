@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ඔබේ හදවතේ නොපෙනෙන සම ⟨את⟩ කපාලා, සහ ඔබේ ගෙල තවදුරටත් තද නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "සහ කපාලා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නොපෙනෙන සම"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "නොපෙනෙන සම"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ඔබේ හදවතේ"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "සහ ඔබේ ගෙල"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "තද කරන්න"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:04.137346920Z",
+  "model": "glm-5.3"
+}

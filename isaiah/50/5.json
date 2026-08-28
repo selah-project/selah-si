@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "අදෝනයි යහ්වේ මගේ කන විවර කළේය, මම කැරලි නොකළෙමි, පසුබසින්නද නොකළෙමි.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "විවර කළේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මගේ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "කන"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "කැරලි නොකළෙමි"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "පසුබසින්න"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "කළෙමි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:36:34.451154229Z",
+  "model": "glm-5.3"
+}

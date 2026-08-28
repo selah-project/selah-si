@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 65,
+  "translation": "ඔබට, නිශ්ශබ්ද ප්‍රශංසාව ⟨is⟩, එලෝහීම්, සියෝන්හි; ඔබටම පොරොන්දුව ඉටු වේ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "නිශ්ශබ්ද"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ප්‍රශංසාව"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "සියෝන්හි"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ඔබටම"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ඉටු වේ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "පොරොන්දුව"
+    }
+  ],
+  "timestamp": "2026-08-28T02:45:34.690861164Z",
+  "model": "glm-5.3"
+}

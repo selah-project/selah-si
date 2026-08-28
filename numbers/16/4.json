@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මොෂේ ⟨මෙය⟩ අසා, තම මුහුණ මත වැටුණේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "වැටුණේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "තම මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:57.610505941Z",
+  "model": "glm-5.3"
+}

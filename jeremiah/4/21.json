@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "කොපමණ කල් මම ධජය දැක සිටිම්ද, ෂොෆාරයේ හඬ අසම්ද?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "කොපමණ කල්"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "මෙතෙක්"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "දැක සිටිම්ද"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ධජය"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "අසම්ද"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ෂොෆාරයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:45:43.040534534Z",
+  "model": "glm-5.3"
+}

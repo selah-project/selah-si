@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද ඥානය ඔබේ හදවතට පැමිණෙන විට, දැනුම ඔබේ ප්‍රාණයට රසවත් වන්නේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "පැමිණෙන විට"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ඔබේ හදවතට"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "සහ දැනුම"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ඔබේ ප්‍රාණයට"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "රසවත් වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:24.136636821Z",
+  "model": "glm-5.3"
+}

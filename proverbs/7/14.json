@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සමාදාන පූජා මට ⟨මාගේ උදෙසා⟩ ඇත; අද දිනම මම මගේ පොරොන්දු ඉටු කළෙමි.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "සමාදාන පූජා"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "සමාදාන (බෙදාදෙන)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට ඇත"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "ඉටු කළෙමි"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "මගේ පොරොන්දු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:39.729694966Z",
+  "model": "glm-5.3"
+}

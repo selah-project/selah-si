@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "දන්නා, කිර්යත්-සන්නා — එය ⟨යැ⟩ දෙබීර්.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "දන්නා"
+    },
+    {
+      "surface": "וקרית סנה",
+      "gloss": "කිර්යත්-සන්නා"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය ⟨යැ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙබීර්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.967689147Z",
+  "model": "glm-5.3"
+}

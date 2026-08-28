@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "හෂෙම් ගිසෝනියාගේ පුත්‍රයෝ — යොනාතන්, ෂාගෙගේ පුත්‍රයා, හරාරියා —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "හෂෙම්"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ගිසෝනියා"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "යොනාතන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ෂාගෙ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "හරාරියා"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:46.442751163Z",
+  "model": "glm-5.3"
+}

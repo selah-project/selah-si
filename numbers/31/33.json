@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සහ ගවයන් දෙලක්ෂ හැත්තෑවක් දෙදහසකි.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "සහ ගවයන්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "සහ හැත්තෑව"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ලක්ෂයක් (දහස් ගණන)"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:04.989225781Z",
+  "model": "glm-5.3"
+}

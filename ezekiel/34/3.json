@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "⟨את⟩ මේදය ඔබ කති, ⟨את⟩ ලොම් ඔබ ඇඳගනහි, සූපිත සතා ඔබ ඝාතනය කරනහි, රැළ ඔබ නොරකිති.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේදය"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "මේදය"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කති"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ලොම්"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ලොම්"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "ඔබ ඇඳගනහි"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "සූපිත සතා"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ඔබ ඝාතනය කරනහි"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "රැළ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "රකිති"
+    }
+  ],
+  "timestamp": "2026-08-28T00:48:48.897840099Z",
+  "model": "glm-5.3"
+}

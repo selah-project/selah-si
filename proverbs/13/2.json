@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මිනිසාගේ මුඛයේ ඵලයෙන් ⟨he⟩ හොඳ දෙය අනුභව කරයි, නමුත් ද්‍රෝහීන්ගේ ප්‍රාණය ⟨eats⟩ හිංසාවයි.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ඵලයෙන්"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛයේ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "අනුභව කරයි"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ දෙය"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ද්‍රෝහීන්ගේ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "හිංසාව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:06:13.165715484Z",
+  "model": "glm-5.3"
+}

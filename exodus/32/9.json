@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "යහ්වේ මොෂේට කීයේ: මම ⟨את⟩ මෙම ජනයා දුටුවෙමි, සහ බල — එය දෘඪ බෙල්ලැති ජනයෙකි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "දුටුවෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බල"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙකි"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "දෘඪ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "බෙල්ලැති"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:31.354501718Z",
+  "model": "glm-5.3"
+}

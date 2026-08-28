@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අසරෙල්, ෂෙලෙමියාහු, ෂෙමරියාහු —",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "අසරෙල්"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "සහ ෂෙලෙමියාහු"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ෂෙමරියාහු"
+    }
+  ],
+  "timestamp": "2026-08-28T06:07:36.959643463Z",
+  "model": "glm-5.3"
+}

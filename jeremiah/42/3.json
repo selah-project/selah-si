@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "ඔබේ එලෝහීම් වන යහ්වේ ⟨את⟩ ⟨එම⟩ මාර්ගය — අප එහි යන්නේ — අපට දනවන්නේය, සහ ⟨את⟩ ⟨එම⟩ කාරණය — අප කරන්නේ — ⟨ද⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "දනවන්නේය"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එම මාර්ගය"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "අප යමු"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එම කාරණය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "අප කරමු"
+    }
+  ],
+  "timestamp": "2026-08-28T09:56:01.501887607Z",
+  "model": "glm-5.3"
+}

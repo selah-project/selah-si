@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "අසර්යාහු ඔදෙද්ගේ පුත්‍රයා මතට එලෝහීම්ගේ රූආඛ් ⟨පැමිණියේය⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "අසර්යාහු"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ඔදෙද්ගේ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු මතට"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "රූආඛ්"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:10:16.224050350Z",
+  "model": "glm-5.3"
+}

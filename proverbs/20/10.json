@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ගලක් සහ ගලක්, ඒයිපාහක් සහ ඒයිපාහක් — ඒ දෙකම යහ්වේට අරුමය ය.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ගලක්"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "සහ ගලක්"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ඒයිපාහක්"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "සහ ඒයිපාහක්"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "අරුමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ඒ දෙකම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:12:24.730702096Z",
+  "model": "glm-5.3"
+}

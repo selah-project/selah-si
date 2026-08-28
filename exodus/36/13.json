@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ඔහු රන් කොකු පනහක් කළේය, සහ ⟨את⟩ පටි එකක් අනෙකට කොකුවලින් යා කළේය, එසේ මිශ්කානය එකක් විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනහක්"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "කොකු"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "යා කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පටි"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "පටි"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "අනෙකට"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "කොකුවලින්"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මිශ්කානය"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:33.387605285Z",
+  "model": "glm-5.3"
+}

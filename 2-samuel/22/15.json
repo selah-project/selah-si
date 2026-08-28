@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔහු ඊතල යවා ⟨ඔවුන්⟩ විසුරුවීය; අකුණු යවා ⟨ඔවුන්⟩ කලබල කරවීය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ඊතල"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "විසුරුවීය"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "අකුණු"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "කලබල කරවීය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:04.807771713Z",
+  "model": "glm-5.3"
+}

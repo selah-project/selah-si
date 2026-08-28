@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "නමුතු අම්මෝන් පුත්‍රයන්ගේ රජු යිෆ්තාක් ඔහුට කෙරෙහි එවූ ඒ වචන නොඇසුවේය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නමුතු නො"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇසුවේය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "අම්මෝන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "යිෆ්තාක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "එවූ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:44:52.211102828Z",
+  "model": "glm-5.3"
+}

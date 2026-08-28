@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මේ දේ කළේ යෙහෝයාදාගේ පුත් බෙනයාහු ය; වීරයන් තුන්දෙනා අතර ඔහුට නමක් තිබුණි.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මේ දේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේ"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "බෙනයාහු"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "යෙහෝයාදාගේ"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "සහ ඔහුට"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නමක්"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "තුන්දෙනා අතර"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "වීරයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:48:00.015074288Z",
+  "model": "glm-5.3"
+}

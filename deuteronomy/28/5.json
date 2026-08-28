@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ආශීර්වාද ලත් වේ ඔබේ කූඩයද ඔබේ පිටි පිළියෙල කරන බඳුනද.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ආශීර්වාද ලත්"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ඔබේ කූඩය"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ඔබේ පිටි පිළියෙල කරන බඳුන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:20.326548860Z",
+  "model": "glm-5.3"
+}

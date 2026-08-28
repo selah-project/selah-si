@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මොෂේ යහ්වේ හමුවේ කථා කොට මෙසේ කීවේය.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හමුවේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:14.390185237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "තානක්හි ⟨රජු⟩ එකෙකි; මෙගිද්දෝහි ⟨රජු⟩ එකෙකි;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "තානක්හි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකෙකි"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "මෙගිද්දෝහි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:51:17.978732108Z",
+  "model": "glm-5.3"
+}

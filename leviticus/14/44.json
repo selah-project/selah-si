@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "පූජකයා ඇතුළු ව බලන්නේය; බැල — නගය ගෙයෙහි පැතිරී ඇත — ⟨is⟩ එය ගෙයෙහි දැවෙන සරමකි; ⟨is⟩ එය අශුද්ධය.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ඇතුළු ව"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "බලන්නේය"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බැල"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "පැතිරී ඇත"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "නගය"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙයෙහි"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "සරම"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "දැවෙන"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙයෙහි"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:19.101789726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මස් සහ පාන් අතිරික්තය ගින්නෙන් දවාලව්.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "අතිරික්තය"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "සහ පාන්"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ගින්නෙන්"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "දවාලව්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:40.799221131Z",
+  "model": "glm-5.3"
+}

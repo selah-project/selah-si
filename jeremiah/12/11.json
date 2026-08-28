@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 12:11",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "එය විනාශයකට පත් කළහ; විනාශ වූ එය මා ගැන ශෝක කරයි; මුළු රටම විනාශ වී ඇත, මන්ද එය හදවතට ගන්නා කිසි මිනිසෙක් නැත.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "පත් කළහ"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "විනාශයකට"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ශෝක කරයි"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා ගැන"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "විනාශ වූ"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "විනාශ වී ඇත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ගන්නා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:06.956267039Z",
+  "model": "glm-5.3"
+}

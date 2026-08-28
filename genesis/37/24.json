@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔවුහු ඔහුව ගෙන, ලිඳ තුළට ⟨את⟩ ඔහුව විසි කළහ; ඒ ලිඳ හිස් — එහි ජලයක් නැත.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ඔහුව ගෙන"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "විසි කළහ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුව"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ලිඳ තුළට"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ඒ ලිඳ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "හිස්"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:29:42.899892393Z",
+  "model": "glm-5.3"
+}

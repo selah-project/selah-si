@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මක්කෙදාහි රජ — එකක්; බෙයිත්-එල්හි රජ — එකක්;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "මක්කෙදාහි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:29.997707588Z",
+  "model": "glm-5.3"
+}

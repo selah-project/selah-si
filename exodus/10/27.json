@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "යහ්වේ පර්ඕහ්ගේ හදවත ⟨את⟩ ස්ථිර කළේය, සහ ⟨he⟩ ඔවුන් යැවීමට අකමැති විය.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ස්ථිර කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හදවත"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕහ්ගේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "අකමැති විය"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ඔවුන් යැවීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:14:26.121008928Z",
+  "model": "glm-5.3"
+}

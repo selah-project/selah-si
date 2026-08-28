@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සුව වූ හදවත මාංසයේ ජීවිතයයි; නමුත් අස්ථිවල කිඳයම ඊර්ෂ්‍යාවයි.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ජීවිතය"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "මාංසයේ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "සුව කරන"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "නමුත් කිඳයම"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "අස්ථිවල"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ඊර්ෂ්‍යාව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:39.978057992Z",
+  "model": "glm-5.3"
+}

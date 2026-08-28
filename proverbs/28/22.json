@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "සම්පතට කලබල කරන නපුරු ඇසැති මිනිසා, හිඟකම ⟨තමා කරා⟩ එන බව නොදනී.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "කලබල කරන"
+    },
+    {
+      "surface": "להון",
+      "gloss": "සම්පතට"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇසැති"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "හිඟකම"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ඔහු කරා එයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:54.270238443Z",
+  "model": "glm-5.3"
+}

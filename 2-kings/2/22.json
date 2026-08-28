@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එලීෂා කී වචනය අනුව ජලය මේ දින දක්වා සුව විය.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "සුව විය"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "වචනය අනුව"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "එලීෂා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨වන"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කී"
+    }
+  ],
+  "timestamp": "2026-08-28T09:24:10.597384680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "පර්ඔගේ දියණිය ඇයට කීවාය: „යවු.\" එම තරුණිය ගියාය, දරුවාගේ මව කැඳවූවාය ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඔගේ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "යවු"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ගියාය"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "එම තරුණිය"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "කැඳවූවාය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දරුවාගේ මව"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මව"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "දරුවාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:22.769715372Z",
+  "model": "glm-5.3"
+}

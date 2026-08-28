@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "කෝහෙලෙත් කැමති වචන සොයා ගත්තේය, සෘජුව ලියැවුණේ ⟨සත්‍ය වචනයි⟩ — සත්‍යයේ වචන.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "සොයා ගත්තේය"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "කෝහෙලෙත්"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ලියැවුණේ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "සෘජුව"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:26:13.256957301Z",
+  "model": "glm-5.3"
+}

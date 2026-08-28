@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "හත්වන දින පූජකයා ආපසු විත් බලන්නේය; මෙන්න, වසංගතය ගෙයි බැමිවල පැතිරී ඇත්නම් —",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ආපසු විත්"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "හත්වන"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "බලන්නේය"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "මෙන්න"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "පැතිරී ඇත්නම්"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "වසංගතය"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "බැමිවල"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:13.059609217Z",
+  "model": "glm-5.3"
+}

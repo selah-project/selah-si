@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ප්‍රඥාව මම නොඉගෙන සිටියෙමි; පූජිතයන්ගේ ඥානය මම දන්නෙමි නැත.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ඉගෙන සිටියෙමි"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "පූජිතයන්ගේ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "දන්නෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:22:54.741814977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එලිෂාමා, එලියාදා සහ එලිපෙලෙත්ද — නව දෙනායි.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "එලිෂාමා"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "එලියාදා"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "එලිපෙලෙත්"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "නව දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:34:51.190541340Z",
+  "model": "glm-5.3"
+}

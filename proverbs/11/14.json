@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මඟපෙන්වීම නැති තැන ජනයා වැටෙයි, නමුත් ගැලවීම ⟨the⟩ බොහෝ උපදේශකයන් තුළ වේ.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "නැති තැන"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "මඟපෙන්වීම"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටෙයි"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "නමුත් ගැලවීම"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "බොහෝ... තුළ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "උපදේශකයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:34.194351216Z",
+  "model": "glm-5.3"
+}

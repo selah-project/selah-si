@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පදනම් — වටිනා ගල්, මහ ගල්: රියන් දහයේ ගල් සහ රියන් අටේ ගල්.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "පදනම්"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "වටිනා"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "මහ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "සහ ගල්"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "රියන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:33:11.859007703Z",
+  "model": "glm-5.3"
+}

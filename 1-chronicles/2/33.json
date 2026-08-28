@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යොනතන්ගේ පුත්‍රයෝ — පෙලෙත් සහ සාසා. මොහු යෙරක්මෙල්ගේ පුත්‍රයෝ වූහ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "යොනතන්ගේ"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "පෙලෙත්"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "සහ සාසා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "යෙරක්මෙල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:14.370244430Z",
+  "model": "glm-5.3"
+}

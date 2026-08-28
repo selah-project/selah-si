@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 110,
+  "translation": "මාර්ගයේ ඇති දොඹකඳෙන් ඔහු බොන්නේය; එබැවින් හිස ඔසවන්නේය.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "දොඹකඳෙන්"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේ ඇති"
+    },
+    {
+      "surface": "඙שתה",
+      "gloss": "බොන්නේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ඔසවන්නේය"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    }
+  ],
+  "timestamp": "2026-08-28T03:25:42.459054733Z",
+  "model": "glm-5.3"
+}

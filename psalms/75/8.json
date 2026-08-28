@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 75,
+  "translation": "මක්කද එලෝහීම් ⟨ය⟩ විනිශ්චයකරු; ⟨මොහු⟩ මෙල්ල කරයි, ⟨මොහු⟩ ඔසවයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්කද"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "විනිශ්චය කරයි"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "මෙල්ල කරයි"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "මොහු ද"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ඔසවයි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:54:11.093591055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මහලු සහ මුහුණ ඔසවන තැනැත්තා — ⟨ඒ⟩ හිසය; බොරු ඉගැන්වීමේ නබියා — ⟨ඒ⟩ වලිගයය.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "මහලු"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "සහ ඔසවන ලද"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඒ⟩"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "සහ නබියා"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ඉගැන්වීමේ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඒ⟩"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "වලිගය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:15:02.833672526Z",
+  "model": "glm-5.3"
+}

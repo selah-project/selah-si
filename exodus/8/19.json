@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මම මාගේ ජනයා මෙන්ම ඔබේ ජනයා අතර වෙනසක් තැබෙමි; හෙට මෙම සලකුණ වනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "මම තැබෙමි"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "වෙනසක්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මාගේ ජනයා"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "මෙන්ම අතර"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබේ ජනයා"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "හෙට"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "האת",
+      "gloss": "සලකුණ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T19:42:27.461971236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "උස ස්ථානවල මුදුනේ, මාර්ගය මත, පාපැදිවල ගෙවල් අසල ⟨ඇය⟩ සිටගෙන සිටී.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "මුදුනේ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "උස ස්ථානවල"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙවල්"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "පාපැදි"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "සිටගෙන සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:59.868474032Z",
+  "model": "glm-5.3"
+}

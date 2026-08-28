@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "හල්ලොහෙෂ්, පිල්හා, ෂොබෙක්,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "හල්ලොහෙෂ්"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "පිල්හා"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "ෂොබෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:41.450302530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "නොහැක් වසර පන්සියයක් වයසැති වූ කල නොහැක් ⟨את⟩ ෂෙම්ව ⟨את⟩ හාම්ව ⟨את⟩ යෆෙත්වද ලද්දේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූ කල"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොහැක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "වයසැති"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලද්දේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොහැක්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙම්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ෂෙම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හාම්"
+    },
+    {
+      "surface": "חם",
+      "gloss": "හාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "යෆෙත්"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "යෆෙත්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:01.384642138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඉතින් යහ්වේගේ කෝපය ඒ දේශය කෙරෙහි දැල්වුණි — මෙම පොතෙහි ලියා ඇති ⟨את⟩ සියලු ශාපය ඒ මතට ගෙන ඒමට.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "දැල්වුණි"
+    },
+    {
+      "surface": "אף",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශය කෙරෙහි"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ගෙන ඒමට"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මතට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ශාපය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "ශාපය"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "ලියා ඇති"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "පොතෙහි"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:15:47.789411725Z",
+  "model": "glm-5.3"
+}

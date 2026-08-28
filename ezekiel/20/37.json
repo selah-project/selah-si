@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මම බඩු කූරය යටින් ⟨את⟩ ඔබව යවමි, සහ ගිවිසුමේ බැඳුමට ⟨את⟩ נබව ගෙන යමි.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "යවමි"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යටින්"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "බඩු කූරය"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ගෙන යමි"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "බැඳුමට"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ගිවිසුමේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:36:47.460000432Z",
+  "model": "glm-5.3"
+}

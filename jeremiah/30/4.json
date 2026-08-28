@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මෙයිදු ⟨the⟩ වචන මේවාය, යහ්වේ ඊශ්‍රායෙල් වෙතද යෙහූදා වෙතද මෙසේ වදාළේය.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙයිදු මේවාය"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    }
+  ],
+  "timestamp": "2026-08-28T09:51:38.237715132Z",
+  "model": "glm-5.3"
+}

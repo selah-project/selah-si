@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 87,
+  "translation": "ගෞරවනීය දේවල් ⟨ඔබ ගැන⟩ කියැවේ — එලෝහීම්ගේ නගරයෙනි. සෙලා.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ගෞරවනීය දේවල්"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කියැවේ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ ගැන"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:03:35.611650690Z",
+  "model": "glm-5.3"
+}

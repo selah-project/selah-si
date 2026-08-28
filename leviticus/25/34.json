@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "සහ ඔවුන්ගේ නගරවල තණබිම් කෙත් අලෙවි නොකෙරේ; මන්ද එය ඔවුන්ට සදාකාලික හිමිකමකි.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "සහ කෙත"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "තණබිම්"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ඔවුන්ගේ නගරවල"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "අලෙවි වේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "හිමිකමක්"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලික"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨යයි⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:07.624068480Z",
+  "model": "glm-5.3"
+}

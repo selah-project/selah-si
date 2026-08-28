@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "⟨את⟩ ඔබේ විධි මම රකිමි; මා ඉතා දුරට අත් නොහරින්න。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ විධි"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ඔබේ විධි"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "මම රකිමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "අත් හරින්න"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දුරට"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:17.130453684Z",
+  "model": "glm-5.3"
+}

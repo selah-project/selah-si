@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යහ්වේගේ වචනය අසන්න, යාකොව්ගේ ගේද, ඉශ්‍රායෙල්ගේ ගේද සියලු පවුල්ද ⟨මේ> ය.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගේද"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්ගේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "පවුල්ද"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගේද"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රායෙල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:44:45.583861345Z",
+  "model": "glm-5.3"
+}

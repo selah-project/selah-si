@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "පහත් බිමෙහි: එෂ්තාඕල්, සෙරාආ, අෂ්නා.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "පහත් බිමෙහි"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "එෂ්තාඕල්"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "සෙරාආ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "අෂ්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:50:03.265808747Z",
+  "model": "glm-5.3"
+}

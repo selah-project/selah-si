@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මහා ගල් තටු තුනක්, නව දැව තටුවක්; වියදම් රජුගේ ගෙයින් දෙනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "තටු"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "තටුවක්"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "אע",
+      "gloss": "දැව"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "නව"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "වියදම්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙයින්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "දෙනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:02:31.272540952Z",
+  "model": "glm-5.3"
+}

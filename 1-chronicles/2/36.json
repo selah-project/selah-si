@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අත්තායි නතන්ට ජන්මය දුන්නේය, නතන් ⟨את⟩ සාබාද්ට ජන්මය දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "අත්තායි"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ජන්මය දුන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නතන්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නතන්"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "නතන්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ජන්මය දුන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සාබාද්"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "සාබාද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:14.370874874Z",
+  "model": "glm-5.3"
+}

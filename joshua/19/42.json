@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ෂාලබ්බීන්, අය්යාලෝන් සහ යිත්ලා.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ෂාලබ්බීන්"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "අය්යාලෝන්"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "යිත්ලා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:03.654967815Z",
+  "model": "glm-5.3"
+}

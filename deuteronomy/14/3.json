@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "කිසිදු අරුම දෙයක් ඔබ නොකනු.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ඔබ කනු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "අරුම දෙයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:58.373473806Z",
+  "model": "glm-5.3"
+}

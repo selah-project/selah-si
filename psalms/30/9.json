@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ඔබ වෙත, යහ්වේ, මම කෑගසමි; අදෝනයි වෙත මම යාච්ඤා කරමි.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "මම කෑගසමි"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "මම යාච්ඤා කරමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:15:51.942460695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එහෙත්, මම ජීවත් වන ලෙස, යහ්වේගේ තේජස ⟨את⟩ සමස්ත පොළොව පිරවනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "පිරවනු ලැබේ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සමස්ත පොළොව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:38:37.553140981Z",
+  "model": "glm-5.3"
+}

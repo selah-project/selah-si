@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඉයෝබ් උත්තර දී කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ඉයෝබ්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:40:14.666305831Z",
+  "model": "glm-5.3"
+}

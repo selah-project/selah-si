@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "කටු පඳුරු අතර ලිලියක් මෙන්, එසේම දුවුරුන් අතර මගේ ප්‍රියතොමිය වේ.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "ලිලියක් මෙන්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "කටු පඳුරු"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "මගේ ප්‍රියතොමිය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "දුවුරුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:03.395930190Z",
+  "model": "glm-5.3"
+}

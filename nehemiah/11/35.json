@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ලොද්, ඕනො, ශිල්පීන්ගේ නිම්නය.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ලොද්"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ඕනො"
+    },
+    {
+      "surface": "גי",
+      "gloss": "නිම්නය"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ශිල්පීන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:21.551974235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මොකක්ද මම සිදුරු කරන්නේ? එල් සිදුරු කර නැත. මොකක්ද මම කෝප වන්නේ? යහ්වේ කෝප වී නැත.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "මම සිදුරු කරන්නේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "සිදුරු කර නැ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "මම කෝප වන්නේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "කෝප වී නැ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:51.603034662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "සහ අපගේ පියා කීවේය — ආපසු හැරී, අපට ස්වල්ප ආහාරක් මිලදී ගනු.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ කීවේය"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "අපගේ පියා"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ආපසු හැරී"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "මිලදී ගනු"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ස්වල්ප"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ආහාර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:42.867148924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් අත්වළලුවක් එකක්, දහයක් ⟨shekels of gold⟩, සුවඳ දුම් පිරී සිටින්නේය.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "අත්වළලුවක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "පිරී සිටින්නේය"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:33:25.123398363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඉර අන්ධකාරයට පෙරළෙන්නේය, සඳ ලේ වෙන්නේය — යහ්වේගේ ⟨the⟩ මහා සහ භයංකර දිනය ඒමට පෙර.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "පෙරළෙන්නේය"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "අන්ධකාරයට"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "සඳ"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ලේ වෙන්නේය"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ඒමට"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "සහ භයංකර"
+    }
+  ],
+  "timestamp": "2026-08-28T01:17:56.229318919Z",
+  "model": "glm-5.3"
+}

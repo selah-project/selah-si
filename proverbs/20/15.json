@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "රන් ද ඇත, මුතු බොහෝ ද ඇත; නමුත් ඥානයේ තොල් මෙන්ම අමිල භාජනයකි.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "බොහෝ ද"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "මුතු"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "භාජනයක්"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "අමිල"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ඥානයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:19.529115836Z",
+  "model": "glm-5.3"
+}

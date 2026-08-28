@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යිසාෂාඛාර් සඳහා — ට්සූආර්ගේ පුත් නෙතනෙල්.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "යිසාෂාඛාර් සඳහා"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "නෙතනෙල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ට්සූආර්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:36.172850626Z",
+  "model": "glm-5.3"
+}

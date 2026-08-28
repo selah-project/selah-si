@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "උදෑසන තෙක් ඉන් ඉතිරි නොකරති; ඇටයක් එහි නොකඩති; පෙසාහ් විධියේ සියල්ල අනුව ⟨את⟩ එය කරති.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ඉතිරි කරති"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ඉන්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තෙක්"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "සහ ඇටයක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "කඩති"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ල අනුව"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "විධියේ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "පෙසාහ්"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "කරති"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:34:56.629806829Z",
+  "model": "glm-5.3"
+}

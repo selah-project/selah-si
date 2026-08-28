@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "රජු ඔහුට පැවසුවේය: මම කී වතාවක් ඔබව දිගුවර කරවන්නද — යහ්වේගේ නාමයෙන් ඔබ මට කථා කරන්නේ සත්‍යය පමණක් බව?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "පැවසුවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තෙක්"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "කී"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "වතාවක්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "ඔබව දිගුවර කරවමි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ඔබ කථා කරන"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "רק",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යය"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:32:14.669438787Z",
+  "model": "glm-5.3"
+}

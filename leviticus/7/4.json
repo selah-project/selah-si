@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සහ ⟨את⟩ වකුගඩු දෙකද, සහ ⟨את⟩ ඒවා මත ඇති, ලෑල්ල මත ඇති මේදයද, සහ ⟨את⟩ අක්මාව මත ඇති පටලය — වකුගඩු සමඟ එය ඉවත් කරන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "වකුගඩු දෙක"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "වකුගඩු"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මේදය"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "මේදය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ඒවා මත"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ලෑල්ල"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "පටලය"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "පටලය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "අක්මාව"
+    },
+    {
+      "surface": "על",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "වකුගඩු"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ඉවත් කරන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:59.851406187Z",
+  "model": "glm-5.3"
+}

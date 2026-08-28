@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මම දුටුමි — වහල්ලු අශ්වයන් මත ද, අමාත්‍යවරු වහල්ලන් මෙන් පොළොව මත ඇවිදිනුයේ ද.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුමි"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "වහල්ලු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "අශ්වයන්"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "අමාත්‍යවරු"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ඇවිදිනුයේ"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "වහල්ලන් මෙන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:05.507700326Z",
+  "model": "glm-5.3"
+}

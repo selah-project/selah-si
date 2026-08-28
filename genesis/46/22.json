@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "මොහු රාහෙල්ගේ පුත්‍රයෝය, යාකොව්ට උපන්නෝ; සියලු ප්‍රාණ සතරක් සහ දසකින් යුතු වූහ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "රාහෙල්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උපන්නෝ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "උපන්නෝ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "යාකොව්ට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "සතරක්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දසකින්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:20.693575653Z",
+  "model": "glm-5.3"
+}

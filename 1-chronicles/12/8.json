@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සහ යොඑලා, සහ සෙබද්යා — යෙරොහාම්ගේ පුත්‍රයෝ — ගෙදොර් සිට,",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "සහ යොඑලා"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "සහ සෙබද්යා"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "යෙරොහාම්ගේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ගෙදොර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:46:24.825700731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඔවුහු වෙනත් ගල් ගෙන, ⟨the⟩ ගල් වෙනුවට ගෙන එති; වෙනත් බැමි කැටි ගෙන ⟨את⟩ ගෙය බදින්නේය.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ගෙන එති"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "වෙනුවට"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "බැමි කැටි"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගන්නේය"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "බදින්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෙය"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:19.101481964Z",
+  "model": "glm-5.3"
+}

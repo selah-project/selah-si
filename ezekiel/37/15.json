@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "යහ්වේගේ වචනය මා වෙත මෙසේ වූයේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ (කියා)"
+    }
+  ],
+  "timestamp": "2026-08-28T00:52:55.753222224Z",
+  "model": "glm-5.3"
+}

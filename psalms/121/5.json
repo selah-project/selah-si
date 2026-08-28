@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "යහ්වේ ඔබව රක්ෂා කරන්නාය; යහ්වේ ඔබේ සෙවණය, ඔබේ දකුණු අත මත ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ඔබව රක්ෂා කරන්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ඔබේ සෙවණය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ඔබේ දකුණු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:23.906165318Z",
+  "model": "glm-5.3"
+}

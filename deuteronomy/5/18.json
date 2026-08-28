@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ නොකරුණා, ගණිකකම නොකරන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "සහ නොකරුණා"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ගණිකකම නොකරන්නේ නැත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:19.058870041Z",
+  "model": "glm-5.3"
+}

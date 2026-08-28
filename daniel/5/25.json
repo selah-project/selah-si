@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ මෙය ලියන ලද ලියවිල්ය: මෙනේ, මෙනේ, තෙකෙල්, උපර්සින්.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "සහ මෙය"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ලියවිල්"
+    },
+    {
+      "surface": "די",
+      "gloss": "…ලද"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ලියන"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "මෙනේ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "මෙනේ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "තෙකෙල්"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "උපර්සින්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:38:05.231593650Z",
+  "model": "glm-5.3"
+}

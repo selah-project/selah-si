@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "අදෝනයි ⟨את⟩ තම දාසයන් ගෙන් විමසුවේය: ඔබට පියෙක් හෝ සහෝදරයෙක් ඇත්තේ දැයි.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "විමසුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම දාසයන්"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "තම දාසයන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ ගැනීමට"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ඇත්තේ ද"
+    },
+    {
+      "surface": "ග",
+      "gloss": ""
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אב",
+      "gloss": "පියෙක්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "සහෝදරයෙක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:23.668156138Z",
+  "model": "glm-5.3"
+}

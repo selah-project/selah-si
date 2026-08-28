@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඡාරීම්, මෙරෙමොත්, ඔබද්යා —",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ඡාරීම්"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "මෙරෙමොත්"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ඔබද්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:24.086328919Z",
+  "model": "glm-5.3"
+}

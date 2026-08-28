@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "විදා මරන ලද්දෝ ඔබ මැද වැටෙන්නෝය, මම යහ්වේ බව ඔබ දැනගන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "සහ වැටෙන්නෝය"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "විදා මරන ලද්දෝ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ඔබ මැද"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "සහ ඔබ දැනගන්නෙහි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:23:58.373102420Z",
+  "model": "glm-5.3"
+}

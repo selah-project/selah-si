@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සිහි කරව මගේ දුක් සහ මගේ අවිවේකය — කටුක ලාඹිලිය සහ කිඤ්චනය.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "සිහි කරව"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "මගේ දුක්"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "සහ මගේ අවිවේකය"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "කටුක ලාඹිලිය"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "සහ කිඤ්චනය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:47.737164296Z",
+  "model": "glm-5.3"
+}

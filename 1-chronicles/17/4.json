@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යා, මගේ සේවකයා වන දාවීද්ට කියන්න — මෙසේ යහ්වේ කියයි: වාසය කිරීමට මට ගෙයක් ඔබ තැනුවේ නැත.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "මගේ සේවකයා"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "තැනුවේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙයක්"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "වාසය කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:23.246903546Z",
+  "model": "glm-5.3"
+}

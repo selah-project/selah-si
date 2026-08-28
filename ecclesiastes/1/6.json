@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "දකුණ වෙත ගොස්, උතුර වෙත සැරිසරමින්, කැරකෙමින් කැරකෙමින් සුළඟ යන්නේය; තම කැරකැවිලි මත සුළඟ නැවත හැරෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "යන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "දකුණ"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "සහ සැරිසරමින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුර"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "කැරකෙමින්"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "කැරකෙමින්"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "යන"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මත"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "තම කැරකැවිලි"
+    },
+    {
+      "surface": "שב",
+      "gloss": "නැවත හැරෙන්නේය"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "සුළඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:25.307819486Z",
+  "model": "glm-5.3"
+}

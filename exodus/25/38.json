@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "එහි පිහියන්ද එහි පතින්ද පිරිසිදු රන්වලින් විය යුතුය.",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "එහි පිහියන්"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "එහි පතින්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පිරිසිදු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:11.967192071Z",
+  "model": "glm-5.3"
+}

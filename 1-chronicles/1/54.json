@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අලුප් මග්දියෙල්, අලුප් ඉරාම්. මොහු එදොම්හි අලුප්වරු වූහ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "අලුප්"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "මග්දියෙල්"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "අලුප්"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ඉරාම්"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "අලුප්වරු"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:04.364492136Z",
+  "model": "glm-5.3"
+}

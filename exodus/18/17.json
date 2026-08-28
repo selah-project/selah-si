@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මොෂේගේ මස්සිනා ඔහුට කීවේය: ඔබ කරන ⟨ඒ⟩ කාරණය යහපත් නොවේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ-කීවේය"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "මස්සිනා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේගේ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ඒ⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:15.242967873Z",
+  "model": "glm-5.3"
+}

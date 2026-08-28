@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ගාද්ගේ පුත්‍රයෝ ඔවුන්ට ඉදිරියෙහි බාෂාන් දේශයෙහි, සල්කා දක්වා වාසය කළහ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්ගේ"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ඔවුන්ට ඉදිරියෙහි"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "වාසය කළහ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහි"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "බාෂාන්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "සල්කා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:47.919261049Z",
+  "model": "glm-5.3"
+}

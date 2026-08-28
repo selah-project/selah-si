@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔබ මට වඩා ධාර්මිකය — මක්නිසාද ඔබ මට යහපත පියවූහ, මම ඔබට අයහපත පියවීමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හට"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධාර්මිකය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මට වඩා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "මට පියවූහ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "ඔබට පියවීමි"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "අයහපත"
+    }
+  ],
+  "timestamp": "2026-08-27T22:05:24.734398499Z",
+  "model": "glm-5.3"
+}

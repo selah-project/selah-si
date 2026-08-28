@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ෂල්ලූම්, අමරියා, යෝසෙප්.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ෂල්ලූම්"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "අමරියා"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:07:36.959832253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ජනයා හීය වෙනුවට කච්චු රැස් කරන්නට මිච්රයිම් රට පුරා විසිර ගියහ.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "විසිර ගියහ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "පුරා"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිච්රයිම්"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "රැස් කරන්නට"
+    },
+    {
+      "surface": "קש",
+      "gloss": "කච්චු"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "හීය වෙනුවට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:41.542805534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබේ ඇස් දක්නා දර්ශනය නිසා ඔබ උමතු වන්නෙහිය.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "සහ වන්නෙහිය"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "උමතු"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "දක්නා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:52.163977200Z",
+  "model": "glm-5.3"
+}

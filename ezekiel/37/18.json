@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔබේ ජනයාගේ පුත්‍රයෝ ඔබ වෙත කථා කර කියන විට — 'මේවා ඔබට ⟨යනුවේ⟩ මොනවාදැයි අපට නොකියව ද?'",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "විට"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "කියත්ද"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබේ ජනයාගේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "නො...ද"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "කියව"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:52:29.098722127Z",
+  "model": "glm-5.3"
+}

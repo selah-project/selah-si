@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඔහු ⟨את⟩ එක බෙත්-එල්හි තැබූ අතර, ⟨את⟩ අනෙක දාන්හි තැබීය.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "තැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එක"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "බෙත්-එල්හි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අනෙක"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "අනෙක"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "තැබූ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "දාන්හි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:41:17.451977388Z",
+  "model": "glm-5.3"
+}

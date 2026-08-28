@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 46:23",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "පේළියක් ඒවායේ වටේ — ඒ සතර වටේ — තිබුණේය; උතුරු ස්ථාන පේළි යට වටේ කරන ලද්දේ ය.",
+  "tokens": [
+    {
+      "surface": "וטור",
+      "gloss": "පේළියක්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ඒවායේ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ඒ සතර"
+    },
+    {
+      "surface": "ומבשלות",
+      "gloss": "උතුරු ස්ථාන"
+    },
+    {
+      "surface": "עשוי",
+      "gloss": "කරන ලද"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "הטירות",
+      "gloss": "පේළි"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:09:38.038111188Z",
+  "model": "glm-5.3"
+}

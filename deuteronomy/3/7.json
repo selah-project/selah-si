@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සියලු ‌ගව ‌මණ්ඩලය ද ‌නගරවල ‌කොල්ලකෑ ‌වස්තුව ද අපට ‌සුරැකී ‌ගත්තෙමු.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ගව මණ්ඩලය"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "හා කොල්ලකෑ වස්තුව"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "නගරවල"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "සුරැකී ගත්තෙමු"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:58.687652992Z",
+  "model": "glm-5.3"
+}

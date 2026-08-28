@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බස්නොකරන්න — බස් කරති — මෙයාට නොබසිති; ලැජ්ජාව ආපසු නොහැරේ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "බස්"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "බස් කරති"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "බසිති"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "මෙයාට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "ලැජ්ජාව"
+    }
+  ],
+  "timestamp": "2026-08-28T10:14:48.522012717Z",
+  "model": "glm-5.3"
+}

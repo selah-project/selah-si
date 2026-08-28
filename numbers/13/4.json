@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මෙය ඔවුන්ගේ නම්: රූබෙන් ගෝත්‍රයෙන් — ශමූආ, සක්කූර්ගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ඔවුන්ගේ නම්"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයෙන්"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "රූබෙන්"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ශමූආ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "සක්කූර්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:05.197892830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "පෙලට්යා, ඛනන්, අනායා,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "පෙලට්යා"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ඛනන්"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "අනායා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:11.910621946Z",
+  "model": "glm-5.3"
+}

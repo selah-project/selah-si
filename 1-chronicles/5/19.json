@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔව්හු හග්‍රිවරුන් සමඟද — යිතූර්, නාපීෂ් සහ නෝදාබ් සමඟද — යුද්ධ කළහ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ඔව්හු කළහ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "යුද්ධ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "හග්‍රිවරුන්"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "යිතූර්"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "නාපීෂ්"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "නෝදාබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:24.203161161Z",
+  "model": "glm-5.3"
+}

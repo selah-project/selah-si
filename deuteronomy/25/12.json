@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "එවිට ඇගේ ⟨අත⟩ කපා දමන්න — ඔබේ ඇස ⟨ඇයට⟩ අනුකම්පා නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "කපා දමන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඇගේ අත"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ඇගේ අත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "අනුකම්පා කරන්න"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ඔබේ ඇස"
+    }
+  ],
+  "timestamp": "2026-08-28T08:44:09.118598578Z",
+  "model": "glm-5.3"
+}

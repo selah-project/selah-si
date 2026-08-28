@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "හක්කයින්, ගිබ්උා සහ තිම්නා — නගර දහය සහ ඒවායේ ගම්මාන.",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "හක්කයින්"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ගිබ්උා"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "සහ තිම්නා"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "සහ ඒවායේ ගම්මාන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:40.707996396Z",
+  "model": "glm-5.3"
+}

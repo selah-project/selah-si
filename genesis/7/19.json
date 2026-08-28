@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ජලය පොළොව මත ඉතා ඉතා බලසම්පන්න විය; සියලු අහස යට ඇති උස කඳු සියල්ල වැසී ගියේය.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "බලසම්පන්න විය"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "වැසී ගියේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "උස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:09.853654329Z",
+  "model": "glm-5.3"
+}

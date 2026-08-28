@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දෙවන කොටස බැඳ සිටියේ හරීම්ගේ පුත් මල්කියා සහ පහත්-මෝආබ්ගේ පුත් හෂූබ් — ⟨את⟩ උඳුන් කුළුණද ය.",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "කොටස"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "බැඳ සිටියේ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "මල්කියා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "හරීම්"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "සහ හෂූබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "පහත්-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "උඳුන් කුළුණ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "කුළුණ"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "උඳුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:14:04.343759065Z",
+  "model": "glm-5.3"
+}

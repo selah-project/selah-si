@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "යහ්වේ කීවේය: සදොම් හා අමොරාගේ කෑගැසීම මහත් වී ⟨is⟩ ඇත, ඔවුන්ගේ පාපය අතිශය බර වී ඇත.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "කෑගැසීම"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "සදොම්"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "අමොරාගේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ඔවුන්ගේ පාපය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "බර"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "අතිශය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:12:54.949484354Z",
+  "model": "glm-5.3"
+}

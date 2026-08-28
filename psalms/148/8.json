@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 148,
+  "translation": "ගින්න සහ හිම; හිම සහ මීදුම; කුණාටු සුළඟ — ඔහුගේ වචනය කරන්නෝ ය.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ගින්න"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "සහ හිම පබලූ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "හිම"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "සහ මීදුම"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "කුණාටුව"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්නෝ ය"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ඔහුගේ වචනය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:51:19.672376554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "මම කීවෙමි: ආහා, අදෝනයි යහ්වේ! ඔව්හු මා ගැන කියති: උදාහරණ කියන්නෙකු නොවේ ද ⟨ඔහු⟩?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ආහා"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔව්හු"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මා ගැන"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නොවේ ද"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "උදාහරණ කියන්නෙකු"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "උදාහරණ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඔහු⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T00:33:28.603851192Z",
+  "model": "glm-5.3"
+}

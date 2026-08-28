@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මෙසේ යහ්වේ මට කීවේය: යා, ඔයාට පිළියන් තිරයක් මිලට ගෙන, එය ඔයාගේ ඉණට තබාගන්න; එහෙත් එය ජලයට ගෙන නොයවන්න.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "මිලට ගෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔයාට"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "තිරයක්"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "පිළියන්"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "තබාගන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ඔයාගේ ඉණ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ජලයට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "ගෙන යවන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:28.620626245Z",
+  "model": "glm-5.3"
+}

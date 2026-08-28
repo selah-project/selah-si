@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ගිබ්ඔන් පුත්‍රයෝ අනූ පහයි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ගිබ්ඔන්"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පහයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:53.148865502Z",
+  "model": "glm-5.3"
+}

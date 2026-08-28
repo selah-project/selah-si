@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "වධායියා, වබ්රායියා සහ ෂිම්රාත් — ෂිම්යිගේ පුත්‍රයෝ ය.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "සහ වධායියා"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "සහ වබ්රායියා"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "සහ ෂිම්රාත්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ෂිම්යිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:31.898695863Z",
+  "model": "glm-5.3"
+}

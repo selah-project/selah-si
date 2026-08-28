@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මගේ පියා හා මගේ මව මා අත්හළ නමුත්, යහ්වේ මා රැස්කර ගනී.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "නමුත්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මගේ පියා"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "මගේ මව"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "මා අත්හළ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "මා රැස්කර ගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:34.532708664Z",
+  "model": "glm-5.3"
+}

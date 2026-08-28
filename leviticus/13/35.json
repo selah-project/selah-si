@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "නමුත් ඔහු පවින් ගත් පසු කැස්ස සම පුළුල් වන්නේ නම් —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත් නම්"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "පුළුල් වන්නේ"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "පුළුල් වී"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "කැස්ස"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "සම"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ඔහු පවින් ගත්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:13:49.030676170Z",
+  "model": "glm-5.3"
+}

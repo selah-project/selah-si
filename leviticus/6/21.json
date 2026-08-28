@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මෙය තුළ පිසෙන මැටි බඳුනක් කැඩිය යුතුය; තඹ බඳුනක පිසුණේ නම්, එය හැඳිගා ජලයෙන් සේදිය යුතුය.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "බඳුනක්"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "පිසෙන"
+    },
+    {
+      "surface": "בו",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "කැඩිය යුතුය"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "බඳුනක"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "පිසුණේ"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "හැඳිගා"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "සේදූ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:15.839686537Z",
+  "model": "glm-5.3"
+}

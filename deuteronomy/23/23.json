@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "පොරොන්දු නොවීමට වළක්වා ගතහොත්, ඔබ තුළ පාපයක් නොවන්නේය.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "වළක්වා ගතහොත්"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "නොවීමට"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "පොරොන්දු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ තුළ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "පාපයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:40.775631264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "මෙසේ කීවේය යහ්වේ, යිස්රායෙල්ගේ එලෝහීම්, ඔබ ගැන, බාරුක්:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්ගේ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ ගැන"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "බාරුක්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:14:01.265012279Z",
+  "model": "glm-5.3"
+}

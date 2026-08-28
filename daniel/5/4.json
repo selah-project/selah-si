@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔව්හු වයින් පානය කර, රන්, රිදී, තඹ, යකඩ, ලී සහ ගල් දෙවිවරුන්ට ස්තුති පුදා ගත්හ.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "පානය කර"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ස්තුති පුදා ගත්හ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "දෙවිවරුන්ට"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ලී"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ගල්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:42:17.144822882Z",
+  "model": "glm-5.3"
+}

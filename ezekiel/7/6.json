@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අන්තය ආවේය; අන්තය ආවේය — එය ඔබට එරෙහිව අවදි විය; බල්, එය එමින් සිටී.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "අන්තය"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ආවේය"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ආවේය"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "අන්තය"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "අවදි විය"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට එරෙහිව"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල්"
+    },
+    {
+      "surface": "באה",
+      "gloss": "එය එමින් සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T00:23:58.544335874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "සාදෝක් ඔහුගේ පුත්, අහීමාඅස් ඔහුගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "සාදෝක්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "අහීමාඅස්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:05.057996030Z",
+  "model": "glm-5.3"
+}

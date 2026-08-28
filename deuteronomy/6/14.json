@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "වෙනත් දෙවිවරුන් පසුපස නොයන්න — ඔබ වටා සිටින ජනයාගේ දෙවිවරුන් පසුපස.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "තלכון",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසුපස"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරුන්"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "දෙවිවරුන්ගෙන්"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ජනයාගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ඔබ වටා සිටින"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:56.013449177Z",
+  "model": "glm-5.3"
+}

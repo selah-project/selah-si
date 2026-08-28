@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "උඩඟුහු මට වළවල් කැපූහ — ඔබගේ තෝරාවට අනුව නොවන ඒවැයි.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "කැපූහ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "උඩඟුහු"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "වළවල්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒවැයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවන"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ඔබගේ තෝරාවට අනුව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:35:20.570121897Z",
+  "model": "glm-5.3"
+}

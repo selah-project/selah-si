@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එලෝහීම් ඒ රාත්‍රියේ එසේ කළේය; ලොම් පටලය මත පමණක් වියළි බව වූ අතර, මුළු පොළොව මත පතනය විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "රාත්‍රියේ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "වියළි බව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ලොම් පටලය"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "טל",
+      "gloss": "පතනය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:39:33.500437101Z",
+  "model": "glm-5.3"
+}

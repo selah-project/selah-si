@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "එකොළොස්වන වසරේ, මාසයේ පළමුවන ⟨දින⟩, යහ්වේගේ වචනය මා වෙත විය, මෙසේ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "එකොළොස්වන"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසරේ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "පළමුවන දින"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:39:37.730244240Z",
+  "model": "glm-5.3"
+}

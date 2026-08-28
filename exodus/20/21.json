@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ජනයා දුරසින් සිටියේය; මොෂේ එහි ⟨එලෝහීම්⟩ සිටි ⟨the⟩ ඝන අන්ධකාරය වෙත ලං විය.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "සිටියේය"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "දුරසින්"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ලං විය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ඝන අන්ධකාරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එතැන"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:31.886940710Z",
+  "model": "glm-5.3"
+}

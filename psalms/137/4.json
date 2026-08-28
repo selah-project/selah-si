@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 137,
+  "translation": "කෙසේද අපි ගීතයක් — යහ්වේගේ ගීතය — ⟨את⟩ ගායනා කරන්නේ, පරදේශීය පොළොව මත?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "අපි ගායනා කරන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේගේ ගීතය"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "පරදේශීය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:41.565812421Z",
+  "model": "glm-5.3"
+}

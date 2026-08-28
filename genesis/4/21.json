@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහුගේ සහෝදරයාගේ නම යූවාල් — ඔහු ⟨යි⟩ කින්නෝරයද උගාබයද වයන සියල්ලන්ගේ පියා විය.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "සහ නම"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ඔහුගේ සහෝදරයාගේ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "යූවාල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්ගේ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "වයන"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "කින්නෝරය"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "සහ උගාබය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:07.255978853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 48:9",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "ඔබ යහ්වේ වෙත ඔසවන තැන පූජාව — දිග විසිපහ දහසක්, පළල දහසයකි.",
+  "tokens": [
+    {
+      "surface": "התרומה",
+      "gloss": "පූජාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ඔසවන"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්ස"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "සහ පළල"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහස්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:05:02.654523443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "දූලිය පොළොවට ආපසු හැරේ, එය ⟨එසේ⟩ තිබූ පරිදි; රූආඛ් එලෝහීම් වෙත ආපසු හැරේ, එය දුන් ඔහු වෙතට ය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "දූලිය"
+    },
+    {
+      "surface": "על",
+      "gloss": "පොළොවට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "එසේ තිබූ පරිදි"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "රූආඛ්"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දුන්"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "දුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:15:07.926421619Z",
+  "model": "glm-5.3"
+}

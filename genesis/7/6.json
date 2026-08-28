@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නොආඛ් අවුරුදු හාරසියයක පුත්‍රයෙකි; ජල ගැල්ම ⟨පොළොව⟩ මත ⟨ම⟩ ⟨වූයේය⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "නොආඛ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයෙකි"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හයක"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ජල ගැල්ම"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T08:04:00.886158411Z",
+  "model": "glm-5.3"
+}

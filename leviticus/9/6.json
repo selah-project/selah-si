@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මොෂේ කතා කොට කීවේය: මේ ⟨මේ⟩ වචනයයි, යහ්වේ අණ කළ දේ — කරව්; එවිට යහ්වේගේ තේජස ඔබට පෙනී යාවි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කොට කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනයයි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරව්"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "පෙනී යාවි"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:02.721017976Z",
+  "model": "glm-5.3"
+}

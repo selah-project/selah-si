@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "එවිට යහ්වේගේ වචනය මා වෙත ආවේය, කියන්නේ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:45:19.051499860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔහු කීවේය, මම අව්රාහම්ගේ සේවකයා වෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "සේවකයා"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්ගේ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    }
+  ],
+  "timestamp": "2026-08-27T19:16:50.844617574Z",
+  "model": "glm-5.3"
+}

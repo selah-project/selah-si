@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "තවද ඔබ ඉස්‍රායෙල්හි නායකයන් ගැන විලාපයක් එසවීම්.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "තවද ඔබ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "එසවීම්"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "විලාපයක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "නායකයන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්‍රායෙල්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:33:19.187482417Z",
+  "model": "glm-5.3"
+}

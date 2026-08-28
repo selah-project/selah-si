@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සහ වාහල ඇති පුරුෂයා යම් මෙරයක් මත යන්නේ ද, එය අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සෑම"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "මෙරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "යන්නේ ද"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එය මත"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "වාහල ඇති පුරුෂයා"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධ වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:17:21.048025887Z",
+  "model": "glm-5.3"
+}

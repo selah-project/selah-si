@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඒ නිසාම මමද රෝගී කරමි — ඔබට පහර දෙමින්; ඔබේ පාප නිසා ඔබව වනසමි.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ඒ නිසාම...ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "රෝගී කරමි"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ඔබට පහර දෙමින්"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "වනසමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ඔබේ පාප"
+    }
+  ],
+  "timestamp": "2026-08-28T01:34:55.504724355Z",
+  "model": "glm-5.3"
+}

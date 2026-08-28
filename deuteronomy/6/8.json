@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඒවා සලකුණක් ලෙස ඔබේ අත මත බැඳිය යුතුය, ඒවා ඔබේ ඇස් අතර තොටාපොටැස් විය යුතුය.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "බැඳිය යුතුය"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "සලකුණක් ලෙස"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "විය යුතුය"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "තොටාපොටැස්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ඔබේ ඇස්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:39:28.030731022Z",
+  "model": "glm-5.3"
+}

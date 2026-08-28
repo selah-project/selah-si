@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "කෙසේද, නොඉතිරිව අත්හැරුණේය ප්‍රශංසනීය නගරය, මගේ ප්‍රීතියේ නගරය!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "අත්හැරුණේය"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ප්‍රශංසනීය"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "මගේ ප්‍රීතියේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:17:34.670300720Z",
+  "model": "glm-5.3"
+}

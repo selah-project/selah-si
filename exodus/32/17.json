@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "යෙහෝෂුආ ⟨את⟩ ජනතාවගේ හඬ ඔවුන් නගන ඝෝෂාවේදී ඇසූ අතර, මොෂේට කීවේය: කඳවුරේ සටන් හඬකි!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනතාවගේ හඬ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාවගේ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "නගන ඝෝෂාවේදී"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬක්"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටන්"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "කඳවුරේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:00:11.373413984Z",
+  "model": "glm-5.3"
+}

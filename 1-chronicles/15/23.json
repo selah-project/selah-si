@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සහ බෙරෙඛ්යා සහ එල්කනා ⟨වූයේ⟩ ආරණයට දොර රකින්නෝ ය.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "සහ බෙරෙඛ්යා"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "සහ එල්කනා"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "දොර රකින්නෝ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ආරණයට"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:24.143389650Z",
+  "model": "glm-5.3"
+}

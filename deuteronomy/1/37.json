@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබ නිසා යහ්වේ මටද කෝපයෙන් සිටියේය, කථා කරමින්: ඔබද එහි නොපැමිණෙන්නෙහිය යනුවෙන්.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මටද"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "කෝපයෙන් සිටියේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ඔබ නිසා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කථා කරමින්"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "පැමිණෙන්නෙහිය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:09.559119030Z",
+  "model": "glm-5.3"
+}

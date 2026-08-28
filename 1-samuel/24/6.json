@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඉන් පසු දාවීද්ගේ හදවත ඔහුට එරෙහිව ගැසූවේය, ෂාවුල්ට තිබූ කොන ⟨את⟩ කපා දැමූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ඉන්"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ගැසූවේය"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ඔහුට එරෙහිව ⟨את⟩",
+      "marks": "දාවීද්"
+    },
+    {
+      "surface": "על",
+      "gloss": "බැවිනි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "කපා දැමූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කොන"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "කොන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ෂාවුල්ට තිබූ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:07:24.454370703Z",
+  "model": "glm-5.3"
+}

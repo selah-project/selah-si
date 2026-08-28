@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යහ්වේ මොෂේට කීයේය: පර්ඔහ්ගේ හදවත බර වී ඇත, ඔහු ජනයා යැවීමට ප්‍රතික්ෂේප කරයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බර වී ඇත"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඔහ්ගේ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ප්‍රතික්ෂේප කරයි"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "යැවීමට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:40:56.698074073Z",
+  "model": "glm-5.3"
+}

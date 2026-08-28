@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මොෂේ ⟨the⟩ ලේ ගෙන ජනතාව මත ඉසූ සේක; ඔහු, \"බලවා — යහ්වේ මේ සියලු වචනයන් පිළිබඳ ඔබ හා කළ සන්ධානයේ ⟨the⟩ ලේ මෙයයි\" යැයි වදාළ සේක.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත් සේක"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලේ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ඉසූ සේක"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළ සේක"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලවා"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "සන්ධානයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ඔබ හා"
+    },
+    {
+      "surface": "על",
+      "gloss": "පිළිබඳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:53:11.716164645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මේ මහා සත්ත්වයෝ — ඒවා ⟨සතරයි⟩ — සතර රජුහු; ඔවුහු පොළොවෙන් නැගී සිටින්නෝය.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "සත්ත්වයෝ"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සතරයි"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "රජුහු"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "නැගී සිටින්නෝය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "පොළොවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:46:00.145140754Z",
+  "model": "glm-5.3"
+}

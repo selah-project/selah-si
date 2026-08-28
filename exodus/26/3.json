@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "තිර පහක් ⟨shall be⟩ එකට සම්බන්ධ, එකක් තම සහෝදරිය කෙරෙහි; තිර පහක් සම්බන්ධ, එකක් තම සහෝදරිය කෙරෙහි.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "තිර"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "⟨වේ⟩"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "සම්බන්ධ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "තම සහෝදරිය"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "තිර"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "සම්බන්ධ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "තම සහෝදරිය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:37.551598057Z",
+  "model": "glm-5.3"
+}

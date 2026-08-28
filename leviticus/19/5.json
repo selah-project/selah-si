@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "සහ ඔබ යහ්වේට සමාදාන-පූජාවක් ⟨දෙවියන්ට⟩ මැරූ කල, ඔබ කැමති සේ එය මරන්න.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "සහ ඔබ…කල"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "මැරූ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "මරණයක්"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "සමාදාන-පූජාවක්"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ඔබ කැමති සේ"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "එය මරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:19:12.475275115Z",
+  "model": "glm-5.3"
+}

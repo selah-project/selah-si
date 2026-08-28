@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඉතිරි වූ දෙය පූජාවේ මස්හි — තුන්වන දිනයේදී — ගින්නෙන් දැවෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ඉතිරි වූ දෙය"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "මස්හි"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "පූජාවේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "තුන්වන"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ගින්නෙන්"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "දැවෙන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:36.412978438Z",
+  "model": "glm-5.3"
+}

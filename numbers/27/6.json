@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "යහ්වේ මොෂේට කතා කොට කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:10.109923800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "ඔහු ⟨את⟩ ඔවුන් රැකවලට තුන් දිනක් එකතු කළේය.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "එකතු කළේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "රැකවලට"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "රැකවල"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:31:50.983620192Z",
+  "model": "glm-5.3"
+}

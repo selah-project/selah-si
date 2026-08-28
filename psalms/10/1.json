@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඇයි, යහ්වේ, ඔබ ඈත සිටගන්නේ? අනතුරු කාලවලදී ⟨ඔබ⟩ සඟවන්නේ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "සිටගන්නේ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "තදින් ඈත"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "සඟවන්නේ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "කාලවලදී"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "අනතුරේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T02:07:51.634441342Z",
+  "model": "glm-5.3"
+}

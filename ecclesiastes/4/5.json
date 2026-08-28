@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මෝඩයා ⟨את⟩ තම දෙඅත් වැළඳගෙන, ⟨את⟩ තම මස්ම අනුභව කරයි.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "මෝඩයා"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "වැළඳගෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම දෙඅත්"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "තම දෙඅත්"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "අනුභව කරයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම මස"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "තම මස"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:45.945525460Z",
+  "model": "glm-5.3"
+}

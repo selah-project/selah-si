@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඥානවන්තයාගේ ඉගැන්වීම ජීවන දිය මූලයකි — මරණයේ උගුලෙන් ඉවත හැරීමට.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ඉගැන්වීම"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ඥානවන්තයාගේ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "දිය මූලයකි"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ඉවත හැරීමට"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "උගුලෙන්"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:05:12.636626993Z",
+  "model": "glm-5.3"
+}

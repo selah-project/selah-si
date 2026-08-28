@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එම කාලයේදී මම ⟨את⟩ ඔබට ⟨את⟩ සියලු කරුණු — ඔබ කළ යුතු සියල්ල — අණ කළෙමි.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "අණ කළෙමි"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබට"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු කරුණු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "කරුණු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ඔබ කළ යුතු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:40.735243980Z",
+  "model": "glm-5.3"
+}

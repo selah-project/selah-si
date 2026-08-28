@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "අහරෝන් මෝෂේ වෙත, මුණිසුරු කූඩාරමේ දොරටුව වෙත නැවත පැමිණියේය; මරකුස නවතා ලදී.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "නැවත පැමිණියේය"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මෝෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරමේ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "මුණිසුරු"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "මරකුස"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "නවතා ලදී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:39:11.468076676Z",
+  "model": "glm-5.3"
+}

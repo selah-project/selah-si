@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 132,
+  "translation": "මම මගේ ගෙයි කූඩාරමට ඇතුළු වීමට නම්, මගේ ඇඳේ ඇතිරිල්ලට නැඟීමට නම් —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ඇතුළු වීමට"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "කූඩාරමට"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "මගේ ගෙයි"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "නැඟීමට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ඇඳේ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ඇතිරිල්ලට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:39:31.153680694Z",
+  "model": "glm-5.3"
+}

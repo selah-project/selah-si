@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යොසෙප්ගේ ගෝත්‍රයට — මෙනාෂේ ගෝත්‍රයට — සූසිගේ පුත් ගද්දි.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්ගේ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ගද්දි"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "සූසි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:36:00.045893929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මන්ද ⟨ඇත⟩ අනාගතයක්, ඔබේ බලාපොරොත්තුවද කපා නොදමනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "כי אם",
+      "gloss": "මන්ද සැබවින්ම"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇත⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "අනාගතයක්"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ඔබේ බලාපොරොත්තුවද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "කපා දමනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:05:40.123494916Z",
+  "model": "glm-5.3"
+}

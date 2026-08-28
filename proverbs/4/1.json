@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "පුතුනි, පියෙකුගේ මූසාරය අසව්; බුද්ධිය දැන ගැනීමට කන් යොමව්.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුනි"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "මූසාරය"
+    },
+    {
+      "surface": "אב",
+      "gloss": "පියෙකුගේ"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "කන් යොමව්"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "දැන ගැනීමට"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "බුද්ධිය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:20.032860459Z",
+  "model": "glm-5.3"
+}

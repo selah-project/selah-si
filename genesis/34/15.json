@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ඔබ අප සේ වී ඔබගේ සියලු පිරිමිහු මුස්ලිවත් කරගන්නේ නම් පමණක් අපි මෙයින් ඔබට එකඟ වෙමු.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "මෙයින්"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "එකඟ වෙමු"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "වී"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "අප සේ"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "මුස්ලිවත් කරගන්නේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබගේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "පිරිමිහු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:28.450958733Z",
+  "model": "glm-5.3"
+}

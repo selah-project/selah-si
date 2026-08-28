@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යහ්වේ මොෂේට කථා කරමින් කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කරමින් කීයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:46.491364152Z",
+  "model": "glm-5.3"
+}

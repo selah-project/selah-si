@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මුදල් තැබූවන් මත: නෙහෙමියා ⟨the⟩ තිර්ෂාතා, ඛඛලියාගේ පුත්, සහ සිදකියා.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "මුදල් තැබූවන්"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "නෙහෙමියා"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "⟨the⟩ තිර්ෂාතා"
+    },
+    {
+      "surface": "ඟ",
+      "gloss": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ඛඛලියාගේ"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "සහ සිදකියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:07.897652346Z",
+  "model": "glm-5.3"
+}

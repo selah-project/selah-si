@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හේතුවක් නැතිව මිනිසෙකු සමඟ ආරවුල් නොකරන්න, ඔහු ඔබට නපුරක් නොකළේ නම්.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ආරවුල් නොකරන්න"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසෙකු"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "හේතුවක් නැතිව"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ඔබට කළ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නපුරක්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:42.521877581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ෂෙම්ගේ පුත්‍රයෝ: එලම්, අෂ්ෂූර්, අර්පක්ෂද්, ලූද්, අරාම්, උස්, හූල්, ගෙතර්, මෙෂෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ෂෙම්ගේ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "එලම්"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "අෂ්ෂූර්"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ලූද්"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "අරාම්"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "උස්"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "හූල්"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ගෙතර්"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "මෙෂෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:33.775701602Z",
+  "model": "glm-5.3"
+}

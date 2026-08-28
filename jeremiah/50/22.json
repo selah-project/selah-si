@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "යුද්ධයේ හඬ ⟨the⟩ දේශයෙහි, සහ මහා විනාශයක්.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "යුද්ධයේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨the⟩ දේශයෙහි"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "සහ විනාශයක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:17:32.274352969Z",
+  "model": "glm-5.3"
+}

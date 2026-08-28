@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "ඔබේ පාදය ඇද වැටීමට ඉඩ නොදෙයි; ඔබ රකින්නා නිදිමත නොවී සිටී.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි (ඉඩ)"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ඇද වැටීමට"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ඔබේ පාදය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "නිදිමත වී සිටී"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ඔබ රකින්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:47.210267910Z",
+  "model": "glm-5.3"
+}

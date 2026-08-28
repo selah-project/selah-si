@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "දේවමාලිගාවටද අභයධානියටද දොරටු දෙකක් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "දොරටු"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "දේවමාලිගාවටද"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "අභයධානියටද"
+    }
+  ],
+  "timestamp": "2026-08-28T00:55:18.551931320Z",
+  "model": "glm-5.3"
+}

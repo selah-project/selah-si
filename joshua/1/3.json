@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබේ පාදයලියේ අඩය පත් කරන සෑම ස්ථානයක්ම — එය මම ඔබට දී ඇත, මොෂේට මම කතා කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයක්ම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "... පත් කරන"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "පත් කරන"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අඩය"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ඔබේ පාදයලියේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "මම එය දී ඇත"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "මම කතා කළ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:22:49.531301133Z",
+  "model": "glm-5.3"
+}

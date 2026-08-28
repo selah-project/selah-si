@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "බල්ල, ඒ රාත්‍රිය ශුෂ්ක වේවා; සතුටු ඝෝෂාවක් එහි නොපැමිණේවා.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල්ල"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "රාත්‍රිය"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ශුෂ්ක"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "පැමිණේවා"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "සතුටු ඝෝෂාවක්"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:24:42.045355793Z",
+  "model": "glm-5.3"
+}

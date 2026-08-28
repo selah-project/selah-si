@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ගෙර්ෂොන්ගේ පුත්‍රයන්ගේ නාමයන් ⟨මෙයෝ⟩: ලිබ්නී සහ ෂිම්උී.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "සහ ⟨මෙයෝ⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "නාමයන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ගෙර්ෂොන්ගේ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ලිබ්නී"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "සහ ෂිම්උී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:27.613130744Z",
+  "model": "glm-5.3"
+}

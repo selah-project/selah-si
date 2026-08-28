@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කෙනාන් ⟨את⟩ සීදොන් තම ප්‍රථමජාතකයාද ⟨את⟩ හෙත්ද බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "කෙනාන්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සීදොන්"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "සීදොන්"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "තම ප්‍රථමජාතකයාද"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "හෙත්"
+    },
+    {
+      "surface": "חת",
+      "gloss": "හෙත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:58.604364308Z",
+  "model": "glm-5.3"
+}

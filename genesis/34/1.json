@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ලෙයා යාකොව්ට පුත් ඇති කළ — ඇගේ දියණිය වන දීනා, ⟨the⟩ දේශයේ දූවරුන් දැකීමට නික්ම ගියාය.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "නික්ම ගියාය"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "දීනා"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලෙයාගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "පුත් ඇති කළ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "යාකොව්ට"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "දැකීමට"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "දූවරුන්"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:57.801102862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "හිරුට කතා කරන්නා, එය නොනැඟී — තරුවලට මුද්‍රාව තබන්නා —",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "කතා කරන්නා"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "හිරුට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "—"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "තරුවලට"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "මුද්‍රාව තබන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:31:20.701382591Z",
+  "model": "glm-5.3"
+}

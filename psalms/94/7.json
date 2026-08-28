@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "ඔවුහු කියති: „යා නොදකී; යාකොව්ගේ එලෝහීම් නොවටහන ගනී\" යි.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ඔවුහු කියති"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "දකී"
+    },
+    {
+      "surface": "יה",
+      "gloss": "යා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "වටහන ගනී"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:10:24.594818317Z",
+  "model": "glm-5.3"
+}

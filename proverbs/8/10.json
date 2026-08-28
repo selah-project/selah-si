@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මගේ අවවාදය ගනිවු, රිදී නොවේ; තෝරාගත් රන් වෙනුවට දැනුම ⟨ගනිවු⟩.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ගනිවු"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "මගේ අවවාදය"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "තෝරාගත්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:01.279276877Z",
+  "model": "glm-5.3"
+}

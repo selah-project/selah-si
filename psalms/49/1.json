@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "කළමනාකරුට; කොරෛම්ගේ පුත්‍රයන්ට; මිස්මෝර් ⟨ගීතයකි⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කළමනාකරුට"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරෛම්ගේ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:54.899215220Z",
+  "model": "glm-5.3"
+}

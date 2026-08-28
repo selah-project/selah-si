@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ හූනා, කිඹුලු ඉබියා, ලෙටයා, වැලි ඉබියා සහ සමාන්තරයා.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "සහ හූනා"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "කිඹුලු ඉබියා"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ලෙටයා"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "වැලි ඉබියා"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "සමාන්තරයා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:16.988736017Z",
+  "model": "glm-5.3"
+}

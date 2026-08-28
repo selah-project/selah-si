@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යිර්මෙයාහු ඔවුන්ට කීවේය: ට්සිද්කියාහුට මෙසේ කියන්න:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ ඔහු කීවේය"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ට්සිද්කියාහු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:58:00.458777496Z",
+  "model": "glm-5.3"
+}

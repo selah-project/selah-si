@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "අර්නොන් අමුල මායිමේ ඇති අරොඑර් සිට, සියොන් කන්ද — එය හෙර්මොන්ය — දක්වා.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "අරොඑර් සිට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "මායිමේ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "අමුල"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "අර්නොන්"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "සියොන්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "හෙර්මොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:55.308077376Z",
+  "model": "glm-5.3"
+}

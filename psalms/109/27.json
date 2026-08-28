@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 109,
+  "translation": "ඔවුන් දැනගනිත්වා — මෙය ඔබේ අත බව; ඔබ, යහ්වේ, ⟨එය⟩ කළහුය.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ඔවුන් දැනගනිත්වා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "කළහුය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:00.937644541Z",
+  "model": "glm-5.3"
+}

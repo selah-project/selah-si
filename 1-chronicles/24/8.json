@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "තුන්වනුව හාරීම් සඳහා, හතරවනුව ෂෙඋොරීම් සඳහා ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "හාරීම් සඳහා"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "තුන්වනුව"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ෂෙඋොරීම් සඳහා"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "හතරවනුව"
+    }
+  ],
+  "timestamp": "2026-08-28T07:02:42.437878795Z",
+  "model": "glm-5.3"
+}

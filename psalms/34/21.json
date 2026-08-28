@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ඔහු ඔහුගේ ඇට සියල්ල රකියි; ඉන් එකක්වත් කැඩුණේ නැත.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "රකියි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ඔහුගේ ඇට"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ඉන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "කැඩුණේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:00.519782237Z",
+  "model": "glm-5.3"
+}

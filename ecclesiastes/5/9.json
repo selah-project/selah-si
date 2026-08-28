@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "රිදී ප්‍රේම කරන්නා රිදියෙන් පිරෙන්නේ නැත, සම්පත් ප්‍රේම කරන්නාට නිෂ්පාදනය නැත; මෙයද හෙබලයි.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ප්‍රේම කරන්නා"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "පිරෙන්නේ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදියෙන්"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ප්‍රේම කරන්නා"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "සම්පත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "නිෂ්පාදනය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙබලයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:08.822402457Z",
+  "model": "glm-5.3"
+}

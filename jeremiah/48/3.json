@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "හොරොනායිම් සිට කෑගසන ⟨the⟩ හඬක් — විනාශය සහ මහත් බිඳවැටීම.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬක්"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "කෑගසන"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "හොරොනායිම් සිට"
+    },
+    {
+      "surface": "שד",
+      "gloss": "විනාශය"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "සහ බිඳවැටීම"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:54:14.350877267Z",
+  "model": "glm-5.3"
+}

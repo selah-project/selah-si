@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 139,
+  "translation": "ඒ දැනුම මට පුදුම සහගතයි; එය ඉහළට ඔසවා ඇත — මට එයට පිළිවිසිය නොහැක.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "පුදුම සහගතයි"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මට ඉක්මවා"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ඉහළට ඔසවා ඇත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොහැක"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "මට හැක"
+    },
+    {
+      "surface": "לה",
+      "gloss": "එයට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:45:03.752416673Z",
+  "model": "glm-5.3"
+}

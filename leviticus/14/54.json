@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මෙය සියලු කුෂ්ඨ ආසාදන හා කැලැල් පිළිබඳ තිබ්බා (නීතිය) වේ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "තිබ්බා (නීතිය)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ආසාදන"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "කුෂ්ඨ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "හා කැලැල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:42.601395148Z",
+  "model": "glm-5.3"
+}

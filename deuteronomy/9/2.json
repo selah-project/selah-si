@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මහත් හා උස් ජනයෙක්, අනාකීගේ පුත්‍රයෝ — ඔබ දන්නා, ඔබ අසා ඇති: අනාක් පුත්‍රයන් ඉදිරියෙහි සිටගන්නේ කවරෙක් ද යනුවෙන්.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "හා උස්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "අනාකීගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "දන්නා"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "හා ඔබ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "අසා ඇති"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක් ද"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "සිටගන්නේ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "අනාක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:14.558957922Z",
+  "model": "glm-5.3"
+}

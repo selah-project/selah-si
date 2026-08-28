@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "තණකොළ හෙළි වී, පැළවන තණ පෙනී, කඳුවල තෘණද එකතු කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "හෙළි වී"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "තණකොළ"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "පෙනී"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "පැළවන තණ"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "එකතු කරනු ලැබේ"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "තෘණ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳුවල"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:06.612353739Z",
+  "model": "glm-5.3"
+}

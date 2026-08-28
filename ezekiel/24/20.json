@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මම ඔවුන්ට කතා කොට, 'යහ්වේගේ වචනය මා වෙත පැමිණියේ මෙසේ කියමින්:'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "මම කතා කොට"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "පැමිණියේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:11.878240859Z",
+  "model": "glm-5.3"
+}

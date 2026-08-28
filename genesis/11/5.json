@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යහ්වේ බැස ගියේය, ⟨את⟩ නගරයද ⟨את⟩ කුළුනද බැලීමට — මිනිස් පුත්‍රයන් විසින් තැනූ ඒවා.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "බැස ගියේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "බැලීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නගරය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "කුළුන"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "කුළුන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "තැනූ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:15.000241453Z",
+  "model": "glm-5.3"
+}

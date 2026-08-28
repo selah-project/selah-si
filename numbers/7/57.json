@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එක් ගවයෙක් — ගව වංශයේ — එක් කුලුඳුම්බුවෙක්, එක් පොලෙක්, අවුරුද්දක පුත්, දහන-පූජාවට;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ගවයෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත් (වංශයේ)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ගව"
+    },
+    {
+      "surface": "איל",
+      "gloss": "කුලුඳුම්බුවෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "පොලෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "අවුරුද්දක"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "දහන-පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:51.070813060Z",
+  "model": "glm-5.3"
+}

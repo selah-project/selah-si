@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "හදද් මියගිය පසු, මස්රෙකාවෙන් ⟨ඔහු⟩ වූ සම්ලා ඔහුට බාලකොට රාජ්‍ය කළේය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මියගිය පසු"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "හදද්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍ය කළේය"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහුට බාලකොට"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "සම්ලා"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "මස්රෙකාවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:11.757737925Z",
+  "model": "glm-5.3"
+}

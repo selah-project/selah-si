@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "එවිට යහ්වේ මට කීවේය: \"තවත් ඔබට මෝඩ එඬේරෙකුගේ උපකරණය ගන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "එවිට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවත්"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "උපකරණය"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "එඬේරෙකුගේ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "මෝඩ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:52:36.954482883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "අශුද්ධ දෙය හා ශුද්ධ දෙය අතර භේද කොට, කන හැකි සතා හා නොකන සතා අතර භේද කිරීම පිණිස.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "භේද කිරීම පිණිස"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "අශුද්ධ දෙය"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා ... අතර"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ශුද්ධ දෙය"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා ... අතර"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "සතා"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "කන හැකි"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා ... අතර"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "සතා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "කන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:38.066241798Z",
+  "model": "glm-5.3"
+}

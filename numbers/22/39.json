@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "බිල්ආම් බාලාක් සමඟ ගියේය, ඔවුහු කිර්යාත්-චුට්සොත් වෙත පැමිණියහ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිල්ආම්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "බාලාක්"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "පැමිණියහ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "කිර්යාත්"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "චුට්සොත්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:45:55.846889983Z",
+  "model": "glm-5.3"
+}

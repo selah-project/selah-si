@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "කාලෙබ්ගේ ඵලගැබ මාආඛා ⟨את⟩ ෂෙබෙර් සහ ⟨את⟩ තිර්හනා බැගෑපත් ලද්දීය.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ඵලගැබ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "කාලෙබ්ගේ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "මාආඛා"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "බැගෑපත් ලද්දීය"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ෂෙබෙර්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "තිර්හනා"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "තිර්හනා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:08.187912286Z",
+  "model": "glm-5.3"
+}

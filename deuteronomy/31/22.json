@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එදින මොෂේ ⟨את⟩ මෙම ගීතය ලිව්වේ ය, එය ඊශ්‍රායෙල්හි පුත්‍රයන්ට ⟨את⟩ උගන්වන ලදී.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ලිව්වේ ය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම ගීතය"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ගීතය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "උගන්වන ලදී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඊශ්‍රායෙල්හි පුත්‍රයන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:44:27.387102550Z",
+  "model": "glm-5.3"
+}

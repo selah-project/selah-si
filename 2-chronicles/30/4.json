@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "එම වචනය රජුගේ ඇස් හමුවේද, සමස්ත රැස්වීමේද ඇස් හමුවේද යහපත් වූයේය.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "යහපත් වූයේය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් හමුවේද"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ඇස් හමුවේද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "රැස්වීමේද"
+    }
+  ],
+  "timestamp": "2026-08-28T11:08:06.877112576Z",
+  "model": "glm-5.3"
+}

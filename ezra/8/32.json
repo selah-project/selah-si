@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අපි යෙරුෂාලයිමට පැමිණ, එහි දින තුනක් ⟨ද⟩ නැවතුණෙමු.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "යෙරුෂාලයිමට"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "නැවතුණෙමු"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:09:35.732403817Z",
+  "model": "glm-5.3"
+}

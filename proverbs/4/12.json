@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබ යන විට ඔබේ පියවර සිහින් නොවේ; ඔබ දිව්වොත් ඔබ ඇද වැටෙන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "ඔබ යන විට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "සිහින් වේ"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ඔබේ පියවර"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ඔබ දිව්වොත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ඇද වැටෙන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:15.701981878Z",
+  "model": "glm-5.3"
+}

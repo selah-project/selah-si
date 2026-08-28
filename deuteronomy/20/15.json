@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මෙසේ තෝ කරන්නේ ⟨the⟩ නගර සියල්ලට — තාගෙන් ඉතා ඈත ඇති, ⟨මෙම⟩ ජාතීන්ගේ නගරවලට අයත් නොවන — ඒවාටය.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "තෝ කරන්නේ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලට"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "ඉතා ඈත ඇති"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "තාගෙන්"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවන"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "නගරවලට අයත්"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්ගේ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ඒවාට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:45:47.546809159Z",
+  "model": "glm-5.3"
+}

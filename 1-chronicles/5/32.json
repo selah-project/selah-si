@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "උස්සි ⟨את⟩ සෙරහ්යා බිහිකළේය; සෙරහ්යා ⟨את⟩ මෙරායොත් බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "උස්සි"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සෙරහ්යා"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "සෙරහ්යා"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "සෙරහ්යා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙරායොත්"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "මෙරායොත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:43.852775854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "දින දහයක් අවසානයේදී, යහ්වේගේ වචනය යිර්මෙයාහු වෙත ⟨පැමිණියේය⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "අවසානයේදී"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    }
+  ],
+  "timestamp": "2026-08-28T00:13:01.908288500Z",
+  "model": "glm-5.3"
+}

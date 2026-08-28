@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එලීෂාමා, බෙඋල්යාදා, එලීෆාලෙට්.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "එලීෂාමා"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "බෙඋල්යාදා"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "එලීෆාලෙට්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:49:05.114331235Z",
+  "model": "glm-5.3"
+}

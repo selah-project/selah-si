@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔහු දකුණු ⟨රජුගේ⟩ රාජ්‍යයට පැමිණ, තමාගේ දේශයට ආපසු යන්නේය.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "පැමිණෙන්නේය"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "රාජ්‍යයට"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ආපසු යන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "තමාගේ දේශයට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:53:11.288793769Z",
+  "model": "glm-5.3"
+}

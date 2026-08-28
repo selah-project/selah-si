@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "පර්ඕ යොසෙප්ට මෙසේ කීවේය: බලව, මම ඔබව ⟨את⟩ මිට්ස්රායිම් රට මුළු බිම මත පත් කෙළෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මම පත් කෙළෙමි"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට බිම"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිට්ස්රායිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:31:11.907867343Z",
+  "model": "glm-5.3"
+}

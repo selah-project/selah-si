@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මරණය සහ ජීවිතය දිවෙහි අතෙහි ⟨අවුත්⟩; එය ප්‍රේම කරන්නෝ එහි ඵලය කන්නෝ ය.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "මරණය"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "සහ ජීවිතය"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතෙහි"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "සහ එය ප්‍රේම කරන්නෝ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කන්නෝ ය"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "එහි ඵලය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:11:19.718634480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ඕස්නීට — ඕස්නීවරුන්ගේ පෙළපත, එරීට — එරීවරුන්ගේ පෙළපත.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ඕස්නීට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පෙළපත"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ඕස්නීවරුන්ගේ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "එරීට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පෙළපත"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "එරීවරුන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:46:44.844596534Z",
+  "model": "glm-5.3"
+}

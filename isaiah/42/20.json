@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "බොහෝ දේ දුටු ⟨ඔයා>, නමුත් රකින්නේ නැත; කන් පියන ලදි, නමුත් අසන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "දුටු"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "බොහෝ දේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නැත"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "රකින්නේ"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "පියන ලදි"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "කන්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නැත"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "අසන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:39:19.059046567Z",
+  "model": "glm-5.3"
+}

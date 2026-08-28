@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "එවිට යිර්මෙයාහු කීවේය: යහ්වේගේ වචනය මට විය, කියන්නේ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:07:35.852125542Z",
+  "model": "glm-5.3"
+}

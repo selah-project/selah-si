@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 105,
+  "translation": "ඔහුගේ වචනය පැමිණෙන කාලය දක්වා, යහ්වේගේ කීම ඔහුව පිරිපහදු කළේය.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණෙන"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ඔහුගේ වචනය"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "කීම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "පිරිපහදු කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:29:00.087977931Z",
+  "model": "glm-5.3"
+}

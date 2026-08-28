@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සෙරුග්, නාඛෝර්, තෙරක්.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "සෙරුග්"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "නාඛෝර්"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "තෙරක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:07.600361387Z",
+  "model": "glm-5.3"
+}

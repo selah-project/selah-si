@@ -1,0 +1,24 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බින්යාමින්, මල්ලූක්, ෂෙමර්යා.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "බින්යාමින්"
+    },
+    {
+      "surface": "මල්ලූක්"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ෂෙමර්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:05:49.488880657Z",
+  "model": "glm-5.3"
+}

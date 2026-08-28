@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔහු අනාථයාට සහ වැන්දඹුවට ຍລິත කරයි, සංචාරකයාට ප්‍රේම කරයි — ඔහුට ආහාර සහ ඇඳුම් දීමට.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "කරයි"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ඍජු තීන්දුව"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "අනාථයාට"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "සහ වැන්දඹුවට"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "සහ ප්‍රේම කරයි"
+    },
+    {
+      "surface": "גר",
+      "gloss": "සංචාරකයාට"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "දීමට"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ආහාර"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "සහ ඇඳුම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:58.284145159Z",
+  "model": "glm-5.3"
+}

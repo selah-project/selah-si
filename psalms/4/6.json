@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ධාර්මිකත්වයේ යාග නැවැත්වූ, යහ්වේ වෙත විශ්වාසය තබන්න.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "යාග කපන්න"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "යාග"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධාර්මිකත්වයේ"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "සහ විශ්වාසය තබන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:59:07.694613437Z",
+  "model": "glm-5.3"
+}

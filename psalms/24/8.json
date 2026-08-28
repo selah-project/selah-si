@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මේ තේජසේ රජු කවරෙක්ද? යහ්වේ — බලසම්පන්න හා වීරයා, යහ්වේ — සටනේ වීරයා.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "තේජසේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "බලසම්පන්න"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "හා වීරයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "වීරයා"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටනේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:38.978289305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "රජු ⟨තම්⟩ ඔහුගේ සත්කාර වටයේ සිටියදී, මගේ නාමද එහි සුවඳ දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "යනතුරු"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "ඔහුගේ සත්කාර වටයේ"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "මගේ නාමද"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "එහි සුවඳ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:59:54.591087816Z",
+  "model": "glm-5.3"
+}

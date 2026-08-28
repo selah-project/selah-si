@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔහු ⟨את⟩ දහන පූජාවේ සම ගලවා, එය ⟨את⟩ කැබලි කැබලිවලට කපා යුතුය.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "සම ගලවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දහන පූජාව"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "දහන පූජාව"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "කපා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "කැබලි කැබලිවලට"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "කැබලි කැබලිවලට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:56.374945122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 33:22",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "සහ ⟨it shall be⟩ මගේ තේජස පසුකර යන විට, මම ඔබව ⟨את⟩ ගල ගැටයේ තබන්නෙමි, මගේ අත්පත ඔබ මත වැස්සන්නෙමි, මම පසුකර යන තුරු.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සහ ⟨it shall be⟩"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "පසුකර යන විට"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "මගේ තේජස"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "මම ඔබව තබන්නෙමි"
+    },
+    {
+      "surface": "בנקרת",
+      "gloss": "ගැටයේ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ගල"
+    },
+    {
+      "surface": "ושכתי",
+      "gloss": "වැස්සන්නෙමි"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "මගේ අත්පත"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "මම පසුකර යන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:17.151134548Z",
+  "model": "glm-5.3"
+}

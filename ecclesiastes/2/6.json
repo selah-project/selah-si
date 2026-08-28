@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම මට ජල තටාක කළෙමි, ඒවායෙන් වෘක්ෂ පිබිදෙන වනලෑම සරිලීමට.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "මම කළෙමි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "තටාක"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "සරිලීමට"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ඒවායෙන්"
+    },
+    {
+      "surface": "יער",
+      "gloss": "වනලෑම"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "පිබිදෙන"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "වෘක්ෂ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:51.789377910Z",
+  "model": "glm-5.3"
+}

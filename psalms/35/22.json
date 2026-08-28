@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඔබ දුටුවේය, යහ්වේ; නිහඬ නොවන්න; අදෝනයි, මගෙන් දුර නොවන්න.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ඔබ දුටුවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "නිහඬ වන්න"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "දුර වන්න"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:22:54.826838249Z",
+  "model": "glm-5.3"
+}

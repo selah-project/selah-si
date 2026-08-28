@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "මිනිසා තම කාර්යයටත් තම ශ්‍රමයටත් සවස් වන තුරු පිටතට යයි.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "පිටතට යයි"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "තම කාර්යයට"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "සහ තම ශ්‍රමයට"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "…තුරු"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සවස් වන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:15:30.446983329Z",
+  "model": "glm-5.3"
+}

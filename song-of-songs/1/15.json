@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බල්ලො, නුඹ රූමතිය, මගේ ප්‍රිය කැමතියෙක්; බල්ලො, නුඹ රූමතිය; නුඹේ ඇස් පරෙවියන් ⟨වැනි⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "බල්ලො"
+    },
+    {
+      "surface": "යාෆා",
+      "gloss": "රූමතිය",
+      "note": "skip"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "මගේ ප්‍රිය කැමතිය"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "බල්ලො"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "රූමතිය"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "නුඹේ ඇස්"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "පරෙවියන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:00:06.256190606Z",
+  "model": "glm-5.3"
+}

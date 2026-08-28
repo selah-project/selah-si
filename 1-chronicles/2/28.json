@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "විය ඕනාම්ගේ පුත්‍රයෝ ෂම්මායි සහ යාදා; ෂම්මායිගේ පුත්‍රයෝ නාදාබ් සහ අබීෂූර්.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ඕනාම්ගේ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ෂම්මායි"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "සහ යාදා"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ෂම්මායිගේ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "නාදාබ්"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "සහ අබීෂූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:23.149658588Z",
+  "model": "glm-5.3"
+}

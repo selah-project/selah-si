@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔබ වෙත කළ දේද, ඔබ ⟨את⟩ මෙම ස්ථානය වෙත ඒම දක්වා අතරතුර පිටියේදී —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ඔබ වෙත කළ දේද"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "පිටියේදී"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ඔබ ඒම"
+    },
+    {
+      "surface": "עד",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "මෙම ස්ථානය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:17.683681432Z",
+  "model": "glm-5.3"
+}

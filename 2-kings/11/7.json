@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඉතිරි දෙක — ශබාතයෙන් යන සියල්ලෝ — රජු වටා යහ්වේගේ ගෙයි රැකවල් ⟨את⟩ රකිත්වා.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "කණ්ඩායම්"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ඔබෙන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "යන"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ශබාතයෙන්"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "රකිත්වා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රැකවල්"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "රැකවල්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:55:01.800321663Z",
+  "model": "glm-5.3"
+}

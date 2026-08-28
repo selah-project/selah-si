@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "උඩඟුයන් මා මත බොරුවක් අලවා ඇත; මම් සියලු සිතින් ඔබේ පණිවිඩ රකිමි.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "අලවා ඇත"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා මත"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරුවක්"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "උඩඟුයන්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම්"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "לב",
+      "gloss": "සිතින්"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "රකිමි"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ඔබේ පණිවිඩ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:36:50.866292453Z",
+  "model": "glm-5.3"
+}

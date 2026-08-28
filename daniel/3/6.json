@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "වැටී වැඳ වඳින්නේ නොවන යමෙක් ⟨නම්⟩, එම විටින් ඔහු දැල්වෙන ගිනි උදුනට ⟨මැදට⟩ විසි කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "යමෙක්"
+    },
+    {
+      "surface": "די",
+      "gloss": "කි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටෙයි"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "වැඳ වඳියි"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එම"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "විටින්"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "විසි කරනු ලැබේ"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "මැදට"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "උදුනට"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "දැල්වෙන"
+    }
+  ],
+  "timestamp": "2026-08-28T05:41:15.705222578Z",
+  "model": "glm-5.3"
+}

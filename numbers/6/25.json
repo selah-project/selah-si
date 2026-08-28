@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ තම මුහුණ ඔබ කෙරෙහි බබළවා, ඔබට අනුග්‍රහ දක්වා.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "බබළවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "තම මුහුණ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ කෙරෙහි"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "ඔබට අනුග්‍රහ දක්වා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:26.451107560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මා අද ඔබට අණ කරන මේ වචනයන් ඔබේ සිත මත තිබෙන්නේ වීමටය.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "තිබෙන්නේ වීමටය"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ සිත"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:52.803156009Z",
+  "model": "glm-5.3"
+}

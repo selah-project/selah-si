@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු කීයේ: „මෙන්න, මම මහලු වී ඇත්තෙමි; මගේ මරණයේ දවස මම නොදනිමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීයේ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "මෙන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කැමැත්තෙන්"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "මහලු වී ඇත්තෙමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "මම දනිමි"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "මගේ මරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:19:21.406737390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 23:16",
+  "book": "job",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "එල් මගේ හදවත මෘදු කළේය; ෂද්දයි මා කැළපූයේය.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "මෘදු කළේය"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "මගේ හදවත"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ෂද්දයි"
+    },
+    {
+      "surface": "הבהילני",
+      "gloss": "මා කැළපූයේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:44:29.234891305Z",
+  "model": "glm-5.3"
+}

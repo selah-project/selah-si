@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔහුද අඛාබ්ගේ පවුලේ මාර්ගයෙහි ඇවිද්දේය, මන්ද ඔහුගේ මෑණියෝ ඔහුට නපුරට උපදෙස් දෙන්නිය වූවාය.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ඇවිද්දේය"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "මාර්ගයෙහි"
+    },
+    {
+      "surface": "בית",
+      "gloss": "පවුලේ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "අඛාබ්ගේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "මෑණියෝ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වූවාය"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "උපදෙස් දෙන්නිය"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "නපුරට"
+    }
+  ],
+  "timestamp": "2026-08-28T07:39:13.398044122Z",
+  "model": "glm-5.3"
+}

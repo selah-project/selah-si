@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 33:6",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "Behold, I am bringing up for it wholeness and healing, and I will heal them, and I will reveal to them the abundance of peace and truth.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Behold, I"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "am bringing up"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for it"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "wholeness"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "and healing"
+    },
+    {
+      "surface": "ורפאתים",
+      "gloss": "and I will heal them"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "and I will reveal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to them"
+    },
+    {
+      "surface": "עתרת",
+      "gloss": "the abundance of"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "and truth"
+    }
+  ],
+  "timestamp": "2026-08-28T00:05:57.305712633Z",
+  "model": "glm-5.3"
+}

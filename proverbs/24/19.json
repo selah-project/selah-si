@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "දුර්ජනයන් ගැන කෝප නොවන්න; පව්කාරයන්ට ඊර්ෂ්‍යා නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "කෝප වන්න"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "දුර්ජනයන් ගැන"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ඊර්ෂ්‍යා කරන්න"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "පව්කාරයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:03.784774998Z",
+  "model": "glm-5.3"
+}

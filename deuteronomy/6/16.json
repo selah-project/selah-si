@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔබ මස්සාහ්හිදී අත්හදා බැලූ පරිදි යහ්වේ ඔබේ එලෝහීම්ව ⟨את⟩ අත්හදා නොබලන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "අත්හදා බලන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ඔබ අත්හදා බැලූ"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "මස්සාහ්හිදී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:56.013745129Z",
+  "model": "glm-5.3"
+}

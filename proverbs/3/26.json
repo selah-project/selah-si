@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මන්තං යහ්වේ ඔබේ විශ්වාසය වන්නේය, සහ ඔබේ පය උගුලට හසුවීමෙන් රකියි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්තං"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "ඔබේ විශ්වාසය"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "සහ රකියි"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ඔබේ පය"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "උගුලට හසුවීමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:21.114547959Z",
+  "model": "glm-5.3"
+}

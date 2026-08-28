@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 81,
+  "translation": "ගායකයාට — ගිත්තිත් වාද්‍යය මත — අසාප් වෙතින්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ගායකයාට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ගිත්තිත් වාද්‍යය"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "අසාප් වෙතින්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:41.284957218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "ඔබ සොරකු දුටු කල ඔහු සමඟ දිව්වහ, සහ අවතාරයන් සමඟ ඔබේ කොටස ඇත.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "මෙසේ ඔබ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "දුටු කල"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "සොරකු"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "සහ දිව්වහ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "සහ සමඟ"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "අවතාරයන්"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ඔබේ කොටස"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:19.361401917Z",
+  "model": "glm-5.3"
+}

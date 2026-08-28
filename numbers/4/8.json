@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඒවා මත තිලෝආත් ශානී රෙද්දක් පන්නා, තචශ් සම් වැස්මකින් එය ⟨את⟩ වසා, එහි බාණ ⟨את⟩ දමන්නාහ.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "පන්නා"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඒවා මත"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "රෙද්දක්"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "තිලෝආත්"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ශානී"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "වසා"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය (මේසය)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "වැස්මකින්"
+    },
+    {
+      "surface": "עור",
+      "gloss": "සම්"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "තචශ්"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "දමන්නාහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බාණ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "බාණ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:29:28.819806369Z",
+  "model": "glm-5.3"
+}

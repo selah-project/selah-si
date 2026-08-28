@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "රාමා සහ ගෙබා පුත්‍රයෝ — සය සිය විසි එකක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "රාමා"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "සහ ගෙබා"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:52:44.501889389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සරණුවර ඔවුන්ගේ අතින් එල්ලන ලදහ; මහලුවන්ගේ මුහුණු ගෞරව නොලදහ.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "සරණුවර"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ඔවුන්ගේ අතින්"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "එල්ලන ලදහ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණු"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "මහලුවන්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ගෞරව ලදහ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:25.029830480Z",
+  "model": "glm-5.3"
+}

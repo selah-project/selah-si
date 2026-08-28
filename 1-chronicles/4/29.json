@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ බිල්හාදී, එයෙම්දී, තොලාද්දී",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "සහ බිල්හාදී"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "එයෙම්දී"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "තොලාද්දී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:33.715895491Z",
+  "model": "glm-5.3"
+}

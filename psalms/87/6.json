@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 87,
+  "translation": "යහ්වේ ජනයන් ⟨ලියමින්⟩ ගණන් කරන්නේය: මොහු එහි උපන්නේය. සෙලා.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ගණන් කරන්නේය"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ලියමින්"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනයන්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "උපන්නේය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:03:41.926235478Z",
+  "model": "glm-5.3"
+}

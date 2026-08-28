@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "දාන් සඳහා — අකීඑසර්, අම්මීෂද්දයිගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "දාන් සඳහා"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "අකීඑසර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "අම්මීෂද්දයිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:28:03.169635748Z",
+  "model": "glm-5.3"
+}

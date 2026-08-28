@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "බිය වව ⟨את⟩ යහ්වේට, මාගේ පුත්, සහ ⟨את⟩ රජුට; වෙනස් වන්නන් සමඟ මිශ්‍ර නොවන්න.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "බිය වව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මාගේ පුත්"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "සහ රජුට"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "වෙනස් වන්නන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "මිශ්‍ර වන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T04:16:58.515758537Z",
+  "model": "glm-5.3"
+}

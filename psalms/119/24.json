@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "ඔබේ සාක්ෂිද ⟨is⟩ මගේ ප්‍රියතමයෝ; ⟨ඒ⟩ මගේ උපදේශකයෝ ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ඔබේ සාක්ෂි"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "මගේ ප්‍රියතමයෝ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මගේ උපදේශකයෝ ⟨ඒ⟩ මිනිස්සු"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "මගේ උපදේශ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:51.107895092Z",
+  "model": "glm-5.3"
+}

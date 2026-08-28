@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-28T02:20:03.297919579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "තමාට ළඟ සහෝදරිය වූ, පුරුෂයෙකුට විවාහ නොවූ කන්‍යාවටද ⟨පූජකයා⟩ අපවිත්‍ර වේය යි.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "සහෝදරිය"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "කන්‍යාව"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ළඟ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "තමාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවූ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "විවාහ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "පුරුෂයෙකුට"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අපවිත්‍ර වේය යි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:34.484254652Z",
+  "model": "glm-5.3"
+}

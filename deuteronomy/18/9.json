@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මන්ද, ඔබ යහ්වේ ඔබේ එලෝහීම් ඔබට දෙන දේශයට ඇතුළු වන විට, එම ජාතීන්ගේ අමනාප ක්‍රියා ලෙස කරන්නට ඉගෙන නොගන්න.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ඇතුළු වන විට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "ඉගෙන ගන්න"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කරන්නට"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "අමනාප ක්‍රියා ලෙස"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "එම ජාතීන්ගේ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "එම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:19.059236097Z",
+  "model": "glm-5.3"
+}

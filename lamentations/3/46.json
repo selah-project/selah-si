@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අපගේ සතුරන් සියල්ලෝ ම අප වෙත මුව විවර කළහ.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "විවර කළහ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අප වෙත"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "මුව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ ම"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "අපගේ සතුරන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:40.529925442Z",
+  "model": "glm-5.3"
+}

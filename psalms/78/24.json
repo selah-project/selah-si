@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "එවිට ඔහු ඔවුන් මතට මාන් වැස්සේය — කෑමට — අහසේ ධාන්‍යද ඔවුන්ට දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "වැස්සේය"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන් මතට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මාන්"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "කෑමට"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ධාන්‍යද"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ඔවුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:46.820081673Z",
+  "model": "glm-5.3"
+}

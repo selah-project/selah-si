@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "ඔහු සතුරාගෙන් මිදවූ දිනයද, ⟨את⟩ ඔහුගේ හාත්තයද ඔවුන් මතක නොතැබූහ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "මතක තැබූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ හාත්තය"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ඔහුගේ හාත්තය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන දිනය"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "මිදවූ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "צר",
+      "gloss": "සතුරා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:57:50.642464029Z",
+  "model": "glm-5.3"
+}

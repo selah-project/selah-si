@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මෙළවුරු අවුරුදු හතළිසයි, ඔබ මත සිටි ඔබේ වස්ත්‍රය පැනී ගියේ නැත, ඔබේ පාදය ද ඉදුණේ නැත.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ඔබේ වස්ත්‍රය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "පැනී ගියේ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ඔබ මත සිටි"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ඔබේ පාදය ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ඉදුණේ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙළවුරු"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිසයි"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    }
+  ],
+  "timestamp": "2026-08-28T08:41:06.126897442Z",
+  "model": "glm-5.3"
+}

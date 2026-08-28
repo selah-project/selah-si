@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මීසාක්මේ දෙවන පැත්තට, උතුරු දෙසට, ඔහු කුටි විස්සක් කළේය.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "දෙවන පැත්තට"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මීසාක්මේ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්සක්"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "කුටි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:02:03.426847797Z",
+  "model": "glm-5.3"
+}

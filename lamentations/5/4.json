@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අපගේ ජලය රන් කුරු දී පානය කළෙමු; අපගේ දර මිලක් දී එයි.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "අපගේ ජලය"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "රන් කුරු දී"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "පානය කළෙමු"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "අපගේ දර"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "මිලක් දී"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "එයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:20.881162306Z",
+  "model": "glm-5.3"
+}

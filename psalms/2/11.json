@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "භයෙන් යහ්වේට ⟨את⟩ සේවය කරන්න; වෙව්ලීමෙන් සතුටු වන්න.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "සේවය කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "භයෙන්"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "සතුටු වන්න"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "වෙව්ලීමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:59:05.867255303Z",
+  "model": "glm-5.3"
+}

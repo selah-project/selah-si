@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මඛ්නද්බයි, ෂෂයි, ෂරයි",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "මඛ්නද්බයි"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ෂෂයි"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ෂරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:57:13.776974927Z",
+  "model": "glm-5.3"
+}

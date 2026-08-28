@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ඔහු ⟨את⟩ පටි පහ වෙන් වූ ලෙස යා කළේය, සහ ⟨את⟩ පටි හය වෙන් වූ ලෙස යා කළේය.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ඔහු යා කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පටි පහ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "පටි"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "වෙන් වූ ලෙස"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "පටි හය"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "පටි"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "වෙන් වූ ලෙස"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:33.388223303Z",
+  "model": "glm-5.3"
+}

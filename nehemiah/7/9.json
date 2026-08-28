@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂෙපට්‍යාගේ පුත්‍රයෝ — තුන්සිය අසූ<…>හැත්තෑ දෙදෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ෂෙපට්‍යාගේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "හැත්තෑ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "සහ දෙදෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:58:35.821725837Z",
+  "model": "glm-5.3"
+}

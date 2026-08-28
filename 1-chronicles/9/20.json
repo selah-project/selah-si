@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "පින්හාස් — එල්ආසාර්ගේ පුත්‍රයා — පෙර ඔවුන්ට ප්‍රධානී විය; යහ්වේ ඔහු සමඟ විය.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "පින්හාස්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "එල්ආසාර්ගේ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ විය"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:41.211961911Z",
+  "model": "glm-5.3"
+}

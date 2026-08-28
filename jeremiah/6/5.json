@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "නැඟිටෙත්, රාත්‍රියේදී නගිමු, ඇගේ මාලිගා විනාශ කරමු.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "නැඟිටෙත්"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "නගිමු"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "රාත්‍රියේදී"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "විනාශ කරමු"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ඇගේ මාලිගා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:46:50.023021959Z",
+  "model": "glm-5.3"
+}

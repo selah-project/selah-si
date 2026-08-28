@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "පූජකයා මැටි බඳුනක පිළිවෙල් ජලය ගෙන, මංචුවේ බිමෙහි ඇති දූලි අතුරින් පූජකයා ගෙන ජලයට දමන්නේය.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "පිළිවෙල්"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "බඳුනක"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "දූලි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "බිමෙහි"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මංචුවේ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගනී"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "දමන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:32:55.438919768Z",
+  "model": "glm-5.3"
+}

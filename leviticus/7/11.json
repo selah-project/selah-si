@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙය යහ්වේ වෙත ගෙන එන ශෙලාමිම් පූජාවේ තෝරා (ව්‍යවස්ථාව) ය.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "සහ මෙය"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "තෝරා (ව්‍යවස්ථාව)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "පූජාව"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ශෙලාමිම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යමක්"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ගෙන එන"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:46.780149245Z",
+  "model": "glm-5.3"
+}

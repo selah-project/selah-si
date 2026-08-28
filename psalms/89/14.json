@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 89,
+  "translation": "ඔබට ⟨ඇත⟩ බලය සමඟ බාහුවක්; ඔබේ අත බලවත් ⟨වේ⟩, ඔබේ දකුණත උස් ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "බාහුව"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "බලය"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "බලවත් වේ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "උස් වේ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ඔබේ දකුණත"
+    }
+  ],
+  "timestamp": "2026-08-28T03:06:01.237211500Z",
+  "model": "glm-5.3"
+}

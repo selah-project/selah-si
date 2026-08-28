@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මෙතුෂෙලක් අවුරුදු සිය අසූ හතක් විසිතුනක් ජීවත් ව, ලෙමෙක්ව ⟨את⟩ ලබුවේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් ව"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "මෙතුෂෙලක්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හත"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "සහ අසූ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "සහ සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලෙමෙක්ව"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ලෙමෙක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:56.295483643Z",
+  "model": "glm-5.3"
+}

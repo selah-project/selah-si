@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 20:16",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මේ සියලු ජනයා අතර දකුණු අත බැඳුණු තෝරාගත් මිනිසුන් සත්සියක් — මේ සියල්ලෝ ම ගලකින් කෙස්සකට පාවා විද නොවරදිති.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "සියල්ලන් අතර"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "තෝරාගත්"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "බැඳුණු"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ ම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "පාවාවිද"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ගලෙන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "කෙස්ස"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "වරදිති"
+    }
+  ],
+  "timestamp": "2026-08-27T21:49:33.814207670Z",
+  "model": "glm-5.3"
+}

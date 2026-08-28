@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "පළමුවෙනි දිනයේදී පූජනීය රැස්වීමක් ⟨වේ⟩; සේවාකාරී වැඩ කිසිවක් නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමුවෙනි"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "රැස්වීමක්"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "වැඩ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "සේවාකාරී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:23:00.285080144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "රජු විශාල ඇත්දළ සිංහාසනයක් කළේය සහ ⟨එය⟩ පිරිසිදු රනින් තැන්පත් කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "සිංහාසනයක්"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ඇත්දළ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "විශාල"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "තැන්පත් කළේය ⟨එය⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පිරිසිදු"
+    }
+  ],
+  "timestamp": "2026-08-28T07:19:22.197915069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔටුවන් සත්සිය තිස් පස් දෙනෙකි; බූරන් හයදහස් හාරසිය විස්සකි.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ඔටුවන්"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පස් දෙනෙකි"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "බූරන්"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "හය"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හාරසිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විස්සකි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:20:00.330640685Z",
+  "model": "glm-5.3"
+}

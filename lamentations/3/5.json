@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මට විරුද්ධව ඉදිකොට, කහට හා වෙහෙසින් මා වටකෙළේය.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකෙළේය"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට විරුද්ධව"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "වටකෙළේය"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "කහට"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "වෙහෙස"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:44.104381506Z",
+  "model": "glm-5.3"
+}

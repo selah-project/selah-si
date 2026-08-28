@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ගත්හි ⟨එය⟩ නොකියව; නොවැළපෙන්න; ලීබෙල්අපරා ගෙදි දූලිස පෙරළෙමි.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ගත්හි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "කියව"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "වැළපෙන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "වැළපෙන්න"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙදි"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ලීබෙල්අපරා"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "දූලිස"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "පෙරළෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:28:51.004363924Z",
+  "model": "glm-5.3"
+}

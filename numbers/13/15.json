@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ගාද් ගෝත්‍රයෙන් — මාකීගේ පුත් ගෙඋඑල්.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයෙන්"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ගෙඋඑල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "මාකී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:36:01.553321742Z",
+  "model": "glm-5.3"
+}

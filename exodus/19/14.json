@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මොෂේ කන්දෙන් ජනයා වෙත බැස ගියේය, ⟨את⟩ ජනයා ශුද්ධ කළේය, සහ ඔව්හු සිය වස්ත්‍ර සේදූහ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "බැස ගියේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යන්නෙන්"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ශුද්ධ කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "සේදූහ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "සිය වස්ත්‍ර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:21.844083447Z",
+  "model": "glm-5.3"
+}

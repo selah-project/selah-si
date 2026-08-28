@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මළාට අඬන්න එපා; ඔහුට වැළපෙන්නත් එපා; යන්නාට අඬන්න, අඬන්න — මන්ද ඔහු නැවත නොපැමිණ තම උපන් රට ⟨את⟩ නොදක්නේය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "අඬන්න"
+    },
+    {
+      "surface": "למת",
+      "gloss": "මළාට"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "වැළපෙන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "අඬන්න"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "අඬන්න"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "යන්නාට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "නැවත පැමිණ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවත"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "දක්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රට"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "තම උපන්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:49:16.379501829Z",
+  "model": "glm-5.3"
+}

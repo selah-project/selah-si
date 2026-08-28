@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "එලෝහීම් ඝෝෂාවකින් නැඟී ගියේය; යහ්වේ ෂොපාර් හඬකින්.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "නැඟී ගියේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ඝෝෂාවකින්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "හඬකින්"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ෂොපාර්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:16.776886353Z",
+  "model": "glm-5.3"
+}

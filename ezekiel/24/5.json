@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "රැළේ හොඳම ගන්න; ඒ යට අස්ථි ගොඩද දමන්න; එය රත්කර උතුරන්න; අස්ථි ද එහි මැද පිසන්න.",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "හොඳම"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "රැළේ"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ගොඩ"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "අස්ථි"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ඒ යට"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "උතුරන්න"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "එහි උතුරු"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "පිසන්න"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "අස්ථි"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "එහි මැද"
+    }
+  ],
+  "timestamp": "2026-08-28T00:39:24.535128757Z",
+  "model": "glm-5.3"
+}

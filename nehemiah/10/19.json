@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "හෝදියා, චාෂුම්, බෙය්සයි,",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "හෝදියා"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "චාෂුම්"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "බෙය්සයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:40.517961035Z",
+  "model": "glm-5.3"
+}

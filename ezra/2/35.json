@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සෙනාආහ්ගේ පුත්‍රයෝ — තුන්දහසක් සයසිය තිස් පස් දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "සෙනාආහ්ගේ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්දහසක්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහස"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "සය-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස් පස්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:56:13.377024445Z",
+  "model": "glm-5.3"
+}

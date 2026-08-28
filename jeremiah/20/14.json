@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ශාප ලත් වේවා මම ඉපදුණු දවස; මාගේ මව මා ලෝරූණු දවස ආශීර්වාද ලත් නොවේවා.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාප ලත් වේවා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…බව"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "මම ඉපදුණු"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඒ දවස"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…බව"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "මා ලෝරූණු"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "මාගේ මව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ආශීර්වාද ලත්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:05.746140560Z",
+  "model": "glm-5.3"
+}

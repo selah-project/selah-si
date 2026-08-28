@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "දාවිඩ් දොරටු දෙක අතර විය. රක්ෂකයා දොරටුවේ වහලය වෙත, පවුර වෙත ගොස් ⟨את⟩ ඇස් ඔසවා බැලූ විට — බල, මිනිසෙක් තනිව දිවෙයි.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "දාවිඩ්"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "දොරටු"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "රක්ෂකයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "גג",
+      "gloss": "වහලය"
+    },
+    {
+      "surface": "השער",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "පවුර"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඇස්"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "දුටු"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "දිවෙයි"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "තනිව"
+    }
+  ],
+  "timestamp": "2026-08-27T22:25:02.632018498Z",
+  "model": "glm-5.3"
+}

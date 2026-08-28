@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මෙය ඔබ ⟨את⟩ එය කරන ආකාරයයි: බක්කොටුවේ දිග අඟල් තුන්සියයක් වේ, එහි පළල අඟල් පනස්ක් වේ, එහි උස අඟල් තිස්ක් වේ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ආකාරය"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "බක්කොටුවේ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්ක්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස්ක්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "උස"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:40.657845985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "වාද්ය නායකයාට, අටවන තනුව මත, දාවීද්ගේ මිස්මෝර්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "වාද්ය නායකයාට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "අටවන තනුව"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:20:26.859058305Z",
+  "model": "glm-5.3"
+}

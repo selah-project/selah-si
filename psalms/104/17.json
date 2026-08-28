@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "එහිදී කුරුල්ලෝ කූද තනති; තිරසියාට බරූෂීම් ⟨ඔවුන්ගේ⟩ ගෘහය වේ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "කුරුල්ලෝ"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "කූද තනති"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "තිරසියා"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "බරූෂීම්"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ගෘහය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:18:05.121016129Z",
+  "model": "glm-5.3"
+}

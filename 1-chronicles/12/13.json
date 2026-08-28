@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යොහනන් ⟨අටවැන්නා⟩, එල්සාබද් ⟨නවවැන්නා⟩;",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "යොහනන්"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අටවැන්නා"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "එල්සාබද්"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "නවවැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:50:17.990333444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔහු තම පියා වන අසාගේ මාර්ගයේ ගියේය, යහ්වේගේ ඇස් හමුවේ යහපත කිරීමට එයින් නොනැවතී ගියේය.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියා වන"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "අසාගේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "סר",
+      "gloss": "නැවතී"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් හමුවේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:35:00.833235322Z",
+  "model": "glm-5.3"
+}

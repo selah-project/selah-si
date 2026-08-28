@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 124,
+  "translation": "අහසද පොළොවද මවන යහ්වේ නාමයේ අප උදව් ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "අප උදව්"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "මවන"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:40:59.854212905Z",
+  "model": "glm-5.3"
+}

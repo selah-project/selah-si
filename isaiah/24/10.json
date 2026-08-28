@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "කැඩී ගියේය — හිස්බවේ නගරය; ඇතුල්වීමෙන් සියලු ගෙවල් වසා ඇත.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "කැඩී ගියේය"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "හිස්බවේ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "වසා ඇත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙවල්"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ඇතුල්වීමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:19:29.829781077Z",
+  "model": "glm-5.3"
+}

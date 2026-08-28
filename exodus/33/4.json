@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ජනතිය ⟨את⟩ මේ නපුරු පණිවිඩය අසා ශෝක කළහ; කිසිවෙක් තම භූෂණ තමා මත නොලෑවේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතිය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ නපුරු පණිවිඩය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "පණිවිඩය"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ශෝක කළහ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ලෑවේය"
+    },
+    {
+      "surface": "איש",
+      "gloss": "කිසිවෙක්"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "තම භූෂණ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "තමා මත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:01:35.854457447Z",
+  "model": "glm-5.3"
+}

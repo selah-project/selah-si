@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "අහස නැමී බැස ආවේය; ඝන අන්ධකාරය ඔහුගේ පාද යට ⟨මින්⟩ විය.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "නැමී"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "බැස ආවේය"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ඝන අන්ධකාරය"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ඔහුගේ පාද"
+    }
+  ],
+  "timestamp": "2026-08-27T22:25:19.322820703Z",
+  "model": "glm-5.3"
+}

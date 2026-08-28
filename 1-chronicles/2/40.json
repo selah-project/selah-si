@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එල්ආසා ⟨את⟩ සිස්මයිව ලැබීය, සිස්මයි ⟨את⟩ ෂල්ලූම්ව ලැබීය.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "එල්ආසා"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සිස්මයි"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "සිස්මයි"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "සිස්මයි"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂල්ලූම්"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ෂල්ලූම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.565758401Z",
+  "model": "glm-5.3"
+}

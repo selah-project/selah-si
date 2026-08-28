@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "කූෂ් ⟨את⟩ නිම්රොද්ට පියකු විය; ඔහු පොළොවෙහි බලවතෙකු වීමට පටන් ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "කූෂ්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "පියකු විය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නිම්රොද්"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "නිම්රොද්ට"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "החל",
+      "gloss": "පටන් ගත්තේය"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "වීමට"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "බලවතෙකු"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:57.458664523Z",
+  "model": "glm-5.3"
+}

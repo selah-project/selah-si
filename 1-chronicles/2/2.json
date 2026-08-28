@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දාන්, යොසෙප්, බින්යාමින්, නෆ්තාලී, ගාද්, අෂෙර්.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "දාන්"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "බින්යාමින්"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "නෆ්තාලී"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "අෂෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:32:23.173979690Z",
+  "model": "glm-5.3"
+}

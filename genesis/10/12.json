@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ⟨את⟩ රෙසෙන් — නීනෙවේ සහ කෙලාඛ් අතර; එයයි ⟨the⟩ මහා නගරය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "රෙසෙන්"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "රෙසෙන්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "නීනෙවේ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "සහ අතර"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "කෙලාඛ්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එයයි"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:03:28.088231366Z",
+  "model": "glm-5.3"
+}

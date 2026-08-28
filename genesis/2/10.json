@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එදින් ගඟක් නික්ම උයන ⟨את⟩ සීප්සීමට ගියේය; එතැනින් එය බෙදී හිස් හතරක් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ගඟද"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "නික්ම යයි"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "එදින්"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "සීප්සීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "උයන"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "උයන"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "එතැනින්"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "බෙදී"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨විය⟩"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "හතරක්"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "හිස්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:00.371796388Z",
+  "model": "glm-5.3"
+}

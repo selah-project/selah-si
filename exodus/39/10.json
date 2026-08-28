@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඔවුහු ඒ තුළ ගල් පේළි හතරක් පුරවූහ; පළමු පේළිය — ඔදෙම්, පිත්දා සහ බැරෙකෙත්; ඒ එකම ⟨the⟩ පේළියයි.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "පුරවූහ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඒ තුළ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "හතරක්"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "පේළි"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "טור",
+      "gloss": "පේළිය"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ඔදෙම්"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "පිත්දා"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "සහ බැරෙකෙත්"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ඒ පේළිය"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එකම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:14.974378726Z",
+  "model": "glm-5.3"
+}

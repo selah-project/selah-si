@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 21:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "මොෂේ තඹ නාගයක් කළේය, එය කුඩය මත තැබුවේය; නාගයෙක් මිනිසෙකු ⟨את⟩ දෂ්ට කළහොත්, ඔහු ඒ තඹ නාගය දෙස බැලූ කල ජීවත් විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "නාගයක්"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "එය තැබුවේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "කුඩය"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වූ කල"
+    },
+    {
+      "surface": "אם",
+      "gloss": "හොත්"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "දෂ්ට කළ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "නාගයෙක්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මිනිසෙකු"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙකු"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "බැලූ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙස"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "නාගය"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ජීවත් විය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:48.045648397Z",
+  "model": "glm-5.3"
+}

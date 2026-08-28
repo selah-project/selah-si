@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ඔහු එතැනින් බෙර්-ෂෙබා වෙත නැගියේය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ඔහු නැගියේය"
+    },
+    {
+      "surface": "משם",
+      "gloss": "එතැනින්"
+    },
+    {
+      "surface": "באר",
+      "gloss": "බෙර්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ෂෙබා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:18:35.069980696Z",
+  "model": "glm-5.3"
+}

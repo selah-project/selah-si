@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සල්මා, බෙත්-ලෙහෙම්ගේ පියා; හරෙප්, බෙත්-ගාදෙර්ගේ පියා.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "සල්මා"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ලෙහෙම්ගේ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "හරෙප්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ගාදෙර්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:42.478899518Z",
+  "model": "glm-5.3"
+}

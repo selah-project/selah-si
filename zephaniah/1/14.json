@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ළං යහ්වේගේ ⟨the⟩ මහා දිනය, ළං සහ ඉතා ඉක්මන්; ⟨the⟩ යහ්වේගේ දිනයේ හඬ — කිපෙන සුළු, ශක්තිවන්තයා එහිදී කටින් අඬයි.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ළං"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ළං"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "ඉක්මන්"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "කිපෙන සුළු"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "කටින් අඬයි"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ශක්තිවන්තයා"
+    }
+  ],
+  "timestamp": "2026-08-28T01:39:41.727612427Z",
+  "model": "glm-5.3"
+}

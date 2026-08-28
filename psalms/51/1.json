@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 51,
+  "translation": "කළමනාකරුවාට ⟨සඳහා⟩ — මිස්මෝරය, දාවීද්ට.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කළමනාකරුවාට ⟨සඳහා⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝරය"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:37:06.693650897Z",
+  "model": "glm-5.3"
+}

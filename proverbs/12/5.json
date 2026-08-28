@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සාධුවන්ගේ සිතුම් ⟨විනිශ්චයයි⟩; දුෂ්ටයන්ගේ උපායන් රැවටීමයි.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "සිතුම්"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "සාධුවන්ගේ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "විනිශ්චය"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "උපායන්"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "රැවටීම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:04:51.231076273Z",
+  "model": "glm-5.3"
+}

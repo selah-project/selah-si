@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "යකඩ ⟨the⟩ යකඩෙන් තියුණු වේ; එසේම ⟨a⟩ මිනිසා ⟨the⟩ මිත්‍රයාගේ මුහුණ තියුණු කරයි.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "යකඩෙන්"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "තියුණු වේ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "එසේම මිනිසා"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "තියුණු කරයි"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "මිත්‍රයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:50.311148887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මිෂ්මා, දූමා, මාසා, හදාද්, තෙමා.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "මිෂ්මා"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "දූමා"
+    },
+    {
+      "surface": "משא",
+      "gloss": "මාසා"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "හදාද්"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "තෙමා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.009373562Z",
+  "model": "glm-5.3"
+}

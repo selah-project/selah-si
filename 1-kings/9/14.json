@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "හිරාම් රජුට රත්තරං තල් සිය විස්සක් යැවීය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යැවීය"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "හිරාම්"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්සක්"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "තල"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රත්තරං"
+    }
+  ],
+  "timestamp": "2026-08-27T22:38:21.330349472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "දැලි ගලවන ලද රිදී ⟨is⟩ ⟨the⟩ මැටි බඳුනක් මත — දැල්වෙන තොල්, සහ නපුරු හදවත ⟨are⟩ ⟨like⟩ එයයි.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "දැලි"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ගලවන ලද"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි බඳුනක්"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "දැල්වෙන"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "සහ හදවත"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:33.681841553Z",
+  "model": "glm-5.3"
+}

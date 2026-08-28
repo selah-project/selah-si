@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහු එය මරා දැම්මේය; මොෂේ ⟨את⟩ ලේ පූජා පීඨිකාව වටා විසිරැවීය.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "මරා දැම්මේය"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "විසිරැවීය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලේ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "පූජා පීඨිකාව"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:17.089130514Z",
+  "model": "glm-5.3"
+}

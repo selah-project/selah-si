@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 77,
+  "translation": "එල් අනුග්‍රහ කිරීම අමතක කළේ ද? කෝපයෙන් ඔහුගේ රහම් වසා දැම්මේ ද? සෙලා",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "අමතක කළේ ද"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "අනුග්‍රහ කිරීම"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "වසා දැම්මේ ද"
+    },
+    {
+      "surface": "באף",
+      "gloss": "කෝපයෙන්"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ඔහුගේ රහම්"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:53:24.709798206Z",
+  "model": "glm-5.3"
+}

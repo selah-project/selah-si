@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මොහු රජුට ⟨את⟩ සේවය කරන්නෝ වූහ; යෙහූදාව පුරා බලකොටු නගරවල රජු තැබූවන් හැර.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "සේවය කරන්නෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රජු"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "හැර"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වන්නන්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "තැබූ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "නගරවල"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "බලකොටු"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "පුරා"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාව"
+    }
+  ],
+  "timestamp": "2026-08-28T07:25:40.687984770Z",
+  "model": "glm-5.3"
+}

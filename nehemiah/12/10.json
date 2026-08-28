@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යේෂුවා ⟨את⟩ යොයාකීම් ලබා සිටියේය; යොයාකීම් ⟨את⟩ එල්යාෂීබ් ලබා සිටියේය; එල්යාෂීබ් ⟨את⟩ යොයාදා ලබා සිටියේය.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "යේෂුවා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා සිටියේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොයාකීම්"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "යොයාකීම්"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "යොයාකීම්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා සිටියේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එල්යාෂීබ්"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "එල්යාෂීබ්"
+    },
+    {
+      "surface": "වאලෙෂෙයිබ්",
+      "gloss": "",
+      "w": {
+        "@warning": "placeholder",
+        "@note": "placeholder token - user should provide actual token"
+      },
+      "e": {
+        "surface": "ואלישיב",
+        "gloss": "එල්යාෂීබ්"
+      }
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොයාදා"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "යොයාදා"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:15.802611894Z",
+  "model": "glm-5.3"
+}

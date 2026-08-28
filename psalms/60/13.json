@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 60,
+  "translation": "අපට සත්‍රකුගෙන් ⟨the⟩ උපකාරය දෙන්න; මිනිසාගේ ගැලවීම හිස් ය.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "උපකාරය"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "සත්‍රකුගෙන්"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "හිස්"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ගැලවීම"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:41:33.237442538Z",
+  "model": "glm-5.3"
+}

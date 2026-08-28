@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔහුගේ නම ඊශ්‍රායෙලයේ 'සෙරපිලි-ගලවන-ලදුවාගේ ගෙය' ලෙස කියවනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "කියවනු ලැබේ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නම"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ඊශ්‍රායෙලයේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ගලවන-ලදුවාගේ"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "සෙරපිලි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:43:57.530673515Z",
+  "model": "glm-5.3"
+}

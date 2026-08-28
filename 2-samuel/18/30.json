@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "රජ කීවේය: පසෙකට වවු, මෙහි සිටව; ඔහු පසෙකට වී සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "පසෙකට වවු"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "සිටව"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙහි"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "පසෙකට වී"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "සිටියේය"
+    }
+  ],
+  "timestamp": "2026-08-28T09:13:22.475838422Z",
+  "model": "glm-5.3"
+}

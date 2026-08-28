@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අප සම උදුනක් සේ දැවී ගියේය, බඩගින්නේ උණුසුම් කුණාටු නිසා.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "අප සම"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "උදුනක් සේ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "දැවී ගියේය"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "මුහුණ නිසා"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "උණුසුම් කුණාටු"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "බඩගින්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:25.029465245Z",
+  "model": "glm-5.3"
+}

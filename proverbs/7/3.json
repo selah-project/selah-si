@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඒවා ඔබේ ඇඟිලිවල බැඳගන්න; ඒවා ඔබේ හදවතේ පුවරුව මත ලියන්න.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ඒවා බැඳගන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ඔබේ ඇඟිලිවල"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ඒවා ලියන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "පුවරුව"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවතේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:01:02.645657505Z",
+  "model": "glm-5.3"
+}

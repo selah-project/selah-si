@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මගේ හදවත තුළ මම ඔබේ වචනය සඟවා ඇත්තේ, ඔබට විරුද්ධව නොපව් කරනු පිණිස.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "මගේ හදවත තුළ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "මම සඟවා ඇත්තේ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ඔබේ වචනය"
+    },
+    {
+      "surface": "למען",
+      "gloss": "පිණිස"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "පව් කරනු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:32:49.837390417Z",
+  "model": "glm-5.3"
+}

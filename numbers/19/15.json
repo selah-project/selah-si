@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "සහ බැඳි ලණු — ආවරණයක් — එය මත නැති විවර වූ ඕනෑම භාජනයක් අශුද්ධයි.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාජන"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "විවර වූ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ලද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ආවරණය"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ලණුව"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එය මත"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:03.404914766Z",
+  "model": "glm-5.3"
+}

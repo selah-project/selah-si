@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ අබීෂූආ, නාමාන්, අහොඛ්.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "සහ අබීෂූආ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "නාමාන්"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "අහොඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:44.648758776Z",
+  "model": "glm-5.3"
+}

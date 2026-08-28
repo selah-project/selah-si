@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔබ, රජු, රජුන්ගේ රජු වන්නේ මන්ද, අහසේ එලාහ් රාජ්‍යය, බලය, ශක්තිය සහ තේජස ඔබට දී ඇත.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "රජුන්ගේ"
+    },
+    {
+      "surface": "די",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලාහ්"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "රාජ්‍යය"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "බලය"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "ශක්තිය"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "දී ඇත"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:38:39.008558905Z",
+  "model": "glm-5.3"
+}

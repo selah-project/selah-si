@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මම මගේ ප්‍රියයාගේ වෙමි, ඔහුගේ ආශාව මා කෙරෙහි ය.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "මගේ ප්‍රියයාගේ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "මා කෙරෙහි"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ඔහුගේ ආශාව"
+    }
+  ],
+  "timestamp": "2026-08-28T12:06:36.769491081Z",
+  "model": "glm-5.3"
+}

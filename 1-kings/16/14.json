@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 16:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "එලාගේ ඉතිරි ක්‍රියා සහ ඔහු කළ සියල්ල — ඉස්රායෙල් රජුන්ගේ දින පොතේ ඒවා ලියා නැතිද?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "සහ ඉතිරි"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ක්‍රියා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලාගේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "නැතිද"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ලියා ඇත"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "පොතේ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ක්‍රියා"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "රජුන්ගේ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:44:53.605451840Z",
+  "model": "glm-5.3"
+}

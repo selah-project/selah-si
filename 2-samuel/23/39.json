@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "උරියා ⟨ක⟩ හිත්තියා — සියල්ල තිස් සත් දෙනාය.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "උරියා"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "හිත්තියා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "සත් දෙනාය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:02.921384874Z",
+  "model": "glm-5.3"
+}

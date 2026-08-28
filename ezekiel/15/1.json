@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "වචනය මෙසේ විය — යහ්වේගේ වචනය මට ⟨මෙසේ⟩ විය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:29:36.330903727Z",
+  "model": "glm-5.3"
+}

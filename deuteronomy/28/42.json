@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබේ සියලු වෘක්ෂයන් සහ ඔබේ භූමියේ ඵලදාව ⟨දළඹුවා⟩ උරාගන්නේය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ඔබේ වෘක්ෂයන්"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "සහ ඵලදාව"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ඔබේ භූමියේ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "උරාගන්නේය"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "දළඹුවා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:18.912354152Z",
+  "model": "glm-5.3"
+}

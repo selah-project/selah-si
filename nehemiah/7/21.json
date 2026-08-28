@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අටේර්ගේ පුත්‍රයෝ, යෙෂ්කියාවූ (ලචිස්කියා) අටේර්ගේ — අනූ අටක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "අටේර්"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "යෙෂ්කියාහට අයත්"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.693191827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යෝඊල්, යොෂිබ්යාගේ පුත්, සරායාගේ පුත්, අසිඊල්ගේ පුත් ⟨වන⟩ යෙහූ සහ ⟨අනෙක් අයද⟩ —",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "සහ යෝඊල්"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "සහ යෙහූ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "යොෂිබ්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "සරායා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "අසිඊල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:02.591157364Z",
+  "model": "glm-5.3"
+}

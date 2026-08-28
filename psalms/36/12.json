@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "උඩඟුකමේ පාදය මා වෙත එන්න එපා, දුෂ්ටයන්ගේ අත මාව නෙරපන්න එපා.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "මා වෙත එන්න"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "පාදය"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "උඩඟුකමේ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "සහ අත"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "මාව නෙරපන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:29.235172104Z",
+  "model": "glm-5.3"
+}

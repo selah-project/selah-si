@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඉරා, ඉක්කේෂ්ගේ පුත්‍රයා, ⟨ද⟩ තෙකෝයී; අබියෙසෙර් ⟨ද⟩ අනාතොතී,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ඉරා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ඉක්කේෂ්ගේ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "⟨ද⟩ තෙකෝයී"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "අබියෙසෙර්"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "⟨ද⟩ අනාතොතී"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:11.216317340Z",
+  "model": "glm-5.3"
+}

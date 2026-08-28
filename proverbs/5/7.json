@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "දැන් එසේ නම්, පුතුනි, මාගේ වදන් අසන්න; මාගේ මුඛයේ වදන්වලින් නොහැරෙන්න.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන් එසේ නම්"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුනි"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මාගේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "හැරෙන්න"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "වදන්වලින්"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මාගේ මුඛයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:27.131038061Z",
+  "model": "glm-5.3"
+}

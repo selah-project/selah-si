@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ සේනාවලකාධිපති යහ්වේගේ වචනය මා වෙත මෙසේ කියමින් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහ විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවලකාධිපති"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:49:51.508633530Z",
+  "model": "glm-5.3"
+}

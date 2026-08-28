@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 23:29",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මාගේ වචනය මෙසේ ගිනි නොවේද, යහ්වේගේ කියමනය, සහ පොරොවක් සේ පර්වතය කඩන්නේ නොවේද?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "නොවේද"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "මාගේ වචනය"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "කියමනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "וכפטיש",
+      "gloss": "සහ පොරොවක් සේ"
+    },
+    {
+      "surface": "יפצץ",
+      "gloss": "කඩන්නේ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "පර්වතය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:58:42.787642040Z",
+  "model": "glm-5.3"
+}

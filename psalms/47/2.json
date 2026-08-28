@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "සියලු ජනතාව, අත් තට්ටු කරව්; එලෝහීම් වෙත ජයඝෝෂා හඬකින් කියව්.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "තට්ටු කරව්"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ජයඝෝෂා කරව්"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම් වෙත"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "හඬකින්"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "කියව්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:13.345171897Z",
+  "model": "glm-5.3"
+}

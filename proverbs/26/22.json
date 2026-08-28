@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "කුත්‍රිකරුගේ වචන රසවත් කැබලි මෙන්, සහ ඒවා ⟨the⟩ උදරයේ කුටි වෙත බැස යයි.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "කුත්‍රිකරුගේ"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "රසවත් කැබලි මෙන්"
+    },
+    {
+      "surface": "והם",
+      "gloss": "සහ ඒවා"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "බැස යයි"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "කුටි"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "උදරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:33.681559099Z",
+  "model": "glm-5.3"
+}

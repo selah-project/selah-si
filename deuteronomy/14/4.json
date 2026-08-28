@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මේ ආ ඔබ කන සත්වයෝ ය: ගවයා, බැටළු පැටවුන්, එළු පැටවුන්.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "සත්වයා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කන"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ගවයා"
+    },
+    {
+      "surface": "שה",
+      "gloss": "පැටවුන්"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "බැටළු"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "සහ පැටවුන්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:58.373594413Z",
+  "model": "glm-5.3"
+}

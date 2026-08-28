@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එල්කානා ඔහුගේ පුත්, සහ එබ්‍යාසාප් ඔහුගේ පුත්, සහ අසීර් ඔහුගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "එල්කානා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "සහ එබ්‍යාසාප්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "සහ අසීර්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:06.880848422Z",
+  "model": "glm-5.3"
+}

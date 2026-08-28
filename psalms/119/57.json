@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "යහ්වේ ⟨is⟩ මගේ කොටසයි; මම කීවෙමි ⟨to⟩ ඔබේ වචන රැකීමට.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "මගේ කොටස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ඔබේ වචන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:56.760038443Z",
+  "model": "glm-5.3"
+}

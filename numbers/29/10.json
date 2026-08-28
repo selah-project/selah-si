@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "එක් බැටළුවාට දශංශයක්, බැටළුවන් සත්දෙනාට එක් එක් බැටළුවාට.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "දශංශයක්"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "දශංශයක්"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "බැටළුවාට"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "සත්දෙනාට"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "බැටළුවන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:06.742902165Z",
+  "model": "glm-5.3"
+}

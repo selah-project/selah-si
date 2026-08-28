@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "දාවීද් හෙවත් බාලයා විය; වැඩිමහල් තිදෙනා ෂාඌල් පසු ගියහ.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "හෙවත්"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "බාලයා"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තිදෙනා"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "වැඩිමහල්"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ගියහ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:01:25.727681793Z",
+  "model": "glm-5.3"
+}

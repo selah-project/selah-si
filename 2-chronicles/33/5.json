@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු අහස් සේනාව සියල්ලටම පූජාසන, යහ්වේගේ ගෘහයේ අංගන දෙකෙහි තැනීය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ඔහු තැනීය"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "පූජාසන"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලටම"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "දෙකෙහි"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "අංගන"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෘහයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:54:21.094328444Z",
+  "model": "glm-5.3"
+}

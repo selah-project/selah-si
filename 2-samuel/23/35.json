@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "හෙස්රෝ ⟨ද⟩කර්මෙලි; පආරායි ⟨ද⟩අර්බි.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "හෙස්රෝ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨ද⟩කර්මෙලි"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "පආරායි"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "⟨ද⟩අර්බි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:04.621435354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "චාරිප්ගේ පුත්‍රයෝ — සිය දොළොස්ක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "චාරිප්ගේ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දොළොස්ක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.693574656Z",
+  "model": "glm-5.3"
+}

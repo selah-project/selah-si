@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "දැන් වත්, යව; මම ඔබේ මුඛය සමඟ සිටිමි, ඔබ කියන දේ මම ඔබට ඉගැන්වෙමි.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන් වත්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "සිටිමි"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ඔබේ මුඛය"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ඉගැන්වෙමි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ඔබ කියන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:40:00.991998505Z",
+  "model": "glm-5.3"
+}

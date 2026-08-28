@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "සහ මම ඔවුනට කීවෙමි: බාමාව ⟨කුමක්ද⟩? ඔබ එහි එන්නහුය; එහි නම අද දින තෙක් 'බාමා' ලෙස කියැවේ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "සහ මම කීවෙමි"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුනට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "බාමාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨කුමක්ද⟩ එහි"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "එන්නහුය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කියැවේ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි නම"
+    },
+    {
+      "surface": "במה",
+      "gloss": "බාමා"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තෙක්"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:35:48.417810809Z",
+  "model": "glm-5.3"
+}

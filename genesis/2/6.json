@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නමුත් වාෂ්පයක් පොළොවෙන් නැඟී මුළු පොළොවේ මුහුණද ⟨את⟩ තෙත් කළේය.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "නමුත් වාෂ්පයක්"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "מן",
+      "gloss": "පොළොවෙන්"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "තෙත් කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුළු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පොළොවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:40.162851501Z",
+  "model": "glm-5.3"
+}

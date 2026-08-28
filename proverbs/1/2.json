@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඥානය ද විනය ද දැනගැනීමට, ප්‍රඥාවන්ත වදන් වටහා ගැනීමට —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "දැනගැනීමට"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "සහ විනය"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "වටහා ගැනීමට"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "වදන්"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ප්‍රඥාව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:20.167360413Z",
+  "model": "glm-5.3"
+}

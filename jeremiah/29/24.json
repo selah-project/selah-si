@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "සහ නෙහෙලම් වැසියා වන ශෙමඅයාහු ගැන ඔබ කියන්නේ, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "සහ ගැන"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "ශෙමඅයාහු"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "නෙහෙලම් වැසියා"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ඔබ කියන්නේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:03:35.141470028Z",
+  "model": "glm-5.3"
+}

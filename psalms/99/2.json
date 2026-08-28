@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 99,
+  "translation": "යහ්වේ සීයෝනයෙහි මහිමාන්විතයි; උන් සියලු ජනයන්ට ⟨වඩා⟩ උසස්ය.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "සීයෝනයෙහි"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහිමාන්විතයි"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "සහ උසස්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "උඩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ජනයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:15:21.481704030Z",
+  "model": "glm-5.3"
+}

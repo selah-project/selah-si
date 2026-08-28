@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 68,
+  "translation": "ගායක මුලසුම්ට — දාවීද්ට — මිස්මෝර් ⟨ගීතයක්⟩, ගීතයක්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ගායක මුලසුම්ට"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:24:48.858018334Z",
+  "model": "glm-5.3"
+}

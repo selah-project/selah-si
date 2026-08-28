@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇගේ වෙළඳ ලාභය යහපත් බව ඇය රස බලා දැන ගත්තාය; රාත්‍රියේ ඇගේ පහන නිවී නොයයි.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "රස බලා දැන ගත්තාය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "ඇගේ වෙළඳ ලාභය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "නිවී යයි"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "රාත්‍රියේ"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "ඇගේ පහන"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:40.878728517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ෂෙමජයා, යොයාරීබ්, යජධියා.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ෂෙමජයා"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "යොයාරීබ්"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "යජධියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:48.192359883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔබ මිසරයෙහි වහලෙකු ⟨වූයේය⟩ යන්න සිහි කරන්න; මේ නීතිරීති ⟨את⟩ රකින්න, කිරීමටද නියත වන්න.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "සිහි කරන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "වහලෙකු"
+    },
+    {
+      "surface": "היית",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "මිසරයෙහි"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "රකින්න"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ නීතිරීති"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "නීතිරීති"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:45:37.903413383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මආස්යා, බිල්ගයි, ෂෙමආයා — මොහු ය ⟨ඒ⟩ පූජකයෝය.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "මආස්යා"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "බිල්ගයි"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ෂෙමආයා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මොහු ය ⟨ඒ⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:42.304549227Z",
+  "model": "glm-5.3"
+}

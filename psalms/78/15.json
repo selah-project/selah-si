@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "ඔහු පාළුබිමෙහි ගල් පළා, මහා ගැඹුර සේ පානය කරවීය.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "පළා"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "පාළුබිමෙහි"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "පානය කරවීය"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ගැඹුර සේ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:56:07.092785955Z",
+  "model": "glm-5.3"
+}

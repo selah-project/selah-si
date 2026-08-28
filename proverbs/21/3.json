@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ධාර්මිකත්වය හා යුක්තිය කිරීම යහ්වේට යාඥාවට වඩා තෝරාගත් දෙයකි.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "කිරීම"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ධාර්මිකත්වය"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "හා යුක්තිය"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "තෝරාගත්"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "යාඥාවට වඩා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:56.463909159Z",
+  "model": "glm-5.3"
+}

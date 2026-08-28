@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔහුට පසු — ගබ්බයි, සල්ලයි — නව සිය විස්සක් අටකි.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ඔහුට පසු"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ගබ්බයි"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "සල්ලයි"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්සක්"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටකි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:11.453251178Z",
+  "model": "glm-5.3"
+}

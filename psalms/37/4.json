@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "යහ්වේ කෙරෙහි සතුටු වන්න; ⟨එවිට⟩ ඔහු ඔබේ හදවතේ ඉල්ලීම් ඔබට දෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "සතුටු වන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ඉල්ලීම්"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවතේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:25:17.738324673Z",
+  "model": "glm-5.3"
+}

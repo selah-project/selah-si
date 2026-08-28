@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂල්ලුම්ගේ පුත්, සාදොක්ගේ පුත්, අහිටූබ්ගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ෂල්ලුම්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "සාදොක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "අහිටූබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:02:40.404186117Z",
+  "model": "glm-5.3"
+}

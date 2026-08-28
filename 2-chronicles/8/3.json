@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "එවිට ෂෙලෝමෝ ඛමාත-ත්සෝවාවට ගොස් එය ⟨the⟩ යටත් කළේය.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ඛමාත"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ත්සෝවා"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "යටත් කළේය"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එය මත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:22:02.810179749Z",
+  "model": "glm-5.3"
+}

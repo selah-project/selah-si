@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබ ම යන්න, ඔබට හමුවන තැනින් හීය ගන්න; කිසිවක් ඔබේ කාර්යයෙන් අඩු නොකරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "හීය"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "තැනින් කි"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "හමුවී"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මෝ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "අඩු නොකරනු ලැබේ"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "ඔබේ කාර්යයෙන්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කිසිවක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:41.542689056Z",
+  "model": "glm-5.3"
+}

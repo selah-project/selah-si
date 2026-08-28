@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මම ⟨කියමි⟩ — රජුගේ මුව රකිව, එලෝහීම්ගේ දිගුව නිසා.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුව"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "රකිව"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "දිගුව"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ශපථයේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:28.929801546Z",
+  "model": "glm-5.3"
+}

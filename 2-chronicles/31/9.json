@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එවිට හෙසකියාහු ⟨the⟩ පූජකයන් හා ⟨the⟩ ලෙවීයන්ගෙන් ⟨the⟩ ගොඩවල් ගැන විමසුවේය.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "විමසුවේය"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "හෙසකියාහු"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයන්"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ලෙවීයන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ගොඩවල්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:47:54.317574006Z",
+  "model": "glm-5.3"
+}

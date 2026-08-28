@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යහ්වේගේ ප්‍රකෝපය ඔවුන් කෙරෙහි දැලූ අතර, ඔහු ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "දැලූ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ප්‍රකෝපය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඔවුන් කෙරෙහි"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:36:29.171643714Z",
+  "model": "glm-5.3"
+}

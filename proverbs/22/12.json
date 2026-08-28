@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යහ්වේගේ ඇස් ඥානය රැක ගන්නේය, චංචල තැනැත්තාගේ වචන උඩුයටි කරන්නේය.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "රැක ගන්නේය"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "උඩුයටි කරන්නේය"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "චංචල තැනැත්තාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:47.012654891Z",
+  "model": "glm-5.3"
+}

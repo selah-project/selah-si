@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "එදින නායකයා තමා වෙනුවෙන් සහ දේශයේ සියලු ජනයා වෙනුවෙන් පව් පූජාවට ගවයෙකු කරයි.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "සහ කරයි"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "නායකයා"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "තමා වෙනුවෙන්"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "සහ වෙනුවෙන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ගවයෙකු"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පව් පූජාව"
+    }
+  ],
+  "timestamp": "2026-08-28T01:00:45.109357700Z",
+  "model": "glm-5.3"
+}

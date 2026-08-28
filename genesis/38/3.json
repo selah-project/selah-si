@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඇය ගැබ්ගත්තාය, පුතෙකු ප්‍රසූත කළාය; ඔහු ⟨את⟩ ඔහුගේ නම ඒර් යැයි නම් කළේය.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ගැබ්ගත්තාය"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ප්‍රසූත කළාය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "නම් කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ නම"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නම"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ඒර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:25.910412979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම කෙසේ මගේ පමණින් ඔබගේ බරද, ඔබගේ භාරද, ඔබගේ ආරවුල්ද ඔසවා ගන්නම්ද?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "කෙසේ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ඔසවා ගන්නම්ද"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "මගේ පමණින්"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ඔබගේ බර"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "සහ ඔබගේ භාර"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "සහ ඔබගේ ආරවුල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:01.889395607Z",
+  "model": "glm-5.3"
+}

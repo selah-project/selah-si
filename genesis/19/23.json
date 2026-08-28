@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "හිරු ⟨the⟩ පොළොව මතට නික්ම ගියේය; ලොත් ට්සෝආර් වෙත පැමිණියේය.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "නික්ම ගියේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ලොත්"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ට්සෝආර් වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T19:13:09.012734025Z",
+  "model": "glm-5.3"
+}

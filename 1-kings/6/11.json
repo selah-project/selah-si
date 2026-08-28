@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේගේ වචනය ෂලෝමෝ වෙත පැමිණියේය, මෙසේ පවසමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ පවසමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:33:11.295160561Z",
+  "model": "glm-5.3"
+}

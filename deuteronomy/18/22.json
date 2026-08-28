@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "නබිවරයා යහ්වේ නාමයෙන් කථා කරන දෙය සිදු නොවී, එළඹ නොආවොත් — එය යහ්වේ කථා නොකළ වචනයයි; නබිවරයා එය උඩඟුකමෙන් කථා කර ඇත — ඔබ ඔහුගෙන් බිය නොවන්න.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "නබිවරයා"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "සිදුවේ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එළඹේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "උඩඟුකමෙන්"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "කථා කර ඇත"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "නබිවරයා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ඔහුගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:34.261217066Z",
+  "model": "glm-5.3"
+}

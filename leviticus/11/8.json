@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔවුන්ගේ මස් නොකා ඔවුන්ගේ මළකුණුවලට නොපැමිණෙන්න; ඒවා ඔබට අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ඔවුන්ගේ මස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කා"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ඔවුන්ගේ මළකුණුවලට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "පැමිණෙන්න"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:27.067868642Z",
+  "model": "glm-5.3"
+}

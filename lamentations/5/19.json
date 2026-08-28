@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබ, යහ්වේ, සදාකාලයට වැඩ වසන්නේය; ඔබේ සිහසනය පරම්පරාවෙන් පරම්පරාවට ය.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "වැඩ වසන්නේය"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ඔබේ සිහසනය"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "පරම්පරාවෙන්"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "පරම්පරාවට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:46:35.470270873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "හිඟාකම් දිනයේදී ඔබ මැලියෙහි නම්, ⟨එවිට⟩ ඔබේ බලය පටු වේ.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "මැලියෙහි නම්"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "හිඟාකම්"
+    },
+    {
+      "surface": "צר",
+      "gloss": "පටු"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "ඔබේ බලය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:28.719261046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සහ ⟨the⟩ දාසයන් මතද, ⟨the⟩ දාසියන් මතද, ඒ දිනවල මම ⟨את⟩ මගේ රූආඛ් වත් කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "දාසයන්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "මතද"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "දාසියන්"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "වත් කරන්නෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මගේ රූආඛ්"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "මගේ රූආඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:17:56.229058908Z",
+  "model": "glm-5.3"
+}

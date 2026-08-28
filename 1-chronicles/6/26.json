@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එත්නිගේ පුත්, සෙරඛ්ගේ පුත්, අදායාගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "එත්නිගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "සෙරඛ්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "අදායාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:18.440729196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ෂෙකෙම් තම පියා වන හමෝර්ට මෙසේ කීවේය: මට ⟨the⟩ මෙම තරුණිය භාර්යාවට ගන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ෂෙකෙම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "හමෝර්"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම තරුණිය"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "තරුණිය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "භාර්යාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:57.801578844Z",
+  "model": "glm-5.3"
+}

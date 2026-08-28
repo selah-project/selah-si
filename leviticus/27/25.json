@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔබේ සියලු තක්සේරුව ⟨යුතුය⟩ පූජස්ථානයේ ශෙකලයෙන්; විසි ගෙරාවක් ශෙකලය ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ඔබේ තක්සේරුව"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "විය යුතුය"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ශෙකලයෙන්"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "පූජස්ථානයේ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ගෙරාවක්"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ශෙකලය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:04.662365988Z",
+  "model": "glm-5.3"
+}

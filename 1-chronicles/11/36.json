@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඛෙපෙර් මෙඛෙරාතියාද, අඛියා පෙලෝනියාද,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ඛෙපෙර්"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "මෙඛෙරාතියා"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "අඛියා"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "පෙලෝනියා"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:32.855146529Z",
+  "model": "glm-5.3"
+}

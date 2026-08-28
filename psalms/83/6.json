@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 83,
+  "translation": "මන්ද ඔවුහු හදවතින් එකට කල්පනා කළහ; ඔබට විරුද්ධව ගිවිසුමක් කපති.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "කල්පනා කළහ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතින්"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එකට"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබට විරුද්ධව"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ගිවිසුමක්"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "කපති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:48.506806243Z",
+  "model": "glm-5.3"
+}

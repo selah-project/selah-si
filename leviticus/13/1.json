@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "වදාළේය යහ්වේ මොෂේ වෙත සහ අහරෝන් වෙත, කියමින්:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "ලאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:25:48.712772724Z",
+  "model": "glm-5.3"
+}

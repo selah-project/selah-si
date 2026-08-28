@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මන්ද රාජ්‍යය යහ්වේට අයිති ය — ඔහු ⟨ය⟩ ජාතීන් අතර පාලනය කරයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "රාජ්‍යය"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "පාලනය කරයි"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ජාතීන් අතර"
+    }
+  ],
+  "timestamp": "2026-08-28T02:13:34.309894412Z",
+  "model": "glm-5.3"
+}

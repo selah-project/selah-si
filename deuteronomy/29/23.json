@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "එසේම ජාතීන් සියල්ල කියන්නේය — මේ දේශයට යහ්වේ මෙසේ කළේ කුමක් නිසාද? මේ මහා කෝපයේ දැල්ල මොන තරම්ද යත්,",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "සහ කියන්නේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක් නිසාද"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "දේශයට"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොන තරම්ද"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "දැල්ල"
+    },
+    {
+      "surface": "האף",
+      "gloss": "කෝපයේ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:15:04.296590643Z",
+  "model": "glm-5.3"
+}

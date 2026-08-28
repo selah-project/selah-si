@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අරාම්ගේ පුත්‍රයෝ: ඌට්ස්, හූල්, ගෙතර් සහ මාෂ්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "අරාම්ගේ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ඌට්ස්"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "හූල්"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ගෙතර්"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "මාෂ්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:22.028238997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "හොර්මාහි රජ — එකක්; අරද්හි රජ — එකක්;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "හොර්මාහි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "අරද්හි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:29.997427691Z",
+  "model": "glm-5.3"
+}

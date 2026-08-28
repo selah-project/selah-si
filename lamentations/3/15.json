@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මා කටුක දේවලින් පුබවා, ලෝකුවෙන් මා පිරෙව්වේය.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "මා පුබවා"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "කටුක දේවලින්"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "මා පිරෙව්වේය"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ලෝකුවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.502804032Z",
+  "model": "glm-5.3"
+}

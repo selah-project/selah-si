@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මෙම බාරයික්කේ ⟨את⟩ දඬුව ඔබේ අතෙහි ගන්න, එයින් ඔබ ⟨את⟩ සලකුණු කරන්නේය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ දඬුව",
+      "marks": "දඬුව"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "දඬුව"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ඔබේ අතෙහි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්නේය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එයෙහි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සලකුණු"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "සලකුණු"
+    }
+  ],
+  "timestamp": "2026-08-28T08:13:21.246956344Z",
+  "model": "glm-5.3"
+}

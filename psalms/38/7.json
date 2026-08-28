@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මම වක් වී, ඉතා බැස ගියෙමි; දවස ⟨මුළු⟩ පුරා මා ශෝක කරමින් ඇවිදිමි.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "වක් වීමි"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "බැස ගියෙමි"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දවස පුරා"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ශෝක කරමින්"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ඇවිදිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:26:50.980580064Z",
+  "model": "glm-5.3"
+}

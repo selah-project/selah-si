@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ෂාඌල් ⟨את⟩ අමාලෙක් නැසුවේය — හාවිලා සිට, මිසරය ඉදිරිපිට ඇති ෂූර් දක්වා.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "නැසුවේය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අමාලෙක්"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "අමාලෙක්"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "හාවිලා සිට"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "යන කල"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ෂූර්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "על",
+      "gloss": "ඉදිරි"
+    },
+    {
+      "surface": "פני",
+      "gloss": "පිට"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිසරය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:59:39.586690703Z",
+  "model": "glm-5.3"
+}

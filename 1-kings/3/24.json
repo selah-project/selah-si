@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "රජ කීවේය: මට කඩුවක් ගෙන එන්න; ඔවුහු කඩුව රජ ඉදිරියට ගෙන ආහ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ගෙන එන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "කඩුවක්"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ගෙන ආහ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "කඩුව"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:16:33.679911617Z",
+  "model": "glm-5.3"
+}

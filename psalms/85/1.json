@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 85,
+  "translation": "මඟපෙන්වන්නාට; කොරෛඛ් පුත්‍රයන්ට; මෙස්මෝරයක්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "මඟපෙන්වන්නාට"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරෛඛ්"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මෙස්මෝරයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:03:34.014441359Z",
+  "model": "glm-5.3"
+}

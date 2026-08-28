@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ශාප ලත් තැනැත්තා තම පියාට හෝ තම මවට පහත් කොට සලකන්නාය; ජනයා සියල්ලද කියති: ආමෙන්.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාප ලත් තැනැත්තා"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "පහත් කොට සලකන්නාය"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාට"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "තම මවට"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලද"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ආමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:34.539935249Z",
+  "model": "glm-5.3"
+}

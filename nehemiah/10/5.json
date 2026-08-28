@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඡටූෂ්, ෂෙබන්යා, මලූක් —",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ඡටූෂ්"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ෂෙබන්යා"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "මලූක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:24.086087566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ බෙලාට පුත්‍රයෝ වූහ — දර, ගෙරා, අබීහූද්",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "සහ වූහ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "බෙලාට"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "දර"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ගෙරා"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "අබීහූද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:44.648634281Z",
+  "model": "glm-5.3"
+}

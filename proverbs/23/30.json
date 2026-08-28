@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "වයින් අසල පරක්කු වන්නන්ට, මිශ්‍ර පානය සොයා යන්නන්ට ය.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "පරක්කු වන්නන්ට"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "היין",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "යන්නන්ට"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "සොයා"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "මිශ්‍ර පානය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:18:13.610931464Z",
+  "model": "glm-5.3"
+}

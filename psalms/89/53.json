@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 89,
+  "translation": "සුබ වේවා යහ්වේ, සදාකාලයට. ආමෙන්, සහ ආමෙන්.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "සුබ වේවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ආමෙන්"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "සහ ආමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:08:28.408034705Z",
+  "model": "glm-5.3"
+}

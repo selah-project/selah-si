@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "එවිට ඊශ්‍රායෙල් ⟨את⟩ මෙම ගීතය ගැයීය: ලැබෙන්න, බිංදුව; ඊට පිළිතුරු දෙව්.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ගැයීය"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම ගීතය"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ගීතය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ලැබෙන්න"
+    },
+    {
+      "surface": "באר",
+      "gloss": "බිංදුව"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "පිළිතුරු දෙව්"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඊට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:42:09.123094443Z",
+  "model": "glm-5.3"
+}

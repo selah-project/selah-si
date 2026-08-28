@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "කැඩුමක් කැඩුමක් වෙනුවට, ඇසක් ඇසක් වෙනුවට, දතක් දතක් වෙනුවට; මිනිසෙකුට දෝෂයක් දුන් ලෙසටම ⟨එයම⟩ ඔහු තුළ දෙනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "කැඩුමක්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "වෙනුවට"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කැඩුමක්"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇසක්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "වෙනුවට"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇසක්"
+    },
+    {
+      "surface": "שן",
+      "gloss": "දතක්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "වෙනුවට"
+    },
+    {
+      "surface": "שן",
+      "gloss": "දතක්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙසට"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දුන්"
+    },
+    {
+      "surface": "מום",
+      "gloss": "දෝෂයක්"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "මිනිසෙකුට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එලෙසම"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "දෙනු ලැබේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:59.589488422Z",
+  "model": "glm-5.3"
+}

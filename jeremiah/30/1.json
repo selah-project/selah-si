@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "යිර්මියාහුට යහ්වේ වෙතින් ⟨את⟩ වූ වචනය මෙසේ — එය ඔහු වෙත වූයේ මෙලෙස කියමින්:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මියාහුට"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ වෙතින්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙලෙස කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:51:16.715084878Z",
+  "model": "glm-5.3"
+}

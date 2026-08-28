@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔබ ⟨את⟩ ආලේපන තෙල් ගෙන ඔහුගේ හිස මත වත්කුව මැනව, ඔහුව ආලේප කරනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ඔබ ගනු ඇත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආලේපන තෙල්"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "තෙල්"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ආලේපන"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "වත්කුව මැනව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ඔහුගේ හිස"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ආලේප කරනු ඇත"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ඔහුව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:56:20.887630166Z",
+  "model": "glm-5.3"
+}

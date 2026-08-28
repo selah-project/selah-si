@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබේ මිතුරාට 'යා, නැවත එව, හෙට මම දෙන්නමි' යැයි නොකියන්න, ඔබ ⟨את⟩ සමඟ ඇති විට.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ඔබේ මිතුරාට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "සහ නැවත එව"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "සහ හෙට"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "මම දෙන්නමි"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "සහ ඇත"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ සමඟ",
+      "marks": "ඔබ (ඔබ සමඟ ඇත)"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:21.114835642Z",
+  "model": "glm-5.3"
+}

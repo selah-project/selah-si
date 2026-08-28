@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සහ උදෑසන යහ්වේගේ වචනය මට ආවේය කියාමෙන්.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහ විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියාමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:27:00.603687331Z",
+  "model": "glm-5.3"
+}

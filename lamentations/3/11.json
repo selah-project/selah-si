@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මගේ මාර්ග නවත්වා මා කැබලි කළේය; ඔහු මා විනාශයට පත් කළේය.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "මගේ මාර්ග"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "නවත්වා"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "මා කැබලි කළේය"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "ඔහු මා ... පත් කළේය"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "විනාශයට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:43.597528492Z",
+  "model": "glm-5.3"
+}

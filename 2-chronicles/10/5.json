@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔහු ඔවුන්ට කීවේය: තව ⟨දින⟩ තුනක් ⟨ගතවී⟩, ඔබ මා වෙත ආපසු එව. ජනයා ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තව"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ආපසු එව"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:24:32.469832023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අදීන්ගේ පුත්‍රයෝ — හයසිය පනස් පහක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "අදීන්ගේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පහක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:58:30.707143197Z",
+  "model": "glm-5.3"
+}

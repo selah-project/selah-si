@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 66,
+  "translation": "මුළු පොළොවම ඔබට වඳින්නේය, ඔබට ගී ගයන්නේය; ඔබේ නාමයට ගී ගයති. සෙලා.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවම"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "වඳින්නේය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ගී ගයන්නේය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ගී ගයති"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ඔබේ නාමයට"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:24:26.453564983Z",
+  "model": "glm-5.3"
+}

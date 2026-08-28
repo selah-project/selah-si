@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එවිට රජු උදෑසන නැඟිණි, එළිය වූ කල සහ ඉක්මනින් සිංහ ගුහාවට ගියේය.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "නැඟිණි"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "එළිය වූ කල"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "සහ ඉක්මනින්"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "ගුහාවට"
+    },
+    {
+      "surface": "די",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "සිංහ"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:48:50.265700141Z",
+  "model": "glm-5.3"
+}

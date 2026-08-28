@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කිසිවක් ⟨ඇත්තේද⟩ ⟨the⟩ මෙසේ කියනු ලැබේ ය: බල්ම, මේ අලුත් ය කියා? එය යුග යුග පෙර සිට ම වූයේ ය, අපට පෙර වූ යුගවල ම වූයේ ය.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ඇත්තේද"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "මෙසේ කියනු ලැබේ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "බල්ම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "අලුත්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ය"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "පෙර සිට ම"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේ ය"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "යුග යුග"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේ ය"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "අපට පෙර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:20.548272961Z",
+  "model": "glm-5.3"
+}

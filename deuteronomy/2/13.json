@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දැන් නැගිට, ඔබ වෙනුවෙන් ⟨את⟩ සෙරෙද් නදිය තරණය කරව්; අපද ⟨את⟩ සෙරෙද් නදිය තරණය කළෙමු.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "නැගිට"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "තරණය කරව්"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ වෙනුවෙන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සෙරෙද් නදිය"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "නදිය"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "සෙරෙද්"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "අපද තරණය කළෙමු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සෙරෙද් නදිය"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "නදිය"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "සෙරෙද්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:24.586212199Z",
+  "model": "glm-5.3"
+}

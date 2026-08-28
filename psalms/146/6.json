@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 146,
+  "translation": "අහසද පොළොවද, ⟨את⟩ මුහුදද, හා ⟨את⟩ ඒවායේ සියල්ලද මවන්නා — සදාකාලයට සත්‍යය රකින්නා.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "මවන්නා"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "හා පොළොව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුහුද"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…හි"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඒවායේ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "රකින්නා"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යය"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:51:44.222981740Z",
+  "model": "glm-5.3"
+}

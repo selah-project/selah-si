@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "චාරිම් පෙළට — අද්නා; මරායොත් පෙළට — චෙල්කායි.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "චාරිම් පෙළට"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "අද්නා"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "මරායොත් පෙළට"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "චෙල්කායි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:24.947224786Z",
+  "model": "glm-5.3"
+}

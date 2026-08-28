@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබට එය බිම්බිඳුන්ද දූර්දරද පිපෙනු ඇත, ඔබ ⟨the⟩ කෙත් තණකොළද කනු ඇත.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "බිම්බිඳුන්ද"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "දූර්දරද"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "පිපෙනු ඇත"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ඔබ කනු ඇත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තණකොළ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "තණකොළ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙත් ⟨the⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T11:49:53.733499294Z",
+  "model": "glm-5.3"
+}

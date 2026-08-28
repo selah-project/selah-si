@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "එල්ගේ නිස්සාසනයෙන් ⟨යැවෙයි⟩ හිම; සහ ජලයේ පළල ඝන ලෙස තද වේ.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "නිස්සාසනයෙන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්ගේ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "යැවෙයි"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "හිම"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "සහ පළල"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයේ"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "ඝන ලෙස"
+    }
+  ],
+  "timestamp": "2026-08-28T04:53:08.976250582Z",
+  "model": "glm-5.3"
+}

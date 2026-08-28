@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "එහෙත්, එය කෑමේ ගසක් නොවන බව ඔබ දන්නා ගස — එයින් ⟨את⟩ ඔබ විනාශ කර කපා දමා, ඔබට විරුද්ධව සටන් කරන නගරය මත වැටලීම් කණු සාදා, එය බිඳ වැටෙන තුරු.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨යම්⟩"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ඔබ දන්නා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගසක්"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "කෑමේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "වන"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "එයින් ⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "විනාශ කර"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "කපා දමා"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "සාදා"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "වැටලීම් කණු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨යම්⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "සටන් කරන"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබට විරුද්ධව"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටන"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "එය බිඳ වැටෙන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:09:49.437706549Z",
+  "model": "glm-5.3"
+}

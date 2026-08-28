@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මොෂේ කීවේය: මක් නිසාද මෙසේ ඔබ ⟨את⟩ යහ්වේගේ මුඛය පැන යන්නේ? එය ⟨ඔබට⟩ සාර්ථක නොවන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "පැනයන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේගේ මුඛය"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "සාර්ථකවන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:38:28.812821817Z",
+  "model": "glm-5.3"
+}

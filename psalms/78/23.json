@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "එහෙත් ඔහු ⟨වලාකුළු⟩ ඉහළින් අණ කළේය, අහසේ දොරටුද විවෘත කළේය.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කළේය"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "⟨වලාකුළු⟩"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ඉහළින්"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "දොරටුද"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "විවෘත කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:46.819948092Z",
+  "model": "glm-5.3"
+}

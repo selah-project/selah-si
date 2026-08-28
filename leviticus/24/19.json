@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "සහ මිනිසෙක් ⟨තම⟩ සහෝදරයාට දෝෂයක් දෙන්නේ නම් — ඔහු කළ ලෙසටම ⟨එය⟩ ඔහුට කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "සහ මිනිසෙක්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "඙תן",
+      "gloss": "දෙන්නේ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "දෝෂයක්"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "සහෝදරයාට"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙසට"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එලෙසම"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කරනු ලැබේ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:59.589359891Z",
+  "model": "glm-5.3"
+}

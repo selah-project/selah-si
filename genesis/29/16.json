@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලාබන්ට දියණිවරු දෙදෙනෙක් ⟨were⟩ සිටියහ; වැඩිමහල්ලියගේ නම ලෙආහ, බාලයාගේ නම රාහෙල් ය.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ලාබන්ට"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙදෙනෙක්"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දියණිවරු"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "වැඩිමහල්ලියගේ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලෙආහ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "බාලයාගේ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "රාහෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:33.788718534Z",
+  "model": "glm-5.3"
+}

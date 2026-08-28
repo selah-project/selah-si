@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ත් නපුරාට නොවේ, සෙවනැල්ලක් මෙන් දින දීර්ඝ නොකරයි, මන්ද ඔහු යහ්වේට භීතියෙන් නොසිටින බැවිනි.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ත් යහපත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "නපුරාට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ත් නො"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "දීර්ඝ කරයි"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "සෙවනැල්ලක් මෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මන්ද ඔහු"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "භීතියෙන් සිටින"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:00.816288924Z",
+  "model": "glm-5.3"
+}

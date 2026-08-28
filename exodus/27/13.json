@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "අංගනයේ පළල ⟨ය⟩ පෙර-පැත්තට, නැගෙනහිර දෙසට, රියන් පනහෙකි.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "අංගනයේ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "පැත්තට"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "පෙර-පැත්තට"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "නැගෙනහිර දෙසට"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනහ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "රියන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:22.169242709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "ඔබ දැඩි බව මම දැන සිටියෙමි නිසා — ඔබේ බෙල්ල යකඩ නහරයෙකි, ඔබේ නළල තඹයි.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "මම දැන සිටියෙමි නිසා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "දැඩි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "සහ නහරයෙකි"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ඔබේ බෙල්ල"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "සහ ඔබේ නළල"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "තඹයි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:33:38.061366383Z",
+  "model": "glm-5.3"
+}

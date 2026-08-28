@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අහසද පොළොවද ඒ දෙකේ සියලු සමූහයද සම්පූර්ණ විය.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "සම්පූර්ණ විය"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "සමූහය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:28.983944918Z",
+  "model": "glm-5.3"
+}

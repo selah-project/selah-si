@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 93,
+  "translation": "ඔබේ සිහසුන එදා සිටම ස්ථිර වී ඇත; සදාකාලයෙන් ඔබ ⟨යෙදී⟩ සිටියි.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ස්ථිර වී ඇත"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ඔබේ සිහසුන"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "එදා සිටම"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "සදාකාලයෙන්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:27:27.458461086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මෙය නිසා මම අවදි වී බැලුවෙමි; මගේ නින්ද මට මිහිරි විය.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මෙය නිසා"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "අවදි වීමි"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "බැලුවෙමි"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "මගේ නින්ද"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "මිහිරි විය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:04:37.446363492Z",
+  "model": "glm-5.3"
+}

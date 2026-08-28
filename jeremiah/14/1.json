@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මෙය — යහ්වේගේ වචනය නියඟයන්ගේ කාරණා පිළිබඳව යිර්මෙයාහු වෙත පැමිණි බව ය.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිදු වූ බව ය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "על",
+      "gloss": "පිළිබඳව"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කාරණා"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "නියඟයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:40.653233818Z",
+  "model": "glm-5.3"
+}

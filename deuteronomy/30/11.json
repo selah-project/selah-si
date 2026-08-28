@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මන්ද මම අද ඔබට අණ කරන මෙම පණිවිඩය ඔබෙන් සැඟවී නැත; එය දුරස්ථවද නැත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "මෙම පණිවිඩය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබට අණ කරන"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "සැඟවී"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබෙන්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "දුරස්ථවද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:15:06.127817881Z",
+  "model": "glm-5.3"
+}

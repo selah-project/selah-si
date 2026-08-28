@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ගැහැණිය සර්පයාට කීවාය: \"උයනේ වෘක්ෂයන්ගේ ඵලයෙන් අපි කනෙමු.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ගැහැණිය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "සර්පයාට"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ඵලයෙන්"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "වෘක්ෂයන්ගේ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "උයනේ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "කනෙමු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:30.381212107Z",
+  "model": "glm-5.3"
+}

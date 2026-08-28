@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මේ සියල්ලන් සිද්දීම් නිම්නයට ⟨the⟩ එක් වූහ — එය ⟨the⟩ ලුණු මුහුද ය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "මේ සියල්ලන්"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "එක් වූහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙතට"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "නිම්නය"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "සිද්දීම්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ලුණු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:10:17.622240904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අණ රකින තැනැත්තා නපුරු දෙයක් නොදනී; කාලයද තීන්දුවද ඥානවන්තගේ හදවත දනී.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "රකින තැනැත්තා"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "අණ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙයක්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ කාලය"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "සහ තීන්දුව"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ඥානවන්තගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:24:35.906072950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "එවිට යහ්වේගේ තේජස ⟨the⟩ ගෙයි දැලිපෙට මතින් පිටත්ව, කෙරුබීම් මත සිටගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත්ව ගියේය"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "දැලිපෙට"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "සිටගත්තේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "කෙරුබීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:26:50.853503295Z",
+  "model": "glm-5.3"
+}

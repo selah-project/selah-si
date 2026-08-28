@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඉර යට මම දුටු රෝගාත්මක අයහපතක් ⟨ඇත⟩: එහි හිමිකරුට ඔහුගේ විපතට ⟨මිස නැති⟩ රැකවරණය ලත් ධනයක්.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇත⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අයහපතක්"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "රෝගාත්මක"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටු"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ධනයක්"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "රැකවරණය ලත්"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "එහි හිමිකරුට"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "ඔහුගේ විපතට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:08.823086285Z",
+  "model": "glm-5.3"
+}

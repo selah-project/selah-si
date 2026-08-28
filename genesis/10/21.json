@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ෂෙම්ටද — ඒවර්ගේ සියලු පුත්‍රයන්ගේ පියා, මහලු යෙෆෙත්ගේ සහෝදරයා — ඔහුටද දරුවන් උපන්නෝය.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "ෂෙම්ටද"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "උපන්නෝය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ඒවර්ගේ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "සහෝදරයා"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "යෙෆෙත්ගේ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහලු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:22.027877990Z",
+  "model": "glm-5.3"
+}

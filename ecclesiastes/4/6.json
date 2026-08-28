@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "විවේකයෙන් යුත් එක් කුලුඳක් පිරීම, දෙපතුල් පිරෙන උත්සාහයට හා රූආඛ් කුප්‍රකාරයට වඩා ⟨යහපත්ය⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පිරීම"
+    },
+    {
+      "surface": "כף",
+      "gloss": "කුලුඳ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "විවේකය"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "පිරෙන"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "දෙපතුල්"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "උත්සාහයට"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "කුප්‍රකාරයට"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "රූආඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:45.945790097Z",
+  "model": "glm-5.3"
+}

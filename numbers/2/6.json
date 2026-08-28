@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔහුගේ සේනාව හා ඔහුගේ ගණන් කරන ලද්දෝ — දාහතර දහස් පන්සිය හා සිවුසිය ය.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ඔහුගේ සේනාව"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ඔහුගේ ගණන් කරන ලද්දෝ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "දාහතර"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "සිව්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:49.655005926Z",
+  "model": "glm-5.3"
+}

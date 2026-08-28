@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "රජු ⟨he⟩ ඔහුට කීවේය: සාමයෙන් යව. ඔහු නැඟී හෙබ්රොනයට ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "සාමයෙන්"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "හෙබ්රොනයට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:21:20.087560342Z",
+  "model": "glm-5.3"
+}

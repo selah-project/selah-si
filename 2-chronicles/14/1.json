@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "අසා රජු ⟨ඔහුගේ⟩ එලෝහීම් වන යහ්වේගේ ඇස් ඉදිරියෙහි යහපත් හා සෘජු දෙය කෙළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කෙළේය"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "අසා රජු"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "හා සෘජු"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ඔහුගේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:28:18.881637215Z",
+  "model": "glm-5.3"
+}

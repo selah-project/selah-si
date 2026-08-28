@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 145,
+  "translation": "යහ්වේ සියල්ලන්ට යහපත් ය; ඔහුගේ කරුණාවෝ ඔහුගේ සියලු කෘති මත ⟨වෙති⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලන්ට"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ඔහුගේ කරුණාවෝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ඔහුගේ කෘති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:49:18.934068504Z",
+  "model": "glm-5.3"
+}

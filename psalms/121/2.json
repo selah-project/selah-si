@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "මගේ උදව් ⟨යහ්වේ⟩ සමීපයෙන් වේ — අහසද පොළොවද මවන්නා යහ්වේගෙනි.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "මගේ උදව්"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "සමීපයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "මවන්නා"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "සහ පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:47.210150961Z",
+  "model": "glm-5.3"
+}

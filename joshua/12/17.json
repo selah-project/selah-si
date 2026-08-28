@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "තපූආඛ්හි රජ — එක්; හෙෆෙර්හි රජ — එක්;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "තපූආඛ්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "හෙෆෙර්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:32.726501106Z",
+  "model": "glm-5.3"
+}

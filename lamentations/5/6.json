@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මිත්ස්රයිම්ට ⟨අප⟩ අත දුන්නෙමු, අෂූර්ටද, පාන් තෘප්තියට.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "මිත්ස්රයිම්"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "දුන්නෙමු"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අෂූර්"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "තෘප්තියට"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:45:51.272499089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ධනවතා දුගීන් මත පාලනය කරයි; ණය ගන්නා ණයහිමියාට වහලෙකි.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ධනවතා"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "දුගීන් මත"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "පාලනය කරයි"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "සහ වහලෙකි"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ණය ගන්නා"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ණයහිමියාට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:14:38.965128709Z",
+  "model": "glm-5.3"
+}

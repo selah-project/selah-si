@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "නාහෝර් වසර විසිනවයක් ජීවත් වූයේය, ⟨את⟩ තෙරාහ් බිහි කළේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් වූයේය"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "නාහෝර්"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නවයක්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "හා විසි"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "බිහි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තෙරාහ්"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "තෙරාහ්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:24.666885001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මෙයන්ට ⟨මෙයන්ට⟩ දේශය උරුමයක් ලෙස නම් වල ගණන අනුව බෙදෙනු ඇත.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "මෙයන්ට"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "බෙදෙනු ඇත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "උරුමයක් ලෙස"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ගණන අනුව"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "නම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:29.070495638Z",
+  "model": "glm-5.3"
+}

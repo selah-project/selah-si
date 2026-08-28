@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 29:8",
+  "book": "job",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "තරුණයෝ මා දැක සැඟවුණහ; මහල්ලෝ නැඟී සිටගත්හ.",
+  "tokens": [
+    {
+      "surface": "ראוני",
+      "gloss": "මා දැක"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "තරුණයෝ"
+    },
+    {
+      "surface": "ונחבאו",
+      "gloss": "සැඟවුණහ"
+    },
+    {
+      "surface": "וישישים",
+      "gloss": "මහල්ලෝ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "සිටගත්හ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:47:13.624144733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "කෝපයෙන් මගේ ඇස මැලවී ගියේය; මගේ සියලු සතුරන් නිසා එය මහලු විය.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "මැලවී ගියේය"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "කෝපයෙන්"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "මගේ ඇස"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "මහලු විය"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "මගේ සතුරන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:59:45.244735210Z",
+  "model": "glm-5.3"
+}

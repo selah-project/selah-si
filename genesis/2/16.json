@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යහ්වේ එලෝහීම් මිනිසාට අණ කොට කීවේය: වත්තේ සෑම ගසින්ම ඔබ කාලාම කඑයි.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මිනිසාට (මත)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "සෑම…සිටෙන්ම"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "වත්තේ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "කාලාම"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "කඑයි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:25.616797763Z",
+  "model": "glm-5.3"
+}

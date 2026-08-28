@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "රජු මට කීවේ: 'මෙසේ කුමක්ද ඔබ ඉල්ලන්නේ?' එවිට මම අහසේ එලෝහීම් වෙත යාච්ඤා කළෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ඉල්ලන්නේ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "යාච්ඤා කළෙමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:10:52.958194144Z",
+  "model": "glm-5.3"
+}

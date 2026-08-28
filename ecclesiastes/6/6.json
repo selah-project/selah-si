@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එසේ නමුත් ඔහු අවුරුදු දහසක් දෙවරක් ජීවත් වුවත් යහපතක් නොදුටුවේ නම් — සියල්ලන් එකම තැනකට නොයන්නේද?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "එසේ නමුත්"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ජීවත් වුවත්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "දෙවරක්"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "යහපතක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දුටුවේ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නොයන්නේද"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එකම තැනකට"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "යන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:24:07.292352513Z",
+  "model": "glm-5.3"
+}

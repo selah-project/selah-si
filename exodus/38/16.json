@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "අංගණයේ සියලු තිර, වටේට, ⟨වූයේ⟩ කැටළි නූල් සුදු රෙදි ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "තිර"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "අංගණයේ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේට"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සුදු රෙදි"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "කැටළි නූල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:05.828087744Z",
+  "model": "glm-5.3"
+}

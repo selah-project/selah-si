@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ⟨את⟩ හදෝරාම් හා ⟨את⟩ උසාල් හා ⟨את⟩ දික්ලා.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "හදෝරාම්"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "හදෝරාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "උසාල්"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "උසාල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දික්ලා"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "දික්ලා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:18.160001952Z",
+  "model": "glm-5.3"
+}

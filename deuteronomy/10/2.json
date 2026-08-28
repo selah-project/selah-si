@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මම ⟨את⟩ වචනයන් — ඔබ කඩාදැමූ පළමු පුවරුවල තිබූ — පුවරුවල ලියන්නෙමි; ඔබ ඒවා පෙටියේ තබන්න.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "මම ලියන්නෙමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "පුවරුවල"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචනයන්"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היו",
+      "gloss": "තිබූ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "පුවරුවල"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ඔබ කඩාදැමූ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ඔබ ඒවා තබන්න"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "පෙටියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:10.387662180Z",
+  "model": "glm-5.3"
+}

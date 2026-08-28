@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබට ඔබේ උරය මත පිහියක් ⟨වේවා⟩; ඔබ පිටත වාඩිවන විට ඔබ එයින් හාරා, ආපසු හැරී ඔබේ මලපහ ⟨את⟩ වසනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "පිහියක්"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "උරය"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "සිටී"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "වාඩිවන විට"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "හාරා"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "ආපසු හැරී"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "වසනු ඇත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ මලපහ"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "මලපහ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:39.937490643Z",
+  "model": "glm-5.3"
+}

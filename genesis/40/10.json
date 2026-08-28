@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "වැලේ අතු තුනක්; එය පිපෙන විට එහි මල් නැඟ ආවේය, එහි මිදි පොකුරු ඉදුණේය.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "වැලේ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "අතු"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "පිපෙන විට"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "නැඟ ආවේය"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "මල්"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "ඉදුණේය"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "එහි මිදි පොකුරු"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "මිදි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:29:42.547219389Z",
+  "model": "glm-5.3"
+}

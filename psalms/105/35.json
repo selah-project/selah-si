@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 105,
+  "translation": "එය ඔවුන්ගේ දේශයේ සියලු තෘණ කෑවේය, එය ඔවුන්ගේ පසෙහි ඵලද කෑවේය.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "කෑවේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "තෘණ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ඔවුන්ගේ දේශයේ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "කෑවේය"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵල"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ඔවුන්ගේ පසෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:20:24.427033322Z",
+  "model": "glm-5.3"
+}

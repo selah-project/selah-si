@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "අසන්න, යහ්වේ, මට කරුණා කරන්න; යහ්වේ, මට උපකාරකයා වන්න.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "මට කරුණා කරන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වන්න"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "උපකාරකයා"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:15:51.942841901Z",
+  "model": "glm-5.3"
+}

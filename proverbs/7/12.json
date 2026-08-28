@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සමහරවිට පිටත, සමහරවිට පුළුල් චතුරස්‍රවල, සහ සෑම කොනකම අසල සැඟවී සිටී",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "සමහරවිට"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "සමහරවිට"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "පුළුල් චතුරස්‍රවල"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "සහ අසල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "කොනක"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "සැඟවී සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:53.283862848Z",
+  "model": "glm-5.3"
+}

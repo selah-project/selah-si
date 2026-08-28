@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 8:35",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යිස්රායෙල් සමඟ ඔහු කළ සියලු යහපතට ⟨the⟩ අනුව ගිද්ඕොන් වන යෙරුබාල්ගේ ගෙදර සමඟ ඔව්හු කෙසෙද් නොකළහ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "කෙසෙද්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙදර"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "යෙරුබාල්ගේ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ගිද්ඕොන්"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියලු...ට"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:40:37.619068115Z",
+  "model": "glm-5.3"
+}

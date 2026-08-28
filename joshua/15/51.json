@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ගෝෂෙන්, ගොලොන්, ගිලෝ — නගර එකොළොසක් හා ඒවායේ ගම්මානයෝ —",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "ගෝෂෙන්"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "ඒෂොලොන්"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "ගිලෝ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකොළොසක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨එකොළොසක්⟩"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ඒවායේ ගම්මානයෝ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.967996348Z",
+  "model": "glm-5.3"
+}

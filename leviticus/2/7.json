@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ ඔබේ කුලුනේ පූජාව බඳුනක ⟨the⟩ පිළියෙළ කරන පූජාවක් නම්, එය තෙල්හි සිලිපල පිටියෙන් සාදනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "පූජාව"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "බඳුන"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ඔබේ කුලුන"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "සිලිපල පිටි"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "තෙල්හි"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "සාදනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:33.910131563Z",
+  "model": "glm-5.3"
+}

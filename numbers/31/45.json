@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සහ බූරන් තිස් දහසක් සහ පන්සියයක්,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "සහ බූරන්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "සහ පහ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:41.933038311Z",
+  "model": "glm-5.3"
+}

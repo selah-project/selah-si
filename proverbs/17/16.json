@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මේ ඇයි — මෝඩයාගේ අතේ ⟨තිබෙන⟩ මිලක්, ඥානය මිලදී ගැනීමට, ඔහුට හදවතක් නැති නිසා?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "මේ ඇයි"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "මිලක්"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතේ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "මිලදී ගැනීමට"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "හදවතක්"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති නිසා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:36.253994024Z",
+  "model": "glm-5.3"
+}

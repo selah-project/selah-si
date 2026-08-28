@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "හදර්-ගදා, හෙෂ්මෝන්, බෙයිත්-පලෙට්;",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "සහ හදර්"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ගදා"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "සහ හෙෂ්මෝන්"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "සහ බෙයිත්"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "පලෙට්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:18.501947923Z",
+  "model": "glm-5.3"
+}

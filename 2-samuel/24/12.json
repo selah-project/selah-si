@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යා, දාවීද්ට කතා කර: යහ්වේ මෙසේ කියයි: මම ⟨is⟩ ඔබ මත තුනක් පනවමි; ඒවායින් එකක් තෝරාගන්න, මම එය ඔබට කරමි.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "කතා කර"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "පනවමි"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "තෝරාගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ඒවායින්"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "කරමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:29:17.488957503Z",
+  "model": "glm-5.3"
+}

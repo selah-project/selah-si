@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 73,
+  "translation": "මරණයෙහි ⟨ඔවුන්ට⟩ වේදනා නැත; ⟨ඔවුන්ගේ⟩ දේහ පෝෂිත ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "වේදනා"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "මරණයෙහි ⟨ඔවුන්ට⟩"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "පෝෂිත"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "දේහ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:25:37.305224126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "උදෑසන දහන පූජාවට — එය නොනවත් දහන පූජාව විය — හැර, මේ ⟨את⟩ කරන්න.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "හැර"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "දහන පූජාව"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "දහන පූජාවට"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "නොනවත්"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:14.111914730Z",
+  "model": "glm-5.3"
+}

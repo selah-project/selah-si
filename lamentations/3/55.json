@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම ඔබගේ නාමය ආරාධනා කෙළෙමි, යහ්වේ ය, පහළම ගැඹුරින්.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "මම ආරාධනා කෙළෙමි"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ඔබගේ නාමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "පහළම ගැඹුරින්"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "පහළම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:10.526136431Z",
+  "model": "glm-5.3"
+}

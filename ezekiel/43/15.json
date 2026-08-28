@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "දෙවි-කන්ද — මිටි හතරකි; දෙවි-කන්දෙහ් සිට ඉහළට අඟ හතරකි.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "දෙවි-කන්ද"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "මිටි"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "දෙවි-කන්දෙහ් සිට"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ඉහළට"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "අඟ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතරකි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:59:03.411476066Z",
+  "model": "glm-5.3"
+}

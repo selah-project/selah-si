@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම ⟨את⟩ මළවුන් — දැනටමත් මළ — ජීවත්ව සිටියවුන්ට වඩා සුබ පතමි; ඔවුන් තවමත් ජීවත් ⟨වෙති⟩.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "සුබ පතමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මළවුන්"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "දැනටමත්"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "මළ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවත්ව සිටියවුන්ට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවත්"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "තවමත්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:20:35.395054953Z",
+  "model": "glm-5.3"
+}

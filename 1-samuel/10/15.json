@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ෂාඌල්ගේ මාමා කීවේය: කරුණාකර මට කියන්න, ෂෙමුඑල් ඔබට මොකද කිව්වේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "මාමා"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්ගේ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකද"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කිව්වේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ෂෙමුඑල්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:03:41.384204407Z",
+  "model": "glm-5.3"
+}

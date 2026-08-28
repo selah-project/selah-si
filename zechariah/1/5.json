@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබේ පියවරුන් කොහි සිටිතිද? අනාගතවක්තෲහු සදාකාලට ජීවත් වෙත්ද?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ඔබේ පියවරුන්"
+    },
+    {
+      "surface": "איה",
+      "gloss": "කොහි"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඔවුහු"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "අනාගතවක්තෲහු"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "සදාකාලට"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ජීවත් වෙත්ද"
+    }
+  ],
+  "timestamp": "2026-08-28T10:18:05.259321408Z",
+  "model": "glm-5.3"
+}

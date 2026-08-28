@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දෝලාවක් — රජු වන ෂලෝමොහ් තමාටම ලෙබනන් දැවයෙන් කළේය.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "දෝලාවක්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාටම"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමොහ්"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "දැවයෙන්"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ලෙබනන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:44:58.782274210Z",
+  "model": "glm-5.3"
+}

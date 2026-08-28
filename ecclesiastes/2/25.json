@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මක්නිසාද කවරෙක් අනුභව කරන්නේද, මා හැර පිටත කවරෙක් උත්සාහ කරන්නේද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "අනුභව කරන්නේද"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "සහ කවරෙක්"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "උත්සාහ කරන්නේද"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මා හැර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:31.810262710Z",
+  "model": "glm-5.3"
+}

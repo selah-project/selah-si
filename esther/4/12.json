@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එස්තෙර්ගේ වචන ⟨את⟩ මෝරධකයිට දැන්වූහ.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "දැන්වූහ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "මෝරධකයිට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එස්තෙර්ගේ වචන"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:27:13.984940866Z",
+  "model": "glm-5.3"
+}

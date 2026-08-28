@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "රජු මට කීවේ: 'ඇයි ඔබේ මුහුණ දුක්බර ⟨වී ඇත්තේ⟩? ඔබ රෝගී නොවන නිසා — මෙය හදවතේ දුක මිස වෙනකක් ⟨නොවේ⟩.' එවිට මම ඉතා බෙහෙවින් බිය වීමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ඔබේ මුහුණ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "දුක්බර"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "නොවන"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "රෝගී"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මිස වෙනකක්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "දුක"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතේ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "බිය වීමි"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ඉතා බෙහෙවින්"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:10:52.957890218Z",
+  "model": "glm-5.3"
+}

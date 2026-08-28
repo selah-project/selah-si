@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඛනන්, මාකාගේ පුත්‍රයා, මිත්නිවරයා වන යොෂාපාත් —",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ඛනන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "මාකාගේ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "යොෂාපාත්"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "මිත්නිවරයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:35.487142353Z",
+  "model": "glm-5.3"
+}

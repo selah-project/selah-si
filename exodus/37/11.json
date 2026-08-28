@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "සහ ඔහු ⟨את⟩ එය ආවරණය කළේය පිරිසිදු රනින්, සහ ඒ සඳහා කළේය රන් සීමා-කුරුලක් වටා.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ආවරණය කළේය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය (රන්)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඒ සඳහා"
+    },
+    {
+      "surface": "זר",
+      "gloss": "සීමා-කුරුල"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:02:37.425029431Z",
+  "model": "glm-5.3"
+}

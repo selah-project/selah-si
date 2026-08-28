@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මා පොළොවෙහි ආගන්තුකයෙකි; ඔබගේ ආඥා මගෙන් සඟවන්න එපා.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "ආගන්තුකයෙකි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "සඟවන්න"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ඔබගේ ආඥා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:42.028355806Z",
+  "model": "glm-5.3"
+}

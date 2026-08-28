@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "යාකොව් තම පියාගේ සංචාරක වාසය කළ දේශයේ — කෙනන් දේශයේ — වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "සංචාරක වාසය"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාගේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙනන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:04.700676402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "දොර එහි ඇණ මත ඇඹරෙයි; එසේම උදාසීන ⟨තැනැත්තා⟩ ⟨තම⟩ ඇඳ මත ඇඹරෙයි.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "දොර"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ඇඹරෙයි"
+    },
+    {
+      "surface": "ජל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "එහි ඇණ"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "සහ උදාසීන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "තම ඇඳ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:18:53.251666034Z",
+  "model": "glm-5.3"
+}

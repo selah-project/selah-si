@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "රූබෙන්, ෂිම්උොන්, ලෙවී සහ යෙහූදා.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "රූබෙන්"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ෂිම්උොන්"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවී"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "සහ යෙහූදා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:37:40.140753297Z",
+  "model": "glm-5.3"
+}

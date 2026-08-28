@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සහ අසර්යා, එස්රා සහ මෙෂුල්ලම්",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "සහ අසර්යා"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "එස්රා"
+    },
+    {
+      "surface": "වמשלם",
+      "gloss": "සහ මෙෂුල්ලම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:26:14.714810944Z",
+  "model": "glm-5.3"
+}

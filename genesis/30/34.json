@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ලාවන් පැවසුවේය: බලු, ඔබ කථා කළ පරිදි වේවා!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "පැවසුවේය"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාවන්"
+    },
+    {
+      "surface": "הן",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "לו",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ඔබ කථා කළ පරිදි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:22:44.894671896Z",
+  "model": "glm-5.3"
+}

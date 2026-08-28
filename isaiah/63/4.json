@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 63,
+  "translation": "මන්ද මඏ හදවත තුළ පලිගැනීමේ දිනය ⟨is⟩, මඏ මුදාගැනීමේ වර්ෂය පැමිණි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "පලිගැනීමේ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "මඏ හදවත තුළ"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "වර්ෂය"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "මඏ මුදාගැනීමේ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "පැමිණි"
+    }
+  ],
+  "timestamp": "2026-08-28T09:43:52.251911768Z",
+  "model": "glm-5.3"
+}

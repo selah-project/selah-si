@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "numbers 7:86",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් කප් දොළහක්, සුවඳ දුම් පිරී — ⟨එක්⟩ කප්පෙක් ශුද්ධ ශේකල් දහය බැගින්; කප්පවල රන් සියල්ල සිය විස්සයි.",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "කප්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "පිරී"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය බැගින්"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "කප්පෙක්"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ශේකල්"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ශුද්ධ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "කප්පවල"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්ස"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "සහ සිය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:01.639371123Z",
+  "model": "glm-5.3"
+}

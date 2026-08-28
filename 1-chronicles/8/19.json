@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යාකීම්, සික්‍රී සහ සබ්දී.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "යාකීම්"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "සික්‍රී"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "සහ සබ්දී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:51.194515Z",
+  "model": "glm-5.3"
+}

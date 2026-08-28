@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මන්ද අඳුර නොමැලී අත්පත් නොමැලී වැල් අත් අත් අත් නැත සෙවෙන නැත අත් නැත",
+  "tokens": [],
+  "timestamp": "2026-08-28T01:39:28.382112468Z",
+  "model": "glm-5.3"
+}

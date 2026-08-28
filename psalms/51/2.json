@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 51,
+  "translation": "නාතන් න෶යා ඔහු වෙත පැමිණි කල්හි — ඔහු බත්-ෂබා ⟨වෙත⟩ පැමිණි විට.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "පැමිණි කල්හි"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහු වෙත"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "න෶යා"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "විට"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨වෙත⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "බත්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ෂබා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:37:06.693901247Z",
+  "model": "glm-5.3"
+}

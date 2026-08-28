@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "සාරාගේ ජීවිතය වසර සියයක් සහ වසර විසිවක් සහ වසර හතක් විය — සාරාගේ ජීවිතයේ වසර් මේවාය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ජීවිතය"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "සාරාගේ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විසිවක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "සහ හතක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසර්"
+    },
+    {
+      "surface": "שני",
+      "gloss": "වසර්"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ජීවිතයේ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "සාරාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:15:08.151192559Z",
+  "model": "glm-5.3"
+}

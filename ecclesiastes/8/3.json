@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහුගේ මුහුණ ඉදිරියේ බියපත් නොවව, නපුරු කාරණයක නොසිටිව; මන්ද ඔහු කැමති සියල්ල කරයි.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "බියපත් වව"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ඔහුගේ මුහුණ ඉදිරියේ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "සිටිව"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "කාරණයක"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු කැමති"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:28.929954695Z",
+  "model": "glm-5.3"
+}

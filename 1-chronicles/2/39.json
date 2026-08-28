@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අසර්යා ⟨את⟩ හෙලෙස්ව ලැබීය, හෙලෙස් ⟨את⟩ එල්ආසාව ලැබීය.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හෙලෙස්"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "හෙලෙස්"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "හෙලෙස්"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එල්ආසා"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "එල්ආසා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.565597587Z",
+  "model": "glm-5.3"
+}

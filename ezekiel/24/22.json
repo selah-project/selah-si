@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔබ මම කළ පරිදි කරන්නහ: ඔබේ උඩුතොල මත නොවසන්නහ, අන් මිනිසුන්ගේ පාන් නොකන්නහ.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ඔබ කරන්නහ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "මම කළ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "ඔබේ උඩුතොල"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "වසන්නහ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "අන් මිනිසුන්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කන්නහ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:04:10.487297477Z",
+  "model": "glm-5.3"
+}

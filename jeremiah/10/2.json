@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 10:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙසේ කී යහ්වේ: ජාතීන්ගේ මාර්ගය නො ඉගෙන ගන්න, අහසේ සලකුණු කෙරෙහි බිය නො වන්න, මන්ද ජාතීහු ඒවායින් බිය වෙති.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්ගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלמדו",
+      "gloss": "ඉගෙන ගන්න"
+    },
+    {
+      "surface": "ומאתות",
+      "gloss": "සලකුණු"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "බිය වෙති"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීහු"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "ඒවායින්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:51:02.612921249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 66,
+  "translation": "මගේ තොල් විවර කළ දේ — මගේ කට සන්තර්ශයේදී කී දේ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "දේ —"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "විවර කළ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "මගේ තොල්"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මගේ කට"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "සන්තර්ශයේදී"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:44.890714545Z",
+  "model": "glm-5.3"
+}

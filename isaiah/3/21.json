@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මුදල් මුද්‍රා-වළලු, නාසිකා-වළලුද",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "මුදල් මුද්‍රා-වළලු"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "නාසිකා-වළලුද"
+    },
+    {
+      "surface": "האף",
+      "gloss": "නාසයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:10:22.060684695Z",
+  "model": "glm-5.3"
+}

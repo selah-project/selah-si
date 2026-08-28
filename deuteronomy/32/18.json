@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "ඔබව ජනිත කළ පර්වතය ඔබ මතක තබාගත්තේ නැත; ඔබව බිහිකළ එල් ⟨ඔබ⟩ අමතක කළේය.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ඔබව ජනිත කළ"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "මතක තබාගත්තේ නැත"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "අමතක කළේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "ඔබව බිහිකළ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:18:35.875599695Z",
+  "model": "glm-5.3"
+}

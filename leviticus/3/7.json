@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තම කොර්බානයට ⟨את⟩ බැටළුවකු ගෙන එයි නම්, ඔහු ⟨את⟩ එය යහ්වේ ඉදිරියේ ගෙන එන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "බැටළුවකු"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ගෙන එයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම කොර්බානයට"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "තම කොර්බානය"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ගෙන එන්නේ ය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:06:42.771729010Z",
+  "model": "glm-5.3"
+}

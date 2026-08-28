@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "දූතයෝ ෂාඌල්ගේ ගිබ්අා වෙත ආවාහ; ⟨the⟩ වචනයන් ⟨the⟩ ජනයාගේ කන්වල කථා කළහ; ⟨the⟩ ජනයා සියල්ලෝ ⟨the⟩ තම හඬ ඔසවා අඬාහ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ආවාහ"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "දූතයෝ"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ගිබ්අා"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්ගේ"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "කථා කළහ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "කන්වල"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම හඬ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "තම හඬ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "අඬාහ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:57:39.594994517Z",
+  "model": "glm-5.3"
+}

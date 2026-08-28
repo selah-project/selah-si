@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මිශ්කානයට හා වටා ඇති අංගනයට අයත් දංඩිල් සියල්ල තඹ විය.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "දංඩිල්"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "මිශ්කානයට"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "අංගනයට"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා ඇති"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:30.361381642Z",
+  "model": "glm-5.3"
+}

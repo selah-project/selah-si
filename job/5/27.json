@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "බල්ලා, මෙය අපි සොයා බැලුවෙමු; එය එසේම ⟨වේ⟩; මෙය අසව්, ඔබ ඔබටම දැනගනිව්.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල්ලා"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "අපි සොයා බැලුවෙමු"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "היא",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "דע",
+      "gloss": "දැනගනිව්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබටම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:28:17.021975599Z",
+  "model": "glm-5.3"
+}

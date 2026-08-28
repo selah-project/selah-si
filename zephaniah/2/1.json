@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එකතු වෙව්, මෙසේ එකතු වෙව්, ⟨නුඹ⟩ ජාතියෙනි — පැතුම් නොලද ⟨ජාතියෙනි⟩.",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "එකතු වෙව්"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "මෙසේ එකතු වෙව්"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ජාතියෙනි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "පැතුම් නොලද"
+    }
+  ],
+  "timestamp": "2026-08-28T01:43:41.458718089Z",
+  "model": "glm-5.3"
+}

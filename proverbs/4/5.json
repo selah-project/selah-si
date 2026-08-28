@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ප්‍රඥාව ලබාගන්න, අවබෝධය ලබාගන්න; අමතක නොකරන්න, සහ ⟨මගේ⟩ මුඛයේ වදන්වලින් නොනැමෙන්න.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ලබාගන්න"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ලබාගන්න"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "අවබෝධය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "අමතක කරන්න"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תט",
+      "gloss": "නැමෙන්න"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "වදන්වලින්"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මාගේ මුඛයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:34.780477152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මහලුවරු දොරටුවෙන් විරාම ගත්හ; තරුණයෝ ⟨තමන්ගේ⟩ ගීතිකාවෙන් ⟨විරාම ගත්හ⟩.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "මහලුවරු"
+    },
+    {
+      "surface": "משער",
+      "gloss": "දොරටුවෙන්"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "විරාම ගත්හ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "තරුණයෝ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "තමන්ගේ ගීතිකාවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:15:59.044846339Z",
+  "model": "glm-5.3"
+}

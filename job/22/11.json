@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "හෝ අන්ධකාරය — ඔබ නොදක්නෙහි; සහ ජලයේ බහුලත්වය ඔබව වැසීය.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "අන්ධකාරය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ඔබ දක්නෙහි"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "සහ බහුලත්වය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයේ"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "ඔබව වැසීය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:40:28.473489372Z",
+  "model": "glm-5.3"
+}

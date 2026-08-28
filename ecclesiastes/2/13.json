@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම දුටිමි — මෝබදුවෙන් ඥානයට වාසියක් ⟨ඇත⟩ බව, අන්ධකාරයෙන් ආලෝකයට ⟨ඇති⟩ වාසිය මෙන්ම.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "මම දුටිමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "⟨ඇත⟩ බව"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "වාසියක්"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ඥානයට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මෙන්ම"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "මෝබදුවෙන්"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "වාසිය"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ආලෝකයට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මෙන්ම"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "අන්ධකාරයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:20:04.426997841Z",
+  "model": "glm-5.3"
+}

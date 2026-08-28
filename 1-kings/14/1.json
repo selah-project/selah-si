@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඒ කාලයේදී යාරොව්ආම්ගේ පුත් අවියා රෝගාතුර විය.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ඒ කාලයේදී"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "රෝගාතුර විය"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "අවියා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "යාරොව්ආම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:42:28.545399663Z",
+  "model": "glm-5.3"
+}

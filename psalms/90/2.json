@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 90,
+  "translation": "කඳු උපන් පෙර, ඔබ පොළොව හා ලෝකය මවන්නට පෙර, සදාකාලයේ සිට සදාකාලය දක්වා ඔබ ⟨එල්⟩ වහි.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "උපන්"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "මවන්නට"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ලෝකය"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "සදාකාලයේ සිට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:58.081525142Z",
+  "model": "glm-5.3"
+}

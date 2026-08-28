@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ශේර්-යාෂුබ් — යාකොව්ගේ ශේෂය — බලවත් එල් වෙත ආපසු හැරේ.",
+  "tokens": [
+    {
+      "surface": "שְׁאָר",
+      "gloss": "ශේෂය"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "שְׁאָר",
+      "gloss": "ශේෂය"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "යාකොව්ගේ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "גִּבּוֹר",
+      "gloss": "බලවත්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:15:02.496543264Z",
+  "model": "glm-5.3"
+}

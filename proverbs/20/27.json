@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මිනිසාගේ ආත්මය යහ්වේගේ පහනකි — උදරයේ සියලු කුටි සොයා බලයි.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "පහනකි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "සොයා බලයි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "කුටි"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "උදරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:56.533355548Z",
+  "model": "glm-5.3"
+}

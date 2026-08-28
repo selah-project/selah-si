@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "සෑම කාලයකදීම මිත්‍රයා ප්‍රේම කරයි, සහෝදරයෙක් විපත සඳහා උපදී.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "සෑම ... කාලයකදීම"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ප්‍රේම කරයි"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "මිත්‍රයා"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "සහෝදරයෙක්"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "විපත සඳහා"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "උපදී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:33.360911475Z",
+  "model": "glm-5.3"
+}

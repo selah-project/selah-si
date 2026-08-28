@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙත්සෙර්, වාහෝද්, ෂම්මා, ෂිල්ෂා, යිත්‍රාන් සහ බෙරා.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "බෙත්සෙර්"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "වාහෝද්"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ෂම්මා"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ෂිල්ෂා"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "යිත්‍රාන්"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "බෙරා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:23.968332327Z",
+  "model": "glm-5.3"
+}

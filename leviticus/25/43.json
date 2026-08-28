@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබ ⟨את⟩ ඔහු කෲර ලෙස පාලනය නොකරන්න; නමුත් ඔබගේ එලෝහීම් ගැන බිය වන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "පාලනය කරන්න"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "කෲර ලෙස"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ඔබගේ එලෝහීම් ගැන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:23:54.030704722Z",
+  "model": "glm-5.3"
+}

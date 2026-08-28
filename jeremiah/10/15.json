@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "හෙතෙම් හෙබෙල් — රැවටීම් ක්‍රියාවකි; ඔවුන්ගේ විභාගයේ කාලයේදී ඔවුන් විනාශ වන්නාහ.",
+  "tokens": [
+    {
+      "surface": "භ",
+      "gloss": ""
+    },
+    {
+      "surface": "המה",
+      "gloss": "හෙතෙම්"
+    },
+    {
+      "surface": "ම",
+      "gloss": "ක්‍රියාවකි"
+    },
+    {
+      "surface": "ර",
+      "gloss": "රැවටීම්"
+    },
+    {
+      "surface": "බ",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "ප",
+      "gloss": "ඔවුන්ගේ විභාගය"
+    },
+    {
+      "surface": "ය",
+      "gloss": "විනාශ වන්නාහ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:50:11.655335147Z",
+  "model": "glm-5.3"
+}

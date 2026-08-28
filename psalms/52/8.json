@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 52,
+  "translation": "ධාර්මිකයෝ දැක, බිය වී, ඔහු ගැන සිනාසෙන්නෝය.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ධාර්මිකයෝ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "බිය වී"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ඔහු ගැන"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "සිනාසෙන්නෝය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:40:08.717482255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඔහු කුමාරිකාවකින් — ඇගේ කන්‍යභාවයෙහිම සිටිනා ගැහැණියක් ⟨ද⟩ ගන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ගැහැණියක්"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "ඇගේ කන්‍යභාවයෙහි"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:23:48.291978943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දිගු දිවි ඇගේ දකුණු අතේ ⟨ය⟩; ඇගේ වම් අතේ ධනය සහ මහිමය ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "දිගු"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිවි"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "ඇගේ දකුණු අතේ"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "ඇගේ වම් අතේ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ධනය"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "සහ මහිමය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:47.389120847Z",
+  "model": "glm-5.3"
+}

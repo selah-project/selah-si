@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබ සම්පූර්ණ වූයෙහි ඔබේ මාර්ගවල, ඔබ මවන ලද දින සිට, ඔබ තුළ අයුක්තය හමු වන තුරු.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "ඔබේ මාර්ගවල"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "දින සිට"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "ඔබ මවන ලද"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "හමු වන"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "අයුක්තය"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:43:34.739679979Z",
+  "model": "glm-5.3"
+}

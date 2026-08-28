@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "සහ ඔව්හු ⟨את⟩ එපොදය කරති — රන්, නිල්, දම්, කුරඳු-රතු සහ බැඳි සියම් — සැලසුම්කරුගේ වැඩක් වශයෙන්.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "කරති"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එපොදය"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "එපොදය"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "නිල්"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "දම්"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "කුරඳු"
+    },
+    {
+      "surface": "שני",
+      "gloss": "රතු"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "සියම්"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "බැඳි"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "වැඩ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "සැලසුම්කරුගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:32.997342415Z",
+  "model": "glm-5.3"
+}

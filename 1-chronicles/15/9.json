@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ඛෙබ්‍රොන්ගේ පුත්‍රයන් අතරින් — එලීඑල් ⟨the⟩ සාර්, සහ ඔහුගේ සහෝදරයෝ අසූවක්.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන් අතරින්"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ඛෙබ්‍රොන්"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "එලීඑල්"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨the⟩ සාර්"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "සහ ඔහුගේ සහෝදරයෝ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "අසූවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:49:27.784011775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "කමාන්ඩය රකින තැනැත්තා තම ප්‍රාණය රකියි; තම මාර්ග නොසලකන තැනැත්තා මිය යයි.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "රකින"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "කමාන්ඩය"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "රකියි"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "තම ප්‍රාණය"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "නොසලකන"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "තම මාර්ග"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "මිය යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:12:58.601530921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම මගේ ක්‍රියා විශාල කෙළෙමි; මට ගෙවල් ගොඩනැඟුවෙමි; මට මිදි වතු සිටුවුවෙමි.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "විශාල කෙළෙමි"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "මගේ ක්‍රියා"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ගොඩනැඟුවෙමි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ගෙවල්"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "සිටුවුවෙමි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "මිදි වතු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:21.238955509Z",
+  "model": "glm-5.3"
+}

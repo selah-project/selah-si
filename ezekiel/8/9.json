@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහු මට කීවේය: යව, මෙහි ඔවුන් කරන අකුරු ද්‍රෝහී අමනාප ක්‍රියා ⟨את⟩ බලව.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בא",
+      "gloss": "යව"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අමනාප ක්‍රියා"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "අමනාප ක්‍රියා"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "අකුරු ද්‍රෝහී"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "פה",
+      "gloss": "මෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:25:24.002466620Z",
+  "model": "glm-5.3"
+}

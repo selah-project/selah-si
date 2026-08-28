@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ආසා යහ්වේගේ ඇස් හමුවේ යහපත කළේය, තම පියා වූ දාවීද් මෙන්.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සහ කළේය"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ආසා"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් හමුවේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "දාවීද් මෙන්"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියා"
+    }
+  ],
+  "timestamp": "2026-08-27T22:43:13.141469115Z",
+  "model": "glm-5.3"
+}

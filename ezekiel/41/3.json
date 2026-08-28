@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "ඇතුළට ගොස් ඔහු දොරටුවේ කණුව අඟල් දෙකක් මැණියේය, දොරටුව අඟල් හයකි, දොරටුවේ පළල අඟල් හතකි.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ඇතුළට ගොස්"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ඇතුළට"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "මැණියේය"
+    },
+    {
+      "surface": "איל",
+      "gloss": "කණුව"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "සහ දොරටුව"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "සහ පළල"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හත"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:57:16.615492596Z",
+  "model": "glm-5.3"
+}

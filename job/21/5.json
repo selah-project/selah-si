@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "මා වෙත මුහුණ ලා මුලාවට පත් වන්න, අත මුඛය මත තබන්න.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "මුහුණ ලා"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "සහ මුලාවට පත් වන්න"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "සහ තබන්න"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פה",
+      "gloss": "මුඛය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:40:17.630981174Z",
+  "model": "glm-5.3"
+}

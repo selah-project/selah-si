@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "උඩ සිට යැවීය, මා ගත්තේය, බොහෝ ජලයන්ගෙන් මා ඇද ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "යැවීය"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "උඩ සිට"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "මා ගත්තේය"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "මා ඇද ගත්තේය"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ජලයන්ගෙන්"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:09:59.705199417Z",
+  "model": "glm-5.3"
+}

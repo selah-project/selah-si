@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "යොයෙල් ⟨ය⟩ ප්‍රධානියා; ෂාපාම් දෙවැන්නා; යානයි සහ ෂාපාත් බාෂානයෙහි.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "යොයෙල්"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ප්‍රධානියා"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ෂාපාම්"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "දෙවැන්නා"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "යානයි"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ෂාපාත්"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "බාෂානයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:47.919399982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යොසෙප්ගේ ගෙයද ඔවුන්ද බෙත්-එල් වෙත නැඟී ගියහ; යහ්වේ ඔවුන් සමඟ විය.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "නැඟී ගියහ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්ගේ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ඔවුන් සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:34:06.180448242Z",
+  "model": "glm-5.3"
+}

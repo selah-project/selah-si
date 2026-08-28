@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "තර්ෂීෂ්වට එගෙන යන්න; වෙරළ දේශයේ වැසියනි, හඬන්න.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "එගෙන යන්න"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "තර්ෂීෂ්වට"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "හඬන්න"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "වැසියනි"
+    },
+    {
+      "surface": "אי",
+      "gloss": "වෙරළ දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:20:17.220846191Z",
+  "model": "glm-5.3"
+}

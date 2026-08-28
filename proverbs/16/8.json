@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ධර්මයෙන් ස්වල්පයක් ⟨ඇතිවීම⟩ අධික ආදායම් අසාධාරණයෙන් ⟨තිබීමට⟩ වඩා යහපති.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපති"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ස්වල්පයක්"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ධර්මයෙන්"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "අධික"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ආදායම්"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "නැතිව"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "අසාධාරණයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:54.549740403Z",
+  "model": "glm-5.3"
+}

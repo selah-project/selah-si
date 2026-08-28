@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බරියාගේ පුත්‍රයෝ — හෙබර් සහ මල්කිඑල්; ඔහු බිර්සොත්ගේ පියා ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "බරියාගේ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "හෙබර්"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "සහ මල්කිඑල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "බිර්සොත්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:01:34.320912234Z",
+  "model": "glm-5.3"
+}

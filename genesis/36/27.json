@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මෙයෝ ද එට්සෙර්ගේ පුත්‍රයෝ — බිල්හාන්, සආවාන් සහ අකාන් ය.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මෙයෝ ද"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "එට්සෙර්ගේ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "බිල්හාන්"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "සආවාන්"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "අකාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:54.492056316Z",
+  "model": "glm-5.3"
+}

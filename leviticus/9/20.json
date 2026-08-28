@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔවුන් ⟨את⟩ මේදය පපුවන් මත තැබූහ, ඔහු ⟨את⟩ මේදය පූජාවේලය මත දැවී ය.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "තැබූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේදය"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "මේදය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "පපුවන්"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "දැවී ය"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "මේදය"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "පූජාවේලය මත"
+    }
+  ],
+  "timestamp": "2026-08-28T08:22:26.570746675Z",
+  "model": "glm-5.3"
+}

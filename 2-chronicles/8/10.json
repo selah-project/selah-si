@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මෙසේ රජු වූ ෂෙලෝමෝගේ නියෝජිත ප්‍රධානීහු — ජනයා මත පාලනය කරන දෙසිය පනස් දෙනා වූහ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ප්‍රධානීහු"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "නියෝජිතයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තම"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජු වූ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝගේ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "පාලනය කරන"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ජනයා මත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:20:06.591843047Z",
+  "model": "glm-5.3"
+}

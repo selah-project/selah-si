@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ගැලවීම යහ්වේට ⟨අයි⟩; ඔබේ ජනයා මත ඔබේ ආශීර්වාදය ⟨යි⟩. සෙලා.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ගැලවීම"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබේ ජනයා"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ඔබේ ආශීර්වාදය"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T01:57:25.026309547Z",
+  "model": "glm-5.3"
+}

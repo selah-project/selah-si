@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එලීෂාමා, එලියාදා සහ එලීෆාලෙට්.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "සහ එලීෂාමා"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "සහ එලියාදා"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "සහ එලීෆාලෙට්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:15:20.032442351Z",
+  "model": "glm-5.3"
+}

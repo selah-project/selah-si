@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යර්දන් ගඟෙන් ගත් ගල් දොළහ මේවා යෙහෝෂුආ ⟨את⟩ ගිල්ගාලෙහි ස්ථාපිත කෙළේය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ගල් දොළහ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ගත්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යර්දන් ගඟ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ස්ථාපිත කෙළේය"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ගිල්ගාලෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:20:25.031000190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මා දක්නා සියල්ලෝ මා උපහාස කරති; ඔව්හු තොල් අදිති, හිස් සොලවති.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "දක්නා"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "උපහාස කරති"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "තොල් අදිති"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "තොල"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "සොලවති"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    }
+  ],
+  "timestamp": "2026-08-28T02:11:19.594437740Z",
+  "model": "glm-5.3"
+}

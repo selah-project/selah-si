@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "දාවීද්ගේ මිඛ්තාම්. එල්, මා රැකගන්න, මන්ද මම ඔබ සරණ ගියෙමි.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "මිඛ්තාම්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "මා රැකගන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "සරණ ගියෙමි"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:07:16.293133747Z",
+  "model": "glm-5.3"
+}

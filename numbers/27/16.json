@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "සියලු මාංසයේ ආත්මයන්ගේ එලෝහීම් වන යහ්වේ, සභාව මතට මිනිසෙකු පත් කරත්වා.",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "පත් කරත්වා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම් වන"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "ආත්මයන්ගේ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මාංසයේ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙකු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "ජעדה",
+      "gloss": "සභාව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:14.390362887Z",
+  "model": "glm-5.3"
+}

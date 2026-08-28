@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 52:6",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 52,
+  "translation": "හතරවන මාසයේ, මාසයේ නවවන දිනයේ, නගරයේ සාගතය තද වූයේය, රටේ ජනයාට පාන් නොතිබූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "හතරවන"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "නවයේ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "තද වූයේය"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "සාගතය"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "තිබුණි"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රටේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:20:21.052915751Z",
+  "model": "glm-5.3"
+}

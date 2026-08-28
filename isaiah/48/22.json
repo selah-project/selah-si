@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "දුෂ්ටයන්ට සමාදානයක් නැත, යහ්වේ කීවේය.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සමාදානයක්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "දුෂ්ටයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:31:54.848281412Z",
+  "model": "glm-5.3"
+}

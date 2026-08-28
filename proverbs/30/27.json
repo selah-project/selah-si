@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මීයන්ට රජෙකු නැත, එහෙයි ඔවුන් සියල්ලෝ කණ්ඩායම් වශයෙන් පිටත්ව යති.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජෙකු"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "මීයන්ට"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත්ව යති"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "කණ්ඩායම් වශයෙන්"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "සියල්ලෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:37.410774542Z",
+  "model": "glm-5.3"
+}

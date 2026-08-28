@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඇය සඟවන්නා සුළඟ සඟවයි, සහ තම දකුණු අතේ තෙල් ⟨කැඳවා සිටී⟩.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "ඇය සඟවන්නා"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "සඟවයි"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "සහ තෙල්"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "තම දකුණු අතේ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "කැඳවා සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:38.621941728Z",
+  "model": "glm-5.3"
+}

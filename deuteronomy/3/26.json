@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ ඔබලා වෙනුවෙන් මට කෝප වූයේය සහ මට ඇහුම්කළේ නැත; යහ්වේ මට කීවේ: ඔබට ප්‍රමාණවත්; මේ කාරණය ගැන නැවත මට කතා නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "කෝප වූයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "ඔබලා වෙනුවෙන්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇහුම්කළේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ප්‍රමාණවත්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "නැවත නොවදින්න"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කතා කරන්න"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "මේ කාරණය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:26.863620010Z",
+  "model": "glm-5.3"
+}

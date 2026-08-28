@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "වන මුත් යහ්වේ ඔබට දැන ගැනීමට හදවතක්ද, දැකීමට ඇසිපියන්ද, අසා ගැනීමට කන්ද මේ දින තෙක් නොදුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතක්"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "දැන ගැනීමට"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "සහ ඇසිපියන්"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "දැකීමට"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "සහ කන්"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "අසා ගැනීමට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තෙක්"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:46:06.516505757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මෙය සිහිනයයි; එහි අර්ථ නිරූපණය රජු ඉදිරිපිට අපි කියමු.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "සිහිනය"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "එහි අර්ථ නිරූපණය"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "අපි කියමු"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:38:01.365635398Z",
+  "model": "glm-5.3"
+}

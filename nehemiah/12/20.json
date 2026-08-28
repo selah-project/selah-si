@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සල්ලායි නිකායට — කල්ලායි; අමෝක් නිකායට — එබෙර්;",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "සල්ලායි නිකායට"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "කල්ලායි"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "අමෝක් නිකායට"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "එබෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:08.122739998Z",
+  "model": "glm-5.3"
+}

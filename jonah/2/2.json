@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යෝනා මාළුවාගේ උදරයෙන් තම එලෝහීම් වන යහ්වේ හට යාච්ඤා කළේය.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "යාච්ඤා කළේය"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "යෝනා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "තම එලෝහීම්"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "උදරයෙන්"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "මාළු කැරලියගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:29:28.625828167Z",
+  "model": "glm-5.3"
+}

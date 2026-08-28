@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ගායක නායකයාට — දවීද්ගේ ⟨මෙස්මෝර්⟩ ගීතය.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ගායක නායකයාට"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දවීද්ගේ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මෙස්මෝර් ගීතය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:28:41.951608523Z",
+  "model": "glm-5.3"
+}

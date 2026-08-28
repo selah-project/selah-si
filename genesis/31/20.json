@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යාකොව් ලාබාන් අරාමියාගේ හදවත ⟨את⟩ සොරකම් කළේය, පලා යන බව ඔහුට නොදන්වාමය.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "සොරකම් කළේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හදවත"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාබාන්"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "අරාමියාගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "බව"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "දන්වා"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "පලා යන"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:23.225846412Z",
+  "model": "glm-5.3"
+}

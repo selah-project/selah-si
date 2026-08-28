@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මෝඩකමේ කුමන්ත්‍රණය ⟨ය⟩ පාපය වන්නේ, පරිහාසිකයා මිනිසුන්ට අරුමයකි.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "කුමන්ත්‍රණය"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "මෝඩකමේ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පාපය"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "අරුමයකි"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසුන්ට"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "පරිහාසිකයා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:28.718132322Z",
+  "model": "glm-5.3"
+}

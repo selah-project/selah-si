@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "එම මිනිසා වන මොෂේ ඉතා උපහාසශීලී ⟨විය⟩ — පොළොවේ මුහුණ මත සිටින සියලු මනුෂ්‍යයන්ට වඩා.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "එම මිනිසා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "උපහාසශීලී"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මනුෂ්‍යයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පොළොවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:56.019918173Z",
+  "model": "glm-5.3"
+}

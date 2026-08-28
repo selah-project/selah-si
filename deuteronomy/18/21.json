@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඉතින් ඔබ සිතේ කියන්නේ නම් — යහ්වේ කථා නොකළ ⟨את⟩ වචනය අපි කෙසේ දැන ගනිමුද?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ඉතින්...නම්"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ඔබ කියන්නේ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ඔබ සිතේ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "කෙසේ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "අපි දැන ගනිමුද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:34.260904603Z",
+  "model": "glm-5.3"
+}

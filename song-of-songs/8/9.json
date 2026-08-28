@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඇය තාප්පයක් නම්, ඇය මත රිදී කුළුකුළක් අපි ඉදි කරමු; ඇය දොරක් නම්, ඇය මත දේවදාර ලෑලි අපි වසමු.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "තාප්පයක්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "අපි ඉදි කරමු"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඇය මත"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "කුළුකුළක්"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "දොරක්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "අපි වසමු"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඇය මත"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ලෑලි"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "දේවදාර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:05:23.999748299Z",
+  "model": "glm-5.3"
+}

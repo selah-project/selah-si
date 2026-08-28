@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු කීවේය: පිටත් වෙමු, යමු; මම ඔබට ඉදිරියෙන් යන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "පිටත් වෙමු"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "යමු"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "මම යන්නෙමි"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "ඔබට ඉදිරියෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:24:01.949143828Z",
+  "model": "glm-5.3"
+}

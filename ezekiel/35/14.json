@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "මෙසේ කී සේක අදෝනයි යහ්වේ: සියලු පොළොව සතුටු වන පරිදි, වනගත බිමක් මම ඔබට කරමි.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී සේක"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "සතුටු වන පරිදි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "වනගත බිමක්"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "මම කරමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:04:44.586739952Z",
+  "model": "glm-5.3"
+}

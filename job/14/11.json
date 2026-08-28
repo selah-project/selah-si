@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මුහුදෙන් ජලය නැති වන්නේය, ගඟක් වියළී ශුෂ්ක වන්නේය.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "නැති වන්නේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "מני",
+      "gloss": "මුහුදෙන්"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ගඟක්"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "වියළී"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ශුෂ්ක වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:34:59.606218932Z",
+  "model": "glm-5.3"
+}

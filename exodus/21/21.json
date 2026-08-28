@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "එහෙත් ඔහු දිනක් හෝ දින දෙකක් සිටී නම්, ඔහුට දඬුවම් නොකෙරේ, මන්ද ඔහු ඔහුගේ මුදලයි.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "දින දෙකක්"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "සිටී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "කෙරේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ඔහුගේ මුදලයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:51:15.441998358Z",
+  "model": "glm-5.3"
+}

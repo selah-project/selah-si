@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සියලු අගනා සම්පත් හමු වේ; අපගේ ගෙවල් සූරාකෑමෙන් පුරවමු.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הון",
+      "gloss": "සම්පත්"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "අගනා"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "හමු වේ"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "පුරවමු"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "අපගේ ගෙවල්"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "සූරාකෑම"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:35.391923047Z",
+  "model": "glm-5.3"
+}

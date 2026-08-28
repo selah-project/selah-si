@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් කරාබු එකක්, දහයක් ⟨ශෙකෙල්⟩, සුවඳ දුම් පුරවා ඇත.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "කරාබු"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "පුරවා ඇත"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:32:09.004055796Z",
+  "model": "glm-5.3"
+}

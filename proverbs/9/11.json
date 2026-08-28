@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මගින් ඔබේ දින වැඩි වන්නේය, ජීවිතයේ වසරද ඔබට එකතු වන්නේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මගින්"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මගින්"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "වැඩි වන්නේය"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ඔබේ දින"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "එකතු වන්නේය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවිතයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:05:12.717802424Z",
+  "model": "glm-5.3"
+}

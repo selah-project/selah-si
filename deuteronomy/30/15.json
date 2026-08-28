@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "බලු — මම අද ඔබ ඉදිරියෙහි තැබුවෙමි ⟨את⟩ ජීවනය සහ ⟨את⟩ යහපත, සහ ⟨את⟩ මරණය සහ ⟨את⟩ අයහපත.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මම තැබුවෙමි"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ඔබ ඉදිරියෙහි"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජීවනය"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවනය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "යහපත"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මරණය"
+    },
+    {
+      "surface": "המות",
+      "gloss": "මරණය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "අයහපත"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "අයහපත"
+    }
+  ],
+  "timestamp": "2026-08-27T21:15:34.892082810Z",
+  "model": "glm-5.3"
+}

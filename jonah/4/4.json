@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යහ්වේ කීවේය: කෝපය නුඹට හොඳද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "හොඳද"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "කෝපය දැල්වීම"
+    },
+    {
+      "surface": "לך",
+      "gloss": "නුඹට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:28:46.461406081Z",
+  "model": "glm-5.3"
+}

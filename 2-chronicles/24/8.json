@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "රජු නියෝග කළේය, ඔවුහු පෙට්ටියක් කොට එය යහ්වේගේ ගෙවත්තේ දොරටුවේ පිටත තැබූහ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "නියෝග කළේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "කොට"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "පෙට්ටියක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "තැබූහ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙවත්තේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "පිටත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:37:31.533301581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බිග්වයිගේ පුත්‍රයෝ — දෙදහස් පනස් ⟨යි⟩ සයක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "බිග්වයිගේ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහස්"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "සයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:53:40.612310307Z",
+  "model": "glm-5.3"
+}

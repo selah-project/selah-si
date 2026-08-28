@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සල්මොන් ⟨את⟩ බෝඅස් බිහිකළේය, බෝඅස් ⟨את⟩ ඔබේද් බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "සල්මොන්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බෝඅස්"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "බෝඅස්"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "බෝඅස්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේද්"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ඔබේද්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:04:02.742768382Z",
+  "model": "glm-5.3"
+}

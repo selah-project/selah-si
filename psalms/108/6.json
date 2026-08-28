@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 108,
+  "translation": "උස් වන්න, එලෝහීම්, අහස් මතින්; සියලු පොළොව මතින් ඔබේ තේජස.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "උස් වන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ඔබේ තේජස"
+    }
+  ],
+  "timestamp": "2026-08-28T03:26:43.549298817Z",
+  "model": "glm-5.3"
+}

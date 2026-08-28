@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දැන් ඔබහට, පූජකයෙනි, මේ ⟨මෙම⟩ අණ ඔබ සඳහා ⟨යි⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබහට"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "අණ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයෙනි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:56:19.233728438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මන්ද ඔහු කීයේය, එය විය; ඔහු අණ කළේය, එය සිටගත්තේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "එය විය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළේය"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "එය සිටගත්තේය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:12.937577432Z",
+  "model": "glm-5.3"
+}

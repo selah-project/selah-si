@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 27:16",
+  "book": "job",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු ධූලිය සේ රිදී එකතු කළද, මැටි සේ ඇඳුම් සඖලම් කළද —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "කළද"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "එකතු කළද"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ධූලිය සේ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "וכחמר",
+      "gloss": "මැටි සේ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "සඖලම් කළද"
+    },
+    {
+      "surface": "מלבוש",
+      "gloss": "ඇඳුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:44:36.254314543Z",
+  "model": "glm-5.3"
+}

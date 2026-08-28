@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මක්නිසාද ඔබේ ඊතල මා තුළට කිඳා පැන ඇත, සහ ඔබේ අත මතට තද වැටී ඇත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ඔබේ ඊතල"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "කිඳාපැන ඇත"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා තුළට"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "සහ තදකර ඇත"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    }
+  ],
+  "timestamp": "2026-08-28T02:28:02.881247929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "යහ්වේ මෙනාෂේටද ඔහුගේ ජනයාටද කතා කළේය, නමුත් ඔවුහු කන් නොදුන්හ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහුගේ ජනයා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නො"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "කන් දුන්හ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:47:18.872302123Z",
+  "model": "glm-5.3"
+}

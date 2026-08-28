@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "එකතු කර එහි කැබලි එය වෙත — සෑම හොඳ කැබැල්ල — කලවා හා උරහිස; වරණය කළ ඇටවලින් පුරව.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "එකතු කර"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "එහි කැබලි"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "එය වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "කැබැල්ල"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "කලවා"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "හා උරහිස"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "වරණය කළ"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "ඇටවලින්"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පුරව"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:49.744235625Z",
+  "model": "glm-5.3"
+}

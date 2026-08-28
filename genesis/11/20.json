@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "රෙඌ වසර දෙතිසක් සිටිවිට, ⟨את⟩ සෙරුග්ට පියකු විය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "සිටිවිට"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "රෙඌ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිසක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "පියකු විය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සෙරුග්"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "සෙරුග්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:01.593499160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එල්ලෙන ආභරණද, බාහු-වළලුද, වැස්ම්ද.",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "එල්ලෙන ආභරණ"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "බාහු-වළලු"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "වැස්ම්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:10:18.486447878Z",
+  "model": "glm-5.3"
+}

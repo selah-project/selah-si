@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ව්‍යභිචාරය නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ව්‍යභිචාරය කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:48.945030484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "සහ මිනිසෙක් හෝ ස්ත්‍රියක් — ඔහු තුළ හිසෙහි හෝ රැවුලෙහි වසඟයක් ඇති වූ විට,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "සහ මිනිසෙක්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ස්ත්‍රියක්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…වූ විට"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ඇති වේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "වසඟයක්"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "හිසෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "රැවුලෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:20.001082592Z",
+  "model": "glm-5.3"
+}

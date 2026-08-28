@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "තුනක් යටතේ පොළොව කම්පා වන්නීය, සහ හතරක් යටතේ එය දැරිය නොහැක්ක:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "යටතේ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "කම්පා වන්නීය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "සහ යටතේ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතරක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "දැරිය හැක්ක"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "එය (දරා ගැනීම)"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:32.276414979Z",
+  "model": "glm-5.3"
+}

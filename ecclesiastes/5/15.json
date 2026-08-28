@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ මෙයද රෝගාත්මක නපුරකි — ඔහු ආ සේම සියල්ලෙහිම ඔහු යන්නේය; සුළඟ සඳහා වෙහෙසෙන ඔහුට ⟨කුමන⟩ අතිරික්තයක්ද?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සහ ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නපුරකි"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "රෝගාත්මක"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෙහිම"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "සේම"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ආ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "යන්නේය"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "සහ කුමන"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "අතිරික්තයක්ද"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "වෙහෙසෙන"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "සුළඟ සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:54.312959370Z",
+  "model": "glm-5.3"
+}

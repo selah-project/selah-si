@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේ මෝෂේට සහ අහරොන්ට දේශනා කොට මෙසේ ⟨කීවේය⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "දේශනා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මෝෂේට"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ ⟨කීවේය⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:41.878893581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බිලියන් එකක් පාප පූජාවට;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "බිලියන්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "අතුරු"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:47.490881122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු ⟨את⟩ කුඹුර මැලිය නොගන්නේ නම්, හෝ ⟨את⟩ කුඹුර වෙනත් මිනිසෙකුට විකුලේ නම්, එය තවදුරටත් මැලිය ගන්නා නොවේ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "මැලිය ගනී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුඹුර"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කුඹුර"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "හෝ ...නම්"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "විකුලේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුඹුර"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කුඹුර"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසෙකුට"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "මැලිය ගන්නා"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:26.232697632Z",
+  "model": "glm-5.3"
+}

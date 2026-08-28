@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "බල, ඔව්හු මට කියන්නෝ: යහ්වේගේ වචනය කොහිද? දැන් එනුව!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔව්හු"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "කියන්නෝ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "איה",
+      "gloss": "කොහිද"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එනුව"
+    },
+    {
+      "surface": "נא",
+      "gloss": "දැන්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:13.667927409Z",
+  "model": "glm-5.3"
+}

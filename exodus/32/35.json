@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "අහරොන් කළ පොරොවට ජනතාව ⟨את⟩ ඒ කළ නිසා යහ්වේ ජනතාවට ⟨את⟩ වසංගතය හෙළීය.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "වසංගතය හෙළීය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනතාවට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පොරොව"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "පොරොව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:15.195394216Z",
+  "model": "glm-5.3"
+}

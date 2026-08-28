@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "අයහපත් මිනිසා, අධර්මිෂ්ඨ මිනිසෙක්, කැරලිකාර මුඛයක් සමඟ ඇවිදින්නෙකි.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "අයහපත්"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "און",
+      "gloss": "අධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ඇවිදින්නෙකි"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "කැරලිකාර"
+    },
+    {
+      "surface": "פה",
+      "gloss": "මුඛය"
+    }
+  ],
+  "timestamp": "2026-08-28T12:04:27.743861091Z",
+  "model": "glm-5.3"
+}

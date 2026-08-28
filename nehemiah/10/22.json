@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙෂෙයිසබ්එල්, ට්සාදොක්, යද්දුආ,",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "මෙෂෙයිසබ්එල්"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ට්සාදොක්"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "යද්දුආ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:11.910425231Z",
+  "model": "glm-5.3"
+}

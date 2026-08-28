@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සෙනාන්, හදාෂා, මිග්දල්-ගාද්,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "සෙනාන්"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "හදාෂා"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "මිග්දල්"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:49:59.370278822Z",
+  "model": "glm-5.3"
+}

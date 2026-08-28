@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඥානවන්තයාගේ මුහුණ ⟨את⟩ ඥානය දෙසට වන අතර, මෝඩයාගේ ඇස් පොළොවේ කෙළවර සිටිති.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුහුණ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ඥානවන්තයාගේ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:08:08.395450080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද, සූර්යයා යට ඔහු වෙහෙසෙන සියලු වෙහෙසෙන් ද, ඔහුගේ හදවතේ චින්තනයෙන් ද මිනිසාට කුමක් වේද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "වේද"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "වෙහෙසෙන්"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "චින්තනයෙන් ද"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ඔහුගේ හදවතේ"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "වෙහෙසෙන"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "සූර්යයා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:51.015735635Z",
+  "model": "glm-5.3"
+}

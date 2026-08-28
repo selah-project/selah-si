@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "එවිට මම ලජ්ජා නොවන්නෙමි, ඔබේ සියලු ආඥා කරා මම බලන කල。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "මම ලජ්ජා වන්නෙමි"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "මම බලන කල"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ඔබේ ආඥා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:17.130168285Z",
+  "model": "glm-5.3"
+}

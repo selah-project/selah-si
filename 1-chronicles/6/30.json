@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "හෂබ්යාගේ පුත්‍ර, අමට්ස්යාගේ පුත්‍ර, හිල්කියාගේ පුත්‍ර.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍ර"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "හෂබ්යාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍ර"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "අමට්ස්යාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍ර"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "හිල්කියාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:39:36.261720454Z",
+  "model": "glm-5.3"
+}

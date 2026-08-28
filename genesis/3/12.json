@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මිනිසා කීවේය: ඔබ මට සමඟ සිටින්නට දුන් ස්ත්‍රිය ඇය — ඇය මට ⟨the⟩ ගසෙන් දුන්නීය, මම කෑමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ස්ත්‍රිය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිටින්නට"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ඔබ දුන්"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "මට සමඟ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "දුන්නීය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "මම කෑමි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:07.946383317Z",
+  "model": "glm-5.3"
+}

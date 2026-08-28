@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මගේ පියා වන දාවීද්ගේ සිතේ වූයේ ඉශ්‍රායෙල්ගේ එලෝහීම් වන යහ්වේගේ නාමයට ගෙයක් තැනීමට ය යන්න ය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු විය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "සිත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මගේ පියා"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "තැනීමට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "නාමයට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:23.560769947Z",
+  "model": "glm-5.3"
+}

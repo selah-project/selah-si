@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මම නම් බිහිරෙකු සේ නොඅසමි; නිහඬයෙකු සේ ⟨මගේ⟩ කට නොහරිමි.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මම නම්"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "බිහිරෙකු සේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "අසමි"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "නිහඬයෙකු සේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "හරිමි"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "කට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:27:15.090356509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යහ්වේගේ වචනය මා වෙත අවුත් ⟨මෙසේ⟩ කීය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "අවුත්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨මෙසේ⟩ කීය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:28:32.908504421Z",
+  "model": "glm-5.3"
+}

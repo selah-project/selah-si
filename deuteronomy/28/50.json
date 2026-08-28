@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "මුහුණ දරුණු ජාතියක් — මහලුවාගේ මුහුණ නොසලකා, තරුණයාට අනුකම්පා නොකරන්නේය.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ජාතියක්"
+    },
+    {
+      "surface": "עז",
+      "gloss": "දරුණු"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "සලකා"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "මහලුවාගේ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "තරුණයාට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "අනුකම්පා කරන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:59.188218999Z",
+  "model": "glm-5.3"
+}

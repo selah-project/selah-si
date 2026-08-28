@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සහ ⟨את⟩ පොරාතා, සහ ⟨את⟩ අදල්යා, සහ ⟨את⟩ අරිදාතා —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පොරාතා"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "පොරාතා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අදල්යා"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "අදල්යා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අරිදාතා"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "අරිදාතා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:31:12.425927370Z",
+  "model": "glm-5.3"
+}

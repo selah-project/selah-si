@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 39:19",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඔවුහු රන් මුදු දෙකක් කළහ සහ කුසයේ කෙළවර් දෙක මත, එපොද් පැත්තට ඇති එහි දාරය මත, ඇතුළට ⟨the⟩ තැබූහ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "මුදු"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "තැබූහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "කෙළවරවල"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "කුසයේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "දාරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "אל",
+      "gloss": "පැත්තට"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "පැත්තේ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "එපොද්"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇතුළට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:09.489158759Z",
+  "model": "glm-5.3"
+}

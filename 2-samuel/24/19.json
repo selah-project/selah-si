@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යහ්වේ අණ කළ පරිදි, ගාද්ගේ වචනය අනුව දාවීද් නැඟියේය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟියේය"
+    },
+    {
+      "surface": "ඓוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "වචනය අනුව"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්ගේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:29:03.229815280Z",
+  "model": "glm-5.3"
+}

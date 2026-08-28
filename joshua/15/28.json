@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "හදර්-ෂුඅල්, බෙයෙර්-ෂෙබා, බිද්යෝත්යා;",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "සහ හදර්"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ෂුඅල්"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "සහ බෙයෙර්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ෂෙබා"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "සහ බිද්යෝත්යා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:18.502062126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බස්ලිත්ගේ පුත්‍රයෝ, මෙහිදාගේ පුත්‍රයෝ, හර්ෂාගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "බස්ලිත්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "මෙහිදාගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "හර්ෂාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:09.503727558Z",
+  "model": "glm-5.3"
+}

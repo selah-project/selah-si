@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "පිටත අංගණයට අයත්, මුහුණ උතුරු දෙසට ඇති දොරටුව — ඔහු එහි දිගද පළලද මැන්නේය.",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "අංගණයට අයත්"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ඔහු මැන්නේය"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "එහි දිග"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "සහ පළල"
+    }
+  ],
+  "timestamp": "2026-08-28T00:56:09.474656878Z",
+  "model": "glm-5.3"
+}

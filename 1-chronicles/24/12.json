@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "එකොළොස්වන ‹අංකය එල්යාෂිබ්ට, දොළොස්වන අංකය යකිම්ට.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "එල්යාෂිබ්ට"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "එකොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-වන"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "යකිම්ට"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-වන"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:50.900629277Z",
+  "model": "glm-5.3"
+}

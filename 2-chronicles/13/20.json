@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යාරොබ්ආම්ට අබියාගේ දිනවල නැවත බලයක් නොවීය; යහ්වේ ඔහුට පහර දුන්නේය, ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "රඳවා ගත්තේ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "බලයක්"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "යාරොබ්ආම්ට"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවත"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "අබියාගේ"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "පහර දුන්නේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:28:15.211008328Z",
+  "model": "glm-5.3"
+}

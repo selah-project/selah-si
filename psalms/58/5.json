@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 58,
+  "translation": "ඔවුන්ගේ විෂ නයෙකුගේ විෂ වැනිය; බිහිරි විස සර්පයෙකු සේ, තම කන වසාගන්නේය.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "විෂ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ඔවුන්ගේ"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "වැනිය"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "විෂ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "නයා"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "සේ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "විස සර්පයා"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "බිහිරි"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "වසාගන්නේය"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "තම කන"
+    }
+  ],
+  "timestamp": "2026-08-28T02:41:02.291913899Z",
+  "model": "glm-5.3"
+}

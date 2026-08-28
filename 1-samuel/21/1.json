@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඔහු නැඟිට ගියේය; යොනතන් ⟨නගරයට⟩ ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟිට"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "යොනතන්"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:05:28.209160511Z",
+  "model": "glm-5.3"
+}

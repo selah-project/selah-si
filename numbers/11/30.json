@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මොෂේ කඳවුර වෙත එකතු විය — ඔහුද, ඉශ්‍රායෙල්හි මහලුවරුන්ද.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "එකතු විය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "කඳවුර"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුද"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "සහ මහලුවරුන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රායෙල්හි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:38:30.767943546Z",
+  "model": "glm-5.3"
+}

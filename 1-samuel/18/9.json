@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ෂාවුල් ඒ දිනේ සිට ඉදිරියටම දාවීද් ⟨את⟩ ඇසින් බැලුවේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාවුල්"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ඇසින් බැලුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දාවීද්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ඒ දිනේ සිට"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ඉදිරියටම"
+    }
+  ],
+  "timestamp": "2026-08-27T22:02:51.638679557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මොෂේද අහරෝන්ද නම් වශයෙන් නියම කරන ලද මෙම පුරුෂයන් ⟨את⟩ ගත්හ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්හ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "අහරෝන්ද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම පුරුෂයන්"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "පුරුෂයන්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "නියම කරන ලද"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "නම් වශයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:51.240806183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔට්සෙම් හයවැන්නා, දාවීද් හත්වැන්නා.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ඔට්සෙම්"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "හයවැන්නා"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "හත්වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:19.296571357Z",
+  "model": "glm-5.3"
+}

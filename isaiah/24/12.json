@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "නගරයේ නටබුන් ශේෂ වී ඇත; විනාශයෙන් දොරටුව කුඩා කර දමා ඇත.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "ශේෂ වී ඇත"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "නටබුන්"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "විනාශයෙන්"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "කුඩා කර දමා ඇත"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුව"
+    }
+  ],
+  "timestamp": "2026-08-27T23:19:29.830059872Z",
+  "model": "glm-5.3"
+}

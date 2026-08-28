@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "දැන් එවු, මමද ඔබද ගිවිසුමක් කපමු, එය මා හා ඔබ අතර සාක්ෂියක් වේවා.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "එවු"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "කපමු"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ගිවිසුමක්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මමද"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබද"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "සාක්ෂියක්"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "මා අතර"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "සහ ඔබ අතර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:24:24.606357502Z",
+  "model": "glm-5.3"
+}

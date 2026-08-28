@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "හදාද්, තෙමා, යෙතූර්, නාෆිෂ්, කෙදෙමා —",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "හදාද්"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "තෙමා"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "යෙතූර්"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "නාෆිෂ්"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "කෙදෙමා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:17:58.637570161Z",
+  "model": "glm-5.3"
+}

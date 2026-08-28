@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ අහරෝන් එසේ කළේය; මිදුලේ මුහුණට එරෙහිව එහි පහන් ඔසවා, යහ්වේ ⟨את⟩ මොෂේට අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සහ කළේය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "מול",
+      "gloss": "එරෙහිව"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "මිදුලේ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "එහි පහන්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:10.855722263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 95,
+  "translation": "මන්ද යහ්වේ ⟨ව⟩ මහා එල් වන්නේය, සියලු එලෝහීම්ට ඉහළින් සිටින මහා රජෙකි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "සහ රජෙකි"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "על",
+      "gloss": "ඉහළින්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:46.858925026Z",
+  "model": "glm-5.3"
+}

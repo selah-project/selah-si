@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "නැවතද, දෙදෙනෙක් එකට හාන්නොත් ඔවුන්ට උණුසුම ලැබේ; එක් කෙනෙකුට කෙසේද උණුසුම වන්නේ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "නැවතද"
+    },
+    {
+      "surface": "אם",
+      "gloss": "හාන්නොත් නම්"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "හාන්නොත්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙදෙනෙක්"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "උණුසුම"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "එක් කෙනෙකුට"
+    },
+    {
+      "surface": "איך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "උණුසුම වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:19.657127184Z",
+  "model": "glm-5.3"
+}

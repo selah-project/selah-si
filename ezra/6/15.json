@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මෙම ගෙය අදාර් මාසයේ තුන්වන දිනට නිම විය — එය දාර්යාවේෂ් රජුගේ රාජ්‍යයේ හයවන වසරයි.",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "නිම විය"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දිනට"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "තුන්වන"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "අදාර්"
+    },
+    {
+      "surface": "די",
+      "gloss": "එය"
+    },
+    {
+      "surface": "היא",
+      "gloss": "වසරයි"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "שת",
+      "gloss": "හයවන"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "රාජ්‍යයේ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "දාර්යාවේෂ්"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජුගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:01:29.107791910Z",
+  "model": "glm-5.3"
+}

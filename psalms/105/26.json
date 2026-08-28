@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 105,
+  "translation": "ඔහු තම සේවක මොෂේව එවීය; තමා තෝරාගත් අහරොන්ව ද එවීය.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "එවීය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "තම සේවක"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමා තෝරාගත්"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "තෝරාගත්"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහුව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:21:06.765437095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යෙහෝෂුආ ⟨את⟩ අයි දැව්වේය, එය සදාකාලික නටබුන් ගොඩක් — මේ දින දක්වා පාළු බිමක් කළේය.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "දැව්වේය"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අයි"
+    },
+    {
+      "surface": "העי",
+      "gloss": "අයි"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "תל",
+      "gloss": "නටබුන් ගොඩ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලික"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "පාළු බිම"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:24:54.434449232Z",
+  "model": "glm-5.3"
+}

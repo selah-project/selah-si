@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔහුට හිරිහැර වූ කාලයේදී ඔහු යහ්වේ වෙත තවදුරටත් ද්‍රෝහී වූයේය — ඔහු ම රජ අහාස් ය.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "හිරිහැර කරන"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "තවදුරටත් කළේය"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "ද්‍රෝහී වීම"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ වෙත"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු ම"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "අහාස්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:44:09.133935536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මගේ ජනයාගේ පස මත කටු සහ ෂමීර් නැඟෙන්නේය; මන්ද ප්‍රීතියේ ගෙවල් සියල්ල මතය, උත්සාහී නගරය මතය.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "පස"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මගේ ජනයාගේ"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "කටු"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ෂමීර්"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "නැඟෙන්නේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ගෙවල්"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ප්‍රීතියේ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "උත්සාහී"
+    }
+  ],
+  "timestamp": "2026-08-28T09:37:42.035413784Z",
+  "model": "glm-5.3"
+}

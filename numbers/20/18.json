@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "එදොම් ඔහුට කීවේය: ඔබ මා හරහා නොයන්නේ, නැතහොත් කඩුවෙන් ඔබට එරෙහිව මම පිටතට එමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ඔබ යන්නේ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා හරහා"
+    },
+    {
+      "surface": "פן",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "කඩුවෙන්"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "මම පිටතට එමි"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ඔබට එරෙහිව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:51.804429998Z",
+  "model": "glm-5.3"
+}

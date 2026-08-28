@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ෂෙරූග් වසර තිසක් ජීවත් වූයේය, ⟨את⟩ නාහෝර් බිහි කළේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් වූයේය"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ෂෙරූග්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිසක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "බිහි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නාහෝර්"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "නාහෝර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:24.666638057Z",
+  "model": "glm-5.3"
+}

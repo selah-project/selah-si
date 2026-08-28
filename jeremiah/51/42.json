@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 51,
+  "translation": "සයුර බාවෙල් මතට නැඟී ආවේ ය; එහි රැළි ගොඩකින් ⟨ඇය⟩ වැසී ගියා ය.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "නැඟී ආවේ ය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "බාවෙල්"
+    },
+    {
+      "surface": "הים",
+      "gloss": "සයුර"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ගොඩකින්"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "එහි රැළි"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "වැසී ගියා ය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:19:41.744258616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බෙට්සායිගේ පුත්‍රයෝ — සිය තුන්සිය විසිතුන් දෙනා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "බෙට්සායිගේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්සිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුන් දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:50.819087405Z",
+  "model": "glm-5.3"
+}

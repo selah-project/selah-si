@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මාගේ වනා රිදී, මාගේ වනා රන් — යහ්වේ සෙබාඕත්ගේ නියෝගයි.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "මාගේ වනා"
+    },
+    {
+      "surface": "හෙබ්",
+      "gloss": ""
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නියෝගයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සෙබාඕත්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:41:14.471370351Z",
+  "model": "glm-5.3"
+}

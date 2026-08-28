@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "පුවරුවක දිග අඟල් දහයකි; එක් පුවරුවක පළල අඟලයක් සහ අඩකි.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "පුවරුවක"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "සහ අඟලයක්"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "අඩක්"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "අඟලක"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "පුවරුවක"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:42.064971620Z",
+  "model": "glm-5.3"
+}

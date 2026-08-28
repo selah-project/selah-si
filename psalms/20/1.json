@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "කොරම්-නායකයාට ⟨සඳහා⟩, දාවිද්ගේ මුසාවක්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කොරම්-නායකයාට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මුසාවක්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවිද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:13:33.294937306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ධාර්මිකයාගේ මුඛය ඥානය පිපෙන්නේය; පෙරළිකාර දිව කපා දමනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "මුඛය"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධාර්මිකයාගේ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "පිපෙන්නේය"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "සහ දිව"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "පෙරළිකාර"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "කපා දමනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:02:10.840560678Z",
+  "model": "glm-5.3"
+}

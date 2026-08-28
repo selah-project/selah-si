@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ මම හැරවුණෙමි මම ⟨ඔහුගේ⟩ ⟨את⟩ මගේ හදවත අත්හැර දැමීමට, සියලු වෙහෙස ගැන මා වෙහෙසුණු හිරු යට.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "සහ මම හැරවුණෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "අත්හැර දැමීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මගේ හදවත"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "මගේ හදවත"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "වෙහෙස"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "මා වෙහෙසුණු"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:48:03.567900285Z",
+  "model": "glm-5.3"
+}

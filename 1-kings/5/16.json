@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ෂෙලොමො හිරාම් වෙත, කියමින්, යැව්වේය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලොමො"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "හිරාම්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:34:03.435255498Z",
+  "model": "glm-5.3"
+}

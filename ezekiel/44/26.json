@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "ඔහුගේ පවිත්‍රකරණයෙන් පසු දින සතක් ඔහුට ගණන් කරති.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ඔහුගේ පවිත්‍රකරණයෙන්"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "සතර... සතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ගණන් කරති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:59:55.219171151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 90,
+  "translation": "උදෑසන ⟨එය⟩ පිපෙයි පහව යයි; සවස කපනු ලැබ වියළී යයි.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "පිපෙයි"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "පහව යයි"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "සවස"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "කපනු ලැබේ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "වියළී යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:41.227048847Z",
+  "model": "glm-5.3"
+}

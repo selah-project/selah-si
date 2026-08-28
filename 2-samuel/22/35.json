@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මාගේ අත් යුද්ධයට උගැන්වා, තඹ යුවළක් මාගේ බාහු පහත් කළේය.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "උගැන්වා"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මාගේ අත්"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "යුද්ධයට"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "පහත් කළේය"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "යුවළක්"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "මාගේ බාහු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:02.239260830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එවිට එස්තෙර් මොරදකයි වෙත පිළිතුරු යවන්නට කීවා ය.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "එවිට කීවා ය"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "පිළිතුරු යවන්නට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "මොරදකයි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:49:48.634922497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම මට උද්‍යාන සහ පරදේස (උද්භිද උද්‍යාන) කළෙමි; ඒවායේ සියලු පලදායී වර්ගයේ වෘක්ෂ සිටුවුයෙමි.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "මම කළෙමි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "උද්‍යාන"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "සහ පරදේස"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "සහ සිටුවුයෙමි"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ඒවායේ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "වෘක්ෂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "පලදායී වර්ගයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:51.789154273Z",
+  "model": "glm-5.3"
+}

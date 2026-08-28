@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඔහුව ගනිව, ඔබේ ඇස් ඔහු මත තබව, ඔහුට අයහපතක්වත් කරන්න එපා; ඔහු ඔබට කථා කරන පරිදි ඔහු සමඟ එසේ කරන්න",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "ඔහුව ගනිව"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "שים",
+      "gloss": "තබව"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු මත"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "අයහපතක්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "හැර"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:10:48.153742119Z",
+  "model": "glm-5.3"
+}

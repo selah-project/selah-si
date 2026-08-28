@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "අදෝනයි ඔහුට සිනාසෙයි, මන්ද ඔහු දුටුවේය — මන්ද ඔහුගේ දිනය එන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "සිනාසෙයි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "එන්නේ ය"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ඔහුගේ දිනය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:16.883054449Z",
+  "model": "glm-5.3"
+}

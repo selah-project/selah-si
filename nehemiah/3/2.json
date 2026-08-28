@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහුට අද්දර යෙරිහෝවේ මිනිසුන් ඉදිකළහ; ඔහුට අද්දර ඉම්රිගේ පුත් සක්කූර් ඉදිකෙළේය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "අද්දර"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ඔහුගේ අත"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඉදිකළහ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "යෙරිහෝවේ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "අද්දර"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ඔහුගේ අත"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකෙළේය"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "සක්කූර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ඉම්රිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:31.354181429Z",
+  "model": "glm-5.3"
+}

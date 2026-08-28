@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මොෂේ ⟨එළඹ⟩, මේ ගීතිකාවේ සියලු වචන ⟨את⟩ ජනයාගේ කන්වල කථා කළේය — ⟨ඔහු විසින්⟩ සහ හෝෂේයා, නූන්ගේ පුත්‍රයා ⟨විසින්ය⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "එළඹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු වචන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ගීතිකාවේ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "කන්වල"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "සහ හෝෂේයා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "נון",
+      "gloss": "නූන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:20.846010460Z",
+  "model": "glm-5.3"
+}

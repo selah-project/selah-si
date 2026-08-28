@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 63,
+  "translation": "මගේ නෙෆෙෂ් ඔබ පසුව අල්ලාගෙන සිටී; මා තබාගන්නේ ඔබේ දකුණතයි.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "අල්ලාගෙන සිටී"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මගේ නෙෆෙෂ්"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ඔබ පසුව"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "තබාගනී"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ඔබේ දකුණත"
+    }
+  ],
+  "timestamp": "2026-08-28T02:43:02.919811459Z",
+  "model": "glm-5.3"
+}

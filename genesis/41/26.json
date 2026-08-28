@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "සත් හොඳ එළදෙන්නෝ සත් අවුරුද්දකි; සහ සත් හොඳ කණ සත් අවුරුද්දකි — සිහිනය එකකි.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "එළදෙන්නෝ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුද්දකි"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨වේ⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "සහ සත්"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "කණ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුද්දකි"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨වේ⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "සිහිනය"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකකි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨වේ⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T08:09:44.013672522Z",
+  "model": "glm-5.3"
+}

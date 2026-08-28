@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මත කථා කරන මලාකයා ⟨he⟩ උත්තර දී මට කීවේය: මේවා මොනවාදැයි ඔබ නොදන්නේහිද? මම කීවෙමි: නැත, මගේ ස්වාමීනි.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "මලාකයා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "නොදන්නේහිද?"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "දන්නේහිද"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "המה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "මගේ ස්වාමීනි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:47:50.684831882Z",
+  "model": "glm-5.3"
+}

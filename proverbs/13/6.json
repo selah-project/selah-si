@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ධර්මිකත්වය අහිංසකයාගේ මාර්ගය රක්ෂා කරයි; අධර්මය පාපියා පෙරලා දමයි.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ධර්මිකත්වය"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "රක්ෂා කරයි"
+    },
+    {
+      "surface": "תם",
+      "gloss": "අහිංසකයාගේ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "අධර්මය"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "පෙරලා දමයි"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පාපියා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:31.258457065Z",
+  "model": "glm-5.3"
+}

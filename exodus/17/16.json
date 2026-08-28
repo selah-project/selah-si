@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔහු කීවේය: යාගේ සිහසනය මත අතක් ⟨is⟩ — යහ්වේට අමාලෙක් සමඟ යුද්ධය ⟨is⟩ පරම්පරාවෙන් පරම්පරාවට.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අතක්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כס",
+      "gloss": "සිහසනය"
+    },
+    {
+      "surface": "יה",
+      "gloss": "යාගේ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "යුද්ධය"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "අමාලෙක් සමඟ"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "පරම්පරාවෙන්"
+    },
+    {
+      "surface": "דר",
+      "gloss": "පරම්පරාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:58.778336961Z",
+  "model": "glm-5.3"
+}

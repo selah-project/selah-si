@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "සියලු ජනයා ⟨את⟩ රන් වළලු — තමන්ගේ කන්වල තිබූ — කඩා ගෙන, අහරොන් වෙත ගෙන ආහ.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "කඩා ගත්හ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රන් වළලු"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "වළලු"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "තමන්ගේ කන්වල"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ගෙන ආහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:00:37.188204427Z",
+  "model": "glm-5.3"
+}

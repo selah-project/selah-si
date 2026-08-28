@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "නෆ්තාලි වංශයට — අහීරා, එයිනාන්ගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "නෆ්තාලි වංශයට"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "අහීරා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "එයිනාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:26:29.736977603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බිග්වයිගේ පුත්‍රයෝ — දෙදහස් හැටින් හතක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "බිග්වයිගේ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහස්"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "හැට"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "හතක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:58:30.706924740Z",
+  "model": "glm-5.3"
+}

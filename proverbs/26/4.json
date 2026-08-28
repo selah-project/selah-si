@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මෝඩයාගේ මෝඩකමට අනුව ඔහුට පිළිතුරු නොදෙන්න — මෙහෙණ ඔබ ද ඔහුට සමාන වන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תען",
+      "gloss": "පිළිතුරු දෙන්න"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාට"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ඔහුගේ මෝඩකමට අනුව"
+    },
+    {
+      "surface": "פן",
+      "gloss": "මෙහෙණ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "සමාන වන්නෙහි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:25.836057855Z",
+  "model": "glm-5.3"
+}

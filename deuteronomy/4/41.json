@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එවිට මොෂේ නගර තුනක් යෙර්දන් එගෙරක හිරු නැගෙන දෙසට වෙන් කෙළේය.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "වෙන් කෙළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "එගෙරක"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යෙර්දන්"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "හිරු නැගෙන දෙසට"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "හිරු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:23.967977640Z",
+  "model": "glm-5.3"
+}

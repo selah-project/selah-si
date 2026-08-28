@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "බිඳින ලද්දේ ⟨මාගේ⟩ ප්‍රාණය අගාධයෙහි; මට මිටියක් විසිකෙළා ය.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "බිඳින ලද්දේ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "අගාධයෙහි"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "විසිකෙළා ය"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "මිටියක්"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:10.525797047Z",
+  "model": "glm-5.3"
+}

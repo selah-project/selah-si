@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පාප පූජාවට එළුවන්ගෙන් පිරිමි කොටියෙක්;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "පිරිමි කොටියෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළුවන්ගෙන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:58.977208796Z",
+  "model": "glm-5.3"
+}

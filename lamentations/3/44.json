@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "වලාකුළකින් ඔබට වැසුවේය — ප්‍රාර්ථනාව පසුකර යාමෙන් ⟨වැළැක්වා⟩.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "වැසුවේය"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "වලාකුළකින්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "පසුකර යාමෙන්"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ප්‍රාර්ථනාව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:11.525482594Z",
+  "model": "glm-5.3"
+}

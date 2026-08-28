@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඇය ⟨ඇගේ⟩ ගෙදර දොරටුවෙහි, නගරයේ උස් තැන්වල ⟨ඇති⟩ අසුනක, වාඩිවී සිටියි.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "වාඩිවී සිටියි"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "දොරටුවෙහි"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇගේ ගෙදර"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "අසුනක"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "උස් තැන්වල"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "නගරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:35:38.156265613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ශබත දිනය ⟨את⟩ රැකගන්න, එය පූජනීය කරන්න — යහ්වේ ඔබේ එලෝහීම් ඔබට අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "රැකගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දිනය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ශබත"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "එය පූජනීය කරන්න"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…පරිදි"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ඔබට අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:39:11.396730111Z",
+  "model": "glm-5.3"
+}

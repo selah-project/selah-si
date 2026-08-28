@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "අහරොන්ව ⟨את⟩ ගනිව, ඔහුගේ පුත් එල්ආසාර්ව ⟨את⟩ ද, සහ හොර් කන්ද වෙත ඔවුන්ව ⟨את⟩ නංවන්න.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ගනිව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අහරොන්"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ද",
+      "marks": "එල්ආසාර්"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "එල්ආසාර්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "නංවන්න"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්"
+    },
+    {
+      "surface": "הר",
+      "gloss": "හොර්"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කන්ද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:26.050848898Z",
+  "model": "glm-5.3"
+}

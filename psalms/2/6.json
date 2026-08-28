@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මා තාමා මගේ රජු පිහිටුවා ඇත්තේ සියෝන්, මගේ පූජනීය කඳුව මත.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මා තාමා"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "පිහිටුවා ඇත්තේ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "මගේ රජු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සියෝන්"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කඳුව"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "මගේ පූජනීය"
+    }
+  ],
+  "timestamp": "2026-08-28T01:59:40.460845241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "එක් ⟨තිරයක⟩ දිග අඟල් විසිඅටක් විය, එක් ⟨තිරයක⟩ පළල අඟල් හතරක් විය; සියලු තිරයන්ට එකම මිනුම විය.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරය"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්ස"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "අඟලෙන්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "සහ පළල"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "අඟලෙන්"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරය"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "මිනුම"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "තිරයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:20:06.016035162Z",
+  "model": "glm-5.3"
+}

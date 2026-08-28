@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේ සදාකාලයටද නිමක් නැති කලටද රාජ්‍ය කරන සේක.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "රාජ්‍ය කරන සේක"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "නිමක් නැති කලට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:46:39.408402116Z",
+  "model": "glm-5.3"
+}

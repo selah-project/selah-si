@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "යහ්වේ මට කතා කොට වදාළේය: මම ⟨את⟩ මෙම ජනයා දුටුවෙමි, බලව — ඔවුන් අඩු ගාංචි ඇති ජනයෙකි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කොට වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුවෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "මෙම ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙකි"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "අඩු"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ගාංචි ඇති"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔවුන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:30.932064820Z",
+  "model": "glm-5.3"
+}

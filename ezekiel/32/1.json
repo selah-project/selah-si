@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "දොළොස්වන වසරේදී, දොළොස්වන මාසයේ, ⟨the⟩ මාසයේ පළමු දිනයේදී, යහ්වේගේ වචනය මා වෙත ආයේ, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "දෙවන-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "දෙවන-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "මාසය"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "පළමු දිනයේදී"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ආයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:49:09.690501288Z",
+  "model": "glm-5.3"
+}

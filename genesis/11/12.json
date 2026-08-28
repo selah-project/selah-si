@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "අර්පක්ෂද් වසර තිස්පහක් ජීවත් වූයේය, ⟨את⟩ ෂෙලාක් බිහි කළේය.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත් වූයේය"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "බිහි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙලාක්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ෂෙලාක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:34.953410204Z",
+  "model": "glm-5.3"
+}

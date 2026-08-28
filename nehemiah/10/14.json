@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "හෝදියා, බානි, බෙනිනු.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "හෝදියා"
+    },
+    {
+      "surface": "בני",
+      "gloss": "බානි"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "බෙනිනු"
+    }
+  ],
+  "timestamp": "2026-08-28T06:23:24.967157096Z",
+  "model": "glm-5.3"
+}

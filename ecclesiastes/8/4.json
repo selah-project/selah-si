@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "රජුගේ වචනය ඇති තැන ⟨එයම⟩ බලය යි, ඔහුට 'ඔබ කරන්නේ කුමක්ද?' යැ කියන්නේ කවරෙක්?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ඇති තැන"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "බලය"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "කියන්නේ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ඔබ කරන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:28.930101002Z",
+  "model": "glm-5.3"
+}

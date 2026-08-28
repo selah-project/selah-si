@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේගේ දූතයා ඔහුට දිස් විය; ඔහුට කීවේය: බලවත් වීරය, යහ්වේ ඔබ සමඟ වියා.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දිස් විය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "බලවත් වීරය"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "වීරය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:38:48.911437363Z",
+  "model": "glm-5.3"
+}

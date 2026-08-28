@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඉශ්රායෙල් ගිබ්ආහ් වටා කුඩු ඉරියව් සැලසුම් කළේය.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "සැලසුම් කළේය"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "කුඩු ඉරියව්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ගිබ්ආහ්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:51:55.011109208Z",
+  "model": "glm-5.3"
+}

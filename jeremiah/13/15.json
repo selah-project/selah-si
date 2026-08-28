@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "අසන්න, කන් යොමු කරන්න — ඔබ උඩඟු නොවන්න, මන්ද යහ්වේ කථා කර ඇත.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "කන් යොමු කරන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ඔබ උඩඟු වන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කර ඇත"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:07.393894357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "එහෙත් ලේ අනුභව නොකරන්න — පොළොව මත එය ජලය සේ වත් කරන්න.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "අනුභව කරන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "වත් කරන්න"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ජලය සේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:26.034103508Z",
+  "model": "glm-5.3"
+}

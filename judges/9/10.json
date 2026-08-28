@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ගස් ඉත්තන් ගසට කීවෝය: එවුන්, ඔබ අප උඩ රජ කරව.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීවෝය"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ඉත්තන් ගසට"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "එවුන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "රජ කරව"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අප උඩ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:41:27.257248837Z",
+  "model": "glm-5.3"
+}

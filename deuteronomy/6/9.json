@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "සහ ඔබ ඒවා ඔබේ ගෙයි දොර උළං මතද, ඔබේ දොරවල් මතද ලියන්න.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "සහ ඔබ ලියන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "දොර උළං"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ඔබේ ගෙය"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "සහ ඔබේ දොරවල් මත"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:36.901517717Z",
+  "model": "glm-5.3"
+}

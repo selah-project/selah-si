@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "එහෙත් ඔහු නොසෝදා තම ශරීරය ජලයෙන් නොනෑවූයේ නම්, ඔහු තම අධර්මය දරන්නේය.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "එහෙත් නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "සෝදා"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "තම ශරීරය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "නෑවූයේ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "දරන්නේය"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "තම අධර්මය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:19:07.947295638Z",
+  "model": "glm-5.3"
+}

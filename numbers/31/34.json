@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සහ කොටළුවන් එකක් සහ හැටක් ලක්ෂයකි — එනම් හැටක් එකක් දහසකි.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "සහ කොටළුවන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "සහ හැටක්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ලක්ෂයක් (දහස් ගණන)"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:04.989414142Z",
+  "model": "glm-5.3"
+}

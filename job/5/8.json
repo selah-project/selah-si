@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එහෙත් මම, එල් වෙත විමසමි, සහ එලෝහීම් වෙත මගේ පැමිණිල්ල තබමි.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "විමසමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "තබමි"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "මගේ පැමිණිල්ල"
+    }
+  ],
+  "timestamp": "2026-08-28T04:29:46.753219942Z",
+  "model": "glm-5.3"
+}

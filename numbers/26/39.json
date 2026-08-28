@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ෂුපාම්ට — ෂුපාමියායි කුලය; හුපාම්ට — හුපාමියායි කුලය.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "ෂෙපුපාම්ට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "කුලය"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "ෂුපාමියායි"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "හුපාම්ට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "කුලය"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "හුපාමියායි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:06.614164149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "එළියාහු අහාබාට කථා කොට, නැඟී යා, කා පානය කර; මන්ද, බහුල වැසියේ හඬක් ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කථා කොට"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "එළියාහු"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "අහාබාට"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "නැඟී යා"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "කා"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "පානය කර"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬක්"
+    },
+    {
+      "surface": "המון",
+      "gloss": "බහුල"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "වැසියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:45:37.102716718Z",
+  "model": "glm-5.3"
+}

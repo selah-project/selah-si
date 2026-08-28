@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මේවා ⟨ඒ⟩ පණත් වේ, යහ්වේ සීනායි කඳුවේදී මොෂේට ද, යිස්රාඑල් පුත්‍රයන් වෙතට ද, අණ කළ පණත් වේ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "⟨ඒ⟩ පණත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙතට"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කඳුවේදී"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "සීනායි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:09.025396581Z",
+  "model": "glm-5.3"
+}

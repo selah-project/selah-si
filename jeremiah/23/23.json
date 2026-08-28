@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ආසන්න වූ එලෝහීම් මම වෙමිද, යහ්වේගේ නැමෝව — දුර වූ එලෝහීම් නොවෙමිද?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ආසන්න වූ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නැමෝව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "දුර වූ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:59:51.597098111Z",
+  "model": "glm-5.3"
+}

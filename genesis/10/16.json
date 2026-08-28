@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ⟨את⟩ යෙබූසීන්ද ⟨את⟩ එමෝරීන්ද ⟨את⟩ ගිර්ගාෂීන්ද.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "යෙබූසීන්"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "යෙබූසීන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එමෝරීන්"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "එමෝරීන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ගිර්ගාෂීන්"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ගිර්ගාෂීන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:23.644048510Z",
+  "model": "glm-5.3"
+}

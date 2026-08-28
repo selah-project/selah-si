@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "පලා යන්න, මගේ ආදරය, මුව පැටියෙකු හෝ මුවෝද මුව පැටියෙකු වගැයි සුවඳ ඖෂධ කඳුවාරුවල ⟨ඔබ⟩ වී.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "පලා යන්න"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "මගේ ආදරය"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "වගැයි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "මුවෝද"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "මුව පැටියෙකු"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "මුවෝද"
+    },
+    {
+      "surface": "על",
+      "gloss": "කඳුවාරුවල"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "සුවඳ ඖෂධ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:04:18.455830700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "යහ්වේ මොෂේට සහ අහරෝන්ට කථා කරමින් මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කරමින් කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ සිට"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:14.128431805Z",
+  "model": "glm-5.3"
+}

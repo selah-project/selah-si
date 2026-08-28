@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ත්සිපෝර්ගේ පුත් බාලාක් ඉශ්රායෙල් අමෝරිවරුන්ට කළ සියල්ල ⟨את⟩ දුටුවේය.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "බාලාක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ත්සිපෝර්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "අමෝරිවරුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:31.692661426Z",
+  "model": "glm-5.3"
+}

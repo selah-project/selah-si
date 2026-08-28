@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "යාකොව් ලුස් වෙත පැමිණියේය — එය කෙනආන් දේශයේ ⟨ඇත⟩; එනම් බෙයිත්-එල් — ඔහු සමඟ සිටි සියලු ජනයාද ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ලුස් වෙත"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙනආන්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එනම්"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:47.527698260Z",
+  "model": "glm-5.3"
+}

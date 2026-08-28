@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 85,
+  "translation": "ඔව්, යහ්වේ යහපත් දේ දෙයි; අපගේ දේශය එහි ඵලදාව දෙන්නීය.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ඔව්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "යහපත් දේ"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "අපගේ දේශය"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙන්නීය"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "එහි ඵලදාව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:02:55.123937284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබේ ඉරණම අප මැද දමන්න; අප සැමට එකම මුදල් මල්ලක් ⟨වේවා⟩.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "ඔබේ ඉරණම"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "දමන්න"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "අප මැද"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "මුදල් මල්ල"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨වේවා⟩"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "අප සැමට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:35.392145893Z",
+  "model": "glm-5.3"
+}

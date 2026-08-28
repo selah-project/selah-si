@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "දැන් මාගේ ඇස් විවෘත වී, මාගේ කන් සවන් දෙන්නේ මෙම ස්ථානයේ යාච්ඤාවට ය.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "මාගේ ඇස්"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "වී"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "විවෘත"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "සහ මාගේ කන්"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "සවන් දෙන"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "යාච්ඤාවට"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ස්ථානයේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-28T07:21:55.735552043Z",
+  "model": "glm-5.3"
+}

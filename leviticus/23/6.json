@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "හා මේ මාසයේ දින පහළොස්වෙහි යහ්වේ වෙත අමු රොටි උත්සවය ⟨යි⟩; දින හතක් ඔබ අමු රොටි කන්නහ.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "හා පහ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "උත්සවය"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "අමු රොටි"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "අමු රොටි"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කන්නහ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:09.590682643Z",
+  "model": "glm-5.3"
+}

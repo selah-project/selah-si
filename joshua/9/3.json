@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ගිබ්උන් වැසියන් යෙහෝෂුවා යෙරිහෝටද ⟨את⟩ අයිටද කළ දේ ඇසූ කල්හි,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "වැසියන්"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ගිබ්උන්"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ඇසූ කල්හි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෙහෝෂුවා කළ දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුවා"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "යෙරිහෝට"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "අයිටද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:24:22.430299311Z",
+  "model": "glm-5.3"
+}

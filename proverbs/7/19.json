@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මන්ද ⟨ඒ⟩ මිනිසා ඔහුගේ ගෙදර නැත; ඔහු දුර මාර්ගයක ගියේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ඒ මිනිසා"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ඔහුගේ ගෙදර"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයක"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "දුර"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:04.665290358Z",
+  "model": "glm-5.3"
+}

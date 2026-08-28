@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ ⟨the⟩ පුෂ්පයන්, සහ ⟨the⟩ පහන්, සහ ⟨the⟩ පිහියම් — රනින්; ඒවා ⟨are⟩ සම්පූර්ණ රනින් ය.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "සහ ⟨the⟩ පුෂ්පයන්"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "සහ ⟨the⟩ පහන්"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "සහ ⟨the⟩ පිහියම්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:12:02.059943044Z",
+  "model": "glm-5.3"
+}

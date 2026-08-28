@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඥානවන්ත රජු දුෂ්ටයන් තෝරා හරියි, සහ රෝදය ඔවුන් මත ආපසු හරවයි.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "තෝරා හරියි"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ඥානවන්ත"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "සහ ආපසු හරවයි"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන් මත"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "රෝදය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:40.890231658Z",
+  "model": "glm-5.3"
+}

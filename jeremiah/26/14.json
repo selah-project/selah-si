@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 26:14",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මෙත්, බලුව, මම ඔබේ අතේ; ඔබේ ඇස් ඉදිරියේ හොඳ ලෙස හා යුක්ත ලෙස මට කරන්න.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මෙත්"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "බලුව මම"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ඔබේ අතේ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "හොඳ ලෙස"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "හා යුක්ත ලෙස"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ඔබේ ඇස් ඉදිරියේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:01:33.540432324Z",
+  "model": "glm-5.3"
+}

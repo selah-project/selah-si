@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මගේ මාංශය හා මගේ සම පිරිහෙළීය; ඔහු මගේ ඇටත් කැඩීය.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "පිරිහෙළීය"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "මගේ මාංශය"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "හා මගේ සම"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කැඩීය"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "මගේ ඇටත්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:46.705515390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මහ්ලීගේ — එලෙයිසර්; ඔහුට පුත්‍රයෝ සිටියේ නැත.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "මහ්ලීගේ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "එලෙයිසර්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිටියේ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:10.802196206Z",
+  "model": "glm-5.3"
+}

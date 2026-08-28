@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "හොලොන් සහ ⟨את⟩ එහි තණබිම්, දෙබීර් සහ ⟨את⟩ එහි තණබිම් ද",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "හොලොන්"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "හොලොන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "එහි තණබිම්"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "එහි තණබිම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "දෙබීර්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙබීර්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "එහි තණබිම්"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "එහි තණබිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:32:10.237908011Z",
+  "model": "glm-5.3"
+}

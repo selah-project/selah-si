@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔහු ⟨את⟩ බෙත්-ලෙහෙම්ද ⟨את⟩ එයිතාම්ද ⟨את⟩ තෙකෝආද ඉදිකළේය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ඉදිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බෙත්-ලෙහෙම්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ලෙහෙම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එයිතාම්"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "එයිතාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තෙකෝආ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "තෙකෝආ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:17:56.294867994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "යෙහූදාගේ පුත්‍රයෝ — එය්ර් හා ඕනාන්; එය්ර් හා ඕනාන් කනාන් දේශයේදී මළහ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූඩාගේ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "එය්ර්"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "හා ඕනාන්"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මළහ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "එය්ර්"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "හා ඕනාන්"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේදී"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කනාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:46:04.174614949Z",
+  "model": "glm-5.3"
+}

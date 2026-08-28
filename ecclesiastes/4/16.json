@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔවුන්ට පෙර වූ සියලු ජනයාට, සියල්ලන්ට, කෙළවරක් නැත; පසුකාලීනෝද ඔහු ගැන සතුටු නොවන්නෝය; මන්ද මෙයද හෙබල් සහ රූආඛ් පීඩනයකි.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "කෙළවරක්"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු...ට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලන්ට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ඔවුන්ට පෙර"
+    },
+    {
+      "surface": "גם",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "පසුකාලීනෝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "සතුටුවන්නෝ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු ගැන"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙබල්"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "සහ පීඩනය"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "රූආඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:02.570195416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔබේ පියයුරු දෙක — ලුණු මුවියගේ නිමග්න දෙදෙනෙකු සේ ⟨වේ⟩ මුවබ෩රු දෙකක් සේ.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ඔබේ පියයුරු"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "දෙකක් සේ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "මුවබ෩රු"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "නිමග්න දෙදෙනා"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ලුණු මුවියගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:05:27.464561944Z",
+  "model": "glm-5.3"
+}

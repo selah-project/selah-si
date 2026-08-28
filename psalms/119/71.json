@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මට හොඳය, මම් පීඩා විඳි බැවින් — ඔබේ විධිගත නීති ඉගෙන ගැනීමට.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "පීඩා විඳි"
+    },
+    {
+      "surface": "למען",
+      "gloss": "—ගැනීමට"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ඉගෙන"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ඔබේ විධිගත නීති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:36:50.866713758Z",
+  "model": "glm-5.3"
+}

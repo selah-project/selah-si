@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මගේ පුත්, මගේ වදන් රකිව්, මගේ පණිවිඩයන් ඔබ ⟨את⟩-සමඟ සඟවා ගන්න.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "රකිව්"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "මගේ වදන්"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "මගේ පණිවිඩයන්"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "සඟවා ගන්න"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-සමඟ ඔබ",
+      "marks": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:01:02.645253214Z",
+  "model": "glm-5.3"
+}

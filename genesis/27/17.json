@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඇය ⟨את⟩ රසවත් කෑමද ⟨את⟩ පාන්ද — තමා සෑදූ — තම පුත් යාකොව්ගේ අතට දුන්නාය.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ඇය දුන්නාය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රසවත් කෑම"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "රසවත් කෑම"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පාන්"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— ක්"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "තමා සෑදූ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතට"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "තම පුත්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:14.311243827Z",
+  "model": "glm-5.3"
+}

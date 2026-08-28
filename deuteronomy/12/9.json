@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මන්ද ඔබ මෙතෙක් විවේකය වෙතට ද උරුමය වෙතට ද නොපැමිණ සිටින නිසා ය — ඔබේ එලෝහීම් වන යහ්වේ ඔබට දෙන ඒවා ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "පැමිණියා"
+    },
+    {
+      "surface": "עד",
+      "gloss": "මෙතෙක්"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "දැනට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙතට"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "විවේකය"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙතට"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "උරුමය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:06:59.770049275Z",
+  "model": "glm-5.3"
+}

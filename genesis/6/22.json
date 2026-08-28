@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "නොආක් එලෝහීම් ඔහුට ⟨את⟩ අණ කළ සියල්ලට අනුව කළේය; එසේ කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොආක්"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුට (නොආක්ට)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:52.286110036Z",
+  "model": "glm-5.3"
+}

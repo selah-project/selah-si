@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "මොෂේට මුණිසුම් කූඩාරයට යා නොහැකි විය, මන්ද ⟨the⟩ වලාකුළ එය මත වාසය කළ නිසාය, යහ්වේගේ තේජස ⟨the⟩ මිෂ්කානය පිරවීය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "හැකි විය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "යා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරය"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "මුණිසුම්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "වාසය කළ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එය මත"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "වලාකුළ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පිරවීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මිෂ්කානය"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මිෂ්කානය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:45.608012313Z",
+  "model": "glm-5.3"
+}

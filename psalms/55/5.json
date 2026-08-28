@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 55,
+  "translation": "මාගේ හදවත මා තුළ දෙදෙරයි, මරණයේ භීතිය මට ⟨මත⟩ වැටී ඇත.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "මාගේ හදවත"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "දෙදෙරයි"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "මා තුළ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "වැටී ඇත"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට ⟨මත⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T10:24:23.727157214Z",
+  "model": "glm-5.3"
+}

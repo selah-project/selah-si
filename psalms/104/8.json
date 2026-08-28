@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "කඳු ඉහළ යන්නේය, නිම්න පහළ යන්නේය — ඔබ ඒවාට පිහිටුවූ මේ ස්ථානයට.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ඉහළ යන්නේය"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "පහළ යන්නේය"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "නිම්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයට"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "පිහිටුවූ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඒවාට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:16:16.199167448Z",
+  "model": "glm-5.3"
+}

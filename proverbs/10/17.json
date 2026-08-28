@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ජීවිතයට ⟨වූ⟩ මාර්ගය — අනුශාසනය රකින්නා; බැණුම් අත්හරින්නා මුලා වේ.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ජීවිතයට"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "රකින්නා"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "අනුශාසනය"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "අත්හරින්නා"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "බැණුම්"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "මුලා වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:02:23.625013645Z",
+  "model": "glm-5.3"
+}

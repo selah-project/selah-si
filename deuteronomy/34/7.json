@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "මොෂේ මිය යන විට වසර සියයක් විසියක් වයසැති විය; ඔහුගේ ඇස නොමැකීය, ඔහුගේ පැණවූබවද නොවියකිනි.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "වයසැති"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විසියක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "මිය යන විට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "මැකීය"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ඔහුගේ ඇස"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נס",
+      "gloss": "වියකිනි"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "පැණවූබවද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:18:55.581471392Z",
+  "model": "glm-5.3"
+}

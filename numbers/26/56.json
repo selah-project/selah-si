@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ගෝරාලයේ කට අනුව උරුමය බොහෝ දෙනා හා ස්වල්ප දෙනා අතර බෙදෙනු ඇත.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "අනුව"
+    },
+    {
+      "surface": "פי",
+      "gloss": "කට"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ගෝරාලයේ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "බෙදෙනු ඇත"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "උරුමය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බොහෝ දෙනා"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ස්වල්ප දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:29.071023600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 114,
+  "translation": "මුහුණ දැක පලා ගියේය; යර්දන් පසුබට විය.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "පලා ගියේය"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යර්දන්"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "පසුබට විය"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ආපසු"
+    }
+  ],
+  "timestamp": "2026-08-28T03:27:50.036785208Z",
+  "model": "glm-5.3"
+}

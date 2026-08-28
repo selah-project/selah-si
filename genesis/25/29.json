@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "යාකොව් සුප් උයා තැබීය; ඒසාව කෙතෙන් පැමිණියේය, ඔහු මහිමයි.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "උයා තැබීය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "සුප්"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසාව"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙත"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "මහිමයි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:18:37.818389618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔවුහු තමන්ට ස්ථම්භ හා අෂේරා කුළුනු ඉදිකළහ — සෑම උස් කඳු මුදුනකද, සෑම හරිත ගසක් යටද.",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "ඉදිකළහ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "තමන්ට"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ස්ථම්භ"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "අෂේරා කුළුනු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "කඳු මුදුන"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "උස්"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "හරිත"
+    }
+  ],
+  "timestamp": "2026-08-27T23:01:02.050382922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔබේ අතට හමු වන සියල්ල, ඔබේ බලයෙන් කරන්න; මන්ද ඔබ යන ෂෙයෝල්හි ක්‍රියාවක්ද නැත, ගණනයාවක්ද නැත, දැනුමක්ද නැත, ඥානයක්ද නැත.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "හමු වන"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අතට"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ඔබේ බලයෙන්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ගණනයාව"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ෂෙයෝල්හි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "යන"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එතැනට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:29.665356138Z",
+  "model": "glm-5.3"
+}

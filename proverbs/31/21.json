@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇගේ ගෙදරට හිමෙන් ඇය බිය නොවන්නීය, මන්ද ඇගේ මුළු ගෙදරම දෙපට රෙදි ඇඳ සිටී.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "බිය වන්නීය"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ඇගේ ගෙදරට"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "හිමෙන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ගෙදර"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ඇඳ සිටී"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙපට රෙදි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:29.885053604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "බලා සිටින තැනැත්තාට යහ්වේ යහපත්ය; ඔහුව සොයන ප්‍රාණයට ⟨යහපත්ය⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "බලා සිටින තැනැත්තාට"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ප්‍රාණයට"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ඔහුව සොයයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:00.183100584Z",
+  "model": "glm-5.3"
+}

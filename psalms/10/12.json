@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "නැඟී සිටුව, යහ්වේ! එල් ⟨වන ඔබ⟩, ඔබේ අත ඔසවන්න! දිළිඳුන් අමතක නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "නැඟී සිටුව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ඔසවන්න"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "අල",
+      "gloss": ""
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "අමතක කරන්න"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "දිළිඳුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:05:20.984965654Z",
+  "model": "glm-5.3"
+}

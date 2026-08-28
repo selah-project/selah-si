@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "සහ මධුව නොපානා ඕනෑම පූජකයෙක් — ඔවුන් අභ්‍යන්තර අංගනය වෙත පිවිසෙන විටය.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "සහ මධුව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "පානා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ඕනෑම"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "පූජකයෙක්"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ඔවුන් පිවිසෙන විට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "අංගනය"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "අභ්‍යන්තර"
+    }
+  ],
+  "timestamp": "2026-08-28T01:00:39.199104142Z",
+  "model": "glm-5.3"
+}

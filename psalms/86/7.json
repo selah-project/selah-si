@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 86,
+  "translation": "මගේ සරදමේ දින මම ඔබට අඬමි, මන්ද ඔබ මට පිළිතුරු දෙන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "මගේ සරදමේ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "මම ඔබට අඬමි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ඔබ මට පිළිතුරු දෙන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:05:14.017573765Z",
+  "model": "glm-5.3"
+}

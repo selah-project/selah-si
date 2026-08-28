@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "⟨את⟩ ඔබේ රිදී නොදී පොලියට ඔහුට; වැඩිකිරීමට ඔබේ ආහාරද නොදෙව්.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ රිදී"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ඔබේ රිදී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොදී"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "පොලියට"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "වැඩිකිරීමට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොදෙව්"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ඔබේ ආහාර"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:11.099697929Z",
+  "model": "glm-5.3"
+}

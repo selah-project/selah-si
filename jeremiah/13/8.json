@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "එවිට යහ්වේගේ වචනය මට ආවේය, කියන්නේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:52:45.236045773Z",
+  "model": "glm-5.3"
+}

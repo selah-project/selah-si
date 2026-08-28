@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මොෂේ යහ්වේගේ ⟨את⟩ නියමිත සමයන් යිස්රායෙල් පුත්‍රයන්ට කීවේය.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නියමිත සමයන්"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "නියමිත සමයන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:56.295457763Z",
+  "model": "glm-5.3"
+}

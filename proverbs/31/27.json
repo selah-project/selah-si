@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇය ඇගේ ගෙදර මාර්ග නිරීක්ෂණය කරයි; උදාසීනත්වයේ පාන් ඇය නොකනී.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "ඇය නිරීක්ෂණය කරයි"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇගේ ගෙදර"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "සහ පාන්"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "උදාසීනත්වයේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "කනී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:11.582947510Z",
+  "model": "glm-5.3"
+}

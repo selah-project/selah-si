@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 4:7",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මගේ හිසේ දර්ශන මගේ ඇඳ මත ⟨were⟩: මම දුටිමි, බල්ලා — පොළොව මැද ගසක්, එහි උස ඉතා විශාලයි:",
+  "tokens": [
+    {
+      "surface": "וחזוי",
+      "gloss": "සහ දර්ශන"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "මගේ හිසේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "මගේ ඇඳ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "දුටිමි"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨I⟩ විසින් දැක්කෙමි"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "බල්ලා"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "ගසක්"
+    },
+    {
+      "surface": "בגוא",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "එහි උස"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "ඉතා විශාලයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:41:24.810510950Z",
+  "model": "glm-5.3"
+}

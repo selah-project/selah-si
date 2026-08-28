@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මේ සියල්ලම ⟨את⟩ මම දුටුවෙමි, දවස යටතේ කරන ලද සෑම ක්‍රියාවකටම ⟨את⟩ සිත යොමු කොට — මිනිසා මිනිසාට පාලනය කරන කාලයක්, ඔහුටම අනතුරට.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "දුටුවෙමි"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "යොමු කොට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සිත"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "සිත"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සෑම…කටම"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ලද"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "කරන ලද"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යටතේ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලයක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלט",
+      "gloss": "පාලනය කරන"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "අනතුරට"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුටම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:24.755720158Z",
+  "model": "glm-5.3"
+}

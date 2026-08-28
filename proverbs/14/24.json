@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඥානවන්තයන්ගේ කිරුළ ⟨ඔවුන්ගේ⟩ ධනය ය; මෝඩයන්ගේ මෝඩකම — මෝඩකමම ය.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "කිරුළ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ඥානවන්තයන්ගේ"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ධනය"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "මෝඩකම"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "මෝඩයන්ගේ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "මෝඩකමම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:19.815102887Z",
+  "model": "glm-5.3"
+}

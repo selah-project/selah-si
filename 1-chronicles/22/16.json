@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "රන් සඳහාද, රිදී සඳහාද, තඹ සඳහාද, යකඩ සඳහාද ගණන් නැත. නැඟී සිට කරන්න, යහ්වේ ඔබ සමඟ වේවා.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "රන් සඳහාද"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "රිදී සඳහාද"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "තඹ සඳහාද"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "යකඩ සඳහාද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ගණන්"
+    },
+    {
+      "surface": "קום",
+      "gloss": "නැඟී සිට"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:04:14.729314397Z",
+  "model": "glm-5.3"
+}

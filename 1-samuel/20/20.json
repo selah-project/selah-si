@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මම ඊතල තුනක් පැත්තට විද, මට ඉලක්කයකට යවන්නාක් මෙන් විදිමි.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "ඊතල"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "පැත්තට"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "විදිමි"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "යවන්නාක් මෙන්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ඉලක්කයකට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:03:28.991575396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "යහ්වේ ගේ බිය දින එකතු කරයි; දුෂ්ටයන්ගේ අවුරුදු කෙටි වන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "බිය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ ගේ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "එකතු කරයි"
+    },
+    {
+      "surface": "඙מים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "කෙටි වන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:01:59.517107174Z",
+  "model": "glm-5.3"
+}

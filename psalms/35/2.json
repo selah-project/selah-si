@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "අල්ලාගන්න පළිහද ⟨the⟩ විශාල පළිහද, නැඟී සිටින්න මගේ උදව්වට.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "අල්ලාගන්න"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "පළිහ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "සහ විශාල පළිහ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "නැඟී සිටින්න"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "මගේ උදව්වට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:25:13.140519338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නෙට්සියක්ගේ පුත්‍රයෝ, ඛටීෆාගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "නෙට්සියක්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ඛටීෆාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:57:26.051349307Z",
+  "model": "glm-5.3"
+}

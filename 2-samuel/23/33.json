@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ෂම්මා ⟨ද⟩හරාරි; අහියාම්, ෂාරාර් ⟨ද⟩හරාරිගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ෂම්මා"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨ද⟩හරාරි"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "අහියාම්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ෂාරාර්"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "⟨ද⟩හරාරි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:04.621059130Z",
+  "model": "glm-5.3"
+}

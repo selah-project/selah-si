@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ආත්මය මා තුළ පැමිණ මා පාද මත සිටුවීය; ඔහු ⟨את⟩ මා සමඟ කථා කොට මට කීවේය: යා — ඔබේ ගෙයි මැද වසාගන්න.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා තුළ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "මා සිටුවීය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "පාද"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "මා සමඟ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בא",
+      "gloss": "යා"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "වසාගන්න"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ඔබේ ගෙයි"
+    }
+  ],
+  "timestamp": "2026-08-28T09:59:18.412471515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔවුහු ඇයට අත් දැමූහ; රජුගේ ගෙදි අශ්ව දොරටුවේ පිවිසුමට ඇය පැමිණි කල එහිදී ඔවුහු ඇයව මැරූහ.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "දැමූහ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "පැමිණි කල"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "පිවිසුමට"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "අශ්ව"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙදි"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "ඇයව මැරූහ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T07:38:39.343431408Z",
+  "model": "glm-5.3"
+}

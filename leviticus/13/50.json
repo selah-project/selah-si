@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "පූජකයා ⟨את⟩ ආසාධනය බලා, ⟨את⟩ ආසාධනය ඇති දෙය දින සතක් වසා තබයි.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "බලා"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආසාධනය"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ආසාධනය"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "වසා තබයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආසාධනය"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ආසාධනය ඇති දෙය"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "සතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:57.656754404Z",
+  "model": "glm-5.3"
+}

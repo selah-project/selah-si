@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ශලෝමෝ ⟨את⟩ තම ගෙයද දහතුන් අවුරුද්දක් ඉදිකළේය, ඔහු ⟨את⟩ සියල්ල — තම ගෙයද — නිමවීය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තම ගෙය"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගෙය"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකළේය"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ශලෝමෝ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුද්දක්"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "නිමවීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගෙය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:35:15.944427993Z",
+  "model": "glm-5.3"
+}

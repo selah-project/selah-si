@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මහා ප්‍රිය තැන්හි මට වැටී ඇත; ඔව්, උරුමය මට උඩ බැබළේය.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "මහා (නූල්)"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "වැටී ඇත"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ප්‍රිය තැන්හි"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ඔව්"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "උරුමය"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "බැබළේ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට උඩ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:07:54.772137497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සිදු වූයේ — යහ්වේගේ වචනය මට එල්ල වූයේය, මෙසේ දන්වමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට එල්ල වූයේය"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ දන්වමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:34:42.501652249Z",
+  "model": "glm-5.3"
+}

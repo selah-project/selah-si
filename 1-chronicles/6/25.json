@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මීකාඑල්ගේ පුත්, බජසෙයාගේ පුත්, මල්කියාගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "මීකාඑල්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "බජසෙයාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "මල්කියාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:18.440450107Z",
+  "model": "glm-5.3"
+}

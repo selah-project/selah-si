@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යෙහෝෂාපාට් යිස්රායෙල් රජුට කීවේය: කරුණාකර අද යහ්වේගේ ⟨the⟩ වචනය ⟨את⟩ විමසන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "යෙහෝෂාපාට්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "විමසන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචනය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:49:57.314226022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔබ අද ⟨את⟩ මෝවාබ් සීමාව ⟨את⟩ ආර් තරණය කරයි.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "තරණය කරයි"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෝවාබ් සීමාව"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවාබ්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආර්"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ආර්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:26.641252122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 36:28",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මීසාක්මේ පසුපස කොන් දෙක සඳහා ද ඔහු ලෑලි දෙකක් කළේය.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "දෙකක් ද"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ලෑලි"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "කොන් සඳහා"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මීසාක්මේ"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "පසුපස දෙක"
+    }
+  ],
+  "timestamp": "2026-08-27T20:02:03.427303879Z",
+  "model": "glm-5.3"
+}

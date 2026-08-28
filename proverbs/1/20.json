@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඥානය පිටත මහා හඬින් කෑගසයි; චතුරස්රවල ⟨ඒ⟩ තම කටහඬ නඟයි.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "මහා හඬින් කෑගසයි"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "චතුරස්රවල"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "නඟයි"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "තම කටහඬ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:52.381643005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "ආෂේර්ගෙන් — ඔහුගේ ආහාර සරුය; ඔහු රජුගේ රසකැවිලි දෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "ආෂේර්ගෙන්"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "සරුය"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ඔහුගේ ආහාර"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙන්නේය"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "රසකැවිලි"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:42.702119598Z",
+  "model": "glm-5.3"
+}

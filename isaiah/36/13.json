@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "රාබ් ෂාකේ සිටගෙන, යූද භාෂාවෙන් මහත් හඬින් කෑගසා කීවේය: අසන්න ⟨את⟩ මහා රජුගේ වචන — අසූර් රජුගේ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "සිටගෙන"
+    },
+    {
+      "surface": "רב",
+      "gloss": "රාබ්"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "ෂාකේ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කෑගසා"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "හඬින්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "යූද භාෂාවෙන්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචන"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අසූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:37:21.116757630Z",
+  "model": "glm-5.3"
+}

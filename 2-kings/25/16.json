@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 25:16",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "කුළඔ දෙක, ⟨the⟩ මුහුද ⟨the⟩ එකම, ශෙලොමොහ් යහ්වේගේ ගෙයට කළ පාදම් — මෙකී භාණ්ඩ සියල්ලේ තඹ බර නොවීය.",
+  "tokens": [
+    {
+      "surface": "העמודים",
+      "gloss": "කුළඔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "והמכנות",
+      "gloss": "පාදම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ශෙලොමොහ්"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙයට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර"
+    },
+    {
+      "surface": "לנחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලේ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "භාණ්ඩ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙකී"
+    }
+  ],
+  "timestamp": "2026-08-27T23:08:53.284338728Z",
+  "model": "glm-5.3"
+}

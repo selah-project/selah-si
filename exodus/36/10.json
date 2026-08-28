@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ඔහු ⟨את⟩ තිරයන් පහ එකකට එකක් බැඳීය; තිරයන් පහක්ද එකකට එකක් බැඳීය.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "සහ බැඳීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තිරයන් පහ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "තිරයන්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකකට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "සහ පහ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "තිරයන්"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "බැඳීය"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකකට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:20:06.016372753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හා පාප පූජාවේ ගොනාගේ සියලු මේද ⟨את⟩ එයින් ඉවත් කරන්නේය — අන්ත්‍ර මත වැසෙන මේද ⟨את⟩, හා අන්ත්‍ර මත ඇති සියලු මේද ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු මේද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "මේද"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ගොනාගේ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප පූජාවේ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ඉවත් කරන්නේය"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වැසෙන මේද"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "මේද"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "වැසෙන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "අන්ත්‍ර"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු මේද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "මේද"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "අන්ත්‍ර"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:39.293855187Z",
+  "model": "glm-5.3"
+}

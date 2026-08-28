@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යහ්වේ මොෂේට කථා කොට වදාළේය, කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:34:05.934338896Z",
+  "model": "glm-5.3"
+}

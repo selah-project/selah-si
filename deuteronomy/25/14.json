@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "තීට නොතිබෙනු — තීගේ ගෙදර එඵාවක් සහ එඵාවක්, විශාලක් සහ කුඩාක්.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "තිබෙනු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තීට"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "තීගේ ගෙදර"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "එඵාවක්"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "සහ එඵාවක්"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "විශාලක්"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "සහ කුඩාක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:46.370011297Z",
+  "model": "glm-5.3"
+}

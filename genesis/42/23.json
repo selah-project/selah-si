@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "ඔව්හු නොදැන සිටියෝය යොසෙප් අසන්නේය බව, මන්ද පරිවර්තකයා ඔවුන් අතර සිටියේය.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ඔව්හු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "දැන සිටියෝය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසන්නේය"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "පරිවර්තකයා"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "ඔවුන් අතර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:14.546752791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මගේ පුත්‍රය, ඔබේ හදවත මට දෙන්න, ඔබේ ඇස් මගේ මාර්ග ප්‍රිය කරත්වා.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්‍රය"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "සහ ඔබේ ඇස්"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මගේ මාර්ග"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "ප්‍රිය කරත්වා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:24.195811999Z",
+  "model": "glm-5.3"
+}

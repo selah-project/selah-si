@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 95,
+  "translation": "යාමය යමෙහි ඔහුට අයිති ය — ඔහු එය කළේය; ඔහුගේ අත් වියළි බිම මවන ලදී.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "යමෙහි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට අයිති"
+    },
+    {
+      "surface": "הים",
+      "gloss": "යාමය"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "සහ ඔහු"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "එය කළේය"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "සහ වියළි බිම"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ඔහුගේ අත්"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "මවන ලදී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:13:39.463487451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "වජබ්දොන්, වජික්රි සහ වජනාන්.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "සහ අබ්දොන්"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "සහ සික්රි"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "සහ හනාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:31.899043547Z",
+  "model": "glm-5.3"
+}

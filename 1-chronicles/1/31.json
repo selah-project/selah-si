@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යෙතූර්, නාෆිෂ්, කෙඩෙමා. මොහු යිෂ්මාඑල්ගේ පුත්‍රයෝය.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "යෙතූර්"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "නාෆිෂ්"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "කෙඩෙමා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨යෝ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "යිෂ්මාඑල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.009484209Z",
+  "model": "glm-5.3"
+}

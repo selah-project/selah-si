@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ගීතිකාවන්ගේ ගීතය — ඒ ශ්ලෝමෝගේ ⟨වූ⟩ එකයි.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ගීතය"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ගීතිකාවන්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ශ්ලෝමෝගේ ⟨වූ⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:00.387332003Z",
+  "model": "glm-5.3"
+}

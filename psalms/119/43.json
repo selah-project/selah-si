@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "ඇත්ත වචනය මාගේ මුඛයෙන් ඉතා දුරට ඉවත් නොකරන්න, මන්ද මම ඔබේ නීති බලා සිටිමි.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ඉවත් කරන්න"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "මාගේ මුඛයෙන්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ඇත්ත"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දුරට"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "ඔබේ නීති"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "බලා සිටිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:40.069341628Z",
+  "model": "glm-5.3"
+}

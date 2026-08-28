@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද බිත්තියෙන් ගල මොරයි, දැවයෙන් කූරුව ⟨it⟩ පිළිතුරු දෙයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගල"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "බිත්තියෙන්"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "මොරයි"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "කූරුව"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "දැවයෙන්"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "පිළිතුරු දෙයි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:33:03.883602953Z",
+  "model": "glm-5.3"
+}

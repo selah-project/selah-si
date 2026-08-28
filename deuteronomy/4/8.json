@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ කුමන මහා ජාතියකට ධර්මිෂ්ඨ ආඥා සහ නීති ඇත්ද, අද මම ඔබ ඉදිරියේ තබන මේ මුළු තෝරාවට අනුව?",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "සහ-කුමන"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ජාතියකට"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "ආඥා"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "සහ-නීති"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "ධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "මුළු-අනුව"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "තෝරාව"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "තබන"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ඔබ-ඉදිරියේ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:13.454748838Z",
+  "model": "glm-5.3"
+}

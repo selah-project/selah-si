@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "සිදුවන්නේය, මම ඔවුන්ට කිරීමට සිතාගත් පරිදි ඔබටද එය කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සිදුවන්නේය"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "මම සිතාගත්"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "කරන්නෙමි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබටද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:24.047426565Z",
+  "model": "glm-5.3"
+}

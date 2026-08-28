@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "පාෂ්ඛුර්ගේ පුත්‍රයෝ — දහසය, දෙසිය තිස් හතකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "පාෂ්ඛුර්ගේ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසය"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "හතකි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:55:27.856721140Z",
+  "model": "glm-5.3"
+}

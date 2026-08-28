@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මමද ඔබේ විපතේදී සිනාසෙමි; ඔබේ භය පැමිණෙන විට උපහාස කරමි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "ඔබේ විපතේදී"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "සිනාසෙමි"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "උපහාස කරමි"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "පැමිණෙන විට"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ඔබේ භය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:19.981977825Z",
+  "model": "glm-5.3"
+}

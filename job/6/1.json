@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඉයෝබ් උත්තර දී කථා කළේය:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ඉයෝබ්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කථා කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:30:30.404932938Z",
+  "model": "glm-5.3"
+}

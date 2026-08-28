@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "කෙහාත්ගේ පුත්‍රයෝ: අම්රාම්, යිට්ස්හාර්, චෙව්රොන් සහ උසීයෙල්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "කෙහාත්ගේ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "අම්රාම්"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "යිට්ස්හාර්"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "චෙව්රොන්"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "සහ උසීයෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:27.613269748Z",
+  "model": "glm-5.3"
+}

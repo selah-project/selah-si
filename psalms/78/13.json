@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "ඔහු මුහුද පළා ඔවුන් ⟨තැනින් තැන⟩ යැව්වේය; ජලය ගොඩක් සේ සිටුවීය.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "පළා"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ඔවුන් යැව්වේය"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "සිටුවීය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "සේ"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ගොඩක්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:56:07.092357075Z",
+  "model": "glm-5.3"
+}

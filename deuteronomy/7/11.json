@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔබ රක්ෂා කරව් ⟨את⟩ විධානය සහ ⟨את⟩ ආඥා සහ ⟨את⟩ නීති මා අද ඔබට අණ කරන, ඒවා කිරීමට.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ඔබ රක්ෂා කරව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "විධානය"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "විධානය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ආඥා"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ආඥා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "නීති"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "නීති"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ඔබට අණ කරන"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ඒවා කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:18.764347385Z",
+  "model": "glm-5.3"
+}

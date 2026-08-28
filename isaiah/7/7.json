@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙසේ කීවේ අදෝනයි යහ්වේ: එය නොනැඟෙන්නේය, වන්නේද නොවේ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "නැඟෙන්නේය"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්නේද නොවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:56:01.598054212Z",
+  "model": "glm-5.3"
+}

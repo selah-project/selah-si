@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මෝඩයාගේ කෝපය එදිනම දැනගැනේ; ලජ්ජාව වසන්නා උපක්‍රමශීලී ය.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදිනම"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දැනගැනේ"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "සහ වසන්නා"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ලජ්ජාව"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "උපක්‍රමශීලී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:04:59.753647302Z",
+  "model": "glm-5.3"
+}

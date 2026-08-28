@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔවුන්ගේ මළකඳින් ⟨את⟩ යමක් ගෙන යන සෑම අයෙක් තම ඇඳුම් සෝදා, සවස් වන තුරු අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සෑම...ද"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ගෙන යන"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ඔවුන්ගේ මළකඳින්"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "සෝදා"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "තම ඇඳුම්"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "අශුද්ධ වේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "සවස්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:22:59.111725207Z",
+  "model": "glm-5.3"
+}

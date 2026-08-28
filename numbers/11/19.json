@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "එක් දිනක් ඔබ අනුභව කරන්නේ නොව, දින දෙකක් හෝ නොව, පස් දිනක් හෝ නොව, දස දිනක් හෝ නොව, විසි දිනක් ද නොව.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "අනුභව කරනු ඇත"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "හෝ නොව"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "දින දෙකක්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "හෝ නොව"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පස්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "හෝ නොව"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දස"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "හෝ නොව"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:38:42.104401963Z",
+  "model": "glm-5.3"
+}

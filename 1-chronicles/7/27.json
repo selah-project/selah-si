@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නූන් ⟨ඔහුගේ⟩ පුත්, යෙහෝෂුආ ⟨ඔහුගේ⟩ පුත්.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "නූන්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:41.351564775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඉක්මන් කර මට උදව් කරන්න, අදෝනයි; මගේ ගැලවීම ඔබමය.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "ඉක්මන් කර"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "මට උදව් කරන්න"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "මගේ ගැලවීම"
+    }
+  ],
+  "timestamp": "2026-08-28T02:26:03.576971236Z",
+  "model": "glm-5.3"
+}

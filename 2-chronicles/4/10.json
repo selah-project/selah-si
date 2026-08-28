@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු ⟨את⟩ මුහුද ⟨දෙවියන්ගේ ගෘහයේ⟩ දකුණු පසින්, නැගෙනහිර දෙසට, දකුණට මුහුණලා තැබීය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මුහුද"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "තැබීය"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "පසින්"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "නැගෙනහිර දෙසට"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "මුහුණලා"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "දකුණට"
+    }
+  ],
+  "timestamp": "2026-08-28T07:12:38.174383861Z",
+  "model": "glm-5.3"
+}

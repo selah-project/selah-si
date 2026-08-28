@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "අන්ධයාට මම ඇස් වීමි; සහ කොරාට කකුල් වීමි — මමය.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "වීමි"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "අන්ධයාට"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "සහ කකුල්"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "කොරාට"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:47:07.909879260Z",
+  "model": "glm-5.3"
+}

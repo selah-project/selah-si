@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "නගරයෙහි ⟨ඔබ⟩ ආශීර්වාද ලත් වන්නේය, කෙතෙහිද ⟨ඔබ⟩ ආශීර්වාද ලත් වන්නේය.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ආශීර්වාද ලත් වන්නේය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයෙහි"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ආශීර්වාද ලත් වන්නේය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "කෙතෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:11.649295740Z",
+  "model": "glm-5.3"
+}

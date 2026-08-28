@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔබට වෙනත් දෙවිවරු මාගේ මුහුණාරයට ඉදිරිපිට නොවිය යුතුය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "විය යුතු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරු"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "על",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණාරය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:16:45.386661310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "හා, පක්ෂීන්ගේ හෝ පශුවන්ගේ — ඔබලාගේ සියලු වාසස්ථානවල ඕනෑම ලේ නොකන්න.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "හා ඕනෑම"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "වාසස්ථානවල"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "පක්ෂීන්ගේ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "හෝ පශුවන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:16.338754137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේ වෙත ඔබේ ක්‍රියා පැටවන්න, එවිට ඔබේ අදහස් ⟨ස්ථිර වනු ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "පැටවන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ඔබේ ක්‍රියා"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ස්ථිර වනු ඇත"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ඔබේ අදහස්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:53.162632582Z",
+  "model": "glm-5.3"
+}

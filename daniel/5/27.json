@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "තෙකෙල් — තරාදියෙන් බර දමා ⟨ඔබ⟩ ඌන ලෙස හමු වී ඇත.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "තෙකෙල්"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "බර දමා ඇත"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "තරාදියෙන්"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "හමු වී ඇත"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "ඌන"
+    }
+  ],
+  "timestamp": "2026-08-28T05:38:05.232007969Z",
+  "model": "glm-5.3"
+}

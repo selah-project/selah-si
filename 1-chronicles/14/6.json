@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "නෝගා, නෙෆෙග්, යාෆීඋ,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "නෝගා"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "නෙෆෙග්"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "යාෆීඋ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:49:05.114239024Z",
+  "model": "glm-5.3"
+}

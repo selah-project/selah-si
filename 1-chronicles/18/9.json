@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "තෝඋ හට — හමාත් රජුට — දාවීද් සෝබා රජු හදදඑසර්ගේ සමස්ත සේනාවට ⟨את⟩ පහර දුන් බව ඇසී ගියේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසී ගියේය"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "තෝඋ හට"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "හමාත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "පහර දුන්"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සමස්ත සේනාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "හදදඑසර්ගේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "සෝබා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:53.768892642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "චෙත් පුත්‍රයෝ අව්රාහම්ට ⟨את⟩ උත්තර දෙමින් ඔහුට කියන ලදී.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "උත්තර දුන්හ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "චෙත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අව්රාහම්"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:16:13.894715956Z",
+  "model": "glm-5.3"
+}

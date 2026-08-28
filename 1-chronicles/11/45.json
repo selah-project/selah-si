@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යදියෙල්, ෂිම්රිගේ පුත්‍රයා, සහ යොහා ⟨ඔහුගේ⟩ සහෝදරයා, තීසී වැසියා,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "යදියෙල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ෂිම්රි"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "සහ යොහා"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ඔහුගේ සහෝදරයා"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "තීසී වැසියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:41.370392546Z",
+  "model": "glm-5.3"
+}

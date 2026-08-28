@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු යහ්වේගේ ගෙයි ඉහළ දොරටුව ⟨את⟩ ඉදිකළේය, සහ ඔෆෙල් තාප්පයෙහි බොහෝ දේ ඉදිකළේය.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දොරටුව"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ඉහළ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "සහ තාප්පයෙහි"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ඔෆෙල්"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකළේය"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "බොහෝ දෙයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:39:54.496636761Z",
+  "model": "glm-5.3"
+}

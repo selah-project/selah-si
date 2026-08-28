@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සංචාරකයාට ⟨את⟩ ප්‍රේම කරව්, මන්ද ඔබ ද මිත්‍රයිම් දේශයේ සංචාරකයෝ වූවහුය.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ප්‍රේම කරව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සංචාරකයාට"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "සංචාරකයා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "සංචාරකයෝ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "වූවහුය"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිත්‍රයිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:58.284266688Z",
+  "model": "glm-5.3"
+}

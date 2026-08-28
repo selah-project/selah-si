@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යිස්රායෙල් සභාවේ සියල්ලෝ ⟨එය⟩ ⟨את⟩ කරන්නෝය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "සභාවේ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "කරන්නෝය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ එය",
+      "marks": "පෙසොඛ් (මංගල්‍යය)"
+    }
+  ],
+  "timestamp": "2026-08-27T19:45:10.116083210Z",
+  "model": "glm-5.3"
+}

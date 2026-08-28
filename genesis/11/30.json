@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සාරායි ⟨ද⟩ නිසරු වූවාය; ඇයට දරුවෙක් ⟨නැත⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "වූවාය"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "සාරායි"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "නිසරු"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "දරුවෙක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:10:14.935883674Z",
+  "model": "glm-5.3"
+}

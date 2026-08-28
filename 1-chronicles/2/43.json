@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ හෙබ්‍රොන්ගේ පුත්‍රයන්: කොරහම්, තප්පූහම්, රෙකෙම් සහ ෂෙමා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "සහ පුත්‍රයන්"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "හෙබ්‍රොන්"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරහම්"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "තප්පූහම්"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "රෙකෙම්"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ෂෙමා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:20.986010265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔවුන්ගේ සමාදානයද ඔවුන්ගේ යහපතද ඔබේ සියලු දින සදහටම නොපැතිය යුතුය",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "පැතිය යුතු"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ඔවුන්ගේ සමාදානය"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "සහ ඔවුන්ගේ යහපත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ඔබේ දින"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදහටම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:52.155211646Z",
+  "model": "glm-5.3"
+}

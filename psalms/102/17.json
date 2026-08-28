@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "යම් විටක යහ්වේ සීයෝන් ඉදි කළේද, තම තේජසෙහි ⟨ප්‍රකාශ⟩ විය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "යම් විටක"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදි කළේද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සීයෝන්"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ප්‍රකාශ විය"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "තම තේජසෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T12:14:23.190978034Z",
+  "model": "glm-5.3"
+}

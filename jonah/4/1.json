@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එය යෝනාට මහත් නරකක් ලෙස විය, ඔහුට කෝපය දැල්විණි.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "නරක් විය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "යෝනා"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නරකක්"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "දැල්වී කෝප විය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:28:46.460820904Z",
+  "model": "glm-5.3"
+}

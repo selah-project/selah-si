@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ⟨את⟩ අදෝරයිම්, සහ ⟨את⟩ ලඛීෂ්, සහ ⟨את⟩ අසෙකා",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "අදෝරයිම්"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "අදෝරයිම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ලඛීෂ්"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ලඛීෂ්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "අසෙකා"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "අසෙකා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:18:30.162812988Z",
+  "model": "glm-5.3"
+}

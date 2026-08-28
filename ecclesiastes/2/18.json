@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම ම ⟨את⟩ සියලු මගේ වෙහෙස — මම සූර්යයා යට වෙහෙසන — වෛර කළෙමි, මන්ද මම එය මට පසු වන ⟨the⟩ මිනිසාට තබමි.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "වෛර කළෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු මගේ වෙහෙස"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "මගේ වෙහෙස"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "වෙහෙසන"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "සූර්යයා"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "මම එය තබමි"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "වන"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "මට පසු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:29.459625271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "බටහිර දිග: මහා මුහුද ⟨යි⟩ — සීමාවේ සිට හමාත්ට එන තැනට ඉදිරිපිට දක්වා; මේ⟨යි⟩ බටහිර දිගයි.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "ים",
+      "gloss": "බටහිර"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "සීමාවේ සිට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "එන තැනට"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "හමාත්ට"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "ים",
+      "gloss": "බටහිර"
+    }
+  ],
+  "timestamp": "2026-08-28T01:02:09.027272513Z",
+  "model": "glm-5.3"
+}

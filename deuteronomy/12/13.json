@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ආරක්ෂා වන්න ඔබට — නැත්නම් ඔබ දකින සෑම ⟨තැනක⟩දීම ඔබේ දහන පූජා ඔසවන්න එපා.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ආරක්ෂා වන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "פן",
+      "gloss": "නැත්නම්"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ඔසවන්න"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ඔබේ දහන පූජා"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සෑම…දී"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "දකී"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:26.033413774Z",
+  "model": "glm-5.3"
+}

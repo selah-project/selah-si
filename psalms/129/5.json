@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 129,
+  "translation": "ලැජ්ජා වී ආපසු හැරෙත්වා, සියෝන් වෙත වෛර කරන සියල්ලෝම",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ලැජ්ජා වී"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ආපසු හැරෙත්වා"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ආපසු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝම"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "වෛර කරන"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සියෝන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:38:49.567498979Z",
+  "model": "glm-5.3"
+}

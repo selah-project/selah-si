@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මම ඉක්මන් කළෙමි සහ ප්‍රමාද නොවී, ඔබේ ආඥා රැකීමට.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "මම ඉක්මන් කළෙමි"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ප්‍රමාද වීමි"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ඔබේ ආඥා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:56.760520908Z",
+  "model": "glm-5.3"
+}

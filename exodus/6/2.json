@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එලෝහීම් මොෂේ කෙරෙහි කථා කොට ඔහුට කීවේය: මම යහ්වේ වෙමි.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:13:45.637459033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "අහරොන් යහ්වේ මොෂාට කී වචන සියල්ල ⟨את⟩ කථා කළේය, ජනතාවගේ ඇස් ඉදිරිපිට ලකුණු ⟨את⟩ කළේය.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචන සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂාට"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ලකුණු"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ඇස් ඉදිරිපිට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාවගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:39:34.730791800Z",
+  "model": "glm-5.3"
+}

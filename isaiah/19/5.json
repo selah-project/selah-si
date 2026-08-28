@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ජලය මුහුණෙන් හිඟ වන්නේය, ගඟද වියළී වළලා පිළිසිඳ යන්නේය.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "හිඟ වන්නේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "මුහුණෙන්"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ගඟද"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "වළලා පිළිසිඳ යන්නේය"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "වියළී"
+    }
+  ],
+  "timestamp": "2026-08-27T23:16:45.249066148Z",
+  "model": "glm-5.3"
+}

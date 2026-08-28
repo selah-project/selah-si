@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එය වළක්වාගන්න, එය ඔස්සේ නොගෙවන්න; එයින් ඉවතට හැරී පසුකර යන්න.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "එය වළක්වාගන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ගෙවන්න"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එය ඔස්සේ"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ඉවතට හැරී"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "පසුකර යන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:01.970213833Z",
+  "model": "glm-5.3"
+}

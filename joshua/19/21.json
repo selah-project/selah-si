@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "රෙමෙත්, ඒන්-ගන්නිම්, ඒන්-හද්දා සහ බෙත්-පසෙස්.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "රෙමෙත්"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ඒන්-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ගන්නිම්"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ඒන්-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "හද්දා"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "පසෙස්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:11.610061979Z",
+  "model": "glm-5.3"
+}

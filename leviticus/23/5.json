@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "පළමු මාසයේ, මාසයේ දහහතරේ, සවස් දෙක අතරෙහි, යහ්වේ වෙත පෙසහ ⟨යි⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "සිව්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයට"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "සවස්"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "පෙසහ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:09.590398968Z",
+  "model": "glm-5.3"
+}

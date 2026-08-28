@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ බෙලා — අසාස්ගේ පුත්, ෂෙමාගේ පුත්, යොආල්ගේ පුත්; <⟨ඔහු⟩> ආරොආර් සිට නෙබෝ දක්වා සහ බාල්-මෙආන් දක්වා වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "සහ බෙලා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "අසාස්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ෂෙමාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "යොආල්ගේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "ආරොආර් සිට"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "නෙබෝ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "සහ බාල්"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "මෙආන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:04.719711994Z",
+  "model": "glm-5.3"
+}

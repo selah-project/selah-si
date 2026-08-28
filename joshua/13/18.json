@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යහ්ට්සා, කෙදෙමොත් සහ මෙපාත් ⟨ද⟩,",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "යහ්ට්සා"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "කෙදෙමොත්"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "මෙපාත්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:51:11.256878538Z",
+  "model": "glm-5.3"
+}

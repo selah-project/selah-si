@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "මෙන්න, යහ්වේට ⟨ඇති⟩ දිනක් පැමිණෙයි, ඔබේ කොල්ලය ඔබ ⟨මැද⟩ බෙදෙනු ඇත.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "මෙන්න"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණෙයි"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "බෙදෙනු ඇත"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "ඔබේ කොල්ලය"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ඔබ මැද"
+    }
+  ],
+  "timestamp": "2026-08-28T01:56:56.418467726Z",
+  "model": "glm-5.3"
+}

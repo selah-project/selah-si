@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 64,
+  "translation": "කිරුළාට — දාවීද්ගේ මිස්මෝර් ⟨ගීතයකි⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කිරුළාට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:49.927179506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "උතුරු දොරට මුහුණලා, දිග අර සියයක් විය; පළල අර පනස්වක් විය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණට මුහුණලා"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අර (මිනුම්)"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොර"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "සහ පළල"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්ව"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අර (මිනුම්)"
+    }
+  ],
+  "timestamp": "2026-08-28T00:57:54.928007612Z",
+  "model": "glm-5.3"
+}

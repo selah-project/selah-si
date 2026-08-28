@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඒ සුළඟට වඩා පිරි සුළඟක් මට වෙත එන්නේය; දැන් මමද ⟨את⟩ ඔවුන්ට එරෙහිව විනිශ්චයන් කියන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟක්"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පිරි"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ඒ සුළඟට වඩා"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එන්නේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට වෙත"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "කියන්නෙමි"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "විනිශ්චයන්"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්ට එරෙහිව"
+    }
+  ],
+  "timestamp": "2026-08-27T23:45:58.227887254Z",
+  "model": "glm-5.3"
+}

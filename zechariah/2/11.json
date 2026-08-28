@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "හෝ! සියොන්, බැබිලෝන් දියණිය සමඟ වාසය කරන තැනැත්තියෙනි, ගැලවී පලා යන්න!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "හෝ!"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සියොන්"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ගැලවී පලා යන්න"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "වාසය කරන"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "බැබිලෝන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:45:42.303738738Z",
+  "model": "glm-5.3"
+}

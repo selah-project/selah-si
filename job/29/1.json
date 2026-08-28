@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "අයියෝබ් නැවත සිය උපමාව ඔසවා ගෙන කීවේය,",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "නැවත එක්කෙළේ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "අයියෝබ්"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ඔසවා ගැනීම"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "සිය උපමාව"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:47:02.371549801Z",
+  "model": "glm-5.3"
+}

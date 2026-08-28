@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අපගේ සිත අත්වල මතට, අහසෙහි ⟨සිටින⟩ එල් වෙතට ඔසවමු.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ඔසවමු"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "අපගේ සිත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "අත්වල"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙතට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහසෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:11.525072612Z",
+  "model": "glm-5.3"
+}

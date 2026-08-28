@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මන්ද වන්නට ඇත්තේ කුමක්ද යන්න ඔහු නොදනී; මන්ද එය වන කල්හි, ඔහුට කවරෙක් පවසන්නද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ඔහු නො-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "වන්නට ඇත්තේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "වන කල්හි"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "පවසන්නද"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:24:35.906582788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මොන ඉතිරියක් මිනිසාට — සූර්යයා ⟨යට⟩ ඔහු වෙහෙසෙන ඔහුගේ සියලු වෙහෙසෙහි ⟨තිබේද⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොන"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ඉතිරියක්"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු...වෙහෙසෙහි"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ඔහුගේ වෙහෙස"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ඔහු වෙහෙසෙන"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "සූර්යයා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:46.334449798Z",
+  "model": "glm-5.3"
+}

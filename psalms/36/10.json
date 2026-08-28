@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මන්ද ⟨ඇත⟩ ඔබ සමඟ ජීවන ප්‍රභාව; ඔබේ ආලෝකයෙහි අපි ආලෝකය දකිමු.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ප්‍රභාව"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ඔබේ ආලෝකයෙහි"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "අපි දකිමු"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:21:43.565940094Z",
+  "model": "glm-5.3"
+}

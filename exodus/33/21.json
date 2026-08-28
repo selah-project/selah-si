@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "යහ්වේ කීවේය: බල්, මා ළඟ ⟨את⟩ ස්ථානයක් ⟨is⟩; ඔබ ⟨the⟩ ගල මත සිටගන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල්"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයක්"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ළඟ",
+      "marks": "මා ළඟ ස්ථානය"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "සිටගන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ගල"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:17.150833309Z",
+  "model": "glm-5.3"
+}

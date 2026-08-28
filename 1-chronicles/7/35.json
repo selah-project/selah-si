@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔහුගේ සහෝදර හෙලෙම්ගේ පුත්‍රයෝ — ෂොපාඛ්, ඉම්නා, ෂෙලෙෂ්, අමාල්.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "හෙලෙම්ගේ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ඔහුගේ සහෝදර"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ෂොපාඛ්"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ඉම්නා"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ෂෙලෙෂ්"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "අමාල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:09.621427222Z",
+  "model": "glm-5.3"
+}

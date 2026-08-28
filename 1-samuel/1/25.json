@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔව්හු ⟨את⟩ ගවයා මරා දැමූහ; ⟨את⟩ බාලයා එලී වෙත ගෙන ආහ.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "මරා දැමූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගවයා"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ගවයා"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ගෙන ආහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බාලයා"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "බාලයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "එලී"
+    }
+  ],
+  "timestamp": "2026-08-27T21:51:52.554765989Z",
+  "model": "glm-5.3"
+}

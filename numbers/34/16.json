@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "යහ්වේ මොෂේට කතා කොට කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියාලමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:39.097563842Z",
+  "model": "glm-5.3"
+}

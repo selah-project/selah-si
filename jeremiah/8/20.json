@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අස්වැන්න ගෙවී ගියේය; ගිම්හානය අවසන් විය; අපි නොබේරුණෙමු.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ගෙවී ගියේය"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "අස්වැන්න"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "අවසන් විය"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ගිම්හානය"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "අපි"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "බේරුණෙමු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:51:10.571698440Z",
+  "model": "glm-5.3"
+}

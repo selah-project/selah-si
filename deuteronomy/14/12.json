@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඒවායින් ඔබ නොකවන ඒවා මෙන්න: රාජාල්, පෙරෙස්, අස්නියා.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "සහ මෙන්න"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කවයි"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ඒවායින්"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "රාජාල්"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "සහ පෙරෙස්"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "සහ අස්නියා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:04.786571273Z",
+  "model": "glm-5.3"
+}

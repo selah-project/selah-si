@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "බරක් — දැක්මේ නිම්නය. ඔබට මොකද්ද දැන් වූයේ, ඔබ සියල්ලම වහලවලට නැඟ සිටින්නේ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "බරක්"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "නිම්නය"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "දැක්මේ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකද්ද"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "නැඟ සිටින්නේ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ඔබ සියල්ලම"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "වහලවලට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:19:00.191515508Z",
+  "model": "glm-5.3"
+}

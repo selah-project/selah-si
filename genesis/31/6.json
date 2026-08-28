@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඔබ දෙදෙනා දන්නවූ ඔබ — මගේ සියලු බලයෙන් මම ඔබේ පියාට ⟨את⟩ සේවය කළෙමි.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ඔබ දෙදෙනා"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "දන්නවූ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "මගේ බලයෙන්"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "සේවය කළෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ පියාට"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ඔබේ පියා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:53.249867689Z",
+  "model": "glm-5.3"
+}

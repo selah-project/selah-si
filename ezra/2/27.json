@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මීක්මාස් මිනිස්සු — සිය විසි දෙකක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "මීක්මාස්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:52:44.502043490Z",
+  "model": "glm-5.3"
+}

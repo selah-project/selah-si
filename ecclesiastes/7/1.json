@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නාමයක් හොඳ සුවඳ විලවුන්වලට වඩා හොඳය, සහ මරණයේ දිනය උපන් දිනයට වඩා ⟨හොඳය⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමයක්"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "සුවඳ විලවුන්වලට වඩා"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "සහ දිනය"
+    },
+    {
+      "surface": "המות",
+      "gloss": "මරණයේ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "දිනයට වඩා"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ඔහු උපන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:54.996875943Z",
+  "model": "glm-5.3"
+}

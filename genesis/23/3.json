@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "අව්රාහම් තම මළ සිරුර ඉදිරියෙන් නැඟී සිට හෙත් පුත්‍රයන්ට කතා කොට මෙසේ කීවේය —",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟී සිට"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉදිරියෙන්"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "තම මළ සිරුර"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "חת",
+      "gloss": "හෙත්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:15:08.151633192Z",
+  "model": "glm-5.3"
+}

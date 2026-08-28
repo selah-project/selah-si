@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 114,
+  "translation": "⟨the⟩ පර්වතය ⟨to⟩ ජල පොකුරක් බවට හැරවූ, ⟨the⟩ ගල් පර්වතය ⟨to⟩ ජල උල්පතක් බවට හැරවූ ⟨the⟩ තැනැත්තා!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "හැරවූ තැනැත්තා"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ජල පොකුර"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ගල් පර්වතය"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ජල උල්පතකට"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    }
+  ],
+  "timestamp": "2026-08-28T03:28:47.388959840Z",
+  "model": "glm-5.3"
+}

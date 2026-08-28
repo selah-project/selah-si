@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "අයියොබ් උත්තර දී ⟨පැවසුවේය⟩,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "අයියොබ්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨පැවසුවේය⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T04:42:17.987726487Z",
+  "model": "glm-5.3"
+}

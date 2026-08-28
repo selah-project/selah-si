@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මතක තබාගන්න ⟨את⟩ ඔහු ඔබට කළ දේ — අමාලෙක් — ⟨the⟩ මාර්ගයේදී, ඔබ මිස්‍රයිමෙන් පිටත්ව යන විට.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "මතක තබාගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහු ඔබට කළ දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "අමාලෙක්"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේදී"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ඔබ පිටත්ව යන විට"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "මිස්‍රයිමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:43:44.433519701Z",
+  "model": "glm-5.3"
+}

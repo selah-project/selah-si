@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සහ මළ නෙෆෙෂ් සියල්ල වෙත ඔහු නොයයි; ඔහුගේ පියා සඳහාද ඔහුගේ මව සඳහාද ඔහු අපවිත්‍ර නොවේ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "නෙෆෙෂ්"
+    },
+    {
+      "surface": "מת",
+      "gloss": "මළ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "යයි"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ඔහුගේ පියා සඳහා"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "සහ ඔහුගේ මව සඳහා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අපවිත්‍ර වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:21:34.345988250Z",
+  "model": "glm-5.3"
+}

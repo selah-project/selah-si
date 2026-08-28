@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "වළට ඔබ පහළ බස්වති; මුහුද මැද උලා මරණ ලදුවන්ගේ මරණයෙන් ඔබ මිය යයි.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "වළට"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "ඔබ පහළ බස්වති"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "මිය යයි"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "මරණයෙන්"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "උලා මරණ ලදුවන්ගේ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "මුහුද"
+    }
+  ],
+  "timestamp": "2026-08-28T00:41:18.135760295Z",
+  "model": "glm-5.3"
+}

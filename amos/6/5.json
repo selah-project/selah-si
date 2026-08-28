@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 6:5",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "නෙබෙලයේ කට මත නොමැකූ රාග ගයන, දාවීද් මෙන් තමන් සඳහා ගී භාණ්ඩ නිපදවූ ඔවුහු —",
+  "tokens": [
+    {
+      "surface": "הפרטים",
+      "gloss": "රාග ගයන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פי",
+      "gloss": "කට"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "නෙබෙලයේ"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "දාවීද් මෙන්"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "නිපදවූ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "තමන් සඳහා"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාණ්ඩ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගී"
+    }
+  ],
+  "timestamp": "2026-08-28T01:25:56.254687647Z",
+  "model": "glm-5.3"
+}

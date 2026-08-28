@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "යාබෙෂ්-ගිල්ආද් සියල්ලන් ප්ලිෂ්තීහු ෂාඌල්ට ⟨את⟩ කළ සියල්ලද අසා ගත්හ —",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "අසා ගත්හ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "යාබෙෂ්"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ගිල්ආද්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ප්ලිෂ්තීහු"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ෂාඌල්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:53.796004656Z",
+  "model": "glm-5.3"
+}

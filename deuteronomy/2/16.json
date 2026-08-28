@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ජනයාගේ මධ්‍යයෙන් මියයාමට යුද්ධ වියරණ සියලු මිනිසුන් අහවර වූ කල, එසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එසේ විය"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "කල"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "අහවර වූ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "යුද්ධ වියරණ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "මියයාමට"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "මධ්‍යයෙන්"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:24.586779344Z",
+  "model": "glm-5.3"
+}

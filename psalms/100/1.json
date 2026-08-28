@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 100,
+  "translation": "තුතියේ මෙගීනාව. යහ්වේට හඬ නඟා කෑගසන්න, ⟨මුළු⟩ පොළොවම.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "තුතියේ මෙගීනාව"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "තුතියේ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "හඬ නඟා කෑගසන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:17:22.641922037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අපගේ පියවරුන් පාපය කළහ; ඔව්හු ⟨නැති⟩ වූහ; අපි ඔවුන්ගේ අධර්මය දැරුවෙමු.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "අපගේ පියවරුන්"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "පාපය කළහ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "නැති වූහ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "අපි"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ඔවුන්ගේ අධර්මය"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "දැරුවෙමු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:45:53.694183045Z",
+  "model": "glm-5.3"
+}

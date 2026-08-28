@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "හදෝර් හදතා, කෙරියෝත්, හෙට්ස්රෝන් — එයම හදෝර් ය;",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "සහ හදෝර්"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "හදතා"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "සහ කෙරියෝත්"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "හෙට්ස්රෝන්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එයම"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "හදෝර්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:18.501556347Z",
+  "model": "glm-5.3"
+}

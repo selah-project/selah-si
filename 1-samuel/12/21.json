@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "නොහැරී යන්න; මක්ද, ඵලක් නොමැති හිස් දෙය පසුපසහී — එය ඵල නොදේ, ගලවා නොගනී; මක්ද, ඒවා හිස් දෙයකි.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "හැරී යන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසුපසහී"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "හිස් දෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ඵල දේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ගලවා ගනී"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "හිස් දෙයකි"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඒවා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:58:44.300461059Z",
+  "model": "glm-5.3"
+}

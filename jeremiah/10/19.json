@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අනේ මට, මගේ කැඩීම නිසා! දුර්වල කර ඇත මගේ තුවාලය; මම කීවෙමි: සැබවින්ම මේ රෝගයයි, මම එය දරාගනිමි.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "අනේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "මගේ කැඩීම"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "දුර්වල කර ඇත"
+    },
+    {
+      "surface": "מכתי",
+      "gloss": "මගේ තුවාලය"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "אך",
+      "gloss": "සැබවින්ම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "රෝගය"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "දරාගනිමි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:49:23.953177183Z",
+  "model": "glm-5.3"
+}

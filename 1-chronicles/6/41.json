@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "නගරයේ කුඹුරුද ⟨את⟩ එහි අහියන්ද යෙෆුනේගේ පුත් කාලෙබ්ට දුන්නාහ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "කුඹුරු"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "කුඹුරු"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අහියන්"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "එහි අහියන්"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "දුන්නාහ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "කාලෙබ්ට"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "යෙෆුනේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:39:20.994168186Z",
+  "model": "glm-5.3"
+}

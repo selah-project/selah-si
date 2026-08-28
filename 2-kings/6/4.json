@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔහු ⟨את⟩ ඔවුන් සමඟ ගියේය; ඔවුහු යර්දනට ගියහ; ගස් කප්පු කළහ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ගියහ"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "යර්දනට"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "කප්පු කළහ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ගස්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:52:40.224643961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු කඩුව ⟨את⟩ දේශය මත එනු දුටුවහොත්, ෂොෆාරයෙන් වයා, ජනයාට ⟨את⟩ අනතුරු අඟවයි.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ඔහු දුටුවහොත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කඩුව"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "කඩුව"
+    },
+    {
+      "surface": "באה",
+      "gloss": "එනු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "වයා"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ෂොෆාරයෙන්"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "අනතුරු අඟවයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:46:05.319850485Z",
+  "model": "glm-5.3"
+}

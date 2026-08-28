@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙසයිගේ පුත්‍රයෝ, මෙඋනිම්ගේ පුත්‍රයෝ, නෙපුෂෙසිම්ගේ පුත්‍රයෝ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "බෙසයි"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "මෙඋනිම්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "නෙපුෂෙසිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:21.713997331Z",
+  "model": "glm-5.3"
+}

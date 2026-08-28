@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "බලු — නිදිමත නොවී, නින්දටද නොවැටෙයි, යිස්රායෙල් රකින්නා.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "නිදිමත වී"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "නින්දට වැටෙයි"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "රකින්නා"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:47.210384187Z",
+  "model": "glm-5.3"
+}

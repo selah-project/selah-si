@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මම ⟨את⟩ ඔබවද ⟨את⟩ ඔබට උප්පත්ති දුන් ඔබේ මවවද විසි කරමි — ඔබ උපන් නැති වෙනත් රටකට; එහිදී ඔබ මැරෙන්නෙහු.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "විසි කරමි"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ඔබව",
+      "marks": "ඔබ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ මව"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ඔබේ මව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ඔබට උප්පත්ති දුන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "ඔබ උපන්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "සහ එහිදී"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "මැරෙන්නෙහු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:33.238057213Z",
+  "model": "glm-5.3"
+}

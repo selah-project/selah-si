@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "යහ්වේ මගේ එලෝහීම්, මම ඔබ වෙත කෑගසූ විට ඔබ මා සුව කළේය.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මගේ එලෝහීම්"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "මම කෑගසූ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ඔබ මා සුව කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:52.260860417Z",
+  "model": "glm-5.3"
+}

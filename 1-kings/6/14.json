@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ශෙලෝමෝ ⟨את⟩ ගෙය තැනූ අතර, එය සම්පූර්ණ කෙළේය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "තැනූ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ශෙලෝමෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෙය"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "එය සම්පූර්ණ කෙළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:34:29.305969125Z",
+  "model": "glm-5.3"
+}

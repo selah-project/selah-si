@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කිර්යත්-යඑරිම්, කෙෆිරා සහ බෙයෙරොත් මිනිස්සු — සත්සිය හතළිස් තුනක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "කිර්යත්-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "යඑරිම්"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "කෙෆිරා"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "සහ බෙයෙරොත්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:16.678757586Z",
+  "model": "glm-5.3"
+}

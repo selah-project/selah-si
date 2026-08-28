@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 120,
+  "translation": "බොහෝ කලක් සතුටට වඩා ⟨මගේ⟩ ප්‍රාණය වාසය කර ඇත — සාමය වෛර කරන්නා සමඟ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "බොහෝ කලක්"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "වාසය කර ඇත"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මගේ ප්‍රාණය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "වෛර කරන්නා"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:36:49.469018231Z",
+  "model": "glm-5.3"
+}

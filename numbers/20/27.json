@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මොෂේ යහ්වේ අණ කළ පරිදි කළේය; සහ සමස්ත සභාවේ ඇස් ඉදිරියෙහි හොර් කන්දට ⟨the⟩ ඔවුන් නැගියහ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "නැගියහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הר",
+      "gloss": "හොර්"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ඇස් ඉදිරියෙහි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "සභාව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:26.051197178Z",
+  "model": "glm-5.3"
+}

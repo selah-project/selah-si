@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "විනාශ කිරීමට — ශිබිරයෙන් අහවර වන තුරු — යහ්වේගේ අතද ⟨he⟩ ඔවුන් කෙරෙහි විය.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සැබවින්ම ද"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඔවුන් කෙරෙහි"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "විනාශ කිරීමට"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "මධ්‍යයෙන්"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ශිබිරයෙන්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "අහවර වන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:24.586669648Z",
+  "model": "glm-5.3"
+}

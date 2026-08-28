@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බෙලා මියගියේය; බොස්රාහින් සෙරාඛ්ගේ පුත් යෝවාබ් ඔහු වෙනුවට රාජ්‍ය කළේය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මියගියේය"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "බෙලා"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍ය කළේය"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "යෝවාබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "සෙරාඛ්ගේ"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "බොස්රාවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:18.327966283Z",
+  "model": "glm-5.3"
+}

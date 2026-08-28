@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබ සම්පූර්ණයෙන් රූමත් ය, මගේ ප්‍රේමවන්තියේ; ඔබ තුළ කිසිදු ලපයක් නැත.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ඔබ සම්පූර්ණයෙන්"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "රූමත් ය"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "මගේ ප්‍රේමවන්තියේ"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "කිසිදු ලපයක්"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:02:27.808864609Z",
+  "model": "glm-5.3"
+}

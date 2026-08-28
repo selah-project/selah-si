@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යාකොව් ලාබන්ගේ මුහුණ ‹⟨את⟩› දුටුවේය; බැලූකල — ඊයේ පෙරේදිනට ඔහු සමඟ ‹නොවී⟩ තිබුණි.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුහුණ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාබන්ගේ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බැලූකල"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "නොවී"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ඊයේ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "පෙරේදිනට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:20.131649369Z",
+  "model": "glm-5.3"
+}

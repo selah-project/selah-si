@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මන්ද ඔහු තම සිතින් ⟨මිනිසුන්⟩ පීඩා නොකරයි, මනුෂ්‍ය පුත්‍රයන් කම්පා නොකරයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "පීඩා කරයි"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "තම සිතින්"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "කම්පා කරයි"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මනුෂ්‍ය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.511462811Z",
+  "model": "glm-5.3"
+}

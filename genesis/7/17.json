@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මහ ජලගැල්ම පොළොව මත දින හතළිසයක් විය; ජලය වැඩි වී ⟨את⟩ බෝට්ටුව ඔසවා පොළොවෙන් ඉහළට එසවිණි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "මහ ජලගැල්ම"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිසයක්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "වැඩි වී"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බෝට්ටුව"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "බෝට්ටුව"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "එසවී"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉහළට සිට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:09.853218696Z",
+  "model": "glm-5.3"
+}

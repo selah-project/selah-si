@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මොෂේ ⟨ה⟩ මණ්ඩලයට කී ය: මේවා යහ්වේ ක෻මට නියෝග කළ වචනයයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කී ය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "මඣ්ඩලය"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ව"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "නියෝග කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:33.571273406Z",
+  "model": "glm-5.3"
+}

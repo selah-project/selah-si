@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඔහුට එකඟ නොවන්න, ඔහුට නොඇහුණ මැනව; ඔබේ ඇස ඔහු ගැන අනුකම්පා නොකරන්න, මැරුම් නොදෙන්න, ඔහු නොසඟවන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "එකඟ වන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "අනුකම්පා කරන්න"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ඔබේ ඇස"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු ගැන"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "මැරුම් දෙන්න"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "සඟවන්න"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:10.352255121Z",
+  "model": "glm-5.3"
+}

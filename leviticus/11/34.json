@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "කෑමට ගත හැකි සෑම ආහාරයකින් — ඒ මතට එවැනි ජලය පැමිණෙන ඕනෑම දෙයක් අශුද්ධය; එවැනි භාජනයක බොනු ලබන සෑම පානයක්ම අශුද්ධය.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "සෑම ... වලින්"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ආහාරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කෑමට ගත හැකි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "පැමිණෙන"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඒ මතට"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධය"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "පානය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "බොනු ලබන"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "භාජනයක"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාජන"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:42.454206685Z",
+  "model": "glm-5.3"
+}

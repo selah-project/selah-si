@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "හා ලෑසි අතර, පළල අඟ විසියකි — ගෙය වටා, වටා, වටා ය.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "හා...අතර"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ලෑසි"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:55:24.507090196Z",
+  "model": "glm-5.3"
+}

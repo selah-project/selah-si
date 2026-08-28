@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "රාහෙල්ගේ පුත්‍රයෝ: යෝසෙප් සහ බින්යාමින්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "රාහෙල්ගේ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "බින්යාමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:57.325179496Z",
+  "model": "glm-5.3"
+}

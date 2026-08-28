@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 75,
+  "translation": "උසට ඔබේ අඟ නොඔසවන්න; දිගු-ගෙලින් ⟨තද-බියරු⟩ කතා නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ඔසවන්න"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "උසට"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ඔබේ අඟ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "කතා කරන්න"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ගෙලින්"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "තද-බියරු"
+    }
+  ],
+  "timestamp": "2026-08-28T02:54:11.093311237Z",
+  "model": "glm-5.3"
+}

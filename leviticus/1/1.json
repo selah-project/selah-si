@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔහු මොෂේ කරා කැඳවූ සේම; යහ්වේ හමුවීමේ කූඩාරයෙන් ඔහුට වදාළේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවූ සේම"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "කූඩාරයෙන්"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවීමේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:03.282732063Z",
+  "model": "glm-5.3"
+}

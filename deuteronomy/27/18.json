@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ශාප ලත් වේවා මාර්ගයේදී අන්ධයාව මඟහරින්නා; එවිට මහජනයා සියල්ල කියන්නේ, ආමේන්.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාප ලත් වේවා"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "මඟහරින්නා"
+    },
+    {
+      "surface": "עור",
+      "gloss": "අන්ධයාව"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේදී"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "එවිට කියන්නේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "העם",
+      "gloss": "මහජනයා"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ආමේන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:14.386887858Z",
+  "model": "glm-5.3"
+}

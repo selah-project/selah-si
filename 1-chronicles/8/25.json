@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ යිප්දෙයා, සහ පෙනුවෙල් — ෂෂක්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "සහ යිප්දෙයා"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "සහ පෙනුවෙල්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ෂෂක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:45.005815514Z",
+  "model": "glm-5.3"
+}

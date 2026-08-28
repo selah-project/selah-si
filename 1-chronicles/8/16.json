@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ මීකාඑල්, යිෂ්පා, සහ යෝඛා — බෙරියාගේ පුත්‍රයෝ වූහ.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "සහ මීකාඑල්"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "යිෂ්පා"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "සහ යෝඛා"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "බෙරියාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:11.306124952Z",
+  "model": "glm-5.3"
+}

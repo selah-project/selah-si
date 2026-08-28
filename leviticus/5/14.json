@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "යහ්වේ මොෂේ වෙත කතා කොට කිවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට කිවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:03.692637975Z",
+  "model": "glm-5.3"
+}

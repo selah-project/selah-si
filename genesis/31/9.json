@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එලෝහීම් ඔබ පියාගේ පශුසම්පතින් ⟨את⟩ ගොදුරු කොට මට දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ගොදුරු කොට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පශුසම්පත"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "පශුසම්පත"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ඔබ පියාගේ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:26.265108886Z",
+  "model": "glm-5.3"
+}

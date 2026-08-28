@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් ⟨את⟩ තමන් කළ සියල්ලද දුටුවේය, බෙහෙවින් ම මොනවට ය. සවස විය, උදෑසන විය — හයවන දිනයි.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමන්...කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බෙහෙවින්...ය"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "මොනවට"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "බෙහෙවින්"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සවස"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "හයවන"
+    }
+  ],
+  "timestamp": "2026-08-28T08:02:07.352921966Z",
+  "model": "glm-5.3"
+}

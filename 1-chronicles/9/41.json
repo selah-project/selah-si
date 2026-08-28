@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මීඛාගේ පුත්‍රයෝ — පීතොන්, මෙලෙක් සහ තහ්රෙයා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "මීඛාගේ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "පීතොන්"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "මෙලෙක්"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "තහ්රෙයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:45.635261063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඊශ්‍රායෙල් පුත්‍රයෝ ගමන් කළහ, ඔඹොත් හි පුවරු ගසූහ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ගමන් කළහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "පුවරු ගසූහ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ඔඹොත් හි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:48.045860312Z",
+  "model": "glm-5.3"
+}

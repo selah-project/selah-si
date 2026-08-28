@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 72,
+  "translation": "ඔහු මුහුරෙන් මුහුරටද, ගඟෙන් පොළොවේ කෙළවර දක්වාද පාලනය කරන්නේය.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "පාලනය කරන්නේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "මුහුරෙන්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "මුහුරටද"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුර"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ගඟෙන්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වාද"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:50:03.180750075Z",
+  "model": "glm-5.3"
+}

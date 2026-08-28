@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඉශ්රායෙල් රජ යෙහෝෂාපාට්ට කීවේය: මම ඔබට නොකීවමෝ ද — ඔහු මා ගැන හොඳ නොව, අයහපත ම අනාවැකි කියන්නේ යැයි?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "යෙහෝෂාපාට්"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නො...ද"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "අනාවැකි කියයි"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා ගැන"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ම"
+    },
+    {
+      "surface": "אם",
+      "gloss": "වෙනුවට"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "අයහපත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:30:53.103508812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අපගේ මාර්ග සොයාමු, විමසාමු, යහ්වේ වෙත ආපසු හැරෙමු.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "සොයාමු"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "අපගේ මාර්ග"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "සහ විමසාමු"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "සහ ආපසු හැරෙමු"
+    },
+    {
+      "surface": "עד",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:08.921389003Z",
+  "model": "glm-5.3"
+}

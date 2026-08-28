@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "හරීම්ගේ පුත්‍රයෝ — තුන්සිය විසි දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "හරීම්ගේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්සිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(සිය)"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විසි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:25.402500749Z",
+  "model": "glm-5.3"
+}

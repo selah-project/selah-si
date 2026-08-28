@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 8:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "නුඹේ ගව කරුවෝ හා නුඹේ බැටළු රැළ වැඩෙත්, රිදී හා රන් නුඹට වැඩෙන්න, නුඹට ඇති සියල්ල වැඩෙන්න",
+  "tokens": [
+    {
+      "surface": "ובקרך",
+      "gloss": "නුඹේ ගව කරුවෝ"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "නුඹේ බැටළු රැළ"
+    },
+    {
+      "surface": "ירבין",
+      "gloss": "වැඩෙත්"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "වැඩෙන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "නුඹට"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "לך",
+      "gloss": "නුඹට"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "වැඩෙන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:57.913063258Z",
+  "model": "glm-5.3"
+}

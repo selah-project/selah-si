@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ හුෂීම්ගෙන් ඔහු ජනිත කළේ අබීතූබ් ⟨את⟩ සහ එල්පාල් ⟨את⟩ ය.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "සහ හුෂීම්ගෙන්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ඔහු ජනිත කළේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අබීතූබ්"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "අබීතූබ්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "එල්පාල්"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "එල්පාල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:03.673283772Z",
+  "model": "glm-5.3"
+}

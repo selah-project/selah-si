@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "එලියෙල්, ඔවෙද්, යඅසියෙල් මෙසෝබී වැසියා —",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "එලියෙල්"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "සහ ඔවෙද්"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "සහ යඅසියෙල්"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "මෙසෝබී වැසියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:41.370870895Z",
+  "model": "glm-5.3"
+}

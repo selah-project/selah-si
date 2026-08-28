@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඔහු එහි මත ⟨the⟩ පාන් පේළිය යහ්වේ මුහුණට මුහුණ සකස් තැබීය — යහ්වේ ⟨את⟩ මොෂේට අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "සකස් තැබීය"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එහි මත"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "පේළිය"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "මුහුණට මුහුණ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:04:54.423054802Z",
+  "model": "glm-5.3"
+}

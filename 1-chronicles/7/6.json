@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙන්යමින්: බෙලා, බෙඛෙර්, යෙදියා඙ෙල් — තිදෙනාය.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "බෙන්යමින්"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "බෙලා"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "සහ බෙඛෙර්"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "සහ යෙදියා඙ෙල්"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තිදෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:42.564629556Z",
+  "model": "glm-5.3"
+}

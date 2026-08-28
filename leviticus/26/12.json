@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මම ඔබ මැද සැරිසරන්නෙමි, ඔබට එලෝහීම් වන්නෙමි, ඔබ ද මට ජනයා වන්නහු ය.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "මම සැරිසරන්නෙමි"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ඔබ මැද"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "මම වන්නෙමි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම් ලෙස"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ඔබ ද"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "වන්නහු ය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයා ලෙස"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:00.649872786Z",
+  "model": "glm-5.3"
+}

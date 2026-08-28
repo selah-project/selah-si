@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එවිට යහ්වේගේ වචනය මා වෙත පැමිණුණේය, මෙසේ කියා:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට පැමිණුණේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:30:02.472072939Z",
+  "model": "glm-5.3"
+}

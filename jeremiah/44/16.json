@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "යහ්වේ නාමයෙහි අප කරා ඔබ කී වචනය — අප ඔබට නොඅසන්නෙමු.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ඔබ කී"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "අප කරා"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "අසන්නෙමු"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:13:52.845261628Z",
+  "model": "glm-5.3"
+}

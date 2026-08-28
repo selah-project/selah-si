@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "උසාගේ පුත්‍රයෝ, පසේආඛ්ගේ පුත්‍රයෝ, බෙසයිගේ පුත්‍රයෝ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "උසා"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "පසේආඛ්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "බෙසයි"
+    }
+  ],
+  "timestamp": "2026-08-28T12:07:48.110369379Z",
+  "model": "glm-5.3"
+}

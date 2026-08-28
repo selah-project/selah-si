@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ජලය පොළොව මත දින පන්සැත්තෑවක් සියයක් බලවත් විය。",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "බලවත් විය"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පන්සැත්තෑවක්"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:25.132248974Z",
+  "model": "glm-5.3"
+}

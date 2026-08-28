@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 113,
+  "translation": "යහ්වේගේ නාමය ආශීර්වාද ලබේවා — දැන් සිට යනුවෙන් ⟨සදාකාලයට⟩ දක්වා.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ලබේවා"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ආශීර්වාද ලත්"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "දැන් සිට"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:12.104412982Z",
+  "model": "glm-5.3"
+}

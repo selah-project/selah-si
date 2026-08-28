@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ එලෝහීම් ආදම්ටද ඔහුගේ බිරිඳටද සම් කමිස සාදා ඔවුන් ⟨ඇඳවීය⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සාදා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ආදම්ටද"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ඔහුගේ බිරිඳටද"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "කමිස"
+    },
+    {
+      "surface": "עור",
+      "gloss": "සම්"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ඇඳවීය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:43.936144409Z",
+  "model": "glm-5.3"
+}

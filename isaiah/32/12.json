@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "පියයුරු මත, සුබ සේ ඇති කුඹුරු මත, ඵලදාව දෙන මිදි වැල මත වැළපෙන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "පියයුරු"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "වැළපෙන්නෙහි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "කුඹුරු"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "සුබ සේ ඇති"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "මිදි වැල"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ඵලදාව දෙන"
+    }
+  ],
+  "timestamp": "2026-08-27T23:22:17.738321087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔහුට ඉදිරියෙන් ඇති දීප්තියෙන් ගිනි අඟුරු දැල්විණි.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "දීප්තියෙන්"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ඔහුට ඉදිරියෙන්"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "දැල්විණි"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "අඟුරු"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ගිනි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:04.807356653Z",
+  "model": "glm-5.3"
+}

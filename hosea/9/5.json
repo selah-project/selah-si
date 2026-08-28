@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "නියමිත කාලයේ දිනට ඔබ කරන්නේ කුමක්ද? යහ්වේගේ උත්සවයේ දිනටද?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ඔබ කරන්නේ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "දිනට"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "නියමිත කාලයේ"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "සහ දිනට"
+    },
+    {
+      "surface": "חג",
+      "gloss": "උත්සවයේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:14:36.874879145Z",
+  "model": "glm-5.3"
+}

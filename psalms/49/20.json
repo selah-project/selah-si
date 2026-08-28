@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "ඔහු තම පියවරුන්ගේ පරම්පරාවට යනු ඇත; සදාකාලයට ඔවුහු ආලෝකය නොදකිති.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "යනු ඇත"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාවට"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "තම පියවරුන්ගේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "සදාකාලය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "දකිති"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:04.369234620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම ⟨את⟩ ⟨the⟩ ජීවිතය වෛර කළෙමි, මන්ද සූර්යයා යට කරන ලද ⟨the⟩ ක්‍රියාව මට දුක් දෙයි; මන්ද ⟨the⟩ සියල්ල හිස්බවයි, සුළඟක ⟨the⟩ පීඩාවකි.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "වෛර කළෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජීවිතය"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවිතය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רע",
+      "gloss": "දුක්"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "කරන ලද"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "සූර්යයා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හිස්බව"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "සහ පීඩාව"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:29.459352157Z",
+  "model": "glm-5.3"
+}

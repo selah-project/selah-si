@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මොෂේ අහරෝන් වෙත කතා කොට කීවේය: මේ ජනයා ඔබට කුමක් කළේද, ඔබ ඔවුන් මත මහා පාපයක් ගෙන ආවේ මන්ද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේද"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ගෙන ආවේ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔවුන් මත"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "පාපයක්"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:39.150138883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඒ නගරයේ මුතුන්මිත්තෝ ⟨ඒ⟩ මිනිසා ⟨את⟩ ගෙන, ඔහුව ⟨את⟩ දඬුවම් කරති.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ගෙති"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "මුතුන්මිත්තෝ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒ මිනිසා"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "දඬුවම් කරති"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:09.563115157Z",
+  "model": "glm-5.3"
+}

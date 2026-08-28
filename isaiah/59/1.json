@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 59,
+  "translation": "බල! යහ්වේගේ අත ගැලවීමට කෙටි වී නැත, සහ ඔහුගේ කන අසා දීමට බර වී නැත.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "බල!"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "කෙටි වී නැත"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "ගැලවීමට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "බර වී නැත"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "කන"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "අසා දීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:39:47.689472207Z",
+  "model": "glm-5.3"
+}

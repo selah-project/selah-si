@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ලඛීෂ්, සහ බොස්කාත්, සහ එග්ලොන්,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ලඛීෂ්"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "සහ බොස්කාත්"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "සහ එග්ලොන්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:50:33.112372874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "එසේ ජනතාව හත්වන දිනයේදී විවේක ගත්තෝය.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "විවේක ගත්තෝය"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "හත්වන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:56.752271099Z",
+  "model": "glm-5.3"
+}

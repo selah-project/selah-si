@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "දුනුවා ඔහුව පලවා නොහැක; ගල් ගිනිකොට ඔහුට පිදුරු බවට පෙරළේ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "ඔහුව පලවා හැක"
+    },
+    {
+      "surface": "בן",
+      "gloss": "දුනුවා"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "දුන්නේ"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "පිදුරු"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "පෙරළේ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "ගිනිකොට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:59:45.760631393Z",
+  "model": "glm-5.3"
+}

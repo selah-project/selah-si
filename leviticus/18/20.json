@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "සහ ඔබේ යාත්‍රිකයාගේ බිරිඳ වෙත ඔබේ සංසර්ගය බීජයට නො දෙන්න, ඇය සමඟ අශුද්ධ වීමට。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "සහ ... වෙත"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "බිරිඳ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ඔබේ යාත්‍රිකයාගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ඔබේ සංසර්ගය"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "බීජයට"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "අශුද්ධ වීමට"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ඇය සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:18:01.810310432Z",
+  "model": "glm-5.3"
+}

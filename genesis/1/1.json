@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ආරම්භයේදී, එලෝහීම් ⟨את⟩ අහසද ⟨את⟩ පොළොවද මැව්වේය.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ආරම්භයේදී"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "මැව්වේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අහස"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පොළොව"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:02:51.704207404Z",
+  "model": "glm-5.3"
+}

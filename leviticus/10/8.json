@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "යහ්වේ අහරෝන්ට කථා කොට කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:46.612901870Z",
+  "model": "glm-5.3"
+}

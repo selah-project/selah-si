@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "එලෝහීම් නෝආඛ්ට කතා කොට මෙසේ වදාළේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට වදාළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නෝආඛ්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ පැවසීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:04:10.823172584Z",
+  "model": "glm-5.3"
+}

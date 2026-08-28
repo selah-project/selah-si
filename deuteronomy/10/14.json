@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බලු — ඔබේ එලෝහීම් වන යහ්වේට ⟨the⟩ අහස සහ අහස්වල අහස අයිති ය; ⟨the⟩ පොළොව සහ ඒ තුළ ඇති සියල්ලද ය.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "සහ අහස්වල"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ඒ තුළ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:04.136988226Z",
+  "model": "glm-5.3"
+}

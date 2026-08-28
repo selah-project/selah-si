@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මෝආබ් ⟨את⟩ පිට ගසා, මෝආබ්වරු දාවීද්ට සේවකයන් වූහ — ත්‍යාග ඔසවන්නන් වශයෙන්.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "පිට ගසා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෝආබ්"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්වරු"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "සේවකයන්"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "දාවීද්ට"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ඔසවන්නන්"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ත්‍යාග"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:21.026044302Z",
+  "model": "glm-5.3"
+}

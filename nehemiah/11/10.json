@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "පූජකයන්ගෙන්: යොයාරිබ්ගේ පුත් යදයා, යඛීන්.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයන්"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "යදයා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "යොයාරිබ්ගේ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "යඛීන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:52.932835114Z",
+  "model": "glm-5.3"
+}

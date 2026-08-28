@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සහ ⟨את⟩ ඕෆීර්, සහ ⟨את⟩ හවීලා, සහ ⟨את⟩ යෝබාබ්; මේ සියල්ලෝ යොක්තාන්ගේ පුත්‍රයෝ වූහ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ඕෆීර්"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ඕෆීර්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "හවීලා"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "හවීලා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "යෝබාබ්"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "යෝබාබ්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "යොක්තාන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:22.202270420Z",
+  "model": "glm-5.3"
+}

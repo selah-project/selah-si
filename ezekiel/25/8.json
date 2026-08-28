@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "අදෝනයි යහ්වේ මෙසේ කියයි: මෝවාබ් හා සෙයීර් කී නිසා — බලව, යූදා ගෙය ජාතීන් සියල්ලන්ගෙන් එකකි —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවාබ්"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "හා සෙයීර්"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලන්ගෙන් එකකි"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යූදා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:26.786325532Z",
+  "model": "glm-5.3"
+}

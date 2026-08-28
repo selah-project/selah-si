@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ එලෝහීම් මිනිසා කැඳවා ඔහුට කීවේය: ඔබ කොහි සිටින්නේද?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "කොහි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:07.945794964Z",
+  "model": "glm-5.3"
+}

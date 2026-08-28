@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එදින යහ්වේ මිස්‍රායිම් දේශයෙහිදී මොෂේ හට කථා කළ දවසේදී මෙසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දවසේදී"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහිදී"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිස්‍රායිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:39:18.504262359Z",
+  "model": "glm-5.3"
+}

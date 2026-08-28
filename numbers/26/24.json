@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "යාෂුබ් — යාෂුබි පවුල; ෂිම්රෝන් — ෂිම්රෝනි පවුල.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "යාෂුබ්"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පවුල"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "යාෂුබි"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "ෂිම්රෝන්"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පවුල"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "ෂිම්රෝනි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:35:13.970628482Z",
+  "model": "glm-5.3"
+}

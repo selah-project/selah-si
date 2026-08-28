@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "බක්බක්කාර්, හෙරෙෂ්, ගලාල්, මතන්යා — මීකාගේ පුත්, සික්‍රීගේ පුත්, අසාප්ගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "බක්බක්කාර්"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "හෙරෙෂ්"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ගලාල්"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "මතන්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "මීකාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "සික්‍රීගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "අසාප්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:08.972462332Z",
+  "model": "glm-5.3"
+}

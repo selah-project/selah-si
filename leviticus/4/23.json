@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හෝ ඔහුට තමා කළ පාපය දැනුම් දෙන විට, ඔහු ⟨את⟩ තම පූජාව ගෙන එන්නේය — එළුවක්, පිරිමි, නිර්දෝෂ —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "දැනුම් දෙන විට"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "තමා කළ පාපය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමා"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එය"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ගෙන එන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම පූජාව"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "තම පූජාව"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "එළුවක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළු"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "පිරිමි"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "නිර්දෝෂ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:00.163959010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "එබැවින් මම ඔයාට අණ කරමි: තණුතුරක් නගර තුනක් වෙන් කර ගනු.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "එබැවින්... මත"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "අණ කරමි"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "වෙන් කර ගනු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔයාට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:54.073677279Z",
+  "model": "glm-5.3"
+}

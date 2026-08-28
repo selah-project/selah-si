@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "පරාවට මම කී වචනය මෙයයි — එලෝහීම් කරන්නට යන දේ පරාට පෙන්වා ඇත.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "මෙයයි"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මම කී"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "කී"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පරා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්නට යන දේ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "පෙන්වා ඇත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පරා"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පරාට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:11:31.758383987Z",
+  "model": "glm-5.3"
+}

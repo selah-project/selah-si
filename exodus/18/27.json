@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මොෂේ ⟨את⟩ තම මාමණ්ඩියව යැව්වේය; ඔහු තමන්ගේ දේශයට යන්නට ගියේය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම මාමණ්ඩියව"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "තම මාමණ්ඩිය"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමන්ගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "තම දේශයට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:32.452072916Z",
+  "model": "glm-5.3"
+}

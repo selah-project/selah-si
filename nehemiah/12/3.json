@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ෂෙඛන්යා, රෙචූම්, මෙරෙමොත්.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ෂෙඛන්යා"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "රෙචූම්"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "මෙරෙමොත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:11.978129807Z",
+  "model": "glm-5.3"
+}

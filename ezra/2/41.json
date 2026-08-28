@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ගායකයන් — අසාප්ගේ පුත්‍රයෝ — සියයක් විසිවක් අටකි.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ගායකයන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "අසාප්ගේ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසිවක්"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටකි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:57:22.875057175Z",
+  "model": "glm-5.3"
+}

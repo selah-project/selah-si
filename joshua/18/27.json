@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "රෙකෙම්, යිර්පෙල්, තරලා,",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "රෙකෙම්"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "යිර්පෙල්"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "තරලා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:16.223148693Z",
+  "model": "glm-5.3"
+}

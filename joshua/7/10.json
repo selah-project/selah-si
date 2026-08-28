@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යහ්වේ යෙහෝෂුආ වෙත කීවේය: නැගිට සිටින්න; මෙසේ ඔබ ඔබේ මුහුණ මත වැටී සිටින්නේ ඇයි?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "නැගිටින්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "වැටී"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ඔබේ මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:24:13.993974131Z",
+  "model": "glm-5.3"
+}

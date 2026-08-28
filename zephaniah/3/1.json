@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හායි — කැරලිකාරී වූ ⟨ඇය⟩ හා අපවිත්‍ර වූ ⟨ඇය⟩ — මර්දනය කරන නගරය!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "හායි"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "කැරලිකාරී වූ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "හා අපවිත්‍ර වූ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "මර්දනය කරන"
+    }
+  ],
+  "timestamp": "2026-08-28T01:42:56.963480277Z",
+  "model": "glm-5.3"
+}

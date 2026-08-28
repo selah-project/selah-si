@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මෙම මාසය ඔබට මාසවල ⟨සිරස⟩ වන්නේය; වර්ෂයේ මාසවලට ඔබට එය පළමුවැන්න ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "මෙම මාසය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "සිරස"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "මාසවල"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "පළමුවැන්න"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "මාසවලට"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "වර්ෂයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:44:43.515243712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ඔහු අපව මෙම ස්ථානයට ගෙන ආවේය, අපට ⟨את⟩ මෙම දේශය දුන්නේය — කිරි සහ මී පැණි ගලා යන දේශයක්.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ගෙන ආවේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "මෙම ස්ථානය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයක්"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ගලා යන"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "කිරි"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "සහ මී පැණි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:18.022981140Z",
+  "model": "glm-5.3"
+}

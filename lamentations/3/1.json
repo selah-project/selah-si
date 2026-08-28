@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම ඒ පුරුෂයා වෙමි — ඔහුගේ කෝපයේ පටියෙන් දුක් දුටුවෙමි.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ඒ පුරුෂයා"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දුටුවෙමි"
+    },
+    {
+      "surface": "עני",
+      "gloss": "දුක්"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "පටියෙන්"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ඔහුගේ කෝපයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:46.705077393Z",
+  "model": "glm-5.3"
+}

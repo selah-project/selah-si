@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "යහ්වේ මොෂේටද එල්ආසාර්ටද — අහරොන් පුත් පූජකයාට — කතා කොට කීමට:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කොට කීමට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ද ට"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "එල්ආසාර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨ක protein පූජකයා⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:47:10.126816856Z",
+  "model": "glm-5.3"
+}

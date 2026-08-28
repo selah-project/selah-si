@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "පාෂාණය තුළ ⟨ඔහු⟩ තම අත ⟨යොමු කළේය⟩; මුලෙන් කඳු පෙරලීය.",
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "පාෂාණය තුළ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "යොමු කළේය"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "පෙරලීය"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "මුලෙන්"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:43:09.612150819Z",
+  "model": "glm-5.3"
+}

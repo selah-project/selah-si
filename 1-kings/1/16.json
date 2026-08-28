@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බත්-ෂෙබා නමස්කාර කොට රජුට වැඳ වැටුණාය; රජු 'ඔබට කුමක් ද?' යැයි කීවේය.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "නමස්කාර කෙළාය"
+    },
+    {
+      "surface": "בת",
+      "gloss": "බත්-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ෂෙබා"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "වැඳ වැටුණාය"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:29:49.365268265Z",
+  "model": "glm-5.3"
+}

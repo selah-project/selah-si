@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔබේ බත ජලයේ මුහුණ මතට යවන්න, බොහෝ දිනවලදී ඔබ එය සොයාගනු ඇත.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "යවන්න"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ඔබේ බත"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "බොහෝ ... වලදී"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ඔබ එය සොයාගනු ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:12.217425597Z",
+  "model": "glm-5.3"
+}

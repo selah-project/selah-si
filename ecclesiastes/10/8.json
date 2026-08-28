@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "වළක් කපන්නා ඒ තුළ වැටෙයි; තාප්පයක් කඩන්නාව ⟨එයින්⟩ සර්පයෙක් දෂ්ට කරයි.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "කපන්නා"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "වළක්"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඒ තුළ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "වැටෙයි"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "කඩන්නා"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "තාප්පයක්"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "දෂ්ට කරයි"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "සර්පයෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:05.507834128Z",
+  "model": "glm-5.3"
+}

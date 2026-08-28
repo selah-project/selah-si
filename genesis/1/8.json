@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් විවිරණයට අහස යන නම තැබූහ; සවස විය, උදෑසන විය — දෙවන දිනයි.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "නම තැබූහ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "විවිරණයට"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සවස"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනයි"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙවන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:40.108119853Z",
+  "model": "glm-5.3"
+}

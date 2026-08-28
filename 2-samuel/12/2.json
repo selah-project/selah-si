@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ධනවතාට බොහෝ ම සිරං හා ගවකුඹ සිටියේය.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ධනවතාට"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිටියේය"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "සිරං"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ගවකුඹ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ම"
+    }
+  ],
+  "timestamp": "2026-08-27T22:20:06.546072190Z",
+  "model": "glm-5.3"
+}

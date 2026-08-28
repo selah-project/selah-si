@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "සවස වන විට, ඔහු ⟨את⟩ තම දියණිය වන ලේආව ගෙන, ඇයව ඔහු ළඟට ගෙන ආවේය; ඔහු ඇගේ ළඟට ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "සවස"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලේආ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලේආ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "තම දියණිය"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ගෙන ආවේය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ඇය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහු ළඟට"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඇගේ ළඟට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:03.341950151Z",
+  "model": "glm-5.3"
+}

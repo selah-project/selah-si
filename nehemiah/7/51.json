@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ගස්සම්ගේ පුත්‍රයෝ, උස්සාගේ පුත්‍රයෝ, පසෙඛ්ගේ පුත්‍රයෝ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ගස්සම්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "උස්සා"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "පසෙඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:21.713890722Z",
+  "model": "glm-5.3"
+}

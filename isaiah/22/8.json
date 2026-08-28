@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යූදාහි ආවරණය ⟨את⟩ ඉවත් කළේය; එදින ඔබ වනයේ ගෙයි ආයුධ වෙත බැලූහ.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ඉවත් කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආවරණය"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ආවරණය"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යූදාහි"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "බැලූහ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ආයුධ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "היער",
+      "gloss": "වනයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:33:11.164526656Z",
+  "model": "glm-5.3"
+}

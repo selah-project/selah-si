@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ ෂෙමා රහම්ව ⟨את⟩ ලබා ගත්තේය — යොර්කෙයම්ගේ පියා — රෙකෙම් ෂම්මායිව ⟨את⟩ ලබා ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "සහ ෂෙමා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රහම්"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "රහම්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "යොර්කෙයම්"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "රෙකෙම්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂම්මායි"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ෂම්මායි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:20.986134378Z",
+  "model": "glm-5.3"
+}

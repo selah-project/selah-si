@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඥානයද උමතුකමද මෝඩකමද බැලන්ට මම හැරුණෙමි; මන්ද, රජු පසුව එන මිනිසාට කලක සිට කර ඇති ⟨את⟩ දෙයට වඩා කුමක් කළ හැකිද?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "හැරුණෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "බැලන්ට"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "උමතුකමද"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "මෝඩකමද"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "පසුව එන"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසුව"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කලක සිට කර ඇති දෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙය"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "කලක සිට"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "කර ඇත්තේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:40.400129163Z",
+  "model": "glm-5.3"
+}

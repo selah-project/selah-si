@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අරඛ්ගේ පුත්‍රයෝ — සයසිය පනස්<…>සහ දෙදෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "අරඛ්ගේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "සහ දෙදෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:58:35.821945627Z",
+  "model": "glm-5.3"
+}

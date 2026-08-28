@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම ⟨את⟩ ඉර යට ඇවිදින සියලු ජීවත්වන්නන් දුටුමි, ඔහු වෙනුවට සිටගන්නා දෙවන තරුණයා සමඟය.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ජීවත්වන්නන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවත්වන්නන්"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ඇවිදින"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "තරුණයා"
+    },
+    {
+      "surface": "השני",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "සිටගන්නා"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:02.570041806Z",
+  "model": "glm-5.3"
+}

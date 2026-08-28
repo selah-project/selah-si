@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මොෂේ ඔවුන්ට කීය: එක් එක් මිනිසා ඊට උදෑසන දක්වා ඉතිරි නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "איש",
+      "gloss": "එක් එක් මිනිසා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ඉතිරි කරන්න"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ඊට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    }
+  ],
+  "timestamp": "2026-08-28T08:17:46.418958169Z",
+  "model": "glm-5.3"
+}

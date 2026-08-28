@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "දුෂ්ටයන් පෙරලා ⟨අතුරුදන්⟩; නමුත් සාධුවන්ගේ ගෙය සිටගෙන සිටී.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "පෙරලා"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "සහ ඔවුන් නැත"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "සහ ගෙය"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "සාධුවන්ගේ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "සිටගෙන සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:04:51.231372446Z",
+  "model": "glm-5.3"
+}

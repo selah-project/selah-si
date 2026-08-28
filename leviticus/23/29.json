@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මන්දයි, මේ දිනයේම පීඩා නොකරනු ලබන සෑම නෙෆෙෂ්කුම තම ජනයාගෙන් කපා හරිනු ලැබේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්දයි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම...කුම"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "නෙෆෙෂ්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "පීඩා කරනු ලබන"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "මේ...ම"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දිනයේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "කපා හරිනු ලැබේය"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "තම ජනයාගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:23:46.661217065Z",
+  "model": "glm-5.3"
+}

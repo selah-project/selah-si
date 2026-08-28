@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "චාරිෆ්, ආනාතොත්, නෝබයි,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "චාරිෆ්"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ආනාතොත්"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "නෝබයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:40.518086060Z",
+  "model": "glm-5.3"
+}

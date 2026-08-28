@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "රාත්‍රියේදී බිඳු ⟨the⟩ පන්තිය මත බැස ගිය කල, මන්නා ඊට මත බැස ගියේය.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "බැස-ගිය-කල"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "බිඳු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "පන්තිය"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "රාත්‍රියේදී"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "බැස-ගියේය"
+    },
+    {
+      "surface": "המן",
+      "gloss": "මන්නා"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඊට-මත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:24.390503481Z",
+  "model": "glm-5.3"
+}

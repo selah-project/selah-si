@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබ කැමති ව ⟨අසා⟩ ගත්තොත්, ⟨දේශයේ⟩ හොඳ ඔබ කනු ඇත.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ව…ගත්තොත්"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "කැමති ව"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "⟨අසා⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨දේශයේ⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කනු ඇත"
+    }
+  ],
+  "timestamp": "2026-08-27T23:08:06.554516758Z",
+  "model": "glm-5.3"
+}

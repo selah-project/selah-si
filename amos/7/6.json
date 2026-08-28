@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යහ්වේ ⟨මෙයට⟩ පසුතැවිලි වූයේය; „මෙයද වන්නේ නැත“ — අදෝනයි යහ්වේ කීවේය.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "පසුතැවිලි වූයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨මෙයට⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "היא",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්නේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:13:26.621377861Z",
+  "model": "glm-5.3"
+}

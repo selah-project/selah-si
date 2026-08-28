@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "බොරු දිව තම කුඩාකරන ලදුවන්ට වෛර කරයි, මොළොක් කට මඩගස්වන දෙයක් කරයි.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "වෛර කරයි"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "තම කුඩාකරන ලදුවන්ට"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "කට"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "මොළොක්"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කරයි"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "මඩගස්වන දෙයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:12.898379137Z",
+  "model": "glm-5.3"
+}

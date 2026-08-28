@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "සේනාවන්ගේ යහ්වේ මෙසේ කියයි: බලව, මම ඒයිලාම්ගේ දුන්න ⟨את⟩ කඩන්නේමි — ඔවුන්ගේ බලයේ මුල එය වේ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවන්ගේ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කඩන්නේමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දුන්න"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "දුන්න"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ඒයිලාම්ගේ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "මුල"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "බලයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:18:57.009755063Z",
+  "model": "glm-5.3"
+}

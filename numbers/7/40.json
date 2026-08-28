@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "වැලහිනා එකක්, අපරාධ පූජාවට ය.",
+  "tokens": [
+    {
+      "surface": "שעיר עזים",
+      "gloss": "වැලහිනා (එළු පැටවෙක්)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "අපරාධ පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:25.762431017Z",
+  "model": "glm-5.3"
+}

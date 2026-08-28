@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එතැන යහ්වේ අත මා මත වූයේය; උන්වහන්සේ මට කීහුය: නැඟිට, බිමට පිටතට යා; එහිදී මම ⟨את⟩ ඔබ සමඟ කථා කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා මත"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එතැන"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීහුය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "קום",
+      "gloss": "නැඟිට"
+    },
+    {
+      "surface": "צא",
+      "gloss": "පිටතට යා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "බිම"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "කථා කරන්නෙමි"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ඔබ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:59:30.972740059Z",
+  "model": "glm-5.3"
+}

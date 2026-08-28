@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "බින්යමින් සහ යිහූදා පුත්‍රයන්ගෙන් ⟨සමහරෙක්⟩ දවීද් වෙත මෙවලමට පැමිණියෝය.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "පැමිණියෝය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "බින්යමින්"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "සහ යිහූදා"
+    },
+    {
+      "surface": "עד",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "මෙවලමට"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "දවීද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:51:11.351544905Z",
+  "model": "glm-5.3"
+}

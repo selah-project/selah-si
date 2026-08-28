@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "කොරක්ගේ පුත්‍රයෝ මිය ගියේ නැත.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරක්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "මිය ගියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:46:58.830578685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එවිට ඔබ ⟨එය⟩ රිදී බවට හරවා දෙව, ඒ රිදී ඔබේ අතේ බැඳගෙන, යහ්වේ ඔබේ එලෝහීම් තෝරාගන්නා ස්ථානය වෙත යනු.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ඔබ දෙව"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "රිදී බවට"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ඔබ බැඳගෙන"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ඒ රිදී"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ඔබේ අතේ"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ඔබ යනු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ස්ථානය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උනුතුරු"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "තෝරාගන්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:50.942825221Z",
+  "model": "glm-5.3"
+}

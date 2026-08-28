@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ගෙර්ෂොනීයන්ට — ලදාන් සහ ෂිම්උී.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ගෙර්ෂොනීයන්ට"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ලදාන්"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "සහ ෂිම්උී"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:30.408051129Z",
+  "model": "glm-5.3"
+}

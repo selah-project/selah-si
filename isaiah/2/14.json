@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ උස් කඳු සියල්ල මතට සහ ඔසවන ලද ගිරිකුළු සියල්ල මතට,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ ... මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "උස්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ ... මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ගිරිකුළු"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ඔසවන ලද"
+    }
+  ],
+  "timestamp": "2026-08-27T23:07:17.036900054Z",
+  "model": "glm-5.3"
+}

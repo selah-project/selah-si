@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මම ⟨සිටින්නේ⟩ නොඅසන මිනිසෙකු සේ; ඔහුගේ කට තුළ ප්‍රතිවාද නැත.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "මම ⟨සිටින්නේ⟩"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "මිනිසෙකු සේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "නො"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසන"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "කට තුළ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ප්‍රතිවාද"
+    }
+  ],
+  "timestamp": "2026-08-28T02:27:15.090549436Z",
+  "model": "glm-5.3"
+}

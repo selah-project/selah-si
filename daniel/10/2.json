@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඒ දිනවල මම, දනියෙල්, දින තුන්-සති තුනක් පුරා ශෝක කරමින් සිටියෙමි.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ඒ දිනවල"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "දනියෙල්"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "සිටියෙමි"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "ශෝක කරමින්"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "සති"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T05:48:32.642607047Z",
+  "model": "glm-5.3"
+}

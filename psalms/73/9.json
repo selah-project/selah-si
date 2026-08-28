@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 73,
+  "translation": "ඔවුන් අහසෙහි තම කට පිහිටුවා ඇත්තේය, තම දිව පොළොවෙහි ඇවිදියි.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "පිහිටුවා ඇත"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහසෙහි"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "තම කට"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "තම දිව"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "ඇවිදියි"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:52:21.717391020Z",
+  "model": "glm-5.3"
+}

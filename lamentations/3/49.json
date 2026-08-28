@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මගේ ඇය ගැලී නොනවතින්නේ ⟨ඒ⟩, විවේකයක් ⟨නැති⟩ නිසාය.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "මගේ ඇය"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ගැලී නොනවතින්නේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "නවතින්නේ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "නැති නිසා"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "විවේකයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:48.458607546Z",
+  "model": "glm-5.3"
+}

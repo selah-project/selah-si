@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එසේම, ලාභය බදින සියල්ලන්ගේ මාර්ග — ⟨את⟩ එහි හිමිකරුගේ ප්‍රාණය ගෙන යයි.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්ගේ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "බදින"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ලාභය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ප්‍රාණය"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "එහි හිමිකරුගේ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගෙන යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:52.381496678Z",
+  "model": "glm-5.3"
+}

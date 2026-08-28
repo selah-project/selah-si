@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ගල් මත ⟨את⟩ මෙම තෝරාවේ සියලු වචන ඉතා පැහැදිලිව කොටා ලියනු.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ලියනු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු වචන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "තෝරාවේ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "באר",
+      "gloss": "කොටා පැහැදිලිව"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ඉතා හොඳින්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:30.624965070Z",
+  "model": "glm-5.3"
+}

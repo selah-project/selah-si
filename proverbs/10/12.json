@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "වෛරය ගැටුම් අවදි කරයි; නමුත් සියලු පරිකල්පන මත ⟨ප්‍රේමය⟩ වැසී දමයි.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "වෛරය"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "අවදි කරයි"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ගැටුම්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "පරිකල්පන"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "වැසී දමයි"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ප්‍රේමය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:04.495358242Z",
+  "model": "glm-5.3"
+}

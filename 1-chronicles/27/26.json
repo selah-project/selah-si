@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "කුඹුරේ කාර්යය කරන්නන් — පොළොව වගා කිරීමේ සේවයට — මත සිටියේ කෙලූබ්ගේ පුත් එස්රී ය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "කරන්නන්"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "කාර්යය"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කුඹුරේ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "සේවයට"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "එස්රී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "කෙලූබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:05:52.086532424Z",
+  "model": "glm-5.3"
+}

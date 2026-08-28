@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 12:13",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "දැන් බලුව — ඔබ තෝරාගත්, ඔබ ඉල්ලූ ⟨ම⟩ රජු; බලුව, යහ්වේ ඔබ මත රජෙකු දී ඇත.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ම⟩"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "ඔබ තෝරාගත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ම⟩"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ඔබ ඉල්ලූ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දී ඇත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙකු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:57:11.113143286Z",
+  "model": "glm-5.3"
+}

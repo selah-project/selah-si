@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබේ සියලු හදවතින් යහ්වේ කෙරෙහි විශ්වාස තබන්න; ඔබේ ම ඥානය කෙරෙහි නොඑල්ලන්න.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "විශ්වාස තබන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවතින්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ඔබේ ම ඥානය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "එල්ලන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:05.118001765Z",
+  "model": "glm-5.3"
+}

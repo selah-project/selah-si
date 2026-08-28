@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඇත්තෙන්ම, නිෂ්ඵල දෙයක් එල් නොඅසන්නේය; ෂද්දයි ⟨එය⟩ නොබලන්නේය.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ඇත්තෙන්ම"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "නිෂ්ඵල දෙයක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "අසන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ෂද්දයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "බලන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:52:22.450179091Z",
+  "model": "glm-5.3"
+}

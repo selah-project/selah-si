@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ෂාඌල්ට දන්වන ලදී: බලුම්, දාවීද් රාමාහි නායොත්හි ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "දන්වන-ලදී"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ෂාඌල්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "පවසා"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලුම්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "නායොත්හි"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "රාමාහි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:03:14.891401069Z",
+  "model": "glm-5.3"
+}

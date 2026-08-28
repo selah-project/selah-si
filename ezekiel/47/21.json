@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "ඔබ ⟨את⟩ මේ පොළොව ඔබට, ඊශ්‍රායෙල්ගේ ගෝත්‍ර අනුව බෙදන්නහ.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "බෙදන්නහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ පොළොව"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "ගෝත්‍ර අනුව"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:00:17.670468222Z",
+  "model": "glm-5.3"
+}

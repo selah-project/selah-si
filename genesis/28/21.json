@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "මම සාමයෙන් මාගේ පියාගේ ගෙට ආපසු පැමිණෙන විට, යහ්වේ මට එලෝහීම් වන්නේය.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "මම ආපසු පැමිණෙන විට"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "සාමයෙන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මාගේ පියාගේ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:00.903819235Z",
+  "model": "glm-5.3"
+}

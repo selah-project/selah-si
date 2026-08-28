@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "පෙර වූ දේ — එය ම මතු වන්නේ ද; පෙර කරන ලද දේ — එය ම මතු කරනු ලබන්නේ ද; හිරු යට ⟨the⟩ අලුත් දෙයක් නැත.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොබ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "පෙර වූ දේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය ම"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "මතු වන්නේ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "සහ මොබ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "පෙර කරන ලද දේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය ම"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "මතු කරනු ලබන්නේ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිද"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "අලුත් දෙයක්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:20.548036519Z",
+  "model": "glm-5.3"
+}

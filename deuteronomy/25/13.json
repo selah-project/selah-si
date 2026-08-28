@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "තීට නොතිබෙනු — තීගේ මල්ලෙහි ගලක් සහ ගලක්, විශාලක් සහ කුඩාක්.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "තිබෙනු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තීට"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "තීගේ මල්ලෙහි"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගලක්"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "සහ ගලක්"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "විශාලක්"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "සහ කුඩාක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:46.369799731Z",
+  "model": "glm-5.3"
+}

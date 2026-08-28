@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ මොෂේට ⟨את⟩ අණ කළ සියල්ලට අනුව යිස්රාඑල් පුත්‍රයෝ කළහ; එසේ කළහ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළහ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:46.571311832Z",
+  "model": "glm-5.3"
+}

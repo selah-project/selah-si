@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ, මාගේ පීඩනය ඔබ දුටුවේය; මාගේ තීන්දුව විනිශ්චය කරව.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ඔබ දුටුවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "මාගේ පීඩනය"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "විනිශ්චය කරව"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "මාගේ තීන්දුව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:27.270153156Z",
+  "model": "glm-5.3"
+}

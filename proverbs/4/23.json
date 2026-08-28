@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සියලු රැකවරණයටත් වඩා ඔබේ හදවත රකින්න; මන්ද එයින් ජීවයේ පිටවීම් ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "සියලු...ටත් වඩා"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "රැකවරණය"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "රකින්න"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "පිටවීම්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:07.781439202Z",
+  "model": "glm-5.3"
+}

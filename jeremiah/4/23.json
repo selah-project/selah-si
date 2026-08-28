@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම ⟨את⟩ ⟨ද⟩ පොළොව දුටිමි — බෙල්ල, තෝහු වාබෝහු විය; සහ ⟨ද⟩ අහස් දෙසට — ඒවායේ එළිය නැත.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "දුටිමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පොළොව"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බෙල්ල"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "තෝහු"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "වාබෝහු"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ … දෙසට"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ඒවායේ එළිය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:45:43.040964083Z",
+  "model": "glm-5.3"
+}

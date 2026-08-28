@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ෂෙත්හට ⟨את⟩ ජීවිතය දුන් පසු ආදම්ගේ දින අවුරුදු අටසියයක් විය; ඔහු පුතුන් දුවුන් ලදේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ආදම්ගේ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ජීවිතය දුන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙත්හට"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ෂෙත්"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලදේය"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුන්"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "දුවුන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:30.885221939Z",
+  "model": "glm-5.3"
+}

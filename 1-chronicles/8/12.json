@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "එල්පාල්ගේ පුත්‍රයෝ: එබෙර්, මීෂාම්, ෂෙමෙද් — මොහු ⟨the⟩ ඕනෝ ⟨את⟩ සහ ⟨the⟩ ලොද් ⟨את⟩ හා ⟨the⟩ ඒවායේ දියත් ගම්මාන ඉදි කළේය.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "එල්පාල්ගේ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "එබෙර්"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "මීෂාම්"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ෂෙමෙද්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඕනෝ"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ඕනෝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ලොද්"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ලොද්"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ඒවායේ දියත් ගම්මාන"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:03.673427334Z",
+  "model": "glm-5.3"
+}

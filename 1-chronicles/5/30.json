@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එල්ආසාර් ⟨את⟩ පින්හාස් බිහිකළේය; පින්හාස් ⟨את⟩ අබිෂූවා බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "එල්ආසාර්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පින්හාස්"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "පින්හාස්"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "පින්හාස්"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අබිෂූවා"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "අබිෂූවා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:43.852464281Z",
+  "model": "glm-5.3"
+}

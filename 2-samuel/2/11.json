@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දාවීද් හෙබ්‍රෝනයේ, යූදාගේ ගෙද මත රජ වශයෙන් සිටි දිනැති සංඛ්‍යාව ⟨විය⟩ — වසර හතක් සහ මාස හයකි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු විය"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "සංඛ්‍යාව"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දිනැති"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිටි"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "හෙබ්‍රෝනයේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙද"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යූදාගේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "සහ හයක්"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "මාස"
+    }
+  ],
+  "timestamp": "2026-08-27T22:12:44.588985655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "වර්ෂයේ තුන් වරක් ඔබ මට උත්සව කරව්.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "වරක් (පා)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ඔබ උත්සව කරව්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "වර්ෂයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:04.490118994Z",
+  "model": "glm-5.3"
+}

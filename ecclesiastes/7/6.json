@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මන්ද මුට්ටිය ⟨the⟩ යට බූරු පඳුරුවල හඬ මෙන්, එසේම මෝබාගේ සිනාව ⟨is⟩ — සහ ද මෙය ම හිස්බවකි",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "හඬ මෙන්"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "බූරු පඳුරුවල"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "මුට්ටිය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "සිනාව"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "මෝබාගේ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "සහ ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය ම"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හිස්බවකි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:48:04.002665692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "නෝගා, නෙෆෙග් සහ යාෆියාද (විය).",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "නෝගා"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "නෙෆෙග්"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "යාෆියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:34:51.190434850Z",
+  "model": "glm-5.3"
+}

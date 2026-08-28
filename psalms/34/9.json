@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "රස විඳ දකින්න, මන්ද යහ්වේ යහපත්ය; ඔහු තුළ රැකවරණ සොයන මිනිසා ⟨මොබෙස⟩ වේ.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "රස විඳ බලන්න"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "දකින්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "මොබෙස"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "රැකවරණ සොයයි"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:23.523749702Z",
+  "model": "glm-5.3"
+}

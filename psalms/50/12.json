@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "මම බඩගින්නෙම් නම් ඔබට නොකියමි — මක්නිසාද මාගේ ය ලෝකය හා එහි පිර්ණතාවය.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "මම බඩගින්නෙම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "මම කියමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මාගේ ය"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ලෝකය"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "හා එහි පිර්ණතාවය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:31:56.278329087Z",
+  "model": "glm-5.3"
+}

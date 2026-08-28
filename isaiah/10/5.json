@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අන, අශ්ශූර්, මාගේ කෝපයේ දඬුව; ඔවුන් අත ඇත්තේ මාගේ පටන් ගත් කෝපයේ බාධයයි.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "අන"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අශ්ශූර්"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "දඬුව"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "මාගේ කෝපයේ"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "සහ බාධය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇත්තේ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ඔවුන් අත"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "මාගේ කෝපය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:13:37.039730421Z",
+  "model": "glm-5.3"
+}

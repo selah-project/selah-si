@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අපි හැරී, යහ්වේ මට කථා කළ පරිදි පන් මුහුදේ මාර්ගයෙන් කාන්තාරයට ගමන් කළෙමු; අපි ⟨את⟩ සෙයිර් කන්ද දින රැසක් වට කළෙමු.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "හැරී"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "ගමන් කළෙමු"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "කාන්තාරයට"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගයෙන්"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "පන්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "වට කළෙමු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සෙයිර් කන්ද"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "සෙයිර්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "රැසක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:34.431232295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "දුප්පතා කොල්ලකන්න එපා, මන්ද ඔහු දුප්පතෙකි; දුර්වලයාට දොරටුවේදී පීඩා කරන්න එපා —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "එපා"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "කොල්ලකන්න"
+    },
+    {
+      "surface": "דל",
+      "gloss": "දුප්පතා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "דל",
+      "gloss": "දුප්පතෙකි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ එපා"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "පීඩා කරන්න"
+    },
+    {
+      "surface": "עני",
+      "gloss": "දුර්වලයාට"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "දොරටුවේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:13.331821751Z",
+  "model": "glm-5.3"
+}

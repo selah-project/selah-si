@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 64,
+  "translation": "ඔවුන් තම දිව කඩුවක් සේ තියුම් කොට ඇත; තම ඊතල නැමූහ — කටුක වචනයක්.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "තියුම් කොට ඇත"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "කඩුවක් සේ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "තම දිව"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "නැමූහ"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "තම ඊතල"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනයක්"
+    },
+    {
+      "surface": "מר",
+      "gloss": "කටුක"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:59.756022359Z",
+  "model": "glm-5.3"
+}

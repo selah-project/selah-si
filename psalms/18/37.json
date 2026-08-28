@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මගේ පියවර මා යටතේ පුළුල් කරන ඔබ, මගේ දණහිස් නොසැලෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "පුළුල් කරන ඔබ"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "මගේ පියවර"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "මා යටතේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "සැලෙන්නේය"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "මගේ දණහිස්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:10:08.406747291Z",
+  "model": "glm-5.3"
+}

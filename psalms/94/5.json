@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "ඔබේ ජනතාව, යහ්වේ, ඔවුහු පොඩි කරති; ඔබේ උරුමය ඔවුහු පීඩා කරති.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ඔබේ ජනතාව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "පොඩි කරති"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ඔබේ උරුමය"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "පීඩා කරති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:10:24.594415188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "පිරුණු ප්‍රාණය පැණි පාගා දමයි; බඩගිනි ප්‍රාණයට සෑම කළුරු දෙයක්ම මිහිරිය.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "පිරුණු"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "පාගා දමයි"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "පැණි"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "සහ ප්‍රාණය"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "බඩගිනි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "מר",
+      "gloss": "කළුරු"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "මිහිරි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:23.203532492Z",
+  "model": "glm-5.3"
+}

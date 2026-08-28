@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබේ තටාකයෙන් ජලය බොන්න, ඔබේ ලිඳ මැදින් ගලා එන ජලයෙන් ද.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "බොන්න"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "ඔබේ තටාකයෙන්"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "සහ ගලා එන ජලයෙන්"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "ඔබේ ලිඳ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:17.853029692Z",
+  "model": "glm-5.3"
+}

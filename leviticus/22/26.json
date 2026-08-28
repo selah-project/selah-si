@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සහ යහ්වේ මොෂේට වදාරා ⟨මෙසේ⟩ කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ වදාරා කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:34.745324771Z",
+  "model": "glm-5.3"
+}

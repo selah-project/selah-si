@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "නමුත් ඔබ මට නොඇහුම්කරන්නහොත්, සහ මෙකී සියලු ප්‍රඥප්ති ⟨את⟩ නොකරන්නහොත් —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත් නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ඇහුම්කරන්නහොත්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්නහොත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ප්‍රඥප්ති"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ප්‍රඥප්ති"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙකී"
+    }
+  ],
+  "timestamp": "2026-08-28T08:31:27.210002262Z",
+  "model": "glm-5.3"
+}

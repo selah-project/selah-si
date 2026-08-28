@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "වනජීවී වචනය යහ්වේ විසින් යිර්මෙයාහූ වෙත වූයේ, ⟨මෙසේ⟩ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ විසින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහූ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:52:00.805303342Z",
+  "model": "glm-5.3"
+}

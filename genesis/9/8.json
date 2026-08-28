@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එලෝහීම් නොවඛ් හටද ඔහු ⟨את⟩ සමඟ ඔහුගේ පුත්‍රයන් හටද මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හටද"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොවඛ්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "හටද"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ඔහුගේ පුත්‍රයන්"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ සමඟ",
+      "marks": "නොවඛ්ගේ පුත්‍රයන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:01:46.126196085Z",
+  "model": "glm-5.3"
+}

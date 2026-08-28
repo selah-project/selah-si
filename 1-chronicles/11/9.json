@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "දාවීද් ඇවිද ඇවිද විශාල වෙමින් සිටියේය, සෙබල කායයේ යහ්වේ ඔහු සමඟ සිටියේය.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ඇවිද ගියේය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ඇවිද ඇවිද"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "විශාල වෙමින්"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සෙබල කායයේ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:19.353094700Z",
+  "model": "glm-5.3"
+}

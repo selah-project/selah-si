@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මේ අය ⟨මොවුහු⟩ — දාවීඩ් යහ්වේගේ ගෙදැ ගීත සේවයට පත් කළ — ලාච්කුව විවේක ලැබීමෙන් ⟨පසු⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මේ අය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කවුද"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "පත් කළ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීඩ්"
+    },
+    {
+      "surface": "על",
+      "gloss": "සඳහා"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "අතැති"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙදැ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "විවේක ලැබීමෙන්"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ලාච්කුව"
+    }
+  ],
+  "timestamp": "2026-08-28T06:39:17.543488277Z",
+  "model": "glm-5.3"
+}

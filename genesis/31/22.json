@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "තුන්වන දිනයේදී ලාබාන්ට දන්වන ලදී — යාකොව් පලා ගොස් ඇති බව.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "දන්වන ලදී"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ලාබාන්ට"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "තුන්වන"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "පලා ගොස්"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:07:37.278177074Z",
+  "model": "glm-5.3"
+}

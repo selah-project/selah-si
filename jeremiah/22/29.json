@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "පොළොවේ, පොළොවේ, පොළොවේ, යහ්වේගේ වචනය අසව්!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "ארඥ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:55:21.939829209Z",
+  "model": "glm-5.3"
+}

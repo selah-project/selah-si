@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මෙතැන් තේජස් මහ රජු කවරේද? — සේනාවන්ගේ යහ්වේ; ⟨තිඳුනේ⟩ තේජස් මහ රජු වේ. සෙලා.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "කවරේද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "මෙතැන්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "මහ රජු"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "තේජස්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවන්ගේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨තිඳුනේ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "මහ රජු"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "තේජස්"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:15:21.200052882Z",
+  "model": "glm-5.3"
+}

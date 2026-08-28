@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔබේ පශුවුන් වෙනුවෙන් ඔබේ කෙතේ තෘණ ද මම දෙන්නෙමි; ඔබ කා පුබගන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "මම දෙන්නෙමි"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "තෘණ"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "ඔබේ කෙතේ"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "ඔබේ පශුවුන් වෙනුවෙන්"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ඔබ කා"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "පුබගන්නෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:00.980506099Z",
+  "model": "glm-5.3"
+}

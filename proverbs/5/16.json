@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබේ උල්පැන් පිටතට විසිරෙන්නේ ඇයි? වීදිවල ජල ඇළවල් ⟨ලෙස⟩?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "විසිරෙන්නේ ඇයි"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "ඔබේ උල්පැන්"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "පිටතට"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "වීදිවල"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ඇළවල්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:17.853192500Z",
+  "model": "glm-5.3"
+}

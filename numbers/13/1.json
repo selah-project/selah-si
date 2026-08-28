@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යහ්වේ මොෂේට කථා කොට මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:05.197229634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "කෙනාන් දූවරු තම පියා වන යිට්ස්ඛාක්ගේ ඇස් වල අයහපත් බවද ඒසව් දුටුවේය.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසව්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "අයහපත්"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරු"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙනාන්"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් වල"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "යිට්ස්ඛාක්ගේ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:33.521158395Z",
+  "model": "glm-5.3"
+}

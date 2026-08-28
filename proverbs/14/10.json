@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "හදවත තමාගේම ආත්මයේ කළකිරීම දනී; තමාගේ ප්‍රීතියෙහි අමුත්තා නොකැවෙයි.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "කළකිරීම"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "තමාගේම ආත්මයේ"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "තමාගේ ප්‍රීතියෙහි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "කැවෙයි"
+    },
+    {
+      "surface": "זר",
+      "gloss": "අමුත්තා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:12.608137470Z",
+  "model": "glm-5.3"
+}

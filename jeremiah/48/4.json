@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "මෝආබ් බිඳී ⟨is⟩ විනාස විය; එහි ලාබාලයන් කෑගසන හඬ ⟨he⟩ ඇසෙන්නට තැබූහ.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "බිඳී විනාස විය"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ඇසෙන්නට තැබූහ"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "කෑගසන හඬ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "එහි ලාබාලයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:54:14.351123780Z",
+  "model": "glm-5.3"
+}

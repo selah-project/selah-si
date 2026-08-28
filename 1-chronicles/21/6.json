@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ලෙවී සහ බින්යාමීන් ඔවුන් අතර නොගිණිමු; මන්ද රජුගේ වචනය ජොආබ් ⟨את⟩ හට අමන වූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "ලෙවී"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "සහ බින්යාමීන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ගිණිමු"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ඔවුන් අතර"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "අමන විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජොආබ් හට"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ජොආබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:04:03.292344863Z",
+  "model": "glm-5.3"
+}

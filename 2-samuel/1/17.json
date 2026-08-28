@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "දාවීඩ් ⟨את⟩ මේ විලාපය ශාඌල් මතද ඔහුගේ පුත් යෙහෝනාතන් මතද කීවේය.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "විලාප කීවේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීඩ්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ විලාපය"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "විලාපය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ශාඌල්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ද මත"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "යෙහෝනාතන්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:12:45.567206690Z",
+  "model": "glm-5.3"
+}

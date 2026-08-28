@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යොඑල් ⟨the⟩ සහෝදරයා නාතන්ගේ, මිබ්ඛාර් ⟨the⟩ පුත් හග්‍රිගේ,",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "යොඑල්"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "සහෝදරයා"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්ගේ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "මිබ්ඛාර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "හග්‍රිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:01.593146284Z",
+  "model": "glm-5.3"
+}

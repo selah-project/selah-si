@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "පාන් නොකෑවාහුය; මිදි රාවද මත් පැන්වද නොබීවාහුය — මම යහ්වේ ඔබගේ එලෝහීම් වන බව ඔබ දැනගනු පිණිසයි.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "කෑවාහුය"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "මිදි රාවද"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "මත් පැන්වද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "බීවාහුය"
+    },
+    {
+      "surface": "למען",
+      "gloss": "පිණිසයි"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "දැනගනු"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:21.029147797Z",
+  "model": "glm-5.3"
+}

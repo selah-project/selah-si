@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "පළමු මාසයේ විසි සහ හතරවන දින, මම මහා ගඟ ඉවුරේ — එය හිද්දෙකෙල් — සිටියෙමි.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "සහ හතර"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "සහ මම"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "සිටියෙමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "විසිර"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ඉවුර"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ගඟ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "හිද්දෙකෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:48:32.642914388Z",
+  "model": "glm-5.3"
+}

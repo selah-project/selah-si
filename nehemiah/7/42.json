@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඛාරීම්ගේ පුත්‍රයෝ — දහසක්, සත් දෙකක් ⟨දහඅටක්⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ඛාරීම්ගේ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දෙකක් ⟨දහඅටක්⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:40.394549346Z",
+  "model": "glm-5.3"
+}

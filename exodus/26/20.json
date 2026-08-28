@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මිශ්කනයේ දෙවන පැත්තට, උතුරු පසට, විසි පුවරු.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "පැත්තට"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මිශ්කනයේ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "පසට"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "පුවරු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:17.356000828Z",
+  "model": "glm-5.3"
+}

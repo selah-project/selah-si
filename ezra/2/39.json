@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඛාරිම්ගේ පුත්‍රයෝ — දහසය, දහහතකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ඛාරිම්ගේ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසය"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "හත"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:55:27.856820234Z",
+  "model": "glm-5.3"
+}

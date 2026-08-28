@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අනාතොත් මිනිස්සු සිය විසි අටයි.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "අනාතොත්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:53.149226378Z",
+  "model": "glm-5.3"
+}

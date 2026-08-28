@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඇය නැවත ගැබ්ගත්තාය, පුතෙකු ප්‍රසූත කළාය; ඇය ⟨את⟩ ඔහුගේ නම ඕනන් යැයි කළාය.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ගැබ්ගත්තාය"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවත"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ප්‍රසූත කළාය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "කළාය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ නම"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නම"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ඕනන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:25.910515179Z",
+  "model": "glm-5.3"
+}

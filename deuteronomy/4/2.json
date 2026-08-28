@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 4:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම ⟨את⟩ඔබට අණ කරන වචනයට එකතු නොකරන්න, එයින් අඩුද නොකරන්න; මම ඔබට අණ කරන යහ්වේ ඔබගේ එලෝහීම්ගේ ⟨את⟩ විධාන රැකීමට පිණිසය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "එකතු කරන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ඔබට",
+      "marks": "ඔබ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "අඩු කරන්න"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "විධාන"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "විධාන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ඔබට",
+      "marks": "ඔබ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:15.186961702Z",
+  "model": "glm-5.3"
+}

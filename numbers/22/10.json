@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "බිල්ආම් එලෝහීම්ට කීවේය: මෝආබ් රජු වන සිප්පෝර්ගේ පුත් බාලාක් මා වෙත එවීය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිල්ආම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්ට"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "බාලාක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "සිප්පෝර්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "එවීය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:25.989167613Z",
+  "model": "glm-5.3"
+}

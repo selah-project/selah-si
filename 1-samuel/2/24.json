@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නැත, මගේ පුත්‍රයෙනි; මම අසන වාර්තාව හොඳ නොවේ — යහ්වේගේ ජනයා පාපයට පසු කරවමින්",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්‍රයෙනි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "වාර්තාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසන"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "පාපයට පසු කරවමින්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:52:09.373190767Z",
+  "model": "glm-5.3"
+}

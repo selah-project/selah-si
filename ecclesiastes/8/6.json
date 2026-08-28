@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මන්ද සෑම කැමැත්තකටම කාලයක් සහ තීන්දුවක් ඇත; මන්ද මිනිසාගේ නපුර ඔහු මත මහත් වේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සෑම ... ටම"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "කැමැත්ත"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලයක්"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "සහ තීන්දුවක්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "නපුර"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු මත"
+    }
+  ],
+  "timestamp": "2026-08-28T05:24:35.906423046Z",
+  "model": "glm-5.3"
+}

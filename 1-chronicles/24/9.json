@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "පස්වන ‹අංකය මල්කියාට, සයවන අංකය මියාමින්ට.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "මල්කියාට"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "පස්වන"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "මියාමින්ට"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "සයවන"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:50.900106091Z",
+  "model": "glm-5.3"
+}

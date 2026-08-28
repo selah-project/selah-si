@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබ, මගේ පුත්, අසා ඥානවන්ත වන්න, මාර්ගයෙහි ඔබේ හදවත යොමු කරන්න.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ඥානවන්ත වන්න"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "යොමු කරන්න"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයෙහි"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:53.591363495Z",
+  "model": "glm-5.3"
+}

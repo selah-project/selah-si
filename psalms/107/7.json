@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 107,
+  "translation": "සරල මාර්ගයකින් ඔවුන් යොමු කළේය — වාසය කරන නගරයකට යාම සඳහා.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "ඔවුන් යොමු කළේය"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයකින්"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "සරල"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "යාම සඳහා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරයකට"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "වාසය කරන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:23:03.389925837Z",
+  "model": "glm-5.3"
+}

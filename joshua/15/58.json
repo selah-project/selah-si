@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "හල්හුල්, බෙත්-ට්සූර් සහ ගෙදෝර්.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "හල්හුල්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ට්සූර්"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "සහ ගෙදෝර්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:40.708189654Z",
+  "model": "glm-5.3"
+}

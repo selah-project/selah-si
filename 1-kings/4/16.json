@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "බාඅනා — හූෂයිගේ පුත් — ආෂෙර්හි සහ බෙආලොත්හි ⟨තිබුණේ⟩.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "බාඅනා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "හූෂයි"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ආෂෙර්හි"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "සහ බෙආලොත්හි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:30:34.699174213Z",
+  "model": "glm-5.3"
+}

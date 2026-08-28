@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "නවවන ‹අංකය යේෂුආට, දසවන අංකය ෂෙඛන්යාට.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "යේෂුආට"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "නවවන"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "ෂෙඛන්යාට"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "දසවන"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:50.900460426Z",
+  "model": "glm-5.3"
+}

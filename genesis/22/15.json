@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යහ්වේගේ දූතයා අහසින් දෙවන වරට අව්රාහම්ට කැඳවා සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවා සිටියේය"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්ට"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "දෙවන වරට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ඉතින්"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසින්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:16:17.257540110Z",
+  "model": "glm-5.3"
+}

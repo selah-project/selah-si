@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "දාවීද්, යිෂායිගේ පුත්‍රයා, සියලු ඊස්‍රායෙල් මත රාජ්‍යය පාලනය කළේය.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "යිෂායිගේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රාජ්‍යය පාලනය කළේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊස්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:08:04.442066825Z",
+  "model": "glm-5.3"
+}

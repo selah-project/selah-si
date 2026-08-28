@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔහුගේ අත්වල ⟨ඊළඟට⟩ යෙහෝසාබාද්; ඔහු සමඟ සටනට සූදානම් දහ අටලක්ෂයක් සිටියෝ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "විසින් ⟨ඊළඟට⟩"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ඔහුගේ අත"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "යෙහෝසාබාද්"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "සහ අසූවක්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "සූදානම්"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සටනට"
+    }
+  ],
+  "timestamp": "2026-08-28T07:25:40.687818685Z",
+  "model": "glm-5.3"
+}

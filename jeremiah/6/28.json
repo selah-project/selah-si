@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 6:28",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔවුන් සියල්ලෝ ම ⟨they⟩ කැරලිකෝ, අපවාද ඇවිදින්නෝ — තඹ හා යකඩ — සියල්ලෝ ම විනාශකරුවෝ ය.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ඔවුන් සියල්ලෝ ම"
+    },
+    {
+      "surface": "סרי",
+      "gloss": "කැරලිකෝ"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "කැරලිකෝ"
+    },
+    {
+      "surface": "הלכי",
+      "gloss": "ඇවිදින්නෝ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "අපවාද"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "හා යකඩ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "සියල්ලෝ ම"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "විනාශකරුවෝ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:45:52.554288480Z",
+  "model": "glm-5.3"
+}

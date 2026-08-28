@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔබට උගන්නන තෝරාව මුඛ අනුවද, ඔබට කියන විනිශ්චය අනුවද කරන්න; ඔබට ප්‍රකාශ කරන වචනයෙන් දකුණට හෝ වමට නොහැරෙන්න.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "අනුව"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "තෝරාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ඔබට උගන්නත්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ අනුව"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "විනිශ්චය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ඔබ කරන්න"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "හැරෙන්න"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යෙන්"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ප්‍රකාශ කරති"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "දකුණට"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "හෝ වමට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:42.854060920Z",
+  "model": "glm-5.3"
+}

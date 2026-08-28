@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "අව්රාහම් දේශයේ ජනයාට ඉදිරිපිට නමස්කාර කළේය.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "නමස්කාර කළේය"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:14:27.922372024Z",
+  "model": "glm-5.3"
+}

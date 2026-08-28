@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සන්ධ්‍යාව විය; උදෑසන විය — සිව්වන දිනයි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සන්ධ්‍යාව"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනයි"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "සිව්වන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:10.607345395Z",
+  "model": "glm-5.3"
+}

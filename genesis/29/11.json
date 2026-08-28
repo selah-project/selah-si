@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "යාකොව් රාහෙල්ට සිපගත්තේය, තම හඬ ⟨את⟩ ඔසවා අඬින්නේය.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "සිපගත්තේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "රාහෙල්ට"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම හඬ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "තම හඬ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "අඬින්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:08.937775122Z",
+  "model": "glm-5.3"
+}

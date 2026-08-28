@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යහ්වේ මොෂේට කතා කොට ⟨කියනු ලැබේ මෙසේය⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියනු ලැබේ මෙසේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:56:31.136626210Z",
+  "model": "glm-5.3"
+}

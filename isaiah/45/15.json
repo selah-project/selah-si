@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "සැබවින් ඔබ ⟨යූ⟩ සැඟවෙන එල් — ඊශ්‍රායෙල්ගේ එලෝහීම්, මුදල්.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "සැබවින්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "සැඟවෙන"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්ගේ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "මුදල්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:32:53.538040821Z",
+  "model": "glm-5.3"
+}

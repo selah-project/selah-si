@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "කෝපයෙන් ⟨අප⟩ වැසුවේය, අප ලුහුබැඳීම; මරා දැම්මේය, අනුකම්පා නොකළේය.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "වැසුවේය"
+    },
+    {
+      "surface": "באף",
+      "gloss": "කෝපයෙන්"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "අප ලුහුබැඳීම"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "මරා දැම්මේය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "අනුකම්පා කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:11.525368431Z",
+  "model": "glm-5.3"
+}

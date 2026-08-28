@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු කීවේය: ඔබ කළේ කුමක්ද? ඔබේ සහෝදරයාගේ ලේ හඬ, පොළොවෙන් මා වෙත දෝංකාර දෙයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ඔබ කළේ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ඔබේ සහෝදරයාගේ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "දෝංකාර දෙයි"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යන්නෙන්"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පොළොවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:44.535510480Z",
+  "model": "glm-5.3"
+}

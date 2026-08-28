@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "හමාන් රජුට කීවේය: රජු ගෞරවයෙහි කැමති ⟨වන⟩ මිනිසා ⟨සඳහා⟩ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המן",
+      "gloss": "හමාන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨වන⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ගෞරවයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:29:02.202856849Z",
+  "model": "glm-5.3"
+}

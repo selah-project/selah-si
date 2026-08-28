@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "දෙවන මාසයේ, මාසයේ විසි හත් වන දිනයේ, පොළොව සම්පූර්ණයෙන් වියළී ගියාය.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "හත්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විසි"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "වියළී ගියාය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T08:03:29.522491464Z",
+  "model": "glm-5.3"
+}

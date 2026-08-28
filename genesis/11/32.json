@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "තෙරාඛ්ගේ දින වසර දෙසීයයක් සහ පහක් විය; තෙරාඛ් ඛාරාන්හිදී මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "තෙරාඛ්ගේ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "සහ දෙසීයයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "තෙරාඛ්"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ඛාරාන්හිදී"
+    }
+  ],
+  "timestamp": "2026-08-27T19:10:14.936216176Z",
+  "model": "glm-5.3"
+}

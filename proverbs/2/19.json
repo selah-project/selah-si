@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඇය වෙත එන සියල්ලෝ ආපසු නොහැරෙති; ජීවන මාර්ගවලටද ළඟා නොවෙති।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "ඇය වෙත එන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ආපසු හැරෙති"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොද"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ළඟා වෙති"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "මාර්ගවලට"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:42.691893437Z",
+  "model": "glm-5.3"
+}

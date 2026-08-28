@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ත්සෙරුයාගේ පුත් යෝආබ්, රජුගේ හදවත අබ්ෂාලොම් කෙරෙහි ⟨ඇති⟩ බව දැනගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "දැනගත්තේය"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "යෝආබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ත්සෙරුයා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කි"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "අබ්ෂාලොම්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:12:25.157657122Z",
+  "model": "glm-5.3"
+}

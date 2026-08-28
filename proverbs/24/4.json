@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "දැනුමෙන්ද කාමර සියල්ල වටිනා හා ප්‍රියකර සම්පතින් පිරෙති.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "දැනුමෙන්ද"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "කාමර"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "පිරෙති"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הון",
+      "gloss": "සම්පත"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "වටිනා"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "ප්‍රියකරද"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:01.555527156Z",
+  "model": "glm-5.3"
+}

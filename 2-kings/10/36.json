@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "යෙහූ යිස්රායෙල් මත රාජ්‍ය කළ දින — වසර විසි අටක් — ෂෝම්රොනයේදී ය.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රාජ්‍ය කළ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "යෙහූ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ෂෝම්රොනයේදී"
+    }
+  ],
+  "timestamp": "2026-08-27T22:56:19.873597923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මට කීවේය: සවස උදෑසන දක්වා දෙදහසක් සහ තුන්සියයක්; එවිට ⟨the⟩ පූජස්ථානය සාධාරණය කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සවස"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහසක්"
+    },
+    {
+      "surface": "සහ",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "සාධාරණය කරනු ලැබේ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජස්ථානය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:46:11.670287449Z",
+  "model": "glm-5.3"
+}

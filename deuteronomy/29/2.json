@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔබේ ඇස් දුටු මහා පරීක්ෂණ, ⟨the⟩ සලකුණු සහ ⟨the⟩ මහා ආශ්චර්යයන් ⟨the⟩ ඒ ඒවාය.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "මහා පරීක්ෂණ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බව"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "දුටු"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "සලකුණු"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "සහ ආශ්චර්යයන්"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ඒ ඒවාය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:44:31.549609523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ මම ඔබේ රටේ නගර හරන්නම්, ඔබේ බලකොටු සියල්ල බිඳ දමමි.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "හරන්නම්"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ඔබේ රටේ"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "බිඳ දමමි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "ඔබේ බලකොටු"
+    }
+  ],
+  "timestamp": "2026-08-28T01:27:47.663447524Z",
+  "model": "glm-5.3"
+}

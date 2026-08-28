@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අපි අනාථයන් වී ඇමුණෙමු — පියෙකු ⟨නැත⟩; අපගේ මවුවරු වැන්දඹුවන් සේ.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "අනාථයන්"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "වී ඇමුණෙමු"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אב",
+      "gloss": "පියෙකු"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "අපගේ මවුවරු"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "වැන්දඹුවන් සේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:20.881000871Z",
+  "model": "glm-5.3"
+}

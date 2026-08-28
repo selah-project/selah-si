@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අබිෂූවා ⟨את⟩ බුක්කි බිහිකළේය; බුක්කි ⟨את⟩ උස්සි බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "අබිෂූවා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බුක්කි"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "බුක්කි"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "බුක්කි"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "උස්සි"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "උස්සි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:43.852620178Z",
+  "model": "glm-5.3"
+}

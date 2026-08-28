@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අපගේ උරුමය පරදේසීන්ට හැරී ඇත; අපගේ ගෙවල් අන්‍ය ජාතිකයන්ට.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "අපගේ උරුමය"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "හැරී ඇත"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "පරදේසීන්ට"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "අපගේ ගෙවල්"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "අන්‍ය ජාතිකයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:20.880857390Z",
+  "model": "glm-5.3"
+}

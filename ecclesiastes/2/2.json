@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සිනාව ගැන මම කීවෙමි — ⟨එය⟩ උමතුය; සහ සතුට ගැන — මෙය මොකක්ද කරන්නේ?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "සිනාව ගැන"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "උමතුය"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "සහ සතුට ගැන"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:21.238603220Z",
+  "model": "glm-5.3"
+}

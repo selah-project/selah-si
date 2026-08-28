@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මොෂේ කළේය; යහ්වේ ⟨את⟩ ඔහුට අණ කළ පරිදි, එසේම කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:34:39.551920653Z",
+  "model": "glm-5.3"
+}

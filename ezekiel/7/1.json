@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එවිට යහ්වේගේ වචනය මට ⟨මේ⟩ ආකාරයෙන් පැමිණි:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:24:43.392202232Z",
+  "model": "glm-5.3"
+}

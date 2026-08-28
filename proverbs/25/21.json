@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබ සතුරා කුසගිනිස්සේ නම්, ඔහුට පාන් කවන්න; ඔහු පිපාසිත නම්, ඔහුට ජලය පොවන්න.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "කුසගිනිස්සේ"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ඔබ සතුරා"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ඔහුට කවන්න"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "පිපාසිත"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ඔහුට පොවන්න"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:14.412782264Z",
+  "model": "glm-5.3"
+}

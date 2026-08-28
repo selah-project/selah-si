@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 32:31",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මොෂේ යහ්වේ වෙත ආපසු ගොස් කීවේය: ආ, ⟨මෙ⟩ ජනතාව මහත් පාපයක් කර ඇත — ඔවුන් තමන්ට රන් දෙවිවරු කර ගෙන ඇත।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ආපසු ගොස්"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ආ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "පාපයක් කර ඇත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙ"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "පාපයක්"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "කර ගෙන ඇත"
+    },
+    {
+      "surface": "להם",
+      "gloss": "තමන්ට"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "දෙවිවරු"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:01:36.649182161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "උරියා ⟨the⟩ හිත්තියා, සාබාද්, අහ්ලයිගේ පුත්‍රයා —",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "උරියා"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "හිත්තියා"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "සාබාද්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "අහ්ලයිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:35.486782887Z",
+  "model": "glm-5.3"
+}

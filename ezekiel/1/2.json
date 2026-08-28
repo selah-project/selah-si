@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මාසයේ ⟨පස්වන දිනයේ⟩ — එය රජු වන යෝයාඛීන්ගේ පිටුවහල් වීමේ ⟨පස්වන⟩ වසරයි.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "පස්වන දිනයේ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "පස්වන"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "පිටුවහල් වීමේ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "යෝයාඛීන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:22:31.934571619Z",
+  "model": "glm-5.3"
+}

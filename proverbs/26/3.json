@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "අශ්වයාට සැරයක්, කොටළයාට කට ලෑලියක්, මෝඩයන්ගේ පිටට දඬුවක්.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "සැරයක්"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "අශ්වයාට"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "කට ලෑලියක්"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "කොටළයාට"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "දඬුවක්"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "පිටට"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "මෝඩයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:25.835858233Z",
+  "model": "glm-5.3"
+}

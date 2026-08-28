@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "කන් යොමු කර මගේ හඬ අසන්න; සවන් දෙන්න, මගේ වදන අසන්න.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "කන් යොමු කර"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "මගේ හඬ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "සවන් දෙන්න"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මගේ වදන"
+    }
+  ],
+  "timestamp": "2026-08-27T23:22:13.683141999Z",
+  "model": "glm-5.3"
+}

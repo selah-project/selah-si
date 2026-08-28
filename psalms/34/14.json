@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "නුඹේ දිව අයහපතෙන් රකිව, නුඹේ තොල් ද්‍රෝහී කථාවෙන් ⟨රකිව⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "රකිව"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "නුඹේ දිව"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "අයහපතෙන්"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "නුඹේ තොල්"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කථාවෙන්"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ද්‍රෝහී"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:23.301895836Z",
+  "model": "glm-5.3"
+}

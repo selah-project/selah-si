@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හෂුබා, ඕහෙල්, බෙරෙක්යා, හසද්යා, යූෂාබ්-හෙසෙද් — පස් දෙනා ය.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "හෂුබා"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ඕහෙල්"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "බෙරෙක්යා"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "හසද්යා"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "යූෂාබ්"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-හෙසෙද්"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පස් දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:57.093226569Z",
+  "model": "glm-5.3"
+}

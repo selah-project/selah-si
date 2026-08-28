@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පාප පූජාවට අපි එක් බැටළුවෙක් —",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "බැටළුවෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "අපි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:04.602677160Z",
+  "model": "glm-5.3"
+}

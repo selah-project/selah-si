@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "යහ්වේ කීවේය: ඔබේ වචනයට අනුව මම සමාව දුන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "මම සමාව දුන්නෙමි"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ඔබේ වචනයට අනුව"
+    }
+  ],
+  "timestamp": "2026-08-28T08:34:43.228793936Z",
+  "model": "glm-5.3"
+}

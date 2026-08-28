@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "සහ මොෂේ තනිව යහ්වේ වෙත ළඟා වේවා; ඔව්හු ළඟා නොවන්නාහු; ජනයාද ඔහු සමඟ නොනගින්නාහු.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "සහ ළඟා වේවා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "තනිව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "සහ ඔව්හු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ළඟා වන්නාහු"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "සහ ජනයා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "නගින්නාහු"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:25.040721243Z",
+  "model": "glm-5.3"
+}

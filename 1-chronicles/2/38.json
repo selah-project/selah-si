@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔවේද් ⟨את⟩ යෙහුව ලැබීය, යෙහු ⟨את⟩ අසර්යාව ලැබීය.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ඔවේද්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෙහු"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "යෙහු"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "යෙහු"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අසර්යා"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.565451270Z",
+  "model": "glm-5.3"
+}

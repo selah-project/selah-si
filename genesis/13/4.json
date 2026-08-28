@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මුලදී එහි ඔහු කළ පූජාසනයේ ස්ථානය වෙත — එහිදී අව්රාහම් යහ්වේගේ නාමයෙහි කැඳවීම කළේය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානය"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "පූජාසනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "මුලදී"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවීම කළේය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:52.519611740Z",
+  "model": "glm-5.3"
+}

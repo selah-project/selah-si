@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යුද්ධයක් ආසාගේ රාජ්‍යයේ තිස් පස්වන වසර දක්වා නොවීය.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "යුද්ධයක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "පස්වන"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "රාජ්‍යයේ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ආසාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:25:48.364379845Z",
+  "model": "glm-5.3"
+}

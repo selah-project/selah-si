@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ලාදාන් ⟨ඔහුගේ⟩ පුත්, අම්මීකුද් ⟨ඔහුගේ⟩ පුත්, එලීෂාමා ⟨ඔහුගේ⟩ පුත්.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "ලාදාන්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "අම්මීකුද්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "එලීෂාමා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:41.351441693Z",
+  "model": "glm-5.3"
+}

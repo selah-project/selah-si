@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "පසුදා, ජනයා කෙතට නික්ම ගියහ; අබිමෙලෙඛ්ට ඒ පුවරා (සල්ලිස්)",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "පසුදා"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "නික්ම ගියහ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙතට"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "පුවරා (සල්ලිස්)"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "අබිමෙලෙඛ්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:40:33.262200851Z",
+  "model": "glm-5.3"
+}

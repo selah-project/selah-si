@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සාමය බලා සිටියෙමු, එහෙත් හොඳ නැත; සුව කිරීමේ කාලය බලා සිටියෙමු — බැලූ කල භීතියයි.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "බලා සිටියෙමු"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "සාමය"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "කාලයට"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "සුවය"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බැලූ කල"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "භීතිය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:51:14.532209212Z",
+  "model": "glm-5.3"
+}

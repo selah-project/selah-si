@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "දින සතක් ගත වූ පසු, මහා ජලප්‍රවාහයේ ජලය පොළොව මත විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට විය"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "සතක්"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "...ජලය"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "මහා ජලප්‍රවාහයේ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:24.707090411Z",
+  "model": "glm-5.3"
+}

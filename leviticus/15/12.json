@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සහ වාහල ඇති පුරුෂයා ස්පර්ශ කරන මැටි භාජනය කැඩෙනු ඇත; සෑම ලී භාජනයක් ජලයෙන් සෝදනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "සහ භාජනය"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ස්පර්ශ කරන"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එය"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "වාහල ඇති පුරුෂයා"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "කැඩෙනු ඇත"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සෑම"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාජනයක්"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ලී"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "සෝදනු ලැබේ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:17:21.048663664Z",
+  "model": "glm-5.3"
+}

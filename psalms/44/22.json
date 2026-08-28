@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "මෙය එලෝහීම් නොසොයා බලන්නේද? හෙතෙම ⟨ය⟩ හදවතේ සැඟවුණු දේ දන්නේය.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "නොවේද"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "සොයා බලන්නේද"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු\/හෙතෙම ⟨ය⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නේය"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "සැඟවුණු දේ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:53.599036333Z",
+  "model": "glm-5.3"
+}

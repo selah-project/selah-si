@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "නිසාද, හේතුවක් නැතිව ජාලය විසිරෙයි — පියාපත් හිමි සියල්ලන්ගේ ඇස් ඉදිරිපිට.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "නිසාද"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "හේතුවක් නැතිව"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "විසිරෙයි"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ජාලය"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් ඉදිරිපිට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "හිමියා"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "පියාපත්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:52.381140181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔහු “එළවා ගන්න” කීවේය; ඔහු අත දිගු කොට එය ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "එළවා ගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "දිගු කොට"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "අත"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "එය ගත්තේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:51:55.216197325Z",
+  "model": "glm-5.3"
+}

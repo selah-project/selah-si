@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මිනිසෙකුගේ යුක්තිය එල්යෝන්ගේ මුහුණු ඉදිරිපිට ඇද හැරීමට ⟨ඔහු නොකරයි⟩ —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ඇද හැරීමට"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "යුක්තිය"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "මිනිසෙකුගේ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණු"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "එල්යෝන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.511850971Z",
+  "model": "glm-5.3"
+}

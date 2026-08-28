@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබ මුහුදෙහි ඔබේ අශ්වයන් පැදක්කෙයි — බොහෝ ජලයන්ගේ පෙණ-රැල්ල.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "පැදක්කෙයි"
+    },
+    {
+      "surface": "בים",
+      "gloss": "මුහුදෙහි"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ඔබේ අශ්වයන්"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "පෙණ-රැල්ල"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයන්ගේ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:16:51.682122836Z",
+  "model": "glm-5.3"
+}

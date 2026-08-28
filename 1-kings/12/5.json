@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "රෙහබ්ආම් ඔවුන්ට කීයේ: තව දින තුනක් යන්න, නැවත මා වෙත එන්න; ජනතාව ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තව"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "නැවත එන්න"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    }
+  ],
+  "timestamp": "2026-08-28T12:11:48.599570270Z",
+  "model": "glm-5.3"
+}

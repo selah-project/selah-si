@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "යෙහූදා තම පළමු පුත් එර් සඳහා බිරිඳක් ගත්තේය; ඇගේ නම තාමාර් විය.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "බිරිඳක්"
+    },
+    {
+      "surface": "לער",
+      "gloss": "එර් සඳහා"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ඔහුගේ පළමු පුත්"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ඇගේ නම"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "තාමාර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:37.413812769Z",
+  "model": "glm-5.3"
+}

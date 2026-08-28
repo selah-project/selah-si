@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 93,
+  "translation": "ගංගා ඔසවා ඇත, යහ්වේ, ගංගා ඒවායේ හඬ ඔසවා ඇත, ගංගා ඒවායේ රළ ඔසවති.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ඔසවා ඇත"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ගංගා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ඔසවා ඇත"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ගංගා"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ඒවායේ හඬ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ඔසවති"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ගංගා"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ඒවායේ රළ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:27:26.446386564Z",
+  "model": "glm-5.3"
+}

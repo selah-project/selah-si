@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "පූජනීය නගරයේ ⟨සිටින⟩ ලෙවීවරුන් සියල්ල — සිය අසූ හාරයි.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ලෙවීවරුන්"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "අසූ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "හාරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:26:24.971011457Z",
+  "model": "glm-5.3"
+}

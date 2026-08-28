@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 97,
+  "translation": "ධර්මිෂ්ඨයාට ආලෝකය වපුරා ඇත; සරල හදවත් ඇත්තන්ට ⟨සතුට⟩.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "වපුරා ඇත"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ධර්මිෂ්ඨයාට"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "සරල... ඇත්තන්ට"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත්"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "සතුට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:14:44.294603199Z",
+  "model": "glm-5.3"
+}

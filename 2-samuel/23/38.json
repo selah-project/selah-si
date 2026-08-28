@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඉරා ⟨ක⟩ යිත්රියා, ගරෙබ් ⟨ක⟩ යිත්රියා —",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ඉරා"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "යිත්රියා"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ගරෙබ්"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "යිත්රියා"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:02.921247105Z",
+  "model": "glm-5.3"
+}

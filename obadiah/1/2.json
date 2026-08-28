@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බල්නවු — ජාතීන් අතර මම ⟨את⟩ ඔයා කුඩා කළෙමි; ඔයා ඉතා අවඥා සහගත වූවෙහි.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල්නවු"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "කුඩා"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ඔයා කළෙමි"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ජාතීන් අතර"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "අවඥා සහගත වූවෙහි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔයා"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-28T12:03:15.255275879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "වන්යා, මෙරෙමොත්, එල්යාෂිබ්.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "වන්යා"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "මෙරෙමොත්"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "එල්යාෂිබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:06:34.841926711Z",
+  "model": "glm-5.3"
+}

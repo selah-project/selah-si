@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "දින සයක් ඔබ වැඩ කරන්නේ, ඔබේ සියලු කාර්යයද කරන්නේ.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "සයක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ඔබ වැඩ කරන්නේ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "කරන්නේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ඔබේ කාර්යයද"
+    }
+  ],
+  "timestamp": "2026-08-27T19:50:09.697856859Z",
+  "model": "glm-5.3"
+}

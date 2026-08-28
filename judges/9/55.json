@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "judges 9:55",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඉශ්රායෙල් මිනිසුන් අවිමෙලෙක් මළ බව දැක, සෑම මිනිසෙක් තම තැනට ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "מת",
+      "gloss": "මළ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "අවිමෙලෙක්"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "איש",
+      "gloss": "සෑම මිනිසෙක්"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "තම තැනට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:42:55.373259953Z",
+  "model": "glm-5.3"
+}

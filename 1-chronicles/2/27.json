@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "විය රාම්ගේ පුත්‍රයෝ — යරඛ්ම්එල්ගේ පළමුජයා — මාට්ස්, යාමින් සහ එකෙර්.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "රාම්ගේ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "පළමුජයා"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "යරඛ්ම්එල්ගේ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "මාට්ස්"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "සහ යාමින්"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "සහ එකෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:23.149507682Z",
+  "model": "glm-5.3"
+}

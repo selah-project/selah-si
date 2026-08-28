@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 107,
+  "translation": "පීඩනය, අයහපත සහ ශෝකය නිසා ඔවුහු අඩු වී නැමුණහ.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "අඩු වී"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "නැමුණහ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "පීඩනය නිසා"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අයහපත"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ශෝකය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:24:14.491786650Z",
+  "model": "glm-5.3"
+}

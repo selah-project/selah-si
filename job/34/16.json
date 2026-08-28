@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "බුද්ධිය ඇත්නම් මෙය අසව; මගේ වචනයන්ගේ හඬට කන් දෙව.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "බුද්ධිය"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "අසව"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "කන් දෙව"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "හඬට"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "මගේ වචනයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:52:59.538106191Z",
+  "model": "glm-5.3"
+}

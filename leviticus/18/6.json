@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මිනිසෙක් මිනිසෙක් — තම මාංසයේ සමීප ඥාතියෙකු වෙත, නිරුවත හෙළීමට ලං නොවන්න; මම යහ්වේ වෙමි.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිවෙකු"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "සමීප ඥාතියා"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "තම මාංසයේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "ලං වන්න"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "හෙළීමට"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:40.535918004Z",
+  "model": "glm-5.3"
+}

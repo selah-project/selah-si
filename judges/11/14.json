@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යිප්තාක් තවත් දූතයන් අම්මොන් පුත්‍රයන්ගේ රජු වෙත යවා නැවත කීයේය.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "තවත් කීයේය"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවත"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "යිප්තාක්"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "දූතයන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "අම්මොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:44:42.657394303Z",
+  "model": "glm-5.3"
+}

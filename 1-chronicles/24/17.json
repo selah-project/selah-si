@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යඛීන්ට විසිඑකය, ගමූල්ට විසිදෙකය.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "යඛීන්ට"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්ස"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ගමූල්ට"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්ස"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:44.606250274Z",
+  "model": "glm-5.3"
+}

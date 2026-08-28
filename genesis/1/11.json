@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 1:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් වදාළේය: „පොළොව පැළෑටි පිටවා දල, බීජ දරන කොළ, තම වර්ගයට අනුව ඵල දරන — තම බීජය තුළ ඇති — ඵල ගස් පොළොව මත පිටවා දල;“ එසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "תדשא",
+      "gloss": "පිටවා දල"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "පැළෑටි"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "කොළ"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "බීජ දරන"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "බීජ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵල"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "දරන"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵල"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "තම වර්ගයට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "තම බීජය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:35.892440075Z",
+  "model": "glm-5.3"
+}

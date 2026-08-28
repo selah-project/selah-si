@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "කිර්යාතායිම් මතට සහ බෙත්-ගාමූල් මතට සහ බෙත්-මෙඕන් මතටය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "කිර්යාතායිම්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ගාමූල්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "මෙඕන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:15:41.266198135Z",
+  "model": "glm-5.3"
+}

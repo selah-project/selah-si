@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "යහ්වේ අපගේ එලෝහීම් හොරෙබ්හිදී අප සමඟ ⟨את⟩ ගිවිසුම කපා ඇත.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "කපා ඇත"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ගිවිසුම"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "හොරෙබ්හිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T08:39:27.194077010Z",
+  "model": "glm-5.3"
+}

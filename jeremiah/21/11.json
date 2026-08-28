@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යෙහූදාගේ රජුගේ ගෙට — යහ්වේගේ වචනය අසව්.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාගේ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:51.068035073Z",
+  "model": "glm-5.3"
+}

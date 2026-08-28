@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "මා නැවත ගෙන ආ කල, බෙහෝ ගස් — මෙපිටින් සහ එපිටින් — ඇළේ ඉවුරේ ⟨දිස් විය⟩.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "මා නැවත ගෙන ආ කල"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බෙහේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ඉවුරේ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ඇළේ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "මෙපිටින්"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "සහ එපිටින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:59:34.804415113Z",
+  "model": "glm-5.3"
+}

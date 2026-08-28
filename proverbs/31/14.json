@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇය වෙළඳ නැව් වැන්නීය; ඈතින් තම ආහාර ගෙන එයි.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "වූවාය"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "නැව් වැන්"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "වෙළඳ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "එතින්"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ගෙන එයි"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "තම ආහාර"
+    }
+  ],
+  "timestamp": "2026-08-28T04:24:14.733171541Z",
+  "model": "glm-5.3"
+}

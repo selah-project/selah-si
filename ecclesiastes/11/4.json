@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සුළඟ බලමින් සිටින්නා වැපිරිය නොහැකිය; වලාකුළු දෙස බලමින් සිටින්නා අස්වනු නොකපයි.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "බලමින් සිටින්නා"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "වැපිරිය හැකිය"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "දෙස බලමින් සිටින්නා"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "අස්වනු කපයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:12.218002185Z",
+  "model": "glm-5.3"
+}

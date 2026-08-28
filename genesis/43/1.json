@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "ඒ අගාධය දේශයෙහි දැඩි විය.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ඒ අගාධය"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "දැඩි"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:25.670548214Z",
+  "model": "glm-5.3"
+}

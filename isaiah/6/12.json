@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ ⟨את⟩ මිනිසා දුරු කර ද, දේශයේ මැද හැරදැමුණු දේ බහුල වේවා.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "දුරු කර ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මිනිසා"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "බහුල වේවා"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "හැරදැමුණු දේ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:12:28.583361582Z",
+  "model": "glm-5.3"
+}

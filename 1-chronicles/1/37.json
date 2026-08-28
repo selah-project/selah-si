@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "රෙඋවෙල්ගේ පුත්‍රයෝ: නාහත්, සෙරක්, ෂම්මා සහ මිස්සා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "රෙඋවෙල්ගේ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "නාහත්"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "සෙරක්"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ෂම්මා"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "සහ මිස්සා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:21.231299154Z",
+  "model": "glm-5.3"
+}

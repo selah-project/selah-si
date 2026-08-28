@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ගීතයකින් තොරව ඔවුහු වයින් නොපානැහි; පාන්නන්ට ⟨එය⟩ මත්පැන් කෙටේ.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ගීතයකින්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "පානැහි"
+    },
+    {
+      "surface": "יין",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "කෙටේ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "මත්පැන්"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "පාන්නන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:19:29.829550907Z",
+  "model": "glm-5.3"
+}

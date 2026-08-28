@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සහ ⟨את⟩ බාලත්, සහ ⟨את⟩ තමර් — දේශයේ කාන්තාරයේ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "බාලත්"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "බාලත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තමර්"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "තමර්"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "කාන්තාරයේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:36:38.406774487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මන්ද ඔවුන්ගේ පාද අයහපතට දුවයි, සහ ලේ වැගිරීමට ඉක්මන් වෙති.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ඔවුන්ගේ පාද"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "අයහපතට"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "දුවයි"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "සහ ඉක්මන් වෙති"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "වැගිරීමට"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ලේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:35.392415340Z",
+  "model": "glm-5.3"
+}

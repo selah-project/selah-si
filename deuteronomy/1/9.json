@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සහ මම එම කාලයේදී ඔබට කතා කර කීවෙමි, කියමින්: මම මගේ පමණින් ඔබව ⟨את⟩ ඔසවා ගෙන සිටීමට නොහැක.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "සහ මම කීවෙමි"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "හැක"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "මගේ පමණින්"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ඔසවා ගෙන සිටීමට"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:01.888923218Z",
+  "model": "glm-5.3"
+}

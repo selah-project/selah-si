@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ⟨את⟩ ගාත්, සහ ⟨את⟩ මාරේෂා, සහ ⟨את⟩ සීප්.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ගාත්"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ගාත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "මාරේෂා"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "මාරේෂා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "සීප්"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "සීප්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:17:56.295168300Z",
+  "model": "glm-5.3"
+}

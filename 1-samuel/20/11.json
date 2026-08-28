@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යෙහෝනතන් දාවීද්ට කීවේය: එව, අපි ⟨the⟩ කෙතට පිටතට යමු; ඔවුන් දෙදෙනා ⟨the⟩ කෙතට පිටතට ගියහ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "යෙහෝනතන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "එව"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "අපි පිටතට යමු"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙත"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ගියහ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ඔවුන් දෙදෙනා"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T22:02:30.495058156Z",
+  "model": "glm-5.3"
+}

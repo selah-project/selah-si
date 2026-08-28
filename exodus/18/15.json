@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මොෂේ තම බෑණාට කීවේය: ජනයා එලෝහීම්ව විමසන්නට මා ළඟට එන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "තම බෑණාට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවිනි"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "එන"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා ළඟට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "විමසන්නට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:49:20.527211933Z",
+  "model": "glm-5.3"
+}

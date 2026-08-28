@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂෙමර්ගේ පුත්‍රයෝ — අඛි, රොහ්ගා, යෙඛුබා, අරාම්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ෂෙමර්ගේ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "අඛි"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "රොහ්ගා"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "යෙඛුබා"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "අරාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:09.621259743Z",
+  "model": "glm-5.3"
+}

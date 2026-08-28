@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෝඩයා උස් තැන් රැසක තබනු ලැබේ, ඇත්තන් හෙවත් ධනවත්හු පහත් තැන වාඩි වෙති.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "තබනු ලැබේ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "මෝඩයා"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "උස් තැන්"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "රැසක"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ඇත්තන් හෙවත් ධනවත්හු"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "පහත් තැන"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "වාඩි වෙති"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:05.507545423Z",
+  "model": "glm-5.3"
+}

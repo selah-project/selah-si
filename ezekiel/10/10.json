@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඒවායේ පෙනුම — හතරටම එකම ස්වරූපයක්; රෝදයක් රෝදයක් ⟨තුළ⟩ ඇති පරිදි.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "ඒවායේ පෙනුම"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "ස්වරූපයක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "හතරටම"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "රෝදයක්"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "රෝදයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:26:19.009819286Z",
+  "model": "glm-5.3"
+}

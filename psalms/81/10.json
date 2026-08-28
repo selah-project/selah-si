@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 81,
+  "translation": "ඔයා තුළ පිටස්තර එල් ⟨is⟩ නොවී; පිටස්තර එල් වෙත නමස්කාර නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වීම ⟨is⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔයා තුළ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "זר",
+      "gloss": "පිටස්තර"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "නමස්කාර කරන්න"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "එල් වෙත"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "පිටස්තර"
+    }
+  ],
+  "timestamp": "2026-08-28T02:59:22.874541645Z",
+  "model": "glm-5.3"
+}

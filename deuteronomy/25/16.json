@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මන්ද යහ්වේ තීගේ එලෝහීම්ට අරුමයකි මේ දේවල් කරන සෑම අයා, අධර්මය කරන සෑම අයා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "අරුමයකි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "තීගේ එලෝහීම්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන අයා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ දේවල්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන අයා"
+    },
+    {
+      "surface": "עול",
+      "gloss": "අධර්මය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:46.370333188Z",
+  "model": "glm-5.3"
+}

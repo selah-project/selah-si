@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඇය ඔහුගේ ගෙයින් පිටත් ව ගොස් වෙනත් මිනිසෙකුගේ බිරිඳ වන්නීය.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "පිටත් ව"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ඔහුගේ ගෙයින්"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "වන්නීය"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "වෙනත් මිනිසෙකුගේ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "වෙනත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:21.670433360Z",
+  "model": "glm-5.3"
+}

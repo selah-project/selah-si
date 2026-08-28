@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "මෙයම ඔබට උතුරු සීමාව ⟨යොදේය⟩; මහා මුහුදෙන් ඔබ ⟨the⟩ හෝර් කඳුවැටිය ලකුණු කරගනු.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "මෙයම"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨යොදේය⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මුහුදෙන්"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ලකුණු කරගනු"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "හෝර්"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කඳුවැටිය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:04.776334658Z",
+  "model": "glm-5.3"
+}

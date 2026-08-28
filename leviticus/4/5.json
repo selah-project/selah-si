@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හා ආලේප ලත් පූජකයා ගොනාගේ ලේ වලින් ගෙන, ⟨את⟩ එය මුණිසුම් කූඩාරය වෙත ගෙන යන්නේය.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ආලේප ලත්"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ලේ වලින්"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ගොනාගේ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ගෙන යන්නේය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය (ලේ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරය"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "මුණිසුම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:39.293246857Z",
+  "model": "glm-5.3"
+}

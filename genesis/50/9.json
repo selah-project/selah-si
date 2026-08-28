@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "ඔහු සමඟ රථද නැඟ අශ්වාරෝහකයිනුද ගියහ; පිරිස ඉතා බර විය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟ ගිය"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "රථ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "අශ්වාරෝහකයින්"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "පිරිස"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බර"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:37:21.321854056Z",
+  "model": "glm-5.3"
+}

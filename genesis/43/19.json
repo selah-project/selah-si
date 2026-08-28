@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "යොසෙප්ගේ නිවස මත සිටින මිනිසා වෙත ලඟ් වූ ඔව්හු, නිවසේ දොරටුව අබියස ඔහු සමඟ කථා කළහ.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "ලඟ් වූහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත සිටින"
+    },
+    {
+      "surface": "בית",
+      "gloss": "නිවස"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්ගේ"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "කථා කළහ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහු වෙත"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොරටුව අබියස"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "නිවසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:42.263732114Z",
+  "model": "glm-5.3"
+}

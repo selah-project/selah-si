@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මල්ලුක්, හරීම්, බාආනා.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "මල්ලුක්"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "හරීම්"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "බාආනා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:41.450726771Z",
+  "model": "glm-5.3"
+}

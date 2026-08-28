@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "අව්රාහම් කීවේය: මම දිවුරමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "දිවුරමි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:14:47.988042520Z",
+  "model": "glm-5.3"
+}

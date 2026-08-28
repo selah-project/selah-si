@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මොකක්ද වූයේ — ඊට කලින්ම නම කියා ඇත, ඔහු මිනිසා බව දන්නා කරුණකි; තමාට වඩා බලවත් තැනැත්තා සමඟ විවාද කිරීමට ඔහුට නොහැක.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "කලින්ම"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "කියා ඇත"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "නම"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "දන්නා කරුණකි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කිසි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "හැක"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "විවාද කිරීමට"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "බලවත් තැනැත්තා"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "තමාට වඩා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:01.357454116Z",
+  "model": "glm-5.3"
+}

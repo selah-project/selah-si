@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 121,
+  "translation": "දවස තුළ හිරු ඔබව නොසිපෙයි; රාත්‍රියේදී සඳ ද නොසිපෙයි.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "දවස තුළ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "සිපෙයි"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "සහ සඳ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "රාත්‍රියේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:23.906402934Z",
+  "model": "glm-5.3"
+}

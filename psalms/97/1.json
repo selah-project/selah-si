@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 97,
+  "translation": "යහ්වේ රාජ්‍ය කරයි; ⟨the⟩ පොළොව උද්දාම වේවා; බොහෝ දූපත් සතුටු වේවා.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රාජ්‍ය කරයි"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "උද්දාම වේවා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "සතුටු වේවා"
+    },
+    {
+      "surface": "איים",
+      "gloss": "දූපත්"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:10:10.514063704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සහ ඔවුහු ආපසු යාමට ⟨את⟩ තම ප්‍රාණය ඔසවන ⟨the⟩ රට වෙත — එහිට ඔවුහු ආපසු නොඑන්නාහු.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඔවුහු"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ඔසවන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම ප්‍රාණය"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "තම ප්‍රාණය"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ආපසු යාමට"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහිට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ආපසු එන්නාහු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:33.238225171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ලාභය වැඩි වූ කල එය අනුභව කරන්නන්ද වැඩෙයි; එහි හිමිකරුට කුමන ඵලයක්ද — ඔහුගේ ඇස් ⟨එය⟩ දැකීම හැර?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "වැඩි වූ කල"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ලාභය"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "වැඩෙයි"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "අනුභව කරන්නන්ද"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "කුමන"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ඵලයක්ද"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "එහි හිමිකරුට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "හැර"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "දැකීම"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ඔහුගේ ඇස්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:08.822731010Z",
+  "model": "glm-5.3"
+}

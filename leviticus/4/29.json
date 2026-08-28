@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු ⟨את⟩ තම අත පාප පූජාවේ හිස මත තැබීය, සහ පාප පූජාව ⟨את⟩ දවන පූජාවේ ස්ථානයේදී මරාදැමීය.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "තැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම අත"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප පූජාවේ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "මරාදැමීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පාප පූජාව"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප පූජාව"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ස්ථානයේදී"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "දවන පූජාවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:21:38.590067627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "නොක්ගේ සියලු දින අවුරුදු නවසිය පනස් විය; ඔහු මළේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොක්ගේ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ඔහු මළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:23.456266922Z",
+  "model": "glm-5.3"
+}

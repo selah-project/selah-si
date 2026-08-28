@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "රෙඛබ්යාහුට — රෙඛබ්යාහුගේ පුත්‍රයන්ට ප්‍රධානී යිෂියා.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "රෙඛබ්යාහුට"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "රෙඛබ්යාහුගේ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "යිෂියා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:07.100828516Z",
+  "model": "glm-5.3"
+}

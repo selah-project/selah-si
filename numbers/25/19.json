@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "වසංගතයෙන් පසු සිදු වූයේ ⟨මෙය⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු වූයේ"
+    },
+    {
+      "surface": "අחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "වසංගතයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:53.692227321Z",
+  "model": "glm-5.3"
+}

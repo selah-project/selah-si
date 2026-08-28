@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මොෂේ ⟨את⟩ ලෙවීවරුන්ට — යහ්වේගේ ගිවිසුමේ පෙට෇රුව දරන්නන්ට — මෙසේ අණ කළේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලෙවීවරුන්ට"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ලෙවීවරු"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "දරන්නන්"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "පෙට෇රුව"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ගිවිසුම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:49:23.515569811Z",
+  "model": "glm-5.3"
+}

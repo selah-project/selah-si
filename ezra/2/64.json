@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සමස්ත රැස්වීම එක් කෙනෙකු සේ ⟨සිටියේය⟩ — විසි දෙදහස් තුන් සිය හැටක්.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "රැස්වීම"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "එක් කෙනෙකු සේ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "දසදහස"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහස"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "හැට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:58:44.105234788Z",
+  "model": "glm-5.3"
+}

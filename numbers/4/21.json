@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යහ්වේ මොෂේට කථා කර කියන ලෙස සේ වදාළේය.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කර වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන ලෙස සේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:29:02.598203367Z",
+  "model": "glm-5.3"
+}

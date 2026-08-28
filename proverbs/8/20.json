@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ධර්මිෂ්ඨභාවයේ මාර්ගයේ මම ඇවිදිමි; විනිශ්චයේ පාරවල මැද දී.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "මාර්ගයේ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ධර්මිෂ්ඨභාවයේ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "මම ඇවිදිමි"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද දී"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "පාරවල"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "විනිශ්චයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:35.458977817Z",
+  "model": "glm-5.3"
+}

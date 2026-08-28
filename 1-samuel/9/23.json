@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සාමුඑල් සූපවේදියාට කීයේ: මම ඔබට දුන් කොටස ⟨את⟩ දෙන්න — මම ඔබට 'එය ඔබ ළඟ ⟨את⟩ තබාගන්න' යැයි කී ඒවා ය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "සාමුඑල්"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "සූපවේදියාට"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කොටස"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "කොටස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මම දුන්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කී"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שים",
+      "gloss": "තබාගන්න"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ ළඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:57:11.364887115Z",
+  "model": "glm-5.3"
+}

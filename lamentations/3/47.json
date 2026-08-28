@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "භයය හා උගුල අපට වූයේය — විනාශය හා බිඳවැටීම.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "භයය"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "හා උගුල"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "විනාශය"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "හා බිඳවැටීම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:40.530056809Z",
+  "model": "glm-5.3"
+}

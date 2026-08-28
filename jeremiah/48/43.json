@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "භය සහ වල සහ උගුල — මෝවාබ් වැසියා ඔබ මත, යහ්වේ වදාරන නියෝගය.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "භය"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "සහ වල"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "සහ උගුල"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "වැසියා"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවාබ්"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "වදාරන නියෝගය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:16:02.299424204Z",
+  "model": "glm-5.3"
+}

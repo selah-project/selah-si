@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ මට කී ය: තරුණයෙකි මම යයි නොකියව; මන්ද මම ඔබව යවන සියල්ල වෙත ඔබ යන්නේ ය, මම ඔබට අණ කරන ⟨את⟩ සියල්ල ඔබ කියන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කී ය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියව"
+    },
+    {
+      "surface": "נער",
+      "gloss": "තරුණයෙකි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "මම ඔබව යවන"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ඔබ යන්නේ ය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "මම ඔබට අණ කරන"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ඔබ කියන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:43:12.153509119Z",
+  "model": "glm-5.3"
+}

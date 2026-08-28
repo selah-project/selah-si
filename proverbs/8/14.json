@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මට උපදේශය හා ස්ථිර ප්‍රඥාව ⟨ඇත⟩; මම බුද්ධියමි; මට බලය ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "උපදේශය"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ස්ථිර ප්‍රඥාව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "බුද්ධිය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "බලය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:21.902404631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඒවා උදෑසන් නව වේ; ඔබේ විශ්වාසීභාවය මහත් ය.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "නව"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "උදෑසන්"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ඔබේ විශ්වාසීභාවය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:52.903596358Z",
+  "model": "glm-5.3"
+}

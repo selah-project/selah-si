@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 140,
+  "translation": "නාදකයා සඳහා — දාවීද්ගේ මෙස්මෝරය",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "නාදකයා සඳහා"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මෙස්මෝරය"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:44:51.564045270Z",
+  "model": "glm-5.3"
+}

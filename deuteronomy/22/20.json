@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "නමුත් මේ දේවත්වය සත්‍ය වී — තරුණියට කන්‍යාභාවයේ සලකුණු සොයාගත නොහැකි වී නම් —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත්...නම්"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍ය"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වී"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "මේ දේවත්වය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "සොයාගත"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "කන්‍යාභාවයේ සලකුණු"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "තරුණියට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:09.563424344Z",
+  "model": "glm-5.3"
+}

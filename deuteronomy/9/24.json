@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මම ⟨את⟩ ඔබව දැනගත් දින සිට ඔබ යහ්වේ සමඟ කැරලිකාරවෝ වූයහ.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "කැරලිකාරවෝ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "වූයහ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "දින සිට"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "මම දැනගත්"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:01:42.087559831Z",
+  "model": "glm-5.3"
+}

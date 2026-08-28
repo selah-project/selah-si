@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සක්කෙයි (Zakkai) පුත්‍රයන් — හත්සිය හැටයි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "සක්කෙයි"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හත"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "හැටයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.212969701Z",
+  "model": "glm-5.3"
+}

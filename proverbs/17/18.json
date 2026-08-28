@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "හදවත මඳ මිනිසෙක් අත්පත් ගසා තැන් තම යාළුවා ඉදිරියේ ඇපකරු වේ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "මඳ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ගසා"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අත්පත්"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ඇපකරු වේ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ඇපය"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "තම යාළුවා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:33.361148040Z",
+  "model": "glm-5.3"
+}

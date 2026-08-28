@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ලෙමුවෙල් රජුගේ වචන ය — ⟨මෙය⟩ බර ය, ⟨එය⟩ ඔහුගේ මව ඔහුට ඉගැන්වූ දේ ය.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ලෙමුවෙල්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "බර"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨එය⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ඉගැන්වූ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ඔහුගේ මව"
+    }
+  ],
+  "timestamp": "2026-08-28T10:38:54.213304825Z",
+  "model": "glm-5.3"
+}

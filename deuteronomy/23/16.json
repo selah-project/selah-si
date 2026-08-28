@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "තම ස්වාමියාගෙන් ගැලවී ඔබ වෙත පැමිණෙන වහලා ඔහුගේ ස්වාමියා වෙත අතුරුඅඩියට නොදෙන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ඪסגיר",
+      "gloss": "අතුරුඅඩියට නොදෙන්න"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "වහලා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ඔහුගේ ස්වාමියා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ගැලවී"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ඔහුගේ ස්වාමියා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:39.937869206Z",
+  "model": "glm-5.3"
+}

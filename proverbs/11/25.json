@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ආශීර්වාද කරන ප්‍රාණය සරු වන්නීය; ජලය ලබාදෙන්නාටද වැසි වැසේ.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ආශීර්වාද කරන"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "සරු වන්නීය"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ජලය ලබාදෙන්නාටද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුටම"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "වැසි වැසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:05:04.793315429Z",
+  "model": "glm-5.3"
+}

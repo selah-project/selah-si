@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "පළමුවැන්නාගේ නම පීෂොන්; එය රන් ඇති හවීලා සියලු රටම ⟨את⟩ වට කරන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "පළමුවැන්නාගේ"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "පීෂොන්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "වට කරන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු රට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "හවීලා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වන"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:00.371994777Z",
+  "model": "glm-5.3"
+}

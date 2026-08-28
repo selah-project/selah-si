@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ලොතාන්ගේ පුත්‍රයෝ: හොරී සහ හොමාම්; ලොතාන්ගේ සහෝදරිය ⟨වූයේ⟩ තිම්නා ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "සහ …ගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ලොතාන්ගේ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "හොරී"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "සහ හොමාම්"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "සහෝදරිය"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ලොතාන්ගේ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "තිම්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:21.231758624Z",
+  "model": "glm-5.3"
+}

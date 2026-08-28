@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "සටන්වලින් සහ ලුටු බෝගයෙන් ඔවුහු යහ්වේගේ ⟨the⟩ ගෙය ශක්තිමත් කිරීමට පූජා කළහ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "වලින්"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "සටන්"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "සහ වලින්"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ලුටු බෝගය"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "පූජා කළහ"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ශක්තිමත් කිරීමට"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:06:26.728932903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මා හට හිස් මාස උරුම කර දෙන ලදි, දුක් රෑ දවස් මට ගණන් කරන ලදි.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "උරුම කර දෙන ලදි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මා හට"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "මාස"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "හිස්"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "සහ රෑ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "දුක්"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "ගණන් කරන ලදි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:30:36.620059572Z",
+  "model": "glm-5.3"
+}

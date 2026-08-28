@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එවිට රජු සද්රක්, මේෂක් සහ අබෙද්-නෙගෝ බැබිලෝන් පළාතෙහි උසස් කළේය.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "උසස් කළේය"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "සද්රක්"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "මේෂක්"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "අබෙද්-නෙගෝ"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "පළාතෙහි"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "බැබිලෝන්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:15:57.501493211Z",
+  "model": "glm-5.3"
+}

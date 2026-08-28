@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ද දැනුමකින් තොර ප්‍රාණය හොඳ නැත; පාවලින් ඉක්මන් කරන්නා පව් කරයි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "කින් තොර"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "සහ ඉක්මන් කරන්නා"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "පාවලින්"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "පව් කරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:49.235464333Z",
+  "model": "glm-5.3"
+}

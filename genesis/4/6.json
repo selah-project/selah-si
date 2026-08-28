@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එවිට යහ්වේ කජීන්ට කීවේය: ඇයි ඔය සිත් තැවුල් වූයේ, ඇයි ඔය මුහුණ වැටුණේ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "קין",
+      "gloss": "කජීන්"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "සිත් තැවුල් වූයේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔය"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "වැටුණේ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ඔය මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:45.863992730Z",
+  "model": "glm-5.3"
+}

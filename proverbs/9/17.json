@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "කොල්ලන ලද ජලය රසවත් වේ, සැඟවුණු පාන් රසවත් වේ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "කොල්ලන ලද"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "රසවත් වේ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "සහ පාන්"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "සැඟවුණු"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "රසවත් වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:57.592416234Z",
+  "model": "glm-5.3"
+}

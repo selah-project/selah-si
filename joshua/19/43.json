@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "එලෝන්, තිම්නාතා සහ එක්රොන්.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "එලෝන්"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "තිම්නාතා"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "එක්රොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:03.655095144Z",
+  "model": "glm-5.3"
+}

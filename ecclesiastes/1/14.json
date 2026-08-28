@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම දුටුවෙමි ⟨את⟩ හිරු යට කරන ලද ක්‍රියා සියල්ල; බැලූ විට — සියල්ල හිස්බව ය, රූආඛ් විලිසීමකි.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුවෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ක්‍රියා සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ක්‍රියා"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "කරන ලද"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බැලූ විට"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හිස්බව"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "විලිසීමක්"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "රූආඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:05.900730154Z",
+  "model": "glm-5.3"
+}

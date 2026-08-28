@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සෙරහ්යාගේ පුත්, උසීගේ පුත්, බුක්කීගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "සෙරහ්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "උසී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "බුක්කී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:02:40.404430106Z",
+  "model": "glm-5.3"
+}

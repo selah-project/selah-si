@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 107,
+  "translation": "කෙළින් ගිය අය එය දැක සතුටු වෙති; සියලු අධර්මය ⟨ඇයගේ⟩ කට වසාගනී.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "කෙළින් ගිය අය"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "සතුටු වෙති"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "අධර්මය"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "වසාගනී"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "කට"
+    }
+  ],
+  "timestamp": "2026-08-28T12:14:30.208886223Z",
+  "model": "glm-5.3"
+}

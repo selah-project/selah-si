@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඒවා තා තුළ ලකුණක් හා පුදුමයක් වන්නේය, සදාකාලය දක්වා තාගේ වංශය තුළද වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "בך",
+      "gloss": "තා තුළ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ලකුණක්"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "පුදුමයක්"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "තාගේ වංශය තුළද"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:47.995414233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "සත්‍යය මිලදී ගන්න සහ විකුණන්න එපා — ඥානයද, අනුශාසනයද, ප්‍රඥාවද.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යය"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "මිලදී ගන්න"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "විකුණන්න"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "අනුශාසනය"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ප්‍රඥාව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:29.812908641Z",
+  "model": "glm-5.3"
+}

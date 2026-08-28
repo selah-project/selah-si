@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "උසියා ⟨the⟩ අෂ්තරාතිවරයා, ෂාමා සහ යෙඋෙල්, අරෝඇරිවරයා වන හොතාම්ගේ පුත්‍රයෝ —",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "උසියා"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "අෂ්තරාතිවරයා"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ෂාමා"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "යෙඋෙල්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "හොතාම්ගේ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "අරෝඇරිවරයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:35.487285284Z",
+  "model": "glm-5.3"
+}

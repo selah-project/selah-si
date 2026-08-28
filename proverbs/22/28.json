@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔබේ පියදුන් තැනූ පුරාණ සීමාව ඉවත් නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ඉවත් කරන්න"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "පුරාණ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "තැනූ"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ඔබේ පියදුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:16:18.624972844Z",
+  "model": "glm-5.3"
+}

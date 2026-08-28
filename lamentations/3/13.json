@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තම ඊතල පෙටියාගේ පුතරුවන් මාගේ වකුගයන් තුළට ඇතුළු කළේය.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "ඇතුළු කළේය"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "මාගේ වකුගයන් තුළට"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුතරුවන්"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "තම ඊතල පෙටියාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.502436473Z",
+  "model": "glm-5.3"
+}

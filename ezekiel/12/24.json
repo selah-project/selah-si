@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මන්ද, යිස්රායෙල් ගෙයි මධ්‍යයේ තවදුරටත් ව්‍යර්ථ දර්ශනයක් හෝ මෘදු ප්‍රකාශනයක් වේ ⟨the⟩ නොවේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "දර්ශනයක්"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ව්‍යර්ථ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "සහ ප්‍රකාශනයක්"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "මෘදු"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මධ්‍යයේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:28:02.417669753Z",
+  "model": "glm-5.3"
+}

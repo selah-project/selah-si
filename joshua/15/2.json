@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ඔවුන්ගේ දකුණු සීමාව වූයේ ලුණු මුහුදේ කෙළවරෙන්, දකුණට මුහුණලා ඇති බොක්කෙන් විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "කෙළවරෙන්"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුදේ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ලුණු"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "බොක්ක"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "මුහුණලා ඇති"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "දකුණට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:27:07.990238479Z",
+  "model": "glm-5.3"
+}

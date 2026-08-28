@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "සහ භෝජන ගෙය නොපිවිසෙන්න, ⟨את⟩ ඔවුන් සමග වාඩි වී කන්නටද බොන්නටද.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "සහ ගෙය"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "භෝජන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "පිවිසෙන්න"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "වාඩි වී"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ඔවුන්",
+      "marks": "ඔවුන් සමග වාඩි වීම"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "කන්නට"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "සහ බොන්නට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:56.725731934Z",
+  "model": "glm-5.3"
+}

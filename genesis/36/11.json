@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "එලීෆස්ගේ පුත්‍රයෝ වූයේ තෙයිමාන්, ඕමාර්, සෙපෝ, ගාතම් සහ කෙනාස්ය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "එලීෆස්ගේ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "තෙයිමාන්"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ඕමාර්"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "සෙපෝ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ගාතම්"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "කෙනාස්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:04.768392200Z",
+  "model": "glm-5.3"
+}

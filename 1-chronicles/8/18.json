@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යිෂ්මෙරයි, යිස්ලියා, යෝබාබ් — එල්පාල්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "යිෂ්මෙරයි"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "යිස්ලියා"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "යෝබාබ්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "එල්පාල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:51.194414793Z",
+  "model": "glm-5.3"
+}

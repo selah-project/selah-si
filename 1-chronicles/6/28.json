@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යඛත්ගේ පුත්, ගෙරෙෂොම්ගේ පුත්, ලෙවීගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "යඛත්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ගෙරෙෂොම්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවීගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:18.441012723Z",
+  "model": "glm-5.3"
+}

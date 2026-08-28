@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "යහ්වේ තනිව ඔහුට මඟ පෙන්වීය; ඔහු සමඟ පරදේශීය එල් විසින් නොවීය.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "තනිව"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ඔහුට මඟ පෙන්වීය"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නොවීය"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහු සමඟ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "පරදේශීය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:48.614337425Z",
+  "model": "glm-5.3"
+}

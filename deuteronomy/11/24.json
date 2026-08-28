@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔබේ පාදයේ අඩිය පිහිටන සෑම ස්ථානයක්ම ඔබට වනු ඇත — ⟨the⟩ අරණේ සිට හා ⟨the⟩ ලෙබනන්, ⟨the⟩ ගඟෙන් — ⟨the⟩ පෙරාත් ගඟ — අග ⟨the⟩ මුහුද දක්වා ඔබේ සීමාව වනු ඇත.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ස්ථානයක්ම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "පිහිටන"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අඩිය (කුළුණු)"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ඔබේ පාදයේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "අරණේ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "සහ ලෙබනන්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගඟෙන්"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ගඟ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ගඟ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "පෙරාත්"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "අග"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "ඔබේ සීමාව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:24.887052578Z",
+  "model": "glm-5.3"
+}

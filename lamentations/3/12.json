@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තම දුන එල්ලා මා ඊතලයට ⟨ඉලක්කයක්⟩ කොට තැබුවේය.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "එල්ලා"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "තම දුන"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "මා ... තැබුවේය"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "⟨ඉලක්කයක්⟩ කොට"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ඊතලයට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:43.597657885Z",
+  "model": "glm-5.3"
+}

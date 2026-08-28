@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔබේ සතුරන් සියල්ලන් ⟨את⟩ ඔබ ඉදිරියෙන් පලවා හැරීම පිණිස — යහ්වේ කථා කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "පලවා හැරීම පිණිස"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සතුරන් සියල්ලන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ඔබේ සතුරන්"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ඔබ ඉදිරියෙන්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:33.968232526Z",
+  "model": "glm-5.3"
+}

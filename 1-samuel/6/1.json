@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේගේ පෙට්ටිය පෙලිෂ්තිවරුන්ගේ කෙතේ මාස හතක් විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "පෙට්ටිය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "කෙතේ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "පෙලිෂ්තිවරුන්ගේ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "මාස"
+    }
+  ],
+  "timestamp": "2026-08-27T21:55:02.951108687Z",
+  "model": "glm-5.3"
+}

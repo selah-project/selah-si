@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ෂෙත්ටද පුතෙකු උපන්නේය, ඔහු ⟨את⟩ ඔහුගේ නම එනොෂ් යැයි කිවේය; එවිට යහ්වේගේ නමින් කැඳවීම ආරම්භ විය.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "ෂෙත්ටද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "උපන්නේය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කිවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ නම"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නම"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "එනොෂ්"
+    },
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "ආරම්භ විය"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "කැඳවීම"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නමින්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:39.938639678Z",
+  "model": "glm-5.3"
+}

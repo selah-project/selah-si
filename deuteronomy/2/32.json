@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එවිට සීහෝන් අප හමුවීමට පිටතට ආවේය — ඔහු සහ ඔහුගේ සියලු ජනයා — යහ්සාහිදී සටනට.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටතට ආවේය"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "සීහෝන්"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "අප හමුවීමට"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහුගේ ජනයා"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "සටනට"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "යහ්සාහිදී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:56.964930304Z",
+  "model": "glm-5.3"
+}

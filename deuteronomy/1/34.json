@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ ඔබේ වදන්වල ⟨את⟩ හඬ ඇසූ විට, උදහස් වී දිවුරා සිටියේය, කියන්නේ:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසූ විට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හඬ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ඔබේ වදන්වල"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "උදහස් වී"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "දිවුරා සිටියේය"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:52.001736673Z",
+  "model": "glm-5.3"
+}

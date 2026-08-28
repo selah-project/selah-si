@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ අක්යෝ, ෂාෂාක්, සහ යෙරෙමොත්.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "සහ අක්යෝ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ෂාෂාක්"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "සහ යෙරෙමොත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:11.305859611Z",
+  "model": "glm-5.3"
+}

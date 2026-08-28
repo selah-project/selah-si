@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සහ ⟨එය⟩ මැතිරියෙහි ඇත්නම්, හෝ ඈ වාඩිවී සිටින ඕනෑම භාජනයක ඇත්නම්, එය ස්පර්ශ කළ විට, ඔහු සවස් වන තුරු අශුද්ධ වන්නේය.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ ... නම්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "මැතිරියෙහි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨එය⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "භාජනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිටින"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "වාඩිවී"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඒ මත"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "ස්පර්ශ කළ විට"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එය"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධ වන්නේය"
+    },
+    {
+      "surface": "עד",
+      "gloss": "වන තුරු"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "සවස්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:24:20.413747869Z",
+  "model": "glm-5.3"
+}

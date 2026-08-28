@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මෙරාරිට — මහ්ලි පවුල සහ මූෂි පවුල; මොහු මෙරාරිගේ පවුල් ය.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "මෙරාරිට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පවුල"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "මහ්ලි"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "සහ පවුල"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "මූෂි"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "הם",
+      "gloss": "මොව්හු"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පවුල්"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "මෙරාරිගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:28:37.663996207Z",
+  "model": "glm-5.3"
+}

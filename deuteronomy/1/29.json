@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම ඔබ වෙත කථා කොට කීවෙමි: භය නොවන්න, ඔවුන්ගෙන් බිය නොවන්න.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "භය නොවන්න"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "බිය නොවන්න"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ඔවුන්ගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:19.814128151Z",
+  "model": "glm-5.3"
+}

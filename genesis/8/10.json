@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහු තවත් වෙනත් දින හතක් රැඳී සිට, පරෙවියාව ⟨את⟩ ⟨the⟩ නැවෙන් යළි යැව්වේය.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "රැඳී සිටියේය"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවත්"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "යළි (එකතු කර)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පරෙවියාව"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "පරෙවියාව"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "නැවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:00.836490816Z",
+  "model": "glm-5.3"
+}

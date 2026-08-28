@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ප්‍රඥාව ⟨ඇයගේ⟩ ගෙය තැනුවාය; ඇය ⟨ඇගේ⟩ කුළුම්බ හතක් කප්පවා ගත්තාය.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "තැනුවාය"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "කප්පවා ගත්තාය"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "කුළුම්බ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "හතක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:35:39.695757487Z",
+  "model": "glm-5.3"
+}

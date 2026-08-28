@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මොෂේ ⟨את⟩ ගිල්ආද් මාඛීර්ට — මනාෂේගේ පුත්‍රයාට — දුන්නේය; ඔහු එහි වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගිල්ආද්"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ගිල්ආද්"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "මාඛීර්ට"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයාට"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මනාෂේගේ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:25.248278797Z",
+  "model": "glm-5.3"
+}

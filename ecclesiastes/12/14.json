@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මන්ද එලෝහීම් ⟨את⟩ සියලු ක්‍රියාව විනිශ්චයට ගෙන එන්නේය — සියලු සැඟවුණු දෙය මත, එය යහපත් නම් හෝ අයහපත් නම්.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ක්‍රියාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ගෙන එන්නේය"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "විනිශ්චයට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "සැඟවුණු දෙය"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "හෝ නම්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "අයහපත්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:26:07.458873783Z",
+  "model": "glm-5.3"
+}

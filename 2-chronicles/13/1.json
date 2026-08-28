@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යාරොව්ආම් රජුගේ දහඅටවන අවුරුද්දේදී අබියා යෙහූදා මත රාජ්‍යය කළේය.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "අවුරුද්දේදී"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "දහඅට"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "යාරොව්ආම්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍යය කළේය"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "අබියා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:28:43.560433369Z",
+  "model": "glm-5.3"
+}

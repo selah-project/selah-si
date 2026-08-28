@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔහුගේ වම් අත මගේ හිස යට ඇත, ඔහුගේ දකුණු අත මා ⟨වැළඳ⟩ ගනී.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ඔහුගේ වම් අත"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "මගේ හිස"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ඔහුගේ දකුණු අත"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "මා වැළඳ ගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T10:44:31.532191594Z",
+  "model": "glm-5.3"
+}

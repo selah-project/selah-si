@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නොඉක්මන් වන්න ඔබේ රූආඛ් තුළ කෝපයට, මන්ද කෝපය මෝඩයන්ගේ වකුස්සේ විවේක ගනී.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ඉක්මන් වන්න"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ඔබේ රූආඛ් තුළ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "කෝගයට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "වකුස්සේ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "මෝඩයන්ගේ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "විවේක ගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:39.110368475Z",
+  "model": "glm-5.3"
+}

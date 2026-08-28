@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "ඒ දේ අප අසා ඇති අප, දැන ඇති අප වන්නෙමු; අපගේ පියවරුන් අපට කීහ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ඒ දේ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "අප අසා ඇති"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "දැන ඇති අප"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "අපගේ පියවරුන්"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    }
+  ],
+  "timestamp": "2026-08-28T12:14:51.345920824Z",
+  "model": "glm-5.3"
+}

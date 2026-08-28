@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මීසාක්මේ බටහිර පසුපසට ද ඔහු ලෑලි හයක් කළේය.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "බටහිර පසුපසට ද"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මීසාක්මේ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "බටහිර"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ලෑලි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:02:03.427208392Z",
+  "model": "glm-5.3"
+}

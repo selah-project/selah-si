@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "විය යරඛ්ම්එල්ට වෙනත් ⟨බිරිඳක්⟩, ඇගේ නම අතාරා; ඇය ඕනාම්ගේ මව වූවා ය.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "බිරිඳක්"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "යරඛ්ම්එල්ට"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ඇගේ නම"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "අතාරා"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මව"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ඕනාම්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:23.149366296Z",
+  "model": "glm-5.3"
+}

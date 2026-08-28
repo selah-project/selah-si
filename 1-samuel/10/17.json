@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ෂෙමුයෙල් ⟨את⟩ ජනයා යහ්වේ වෙත, මිට්ස්පාහිදී කැඳවීය.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "කැඳවීය"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ෂෙමුයෙල්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "මිට්ස්පාහිදී"
+    }
+  ],
+  "timestamp": "2026-08-27T21:56:01.185991912Z",
+  "model": "glm-5.3"
+}

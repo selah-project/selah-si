@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "වක් වූ දෙය කෙළින් කළ නොහැක; අඩු වූ දෙය ගණන් කළ නොහැක.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "වක් වූ දෙය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "හැක"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "කෙළින් කිරීමට"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "අඩු වූ දෙය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "හැක"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ගණන් කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:05.900890598Z",
+  "model": "glm-5.3"
+}

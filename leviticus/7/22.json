@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යහ්වේ මොෂේට වදාරමින් කතා කළේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ කතා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "වදාරමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:01.708597814Z",
+  "model": "glm-5.3"
+}

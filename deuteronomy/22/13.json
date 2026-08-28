@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මිනිසෙක් කාන්තාවක් ගෙන ඈ ළඟට ගොස් ඈට වෛර කළහොත්,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "හොත්"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "කාන්තාවක්"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඇගේ ළඟට"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ඇයට වෛර කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:03.885051169Z",
+  "model": "glm-5.3"
+}

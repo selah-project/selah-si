@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "හෙළි කළ තිරසාරය, සැඟවුණු ප්‍රේමයට වඩා යහපත්ය.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "තිරසාරය"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "හෙළි කළ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ප්‍රේමයට"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "සැඟවුණු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:23.203039415Z",
+  "model": "glm-5.3"
+}

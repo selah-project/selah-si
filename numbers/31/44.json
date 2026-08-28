@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එසේම ගවයන් තිස් හයදහසක් —",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "එසේම ගවයන්"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "හය"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:28.594760782Z",
+  "model": "glm-5.3"
+}

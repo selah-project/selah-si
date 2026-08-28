@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "පිටත කඩුව මරණයට පත් කරන්නීය, හා කුටි තුළ භීතිය; තරුණයාද, කන්‍යාවද, කිරි බොන දරුවා මහලු මිනිසා සමඟමය.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "මරණයට පත් කරන්නීය"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "කඩුව"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "සහ කුටි තුළ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "තරුණයා"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "කන්‍යාව"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "කිරි බොන දරුවා"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "මහලු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:16:00.168381170Z",
+  "model": "glm-5.3"
+}

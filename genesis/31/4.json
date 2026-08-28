@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යාකොව් දූතයන් යවා රාඛෙල්ද ලෙආහ්ද කැඳවූ සේය — සිය රැළ සිටි කෙතට ඔවුන් ‹කැඳවූ⟩ සේය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවූ සේය"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "රාඛෙල්ද"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ලෙආහ්ද"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙතට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "සිය රැළ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:20.131975007Z",
+  "model": "glm-5.3"
+}

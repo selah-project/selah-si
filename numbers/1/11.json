@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බින්යාමින් සඳහා — අබීදාන්, ගිද්‍රොනීගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "බින්යාමින් සඳහා"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "අබීදාන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ගිද්‍රොනීගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:28:03.169344397Z",
+  "model": "glm-5.3"
+}

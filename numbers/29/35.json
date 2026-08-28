@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "අටවන දිනයේදී ඔබට රැස්වීමක් ⟨කළ යුතුය⟩; සේවා වැඩ කිසිවක් නොකරන්න",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අටවන"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "රැස්වීමක්"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨කළ යුතුය⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "වැඩ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "සේවා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:15.947346861Z",
+  "model": "glm-5.3"
+}

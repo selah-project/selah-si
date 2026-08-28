@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔවුන් කීවෝය: තරුණිය කැඳවා, ඇගේ මුඛයෙන් ⟨את⟩ විචාරමු.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ඔවුන්-කීවෝය"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "කැඳවමු"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "තරුණියව"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "විචාරමු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඇගේ මුඛය"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ඇගේ-මුඛය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:16:55.198367007Z",
+  "model": "glm-5.3"
+}

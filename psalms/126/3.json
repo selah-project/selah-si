@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 126,
+  "translation": "යහ්වේ අප සමඟ මහෝත්සාහ කළේය; අපි ප්‍රීති වූමු.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "මහෝත්සාහ කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "වූමු"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ප්‍රීති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:40:57.964127973Z",
+  "model": "glm-5.3"
+}

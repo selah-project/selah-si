@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "දුෂ්ටයා දුස්සන්ගේ ජාලය කැමති වේ; නමුත් ධාර්මිකයන්ගේ මුල ⟨ඵල⟩ දෙයි.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "කැමති වේ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයා"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "ජාලය"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "දුස්සන්ගේ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "නමුත් මුල"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ධාර්මිකයන්ගේ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:04:56.512820262Z",
+  "model": "glm-5.3"
+}

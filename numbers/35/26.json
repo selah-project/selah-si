@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "මිනීමරු ඔහු පලා ගිය ඔහුගේ රැකවරණ නගරයේ සීමාවෙන් ⟨את⟩ පිටත නික්ම ගියේ නම් —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "නික්ම යන්නේ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "නික්ම යයි"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "මිනීමරු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නගරයේ සීමාව"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ඔහුගේ රැකවරණ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "පලා යයි"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:33.097657575Z",
+  "model": "glm-5.3"
+}

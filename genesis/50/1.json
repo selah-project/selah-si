@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "යෝසෙප් තම පියාගේ මුහුණ මතට වැටී, ඔහු වෙනුවෙන් වැලප, ඔහුට සිපගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "වැටී"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාගේ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "වැලප"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහු වෙනුවෙන්"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "සිපගත්තේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:09.857641395Z",
+  "model": "glm-5.3"
+}

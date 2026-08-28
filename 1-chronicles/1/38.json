@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සෙයීර්ගේ පුත්‍රයෝ: ලොතාන්, ෂොබාල්, සිබොන්, අනා, දිෂොන්, එසර් සහ දිෂාන්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "සහ …ගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "සෙයීර්ගේ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ලොතාන්"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ෂොබාල්"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "සිබොන්"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "අනා"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "දිෂොන්"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "එසර්"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "දිෂාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:21.231518754Z",
+  "model": "glm-5.3"
+}

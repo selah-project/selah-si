@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 4:17",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබ දුටු ⟨the⟩ ගස — වැඩී, බලවත් වූ, අහසට ළඟා වූ, එහි දර්ශනය සියලු පොළොවට වූ ගස.",
+  "tokens": [
+    {
+      "surface": "אילנא",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "די",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "ඔබ දුටු"
+    },
+    {
+      "surface": "די",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "වැඩී"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "සහ බලවත් විය"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "සහ එහි උස"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "ළඟා විය"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "අහසට"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "සහ එහි දර්ශනය"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "පොළොවට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:39:59.251178841Z",
+  "model": "glm-5.3"
+}

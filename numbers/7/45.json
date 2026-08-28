@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කළඹෙක් — රළු එකක් — බාන් එකක්, එය වයස අවුරුද්දක, දහන පූජාවට;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "කළඹෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "රළු"
+    },
+    {
+      "surface": "איל",
+      "gloss": "බාන් එකක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "වෙළඹෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "අවුරුද්දක"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "දහන පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:38.089984463Z",
+  "model": "glm-5.3"
+}

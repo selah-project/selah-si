@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "පර්අෝ යාකොව්ට කීවේය: ඔබගේ ජීවිතයේ වර්ෂවල දින කීයද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්අෝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "කීයද"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "שני",
+      "gloss": "වර්ෂවල"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ඔබගේ ජීවිතයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:49:01.507622868Z",
+  "model": "glm-5.3"
+}

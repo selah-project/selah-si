@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 118,
+  "translation": "යහ්වේ මාගේ පසේ සිටීමින් — මම බිය නොවෙමි; මිනිසා මට කුමක් කරන්නද?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මාගේ පසේ සිටීමින්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "මම බිය වෙමි"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කරන්නද"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:30:34.280338795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "වලාකුළු ඒවා තැල්ලූ කල, මිනිසුන් මතට බහුලව බිඳ වැටෙත්.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "තැල්ලූ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "බිඳ වැටෙත්"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බහුලව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:54:42.046448584Z",
+  "model": "glm-5.3"
+}

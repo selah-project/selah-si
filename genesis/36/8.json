@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ඒසාව් සෙයීර් කඳුවැටියේ වාසය කළේය; ඒසාව් ⟨הוא⟩ එදොම් ය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසාව්"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කඳුවැටියේ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "සෙයීර්"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසාව්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඔහු⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:27:09.951199931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "කෙලූබ්, ෂූහාගේ සහෝදරයා, මෙහීර්ව ⟨את⟩ ප්‍රසූ කළේය; ඔහු ⟨විය⟩ ඒෂ්තොන්ගේ පියාය.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "කෙලූබ්"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "සහෝදරයා"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ෂූහාගේ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ප්‍රසූ කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙහීර්ව"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "මෙහීර්ව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියාය"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ඒෂ්තොන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:32.549401221Z",
+  "model": "glm-5.3"
+}

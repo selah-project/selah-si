@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මගේ නෙෆෙෂ්ද ඉතා බියෙන් වෙව්ලීය; ඔබ ද, යහ්වේ, ⟨කවදා⟩ දක්වා ද?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "මගේ නෙෆෙෂ්ද"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "බියෙන් වෙව්ලීය"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ඔබ ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "කවදා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:18:43.322670556Z",
+  "model": "glm-5.3"
+}

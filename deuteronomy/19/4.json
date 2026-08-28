@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මෙය මිනීමරුවාගේ කරුණයි — එහි පලා ගොස් ජීවත් වන තැනැත්තා: දැනුමකින් තොරව ⟨את⟩ තම ඥාතියාට පහර දෙන, ඊයේ පෙරේදා ඔහුට වෛර නොකළ තැනැත්තා.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කරුණ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "මිනීමරුවාගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "පලා යන"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ජීවත් වන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "පහර දෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම ඥාතියාට"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "තම ඥාතියා"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "තොරව"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුමකින්"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "වෛර කළ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "ඊයේ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "පෙරේදා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:45:03.527506719Z",
+  "model": "glm-5.3"
+}

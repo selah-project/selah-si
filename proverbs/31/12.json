@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇය ඔහුට යහපත කරන්නීය, නරක නොව — ඇගේ ජීවිතයේ සියලු දිනට.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ඇය ඔහුට කරන්නීය"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නරක"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනට"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "ඇගේ ජීවිතයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:57.562412655Z",
+  "model": "glm-5.3"
+}

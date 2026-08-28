@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ෂාඌල් දාවිද් ⟨את⟩ ගැනීමට දූතයන් යවන විට, ඇය 'ඔහු රෝගීය' යැයි කීවාය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යැවීය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "දූතයන්"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ගැනීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දාවිද්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවිද්"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ඇය කීවාය"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "රෝගීය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:02:04.446405355Z",
+  "model": "glm-5.3"
+}

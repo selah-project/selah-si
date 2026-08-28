@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මේ නිසා අට්ට බැඳ ගනිව්, විලාප නඟව්, අඬන්න; මක්නිසාද යහ්වේගේ උග්‍ර කෝපය ⟨අපෙන්⟩ ආපසු නොහැරේ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මේ නිසා"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "බැඳ ගනිව්"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "අට්ට"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "විලාප නඟව්"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "අඬන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "උග්‍ර කෝපය"
+    },
+    {
+      "surface": "אף",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "අපෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:46:35.918857893Z",
+  "model": "glm-5.3"
+}

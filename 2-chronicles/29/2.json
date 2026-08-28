@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔහු යහ්වේගේ ඇස් ඉදිරිපිට යහපත් දේ කළේය — ඔහුගේ පියා වූ දාවීද් කළ සියල්ලට අනුව.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත් දේ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් ඉදිරිපිට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ඔහුගේ පියා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:45:38.054910294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "ඔබේ ⟨the⟩ වචනය නිසා මම සතුටු වෙමි, මහා සන්තකයක් සොයාගත් කෙනෙකු සේ ම.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "සතුටු වෙමි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ඔබේ වචනය"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "සොයාගත් කෙනෙකු සේ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "සන්තකයක්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:19.310620044Z",
+  "model": "glm-5.3"
+}

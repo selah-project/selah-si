@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යහ්වේගේ වචන මා වෙත විය, කියා:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහවිය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මාවෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:30:03.351831791Z",
+  "model": "glm-5.3"
+}

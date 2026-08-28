@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බොහෝ වාරයක් ඔබේ සිත දන්නේය — ඔබද ⟨את⟩ අන් අයට ශාප කළ බව.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "යම්...බව"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "වාරයක්"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නේය"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ සිත"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බව"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "את",
+      "gloss": "ඔබ",
+      "marks": "අන් අයට ශාප කළ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ශාප කළ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "අන් අයට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:21.777859986Z",
+  "model": "glm-5.3"
+}

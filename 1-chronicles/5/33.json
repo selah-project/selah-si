@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මෙරායොත් ⟨את⟩ අමර්යාව ලබාගත්තේය; අමර්යා ⟨את⟩ අහිතූබ්ව ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "මෙරායොත්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අමර්යා"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අහිතූබ්"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "අහිතූබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:08.974465276Z",
+  "model": "glm-5.3"
+}

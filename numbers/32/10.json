@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "සහ ඒ දින යහ්වේගේ කෝපය දැල්වුණි, සහ ඔහු දිවුරා කීවේ:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "සහ දැල්වුණි"
+    },
+    {
+      "surface": "אף",
+      "gloss": "කෝපය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ඒ දින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "සහ ඔහු දිවුරුවේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:30.398958283Z",
+  "model": "glm-5.3"
+}

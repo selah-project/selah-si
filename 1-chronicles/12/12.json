@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අත්තායි හයවැන්නා, එලිඑල් හත්වැන්නා.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "අත්තායි"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "හයවැන්නා"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "එලිඑල්"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "හත්වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:05.659740901Z",
+  "model": "glm-5.3"
+}

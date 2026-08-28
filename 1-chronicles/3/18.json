@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මල්කිරාම්, පෙදායා, ෂෙනාට්සාර්, යෙකම්යා, හෝෂාමා, නෙදබ්යා ද ය.",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "මල්කිරාම්"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "පෙදායා"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "ෂෙනාට්සාර්"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "යෙකම්යා"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "හෝෂාමා"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "නෙදබ්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:57.092965214Z",
+  "model": "glm-5.3"
+}

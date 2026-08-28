@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔවුහු බාල්ගේ ගෙයි ⟨את⟩ කුළුන් පිටතට ගෙන ඒවා දැවූහ.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "පිටතට ගෙනාහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුළුන්"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "කුළුන්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "බාල්ගේ"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ඒවා දැවූහ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:54:55.731747495Z",
+  "model": "glm-5.3"
+}

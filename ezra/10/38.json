@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බානි, බින්නුයි, ෂිම්යි.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "බානි"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "බින්නුයි"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ෂිම්යි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:57:30.731540390Z",
+  "model": "glm-5.3"
+}

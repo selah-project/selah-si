@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ජනයා මොෂේ වෙත දොඹලා කෑහ; මොෂේ යහ්වේ වෙත යාච්ඤා කෙළේය; එවිට ගින්න නිවී ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "දොඹලා කෑහ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "යාච්ඤා කෙළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "නිවී ගියේය"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ගින්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:41.375417774Z",
+  "model": "glm-5.3"
+}

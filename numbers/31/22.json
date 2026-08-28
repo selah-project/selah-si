@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එහෙත් රන් ⟨את⟩, රිදී ⟨את⟩, තඹ ⟨את⟩, යකඩ ⟨את⟩, ඔරුඳු ⟨את⟩ සහ ඊයම් ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රන්"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "රිදී"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තඹ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යකඩ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔරුඳු"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ඔරුඳු"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ඊයම්"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ඊයම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:37:19.683158967Z",
+  "model": "glm-5.3"
+}

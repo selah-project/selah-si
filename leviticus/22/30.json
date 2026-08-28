@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඒ දිනයේම ⟨එය⟩ කනු ලැබේ; උදෑසන දක්වා ඉන් කිසිවක් ඉතිරි නොකරන්න; මම යහ්වේ වෙමි.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේම"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කනු ලැබේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ඔබ ඉතිරි කරන්න"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ඉන් කිසිවක්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:56.970052722Z",
+  "model": "glm-5.3"
+}

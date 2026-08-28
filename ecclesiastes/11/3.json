@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "වලාකුළු පිරුණොත්, ඔව්හු වැසි පොළොව මත හරින්නාහ; ගසක් දකුණේ හෝ උතුරේ වැටුණොත්, ගස වැටෙන ස්ථානයේම එය සිටී.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "පිරුණොත්"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "වැසි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ඔව්හු හරින්නාහ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "වැටුණොත්"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ගසක්"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "දකුණේ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "හෝ නම්"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "උතුරේ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයේම"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "වැටෙන"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිම"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:12.217877221Z",
+  "model": "glm-5.3"
+}

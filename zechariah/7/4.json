@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සෙබාඕත්ගේ යහ්වේගේ වචනය මා වෙත පැමිණි, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදුවූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සෙබාඕත්ගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:49:18.617790941Z",
+  "model": "glm-5.3"
+}

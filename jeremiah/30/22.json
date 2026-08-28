@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ඔබ මට ජනයක් වන්නහුය, මම ඔබට එලෝහීම් වන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ඔබ වන්නහුය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයක් වශයෙන්"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "වන්නෙමි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම් වශයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:51:38.652998430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "බැබිලෝනයේ දරය — යෙෂයාහු අමොට්ස්ගේ පුත්‍රයා ⟨කැටලින්⟩ දුටු දේ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "දරය"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "බැබිලෝනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨කැටලින්⟩"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "දුටු"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "යෙෂයාහු"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "අමොට්ස්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:15:37.187224086Z",
+  "model": "glm-5.3"
+}

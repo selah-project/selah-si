@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බුන්නි, අස්ගද්, බෙබායි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "බුන්නි"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "අස්ගද්"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "බෙබායි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:23:24.967436433Z",
+  "model": "glm-5.3"
+}

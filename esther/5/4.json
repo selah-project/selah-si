@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එස්තෙර් කීවාය: රජුට හොඳ නම්, මම ඔහු සඳහා සූදානම් කළ මංගල භෝජනයට අද දින රජුත් හාමාන්ත් එක්ව එන්නා සිටිත්වා.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එන්න"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "හාමාන්ත්"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද දින"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "මංගල භෝජනයට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "සූදානම් කළ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහු සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:30:52.947964969Z",
+  "model": "glm-5.3"
+}

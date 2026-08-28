@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ඔබ විදුරු ගෙන ⟨את⟩ ⟨the⟩ ඔහුගේ කන තබන්නේ ඔබේ ⟨the⟩ දොරේ; ඔබට ඔහු සදාකාල වහලෙකු වන්නේය; ඔබේ දාසියටද එසේම කරන්න.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ඔබ ගන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "විදුරු"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "විදුරු"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ඔබ තබන්නේ"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "ඔහුගේ කන"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "දොරේ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "වහලෙකු"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාල"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "ඔබේ දාසියට"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:48.688801534Z",
+  "model": "glm-5.3"
+}

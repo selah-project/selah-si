@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඒවා ඔබට පමණක් වේවා; පිටස්තරයන්ට ⟨את⟩-සමඟ නොවන්නේය.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "පිටස්තරයන්ට"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩සමඟ",
+      "marks": "පිටස්තරයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:32.155365427Z",
+  "model": "glm-5.3"
+}

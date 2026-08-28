@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔබුන් සමඟ පමණක් නොවී, මම මෙම ⟨את⟩ ගිවිසුමද ⟨את⟩ මෙම ශාපයද කපමි.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "සමඟ පමණක් නොවී"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබුන්"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ඔබ පමණක්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "කපමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගිවිසුම"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "මෙම ගිවිසුම"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ශාපය"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම ශාපය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:52.286534596Z",
+  "model": "glm-5.3"
+}

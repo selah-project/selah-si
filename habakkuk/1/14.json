@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබ මිනිසා මුහුදේ මත්ස්‍යයන් සේ කළේය — පාලකයෙකු ⟨නැති⟩ උරඟන් සේ.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "සහ කළේය"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "මත්ස්‍යයන් සේ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුදේ"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "උරඟන් සේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "משל",
+      "gloss": "පාලකයෙකු"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:35:54.066941081Z",
+  "model": "glm-5.3"
+}

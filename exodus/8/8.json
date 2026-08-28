@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මොෂේ සහ අහරොන් ൠ වෙතින් පිටත් වූහ; ൠ මත දැමූ මැඩියන් ගැන මොෂේ යහ්වේ හඬ නඟා කෑගසූයේය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත් වූහ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "සහ අහරොන්"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ෆර්ඕ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "හඬ නඟා කෑගසූයේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "මැඩියන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "දැමූ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ෆර්ඕ මත"
+    }
+  ],
+  "timestamp": "2026-08-27T19:42:15.483835833Z",
+  "model": "glm-5.3"
+}

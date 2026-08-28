@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ෂික්ලාග්, මද්මන්නා, සන්සන්නා ය",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ෂික්ලාග්"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "මද්මන්නා"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "සන්සන්නා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:30.354985784Z",
+  "model": "glm-5.3"
+}

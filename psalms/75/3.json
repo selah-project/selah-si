@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 75,
+  "translation": "යත්තේන් මම නියමිත කාලය ගන්නා කල, මම ම ⟨ඍජු ලෙස⟩ විනිශ්චය කරමි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "යත්තේන්"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "මම ගන්නා කල"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "නියමිත කාලය"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම ම"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ඍජු ලෙස"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "විනිශ්චය කරමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:56:01.324861750Z",
+  "model": "glm-5.3"
+}

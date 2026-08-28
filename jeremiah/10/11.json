@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 10:11",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙසේ ඔබ ඔවුන්ට කියන්නේ: අහසද පොළොවද නොමවූ දේවරු, පොළොවෙන්ද මෙම අහස යටින්ද විනාශ වෙත්වා.",
+  "tokens": [
+    {
+      "surface": "כדנה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ඔබ කියන්නේ"
+    },
+    {
+      "surface": "להום",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "אלהיא",
+      "gloss": "දේවරු"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וארקא",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "මවූ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "විනාශ වෙත්වා"
+    },
+    {
+      "surface": "מארעא",
+      "gloss": "පොළොවෙන්"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "සහ වින්"
+    },
+    {
+      "surface": "תחות",
+      "gloss": "යටින්"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T23:49:21.176238512Z",
+  "model": "glm-5.3"
+}

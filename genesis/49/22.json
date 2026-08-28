@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "පලදායී පුත් ⟨යැ⟩ යොසෙප්, ජලධාරාව මත පලදායී පුත්; ⟨ඔහුගේ⟩ දූවරු තාප්පය මතින් ඇවිදිති.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "පලදායී"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "පලදායී"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ජලධාරාව"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරු"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ඇවිදිති"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "שור",
+      "gloss": "තාප්පය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:23.067934765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අහසේ පක්ෂීහු, මුහුරේ මත්ස්‍යයෝ, මුහුරේ පාරවල් හරහා යන්නෝය.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "පක්ෂීහු"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "මුහුරේ මත්ස්‍යයෝ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුරේ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "හරහා යන්නෝ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "පාරවල්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "මුහුරේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:04:29.533176402Z",
+  "model": "glm-5.3"
+}

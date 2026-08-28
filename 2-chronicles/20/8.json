@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔව් එහි වාසය කළහ; එහි ඔබට ඔබගේ නාමයට මිදුම් ගෘහයක් ඔව් ගොඩනැගූහ, මෙසේ පවසමින්:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "වාසය කළහ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "ගොඩනැගූහ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "මිදුම් ගෘහයක්"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ඔබගේ නාමයට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ පවසමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:33:33.688579045Z",
+  "model": "glm-5.3"
+}

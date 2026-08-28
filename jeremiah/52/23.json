@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 52,
+  "translation": "දෙළුම් ඵල අනූ හයක් ⟨රුක්වල⟩ විය; ජාලකය මත වටා සියලු දෙළුම් ඵල සියයක් විය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "දෙළුම් ඵල"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "⟨රුක්වල⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "දෙළුම් ඵල"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "ජාලකය"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-28T00:20:40.309302175Z",
+  "model": "glm-5.3"
+}

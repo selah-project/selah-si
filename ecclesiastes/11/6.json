@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "උදෑසන ඔබේ බීජය ⟨את⟩ වපුරව; සවසට ඔබේ අත නවතා නොතබව; මන්ද ඔබ දන්නේ නැත කොහේද මෙය සාර්ථක වේ — මේද, නැතහොත් ඒද — දෙකම එකසේ යහපත් වුවත්.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "වපුරව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බීජය"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ඔබේ බීජය"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "සවසට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "නවතා තබව"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ඔබ නැත"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දන්නේ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "කොහේද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "සාර්ථක වේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේද"
+    },
+    {
+      "surface": "או",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ඒද"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "දෙකම"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "දෙකම"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "එකසේ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "යහපත්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:16:17.475333418Z",
+  "model": "glm-5.3"
+}

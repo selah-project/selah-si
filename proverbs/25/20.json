@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "සිසිල් දිනක ඇඳුම ගැලවීම, සෝඩා මත විනාකිරි දැමීම — දුක් වූ හදවතකට ගී ගයන තැනැත්තා වන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "ගැලවීම"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ඇඳුම"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනක"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "සිසිල්"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "විනාකිරි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "සෝඩා"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "සහ ගයන"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ගී"
+    },
+    {
+      "surface": "על",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතට"
+    },
+    {
+      "surface": "רע",
+      "gloss": "දුක් වූ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:52.781327440Z",
+  "model": "glm-5.3"
+}

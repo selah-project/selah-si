@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "සම්පූර්ණ සභාව ⟨ම⟩ එසේ කිරීමට කීහ, මන්ද සම්පූර්ණ ජනයාගේ ඇස් වල ඒ කාරණය යහපත් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "සභාව"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "යහපත් ⟨විය⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් වල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:53:04.172600499Z",
+  "model": "glm-5.3"
+}

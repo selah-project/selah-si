@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "හා ⟨את⟩ මස්, ⟨את⟩ සම, ගිනියෙන් නිකායට පිටත දවා දැමීය.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "මස්"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සම"
+    },
+    {
+      "surface": "העור",
+      "gloss": "සම"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "දවා දැමීය"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ගිනියෙන්"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "නිකායට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:57.146547181Z",
+  "model": "glm-5.3"
+}

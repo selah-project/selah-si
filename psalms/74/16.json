@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 74,
+  "translation": "දිනය ඔබේය, රාත්‍රියද ඔබේය; ආලෝකයද සූර්යයාද ඔබ සූදානම් කළේය.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබේය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබේය"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "රාත්‍රිය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "සූදානම් කළේය"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "සූර්යයා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:09.607968957Z",
+  "model": "glm-5.3"
+}

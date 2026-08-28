@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 36:7",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "එබැවින් අදෝනයි යහ්වේ මෙසේ කියයි: මම ⟨את⟩ මගේ අත ඔසවා ඇත — ඔබ වටා සිටින ⟨the⟩ ජාතීන් ඔවුන්ගේම අවලසන වදින්නෝ ය.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ඔසවා ඇත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මගේ අත"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මගේ අත"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ඇත්තෙන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිටින"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ වටා"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔවුහු"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "ඔවුන්ගේම අවලසන"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "වදින්නෝ ය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:06:28.906829909Z",
+  "model": "glm-5.3"
+}

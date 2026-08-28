@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හමාන් මොර්දකයි තමාට නමස්කාර නොකර වැඳ නොවැටෙන බව දුටු කල, හමාන් කෝපයෙන් පිරිණි.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටු කල"
+    },
+    {
+      "surface": "המן",
+      "gloss": "හමාන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නො"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "මොර්දකයි"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "වැඳ වැටෙන"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "නමස්කාර කර"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාට"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "පිරිණි"
+    },
+    {
+      "surface": "המן",
+      "gloss": "හමාන්"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "කෝපයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:50:05.956375852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "ඔහු ඔවුන් අල්ලා ගත්තේය, ඔහු ඔවුන්ට ⟨את⟩ මේ වචනයන් කීවේය.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ඔවුන් අල්ලා ගත්තේය"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ වචනයන්"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:46.682662688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යුක්තිය, යුක්තිය පසන්න, ජීවත් වීම සඳහා ද, යහ්වේ ඔබේ එලෝහීම් ඔබට දෙන ⟨את⟩ දේශය උරුම කරගැනීම සඳහා ද.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "යුක්තිය"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "යුක්තිය"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "පසන්න"
+    },
+    {
+      "surface": "למען",
+      "gloss": "සඳහා"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ජීවත් වීම"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "උරුම කරගැනීම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:05:14.723791783Z",
+  "model": "glm-5.3"
+}

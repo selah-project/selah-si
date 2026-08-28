@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එම බදු මුදලෙන් යහ්වේට අයවූවේ, එළු රැළෙන්, හයසීය පහළවැන්නෙන් හැත්තෑ පහයි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "බදු මුදල"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මෙන්"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "එළු රැළ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "සහ හැත්තෑවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:26.646037563Z",
+  "model": "glm-5.3"
+}

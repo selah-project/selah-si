@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මම මගේ තුළ කථා කරන මලාකයාට කීවෙමි: මේ ඔවුන් එඵාව ⟨את⟩ කොහෙට ගෙන යත්ද?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "මලාකයා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මගේ තුළ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "කොහෙට"
+    },
+    {
+      "surface": "המה",
+      "gloss": "මේ ඔවුන්"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ගෙන යත්ද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එඵාව"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "එඵාව"
+    }
+  ],
+  "timestamp": "2026-08-28T01:46:02.821407983Z",
+  "model": "glm-5.3"
+}

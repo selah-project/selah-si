@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "මෙන්ම මනුෂ්‍ය පුත්‍රයෝ ද, මෙන්ම මිනිසුන්ගේ පුත්‍රයෝ ද, එක්ව — ධනවතා ද දුගී ද.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "මෙන්ම"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍ය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "මෙන්ම"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසුන්ගේ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "එක්ව"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ධනවතා"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "දුගී ද"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:54.899657425Z",
+  "model": "glm-5.3"
+}

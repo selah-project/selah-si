@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබේ පාදයේ පාථය සම කරමින් මනින්න, එවිට ඔබේ සියලු මාර්ග ස්ථිර වන්නේය.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "සම කරමින් මනින්න"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "පාථය"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ඔබේ පාදයේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ඔබේ මාර්ග"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ස්ථිර වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:08.633340941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මිෂ්මනා හතරවැන්නා, යිර්මෙයා පස්වැන්නා.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "මිෂ්මනා"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "හතරවැන්නා"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "යිර්මෙයා"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "පස්වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:05.659622458Z",
+  "model": "glm-5.3"
+}

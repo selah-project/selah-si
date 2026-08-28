@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දවස් හතක් අවසානයේ, යහ්වේගේ වචනය මා වෙත ආවේය, මෙසේ පවසමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "අවසානයේ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දවස්"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ පවසමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:24:05.808433068Z",
+  "model": "glm-5.3"
+}

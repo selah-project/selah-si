@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අපි — අපරාධ කළෙමු, අකීකරු වීමු; ඔබ ⟨මැනව⟩ සමාව නොදුන්නේය.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "අපි"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "අපරාධ කළෙමු"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "අකීකරු වීමු"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "සමාව දුන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:11.525261111Z",
+  "model": "glm-5.3"
+}

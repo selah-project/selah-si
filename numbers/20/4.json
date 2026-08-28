@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යහ්වේගේ සභාව ⟨את⟩ මේ මඩිස්සට ගෙන ආවේ ඇයි — අපද, අප සතුනුද එහිදී මිය යනු පිණිසද?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ගෙන ආවේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සභාව"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "සභාව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "මඩිස්සට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "මිය යනු පිණිස"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "අපද"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "අප සතුනුද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:44.578541297Z",
+  "model": "glm-5.3"
+}

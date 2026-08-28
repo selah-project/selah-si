@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "තුන්වන දිනයේදී එය අනුභව කරනු ලැබුවහොත්, එය දුගඳක්; ⟨එය⟩ පිළිගනු නොලැබේ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ…හොත්"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "අනුභව කරනු ලැබුවහොත්"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "අනුභව කළ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "තුන්වන"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "දුගඳක්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "පිළිගනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:19:12.475803628Z",
+  "model": "glm-5.3"
+}

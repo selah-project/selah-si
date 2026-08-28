@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "උතුරු සුළඟ වැසි බිහි කරයි, සැඟවුණු දිවකට එරෙහිව කෝපයෙන් පිරි මුහුණු බිහි වේ.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "බිහි කරයි"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "වැසි"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "සහ මුහුණු"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "කෝපයෙන් පිරි"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "සැඟවුණු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:14.416386952Z",
+  "model": "glm-5.3"
+}

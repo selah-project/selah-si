@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අහෝ, අදෝනයි, යිස්රායෙල් සතුරන් ඉදිරිපිට පිටුපස හරවා ගත් පසු මම කුමක් කිව මැනවිද?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "අහෝ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කිව මැනවිද"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බව"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "හරවා ගත්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "පිටුපස"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "සතුරන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:25:50.613046482Z",
+  "model": "glm-5.3"
+}

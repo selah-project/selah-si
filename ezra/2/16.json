@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අටේර්ගේ පුත්‍රයෝ — හිස්කියාහ්ගෝ — අනූ අටක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "අටේර්ගේ"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "හිස්කියාහ්ගෝ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:53:40.612527652Z",
+  "model": "glm-5.3"
+}

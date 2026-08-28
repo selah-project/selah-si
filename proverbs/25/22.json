@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මන්ද ගිනිකැබලි ඔබ ඔහුගේ හිස මත තැබවිට, යහ්වේ ඔබට ⟨එය⟩ ආපසු ගෙවනු ඇත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ගිනිකැබලි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "තැබවිට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ඔහුගේ හිස"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ආපසු ගෙවනු ඇත"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:14.415010453Z",
+  "model": "glm-5.3"
+}

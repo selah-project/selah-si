@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "වක් වූ හදවත ⟨he⟩ ඇත්තා යහපත නොලබයි, තම දිව පෙරළන්නා අයහපතට වැටෙයි.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "වක් වූ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ලබයි"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "පෙරළන්නා"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "තම දිව"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "වැටෙයි"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "අයහපතට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:33.361451165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "පපු පළඳනාව මත රන් මුදු දෙකක් ඔබ සාදා, ⟨את⟩ ඒ මුදු දෙක පපු පළඳනාවේ කෙළවරු දෙක මත තබන්නේය.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ඔබ සාදා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "පපු පළඳනාව"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "මුදු"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "තබන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒ මුදු දෙක"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "මුදු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "කෙළවරු"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "පපු පළඳනාව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:56:43.665404645Z",
+  "model": "glm-5.3"
+}

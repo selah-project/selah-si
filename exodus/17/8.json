@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "අමාලෙක් පැමිණ, රෙපීදීම්හිදී ඊශ්‍රායේල් සමඟ සටන් කළේය.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "අමාලෙක්"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "සටන් කළේය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායේල්"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "රෙපීදීම්හිදී"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:47.934206652Z",
+  "model": "glm-5.3"
+}

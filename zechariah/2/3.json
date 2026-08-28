@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ යහ්වේ මට පෙන්වූයේ සිව් ශිල්පීන්.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "පෙන්වූයේ මට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "සිව්"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ශිල්පීන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:48:34.707191297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔහු ෂිට්ටීම් ලීයෙන් බාල්ක සාදා, ⟨את⟩ ඒවා රනින් ආවරණය කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සාදා"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "බාල්ක"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ලීයෙන්"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ෂිට්ටීම්"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ආවරණය කළේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:19:59.294844290Z",
+  "model": "glm-5.3"
+}

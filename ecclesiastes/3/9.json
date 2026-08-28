@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මොන ලාභයක්ද කරන්නාට, ඔහු පීඩා කරන දෙය තුළ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොන"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ලාභයක්ද"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "කරන්නාට"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "පීඩා කරන දෙය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:52.276781532Z",
+  "model": "glm-5.3"
+}

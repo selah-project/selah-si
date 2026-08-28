@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ප්‍රඥාව ⟨the⟩ ප්‍රඥාවන්ට බලය දෙයි — නගරයෙහි සිටි පාලකයන් දසදෙනෙකුටත් වඩා.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "බලය දෙයි"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ප්‍රඥාවන්ට"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "දසදෙනෙකුටත් වඩා"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "පාලකයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "היו",
+      "gloss": "සිටි"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:42.112782298Z",
+  "model": "glm-5.3"
+}

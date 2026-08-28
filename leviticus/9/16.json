@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "දවන පූජාවද ඔහු ළඟට ගෙන එන ලදී; ඥානුවට අනුව එය සිදු කළේය.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ළඟට ගෙන එන ලදී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දවන පූජාව"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "දවන පූජාව"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "සිදු කළේය"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ඥානුවට අනුව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:33.882648956Z",
+  "model": "glm-5.3"
+}

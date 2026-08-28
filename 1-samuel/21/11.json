@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "දාවිද් නැඟී, එම දිනයේම ෂාඌල්ගේ මුහුණෙන් පලා, ගාත් රජ ආකීෂ් වෙත ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවිද්"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "පලා"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේම"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "මුහුණෙන්"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්ගේ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ආකීෂ්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ගාත්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:07:05.011706354Z",
+  "model": "glm-5.3"
+}

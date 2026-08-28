@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "දුෂ්ටයා පැමිණෙන කල, පිළිකුලුද පැමිණේ; ලැජ්ජාවත් සමඟ නින්දාවද ⟨එයි⟩.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "පැමිණෙන කල"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයා"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "පිළිකුලු"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ලැජ්ජාව"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "නින්දාව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:47.338684117Z",
+  "model": "glm-5.3"
+}

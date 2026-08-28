@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "ඔහු ⟨තවදුරටත්⟩ සදාකාලයටම ජීවත් නොවී, ⟨විනාශය⟩ නොදක්නේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් නොවී"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "සදාකාලයටම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "දක්නේය"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "විනාශය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:32:13.221783870Z",
+  "model": "glm-5.3"
+}

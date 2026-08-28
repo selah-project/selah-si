@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "කාර්යය මිනිසුන් මත බර වේවා, ඔවුන් එය කරත්වා; ඔවුන් බොරු වචනවල නොරැකෙත්වා.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "බර වේවා"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "කාර්යය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ඔවුන් කරත්වා"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "රැකෙත්වා"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "වචනවල"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:41.542149855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු තම අත එළුවාගේ හිස මත තබා, යහ්වේට ඉදිරියෙහි දහන පූජාව ⟨את⟩ මරන ස්ථානයෙහි ⟨את⟩ එය මරණ්නේය; එය පාප පූජාවකි.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "තබා"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "එළුවාගේ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "මරණ්නේය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ එය",
+      "marks": "එළුවා"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ස්ථානයෙහි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "මරන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දහන පූජාව"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "දහන පූජාව"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පාප පූජාව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:00.164112250Z",
+  "model": "glm-5.3"
+}

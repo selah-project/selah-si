@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඝෝෂාකාරී ඇය, සහ කීකරු නොවන; ඇගේ ගෙදර ඇගේ පාද රැඳෙන්නේ නැත",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "ඝෝෂාකාරී"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "සහ කීකරු නොවන"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "ඇගේ ගෙදර"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "රැඳෙන්නේ"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ඇගේ පාද"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:53.283426645Z",
+  "model": "glm-5.3"
+}

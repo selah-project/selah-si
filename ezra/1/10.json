@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "රන් බාජන තිසක්, රිදී බාජන — දෙවන පෙළේ — සිව්සිය දහයක්, වෙනත් භාණ්ඩ දහසක්.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "බාජන"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිසක්"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "බාජන"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "දෙවන පෙළේ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිව්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "සහ දහය"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "භාණ්ඩ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:46.875456670Z",
+  "model": "glm-5.3"
+}

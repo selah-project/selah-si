@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මොෂේ කෝරාක්ට කීවේය: ඇහුම්කන් දෙන්න, මැනව, ලෙවී පුත්‍රයෙනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කට"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කෝරාක්"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ඇහුම්කන් දෙන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "මැනව"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෙනි"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:25.962605372Z",
+  "model": "glm-5.3"
+}

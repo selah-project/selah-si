@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේට ස්තුති කරන්න, මන්ද ඔහු ⟨is⟩ යහපත්, මන්ද ඔහුගේ කෙසෙද් ⟨the⟩ සදාකාලයට ස්ථාවරයි.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ස්තුති කරන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ඔහුගේ කෙසෙද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:54:45.883059520Z",
+  "model": "glm-5.3"
+}

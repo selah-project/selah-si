@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "සම්පූර්ණයෙන් නැවතත් — යහ්වේගේ වචනය මට පැමිණියේය, ⟨මෙසේ කියා⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "නැවත වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨මෙසේ කියා⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T00:24:49.319419226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් ⟨את⟩ විවිරණය කළේය, විවිරණයට යටත් ජලයන් හා විවිරණයට ඉහළින් ජලයන් අතර වෙන් කළේය; එසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "විවිරණය"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "විවිරණය"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "වෙන් කළේය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යටත්"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "විවිරණයට"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා අතර"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉහළින්"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "විවිරණයට"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:40.107964118Z",
+  "model": "glm-5.3"
+}

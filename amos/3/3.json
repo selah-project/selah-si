@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දෙදෙනෙක් එකට යන්නද — ගිවිස නොගත් නම් මිස?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "යන්නද"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙදෙනෙක්"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එකට"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "මිස"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නොගත් නම්"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ගිවිස"
+    }
+  ],
+  "timestamp": "2026-08-28T01:19:31.844102892Z",
+  "model": "glm-5.3"
+}

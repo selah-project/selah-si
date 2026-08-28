@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "බලව්, කඳුවැටියේ ඔබට පෙන්වන ආකෘතිය අනුව ඒවා කරව.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "බලව්"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "කරව"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "ඒවායේ ආකෘතිය අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "පෙන්වන"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "පෙන්වන"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කඳුවැටියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:11.967416881Z",
+  "model": "glm-5.3"
+}

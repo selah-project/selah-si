@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මම යහ්වේට කීවෙමි: අදෝනයි, ඔබය; ඔබට ඉක්ම මගේ යහපත්කම නැත.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබය"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "මගේ යහපත්කම"
+    },
+    {
+      "surface": "בל",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබට ඉක්ම"
+    }
+  ],
+  "timestamp": "2026-08-28T02:07:16.293330311Z",
+  "model": "glm-5.3"
+}

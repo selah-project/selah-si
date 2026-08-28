@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙත්-ලෙහෙම් සහ නෙටොපා මිනිස්සු සිය අසූ අටයි.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ලෙහෙම්"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "සහ නෙටොපා"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "අසූ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:53.149089240Z",
+  "model": "glm-5.3"
+}

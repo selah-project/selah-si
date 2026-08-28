@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ජීවන සුළඟ ඇති සියලු මස් ඇත්තන්ගෙන් දෙදෙන බැගින් නෝආෂ වෙත, නැව වෙත පැමිණියෝය.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "පැමිණියෝය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නෝආෂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "නැව"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙදෙන"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙදෙන බැගින්"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "සියලු ... ගෙන්"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "මස් ඇත්තන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යා"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:45.433858165Z",
+  "model": "glm-5.3"
+}

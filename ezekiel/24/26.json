@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඒ දිනයේදී, පලාගිය තැනැත්තා කන් ⟨අසන්නට⟩ ඔබ වෙත එයි.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "එයි"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "පලාගිය තැනැත්තා"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "අසන්නට"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "කන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:04:05.524210517Z",
+  "model": "glm-5.3"
+}

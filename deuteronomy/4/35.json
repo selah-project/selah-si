@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබට ⟨පෙන්වා ඇත්තේ⟩, දැන ගැනීමට යහ්වේ ⟨ඔහු⟩ ⟨වන⟩ එලෝහීම් බව; ඔහු හැර තව කිසිවෙක් නැත.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "පෙන්වා ඇත"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "දැන ගැනීමට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තව"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ඔහු හැර"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:24.845070351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යහ්වේ, මාගේ එලෝහීම්, මම මෙය කළෙම් නම්, අධර්මයක් මාගේ අත්වල ⟨ඇති⟩ නම් —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මාගේ එලෝහීම්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "කළෙම්"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇති⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "අධර්මයක්"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "මාගේ අත්වල"
+    }
+  ],
+  "timestamp": "2026-08-28T02:00:14.370178199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මගේ ජීවිතය සමාදානයෙන් දුරු කරන ලදී; මම සැපත අමතක කෙළෙමි.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "දුරු කරන ලදී"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "සමාදානයෙන්"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මගේ ජීවිතය"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "මම අමතක කෙළෙමි"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "සැපත"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:47.736786877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යහ්වේ මෙසේ කීයේය: යෙහූදාහි රජුගේ ගෙට බැස, එහි මෙම වචනය ⟨את⟩ කථා කරව.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "බැස යව"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාහි"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "සහ කථා කරව"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "මෙම වචනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T23:57:44.057184676Z",
+  "model": "glm-5.3"
+}

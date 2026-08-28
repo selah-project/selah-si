@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "උපහාසකයාට තමාව නිවැරදි කරන්නා ප්‍රිය නැත; ප්‍රඥාවන් වෙත ඔහු නොයයි.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ප්‍රිය කරයි"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "උපහාසකයාට"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "නිවැරදි කරන්නාව"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ප්‍රඥාවන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:45.071075753Z",
+  "model": "glm-5.3"
+}

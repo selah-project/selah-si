@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "තම කාර්යයෙහි මැල්ලෙන්නාද නසන්නාට — මහා විනාශකරුට — සහෝදරයෙකි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "මැල්ලෙන්නා"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "තම කාර්යයෙහි"
+    },
+    {
+      "surface": "אח",
+      "gloss": "සහෝදරයෙකි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "හිමියාට"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "විනාශකරු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:44.815287059Z",
+  "model": "glm-5.3"
+}

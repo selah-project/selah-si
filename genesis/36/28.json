@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මෙයෝ ද දිෂාන්ගේ පුත්‍රයෝ — උට්ස් සහ අරාන් ය.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මෙයෝ ද"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "දිෂාන්ගේ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "උට්ස්"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "අරාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:54.492191882Z",
+  "model": "glm-5.3"
+}

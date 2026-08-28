@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 91,
+  "translation": "ඔවුන් අත් පතුල් මත ඔබව ඔසවන්නෝය — ඔබ පය ගලක ගැටී නොයනු පිණිස.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "අත් පතුල්"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ඔවුන් ඔබව ඔසවන්නෝය"
+    },
+    {
+      "surface": "פן",
+      "gloss": "නොවනු පිණිස"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ගැටී යනු"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ගලක"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ඔබ පය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:09:44.620962729Z",
+  "model": "glm-5.3"
+}

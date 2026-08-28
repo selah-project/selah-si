@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මන්ද, ඥානවන්තයාට මෝඩයාට වඩා අතිරික්තයක් කුමක්ද? ජීවත් වන්නන් ඉදිරියේ හැසිරීම දත් දුප්පතාටද කුමක්ද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "අතිරික්තයක්"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ඥානවන්තයාට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "මෝඩයාට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "දුප්පතාට"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දත්"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "හැසිරීමට"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවත් වන්නන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:24:07.292658442Z",
+  "model": "glm-5.3"
+}

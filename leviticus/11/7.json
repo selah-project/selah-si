@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ⟨את⟩ හසීරය — මක්ද ඔහු පර්සාව බෙදන්නෙකි, පර්සාවේ සීසුම සීසී, නමුත් ඔහු ගෙරාව නොඔසවයි; ඔහු ඔබට අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "හසීරය"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "හසීරය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "බෙදන්නෙකි"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "පර්සාව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "සහ සීසුම"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "සීසුම"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "පර්සාවේ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "නමුත් ඔහු"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ගෙරාව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ඔසවයි"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:27.067721765Z",
+  "model": "glm-5.3"
+}

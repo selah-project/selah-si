@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එහෙත් මස් — එහි ප්‍රාණය වන එහි ලේ සමඟ — නො කනු.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "එහි ප්‍රාණය සමඟ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "එහි ලේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කනු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:34.696795074Z",
+  "model": "glm-5.3"
+}

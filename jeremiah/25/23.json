@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "සහ ⟨את⟩ දෙදාන්, සහ ⟨את⟩ තෙමා, සහ ⟨את⟩ බූස්, සහ ⟨את⟩ කෙස් කැපූවුන් සියල්ලන් —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "දෙදාන්"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "දෙදාන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "තෙමා"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "තෙමා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "බූස්"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "බූස්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "කෙස් කැපූවුන් සියල්ලන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "කැපූවුන්"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "කෙස්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:58:56.387487301Z",
+  "model": "glm-5.3"
+}

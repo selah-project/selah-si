@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔවුහු ගිලූලීම් වැඳුවහ — යහ්වේ ඔවුන්ට 'මේ කාරණය ⟨את⟩ නොකරන්න' යැයි කී ඒවාය.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "වැඳුවහ"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ගිලූලීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ කාරණය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:01:02.050702046Z",
+  "model": "glm-5.3"
+}

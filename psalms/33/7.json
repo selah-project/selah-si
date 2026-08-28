@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මුහුදේ ජලය ගොඩක් ලෙස රැස් කරයි; ගැඹුරු දිය භාණ්ඩාගාරවල ⟨තබයි⟩.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "රැස් කරයි"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ගොඩක් ලෙස"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුදේ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨තබයි⟩"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "භාණ්ඩාගාරවල"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ගැඹුරු දිය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:49.788184874Z",
+  "model": "glm-5.3"
+}

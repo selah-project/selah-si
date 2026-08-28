@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 65,
+  "translation": "කොරල් නායකයාට; දාවීද්ගේ මිස්මෝර්; ගීතයක්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කොරල් නායකයාට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:45:34.690521790Z",
+  "model": "glm-5.3"
+}

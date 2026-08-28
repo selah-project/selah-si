@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බර්කොස්ගේ පුත්‍රයෝ, සිසෙරාගේ පුත්‍රයෝ, තෙමක්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "බර්කොස්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "සිසෙරාගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "තෙමක්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:09.503835970Z",
+  "model": "glm-5.3"
+}

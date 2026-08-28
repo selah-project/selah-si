@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "යහ්වේ මට කීවේය: මෙම ජනයා වෙනුවෙන් හිතසාධනය පතා යාච්ඤා නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "යාච්ඤා කරන්න"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "වෙනුවෙන්"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "හිතසාධනය පතා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:52:48.899291820Z",
+  "model": "glm-5.3"
+}

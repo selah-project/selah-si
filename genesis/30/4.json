@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "හා ඈ ඔහුට ⟨את⟩ බිල්හා — තම දාසිය — බිරිඳ ලෙස දුන්නීය; හා යාකොව් ඈ ළඟට ගියේය.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "හා ඈ දුන්නීය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බිල්හා"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "බිල්හා"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "තම දාසිය"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "බිරිඳ ලෙස"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "හා ගියේය"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඈ ළඟට"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:08:15.356574224Z",
+  "model": "glm-5.3"
+}

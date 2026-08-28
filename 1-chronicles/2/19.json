@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අසුබා මිය ගියාය; කාලෙබ් එප්රාත්ව ⟨את⟩ තමාට ⟨බිරිඳ ලෙස⟩ ගත්තේය, ඇය ඔහුට ජූර්ව ⟨את⟩ බැහැරුවාය.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "මිය ගියාය"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "අසුබා"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "කාලෙබ්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එප්රාත්"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "එප්රාත්"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "බැහැරුවාය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජූර්"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ජූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:32:00.372794955Z",
+  "model": "glm-5.3"
+}

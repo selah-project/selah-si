@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "රජ උත්තර දී මෙසේ කීවේය: ජීවත්ව සිටින දරුවා ⟨את⟩ ඇයට දෙන්න; මරා නොදමන්න — ඇය ඔහුගේ මවය.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දරුවා"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "දරුවා"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ජීවත්ව සිටින"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "මරා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "දමන්න"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ඔහුගේ මවය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:32:19.900258064Z",
+  "model": "glm-5.3"
+}

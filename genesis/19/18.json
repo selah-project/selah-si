@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ලොත් ඔවුන්ට කීවේය: ඕ, නො වේ, කරුණාකර, මාගේ අදෝනයිග.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ලොත්"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො වේ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "මාගේ අදෝනයිග"
+    }
+  ],
+  "timestamp": "2026-08-27T19:13:13.495927071Z",
+  "model": "glm-5.3"
+}

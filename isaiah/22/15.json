@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "අදෝනයි යහ්වේ සේනාවන්ගේ මෙසේ වදාරණය: “යා — මේ භාරකරු වූ, ගෙය මත ⟨ඇති⟩ ෂෙබ්නා වෙත පිවිසෙන්න.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "වදාරණය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවන්ගේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පිවිසෙන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "මේ භාරකරු"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත ⟨ඇති⟩"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "ෂෙබ්නා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:18:45.241024286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "පරම්පරාවක් — කොතරම් උස් නම් එහි ඇස්! එහෙයින් කන් පියන් ඔසවා ඇත.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාවක්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කොතරම්"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "උස් වූ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "එහි ඇස්"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "එහෙයින් කන් පියන්"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "ඔසවා ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T04:22:58.672245815Z",
+  "model": "glm-5.3"
+}

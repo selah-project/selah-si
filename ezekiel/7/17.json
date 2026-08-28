@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සියලු අත් මැලිය යන්නේය, සියලු දණහිස් ජලය මෙන් දියවී යන්නේය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "මැලිය යන්නේය"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "දණහිස්"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "දියවී යන්නේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය මෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:24:16.958164231Z",
+  "model": "glm-5.3"
+}

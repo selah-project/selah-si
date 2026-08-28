@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එහි ගල් සැපීරයට ⟨තැනක්⟩, රත්තරං දූලි එහි ⟨තිබෙයි⟩.",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "තැනක්"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "සැපීරයට"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "එහි ගල්"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "රත්තරං දූලි"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රත්තරං"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:46:27.229023894Z",
+  "model": "glm-5.3"
+}

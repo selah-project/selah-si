@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "දින තුනක අවසානයේදී විය; නිලධාරීහු බළකායේ මැදින් ගමන් කළහ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "අවසානයේදී"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුනක"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ගමන් කළහ"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "නිලධාරීහු"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "බළකායේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:22:11.295813681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අධික ලෙස අයුතු නොකරන්න, මෝඩ නොවන්න; ඔබේ කාලය පැමිණීමට පෙර මියයන්නේ ඇයි?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "අයුතු"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "අධික ලෙස"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නොවන්න"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "වන්න"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "මෝඩ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "මියයන්නේ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ඔබේ කාලය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:42.112326246Z",
+  "model": "glm-5.3"
+}

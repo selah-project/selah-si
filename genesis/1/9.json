@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් කීවේය: අහස යට ජලයන් එක් ස්ථානයකට එක්රැස් වේවා, වියළි බිම පෙනී වේවා; එසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "එක්රැස් වේවා"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයන්"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයකට"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "පෙනී වේවා"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "වියළි බිම"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:40.108260499Z",
+  "model": "glm-5.3"
+}

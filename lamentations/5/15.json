@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අප හදවතේ ප්‍රීතිය විරාම ගියේය; අප නැටුම ශෝකයට පෙරළිණි.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "විරාම ගියේය"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ප්‍රීතිය"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "අප හදවතේ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "පෙරළිණි"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ශෝකයට"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "අප නැටුම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:15:59.044985140Z",
+  "model": "glm-5.3"
+}

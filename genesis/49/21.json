@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "නප්තාලි ⟨යැ⟩ මුව දෙබියකි — නිදහස් කරන ලදැ; ⟨ඕ⟩ ලස්සන වචන දෙයි.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "නප්තාලි"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "මුව දෙබියකි"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "නිදහස් කරන ලදැ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ලස්සන"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:23.067468196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යාවාන්ගේ පුත්‍රයෝ: එලීෂා, තර්ෂීෂා, කිතීවරු සහ රෝදානීවරු.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "යාවාන්ගේ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "එලීෂා"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "තර්ෂීෂා"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "කිතීවරු"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "רודנים"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:40.328419280Z",
+  "model": "glm-5.3"
+}

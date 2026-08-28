@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "එබැවින් ⟨බැවින්⟩ ⟨කැඳවූහ⟩ ඒ ලිඳ, බෙර්-ලචයි-රෝයි; බලව, එය ⟨යති⟩ කාදේෂ් සහ බෙරෙඩ් අතර ⟨තිබේ⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "කැඳවූහ"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "ඒ ලිඳ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "බෙර්"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ලචයි"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "රෝයි"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "කාදේෂ්"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "බෙරෙඩ්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:11:31.574263592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හෙලාගේ පුත්‍රයෝ — සෙරෙත්, යිස්හාර් සහ එත්නාන්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "හෙලාගේ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "සෙරෙත්"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "යිස්හාර්"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "සහ එත්නාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:02.607843765Z",
+  "model": "glm-5.3"
+}

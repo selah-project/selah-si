@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සහ ⟨את⟩ හිවිවරුන් සහ ⟨את⟩ අර්කිවරුන් සහ ⟨את⟩ සීනිවරුන්ද",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "හිවිවරුන්"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "හිවිවරුන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අර්කිවරුන්"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "අර්කිවරුන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සීනිවරුන්"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "සීනිවරුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:58.604797105Z",
+  "model": "glm-5.3"
+}

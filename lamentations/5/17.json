@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මේ කරුණ නිසා අප සිත රෝගාතුර විය; මේ දේවල් නිසා අප ඇස් අඳුරු විය.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ කරුණ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "රෝගාතුර"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "අප සිත"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ දේවල්"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "අඳුරු විය"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "අප ඇස්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:46:28.739993339Z",
+  "model": "glm-5.3"
+}

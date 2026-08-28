@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔහු මෙම කාරණයට ඔවුන්ගේ වචනය අසා, දින දහයක් ඔවුන් පරීක්ෂා කළේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඔහු අසා"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "කාරණයට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "ඔවුන් පරීක්ෂා කළේය"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:32:23.065239820Z",
+  "model": "glm-5.3"
+}

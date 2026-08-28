@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 36:24",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ඔවුහු බිය නොවූහ; මේ සියලු වචන ⟨את⟩ ඇසූ රජුද, ඔහුගේ සියලු සේවකයෝද, ⟨את⟩ තම වස්ත්‍ර නොකැපූහ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "බිය වූහ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "කැපූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම වස්ත්‍ර"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "තම වස්ත්‍ර"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුද"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "සේවකයෝද"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ සියලු වචන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:10:40.582389174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "කඳු පිහිටුවනු ලැබීමට පෙර, ගිරිකුළුවලට පෙර, මම බිහිවීමි.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "පිහිටුවනු ලැබීමට"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "කු‍ට"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ගිරිකුළුවලට"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "මම බිහිවීමි"
+    }
+  ],
+  "timestamp": "2026-08-28T12:04:19.531244142Z",
+  "model": "glm-5.3"
+}

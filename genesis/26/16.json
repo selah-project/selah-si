@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "අබිමෙලෙක් යිට්ස්ඛාක්ට කීවේය: අපෙන් යා — ඔබ අපට වඩා ඉතා බලවත් බැවින්.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "අබිමෙලෙක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "යිට්ස්ඛාක්ට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "අපෙන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "බලවත්"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "අපට වඩා"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:19:20.457081115Z",
+  "model": "glm-5.3"
+}

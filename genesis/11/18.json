@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "පේලග් වසර තිසක් සිටිවිට, ⟨את⟩ රෙඌට පියකු විය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "සිටිවිට"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "පේලග්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිසක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "පියකු විය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රෙඌ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "රෙඌ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:01.593228721Z",
+  "model": "glm-5.3"
+}

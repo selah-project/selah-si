@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මා මෙම ජාලයෙන් ඉවතට ගෙන එන්න — ඔවුන් මට සැඟවූ — මන්ද ඔබ මාගේ බලකොටුවය.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "මා ඉවතට ගෙන එන්න"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ජාලයෙන්"
+    },
+    {
+      "surface": "זו",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "සැඟවූ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "මාගේ බලකොටුවය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:19:56.267780009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "මගේ දුර්වල හඬින් මගේ ඇට මගේ මස් හා තුළා ගියේය.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "හඬින්"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "මගේ දුර්වල හඬ"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "තුළා ගියේය"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "මගේ ඇට"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "මගේ මස් හා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:14:34.856882773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඔහු මොෂේට කීවේය: මම — ඔබේ බෑණා යිත්‍රෝ — ඔබ වෙත එමි; ඔබේ බිරිඳද ඇගේ පුතුන් දෙදෙනාද ඇය සමඟය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "ඔබේ බෑණා"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "යිත්‍රෝ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "එමි"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ඔබේ බිරිඳ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "දෙදෙනා"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ඇගේ පුතුන්"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ඇය සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:49:28.983825672Z",
+  "model": "glm-5.3"
+}

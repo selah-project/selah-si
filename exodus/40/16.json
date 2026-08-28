@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "මොෂේ කළේ ය — යහ්වේ ඔහුට ⟨את⟩ අණ කළ සියල්ලම පරිදි; එසේම කළේ ය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේ ය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලම පරිදි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුට (අණ කිරීමේ ඵලකය)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:54.468371764Z",
+  "model": "glm-5.3"
+}

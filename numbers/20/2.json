@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "සභාවට ජලයක් නොවීය; ඔව්හු මොෂේට එරෙහිවද, අහරෝනට එරෙහිවද රැස් වූහ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "සභාවට"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "රැස් වූහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "එරෙහිව"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "එරෙහිවද"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝනට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:44.578160183Z",
+  "model": "glm-5.3"
+}

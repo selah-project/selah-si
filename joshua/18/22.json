@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "බෙයිත් අරාබා, තෙමරයිම්, බෙයිත්-එල් ⟨ද⟩,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "අරාබා"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "තෙමරයිම්"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:54.797451203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් කරඬුවක් ⟨එකක්⟩, ෂෙකෙල් දසයක්, සුවඳ දුම් පිටියෙන් පිරී.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "කරඬුවක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දසයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "පිරී"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම් පිටියෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:33:30.283675023Z",
+  "model": "glm-5.3"
+}

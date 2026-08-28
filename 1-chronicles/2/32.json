@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ෂම්මයිගේ සහෝදරයා වන යදාගේ පුත්‍රයන්: යෙතෙර් සහ යොනතන්; යෙතෙර් පුත්‍රයන් නැතිව මළේය.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "යදාගේ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "සහෝදරයා"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ෂම්මයිගේ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "යෙතෙර්"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "යොනතන්"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "යෙතෙර්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැතිව"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:01:11.401575619Z",
+  "model": "glm-5.3"
+}

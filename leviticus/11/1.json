@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ යහ්වේ මොෂේට සහ අහරෝන්ට කථා කළේය, ඔවුන්ට කියමින්,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ …ට"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:22.994856274Z",
+  "model": "glm-5.3"
+}

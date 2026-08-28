@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අමර්යාගේ පුත්, අසර්යාගේ පුත්, මෙරයෝත්ගේ පුත් —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "මෙරයෝත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:02:40.404309198Z",
+  "model": "glm-5.3"
+}

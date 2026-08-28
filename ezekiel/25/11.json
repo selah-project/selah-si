@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මෝවාබ් තුළ මම විනිශ්චයන් කරමි; ඔවුහු දැනගනිති මම යහ්වේ වන බව.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "මෝවාබ් තුළ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "මම කරමි"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "විනිශ්චයන්"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ඔවුහු දැනගනිති"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:37:14.508722967Z",
+  "model": "glm-5.3"
+}

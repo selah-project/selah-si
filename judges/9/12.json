@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ගස් මිදි වැලට කීවෝය: එවුන්, ඔබ අප උඩ රජ කරව.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීවෝය"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "මිදි වැලට"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "එවුන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "රජ කරව"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අප උඩ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:41:27.257500510Z",
+  "model": "glm-5.3"
+}

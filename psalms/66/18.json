@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 66,
+  "translation": "අධර්මයක් මම මාගේ හදවත තුළ දුටුවෙම් නම්, අදෝනයි නොඅසන්නේය.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "අධර්මයක්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුවෙම්"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "මාගේ හදවත තුළ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "අසන්නේය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:42:59.335599897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේගේ දූතයා ඌට හමු විය — ජලධාරාව අසල, අරණේ, ජලධාරාව අසල, ෂූර් මාර්ගයේ ⟨ය.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "හමු විය"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ජලධාරාව"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයේ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "අරණේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ජලධාරාව"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ෂූර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:12:17.481866311Z",
+  "model": "glm-5.3"
+}

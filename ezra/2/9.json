@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සක්කයිගේ පුත්‍රයෝ — සත්සිය හැටක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "සක්කයිගේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "හැටක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:28.438820224Z",
+  "model": "glm-5.3"
+}

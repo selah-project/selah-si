@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඔහු ⟨את⟩ කුරුල්ලන් අතරින් එකෙකු, මැටි බඳුනක, ජීවමාන ජලය මතදී මරා දමයි.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ඔහු මරා දමයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුරුල්ලන් අතරින් එකෙකු"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "කුරුල්ලන්"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "අතරින් එකෙකු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ට"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "බඳුනක"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතදී"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවමාන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:13:44.335672526Z",
+  "model": "glm-5.3"
+}

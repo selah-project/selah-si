@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ලෙමෙක්ගේ සියලු දිනවල් වසර හත්සැත්තිස් සිය හතළිස් හත්ද වූයේය; ඔහු මළේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල්"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ලෙමෙක්ගේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හත"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "හතළිස් හත්ද"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "හත් සිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:01.384475521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 88,
+  "translation": "ඔවුන් ජලය සේ දවස පුරා මා වට කළහ; ඔවුන් එක්ව මා මතට වැටී සිටියහ.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "මා වට කළහ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ජලය සේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "පුරා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "වැටී සිටියහ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා මතට"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "එක්ව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:03:47.596691675Z",
+  "model": "glm-5.3"
+}

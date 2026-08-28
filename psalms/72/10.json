@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 72,
+  "translation": "තර්ෂීෂ් රජුහු හා ⟨the⟩ දූපත්වල රජුහු පඬුරු යවති; ෂෙබා හා සෙබා රජුහු තෑගි ගෙන එති.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "රජුහු"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "තර්ෂීෂ්"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "හා දූපත්"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "පඬුරු"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "යවති"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "රජුහු"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ෂෙබා"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "හා සෙබා"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "තෑගි"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ගෙන එති"
+    }
+  ],
+  "timestamp": "2026-08-28T02:48:59.400738720Z",
+  "model": "glm-5.3"
+}

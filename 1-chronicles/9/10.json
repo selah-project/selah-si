@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "පූජකවරුන්ගෙන්: යදයා, යෙහෝයාරීබ් සහ යඛීන්.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "සහ ... ගෙන්"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකවරු"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "යදයා"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "යෙහෝයාරීබ්"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "යඛීන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:39.246753436Z",
+  "model": "glm-5.3"
+}

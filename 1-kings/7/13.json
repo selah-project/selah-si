@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රජ වන ෂලෝමෝ එවූයේය, ඔහු සෝර් සිට ⟨את⟩ හිරාම් ගෙනැඟුයේය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "එවූයේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ගෙනැඟුයේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හිරාම්"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "හිරාම්"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "සෝර් සිට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:35:09.087647449Z",
+  "model": "glm-5.3"
+}

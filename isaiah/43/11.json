@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "මමම, මමම යහ්වේ; මා හැර ගැළවීම්කරුවෙක් නැත.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "මමම"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මමම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "මා හැර"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ගැළවීම්කරුවෙක්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:29:10.167227803Z",
+  "model": "glm-5.3"
+}

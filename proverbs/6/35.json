@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "කිසිදු විමුක්ති ද්‍රව්‍යයක මුහුණ ඔහු නොදරයි, තෑගි ඔබ බොහෝ කළද ඔහු එකඟ නොවන්නේය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "දරයි"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "විමුක්ති ද්‍රව්‍යයක"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "එකඟ වන්නේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "බොහෝ කළද"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "තෑගි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:34.681750152Z",
+  "model": "glm-5.3"
+}

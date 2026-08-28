@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "දෙහි පෙතියක් සේ ඔබේ කන්තාරය — ඔබේ තිරය ⟨පිටුපස⟩.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "පෙතියක් සේ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "දෙහි"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ඔබේ කන්තාරය"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "පිටුපස"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ඔබේ තිරය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:43.832252182Z",
+  "model": "glm-5.3"
+}

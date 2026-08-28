@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "රසවත් ආහාර මම නොකෑවෙමි; මස් සහ වයින් මාගේ කටට නොපැමිණියේය; සුවඳ තෙල් මම නොගාගත්තෙමි — දින තුන්-සති තුනක් පිරෙන තුරු.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ආහාර"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "රසවත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "කෑවෙමි"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "සහ මස්"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "සහ වයින්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פי",
+      "gloss": "කට"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "සහ ගෑම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "ගාගත්තෙමි"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "පිරීම"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "සති"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T05:48:32.642771659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මියමීන්, මජධියා, බිල්ගා.",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "මියමීන්"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "මජධියා"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "බිල්ගා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:48.192166695Z",
+  "model": "glm-5.3"
+}

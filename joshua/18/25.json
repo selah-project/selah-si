@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ගිබිඔන්, රාමා, බෙරොත්,",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ගිබිඔන්"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "රාමා"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "බෙරොත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:16.222840089Z",
+  "model": "glm-5.3"
+}

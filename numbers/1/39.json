@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔවුන් ගණන් කරන ලද්දෝ — දන් ගෝත්‍රයට අයත්ව — දෙසැට දහසක් සහ සියයක් හතකි.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ගණන් කරන ලද්දෝ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට අයත්ව"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දන්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙකුදු"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "සහ සැට"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "සහ හත"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:31:37.382570346Z",
+  "model": "glm-5.3"
+}

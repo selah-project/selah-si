@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් කරඬුවක් එකක්, ශේකල් දහයක්, සුවඳ දුම් පූජාවෙන් පිරී ඇත.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "කරඬුවක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "පිරී ඇත"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම් පූජාවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:25.740778642Z",
+  "model": "glm-5.3"
+}

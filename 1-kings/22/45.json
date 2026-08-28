@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "යෙහෝෂාපාත් ඊශ්‍රායෙල් රජු සමඟ සාමය කළේය.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "සාමය කළේය"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "යෙහෝෂාපාත්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:49:03.339484552Z",
+  "model": "glm-5.3"
+}

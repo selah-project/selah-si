@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "අත් ගසන්නන් අතර, ණය ගැතියන් අතර, සිටින්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "සිටින්නේ"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "ගසන්නන් අතර"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ණය ගැතියන් අතර"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "ණය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:16:18.624351996Z",
+  "model": "glm-5.3"
+}

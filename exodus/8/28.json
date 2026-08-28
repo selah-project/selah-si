@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "පරාවා ⟨את⟩ ඔහුගේ හදවතද මෙම වරද බර කළේය, සහ ජනයා නොයැවීය.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "බර කළේය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පරාවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ හදවත"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ඔහුගේ හදවත"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද මෙම"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "වරද"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "යැවීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:43:03.162911836Z",
+  "model": "glm-5.3"
+}

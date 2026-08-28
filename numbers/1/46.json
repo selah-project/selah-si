@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඒ ගණන් කරන ලද සියල්ල වූයේ ලක්ෂ හයක් — දහස් තුනක් — පන්සිය පනස් පස්දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ඒ වූහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ගණන් කරන ලද"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "සහ තුනක්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "සහ පහ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "සහ පනස්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:26:39.104744605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "යකඩ සහ ලෝකඩ ඔබේ ඇණ වේ; ඔබේ දින මෙන් ඔබේ විවේකය ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ලෝකඩ"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "ඔබේ ඇණ"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "ඔබේ දින මෙන්"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ඔබේ විවේකය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:38.558601799Z",
+  "model": "glm-5.3"
+}

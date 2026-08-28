@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මගේ පුත්, මගේ ප්‍රඥාවට කන් යොමව, මගේ අවබෝධයට ඔබේ කන නමව.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "මගේ ප්‍රඥාවට"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "කන් යොමව"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "මගේ අවබෝධයට"
+    },
+    {
+      "surface": "הט",
+      "gloss": "නමව"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ඔබේ කන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:51.887632308Z",
+  "model": "glm-5.3"
+}

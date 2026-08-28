@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔහු ඔහුට කීවේය: මම නොයෙමි; මාගේ දේශයට සහ මාගේ ජන්ම භූමියට මම යමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "මම යෙමි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "එසේ නොව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "මාගේ දේශයට"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "මාගේ ජන්ම භූමියට"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "මම යමි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:11.520553956Z",
+  "model": "glm-5.3"
+}

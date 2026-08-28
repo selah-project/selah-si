@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "බටහිර සුළඟ දෙසට හැරී මිනුම් රිකිලියෙන් කුම්භ පන්සියයක් මැණියේය.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "හැරී"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "බටහිර ⟨සුළඟ⟩"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "මැණියේය"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "කුම්භ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "රිකිලියෙන්"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "මිනුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:07:46.542001465Z",
+  "model": "glm-5.3"
+}

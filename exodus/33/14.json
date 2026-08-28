@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු පැවසුවේය: මාගේ මුහුණ ⟨will⟩ යන්නේය, මම ඔබට විවේකය දෙන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු පැවසුවේය"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මාගේ මුහුණ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "යන්නේය"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "මම විවේකය දෙන්නෙමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:01:27.646033644Z",
+  "model": "glm-5.3"
+}

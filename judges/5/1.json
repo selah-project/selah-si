@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එවිට දෙබොරා සහ බාරක්, අබිනෝම්ගේ පුත්, ඒ දිනයේදී ගායනා කළහ; කියමින්:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "එවිට ගායනා කළහ"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "දෙබොරා"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "සහ බාරක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "අබිනෝම්"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ඒ දිනයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:38:03.850862997Z",
+  "model": "glm-5.3"
+}

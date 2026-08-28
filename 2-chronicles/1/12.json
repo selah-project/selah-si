@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 1:12",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ප්‍රඥාවද ඥානයද ඔබට දී ඇත; ධනයද, නිධානද, තේජසද මම ඔබට දෙන්නෙමි — ඔබට පෙර සිටි රජවරුන්ට මෙසේ නොවීය; ඔබට පසු මෙසේ නොවන්නේය.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "והמדע",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "දී ඇත"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ධනය"
+    },
+    {
+      "surface": "ונכסים",
+      "gloss": "නිධාන"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "මම දෙන්නෙමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "රජවරුන්ට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ඔබට පෙර"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "ඔබට පසු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:10:35.055976622Z",
+  "model": "glm-5.3"
+}

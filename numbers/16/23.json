@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේ මොෂේට කතා කර මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කර කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:32:29.004040863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඇසූ බව ඇත්තේද — ජනයෙක්, ගින්නෙන් ⟨මැදින්⟩ කථා කරන එලෝහීම්ගේ හඬක්, ඔබ ඇසූ ලෙස, ඔබ — සහ ජීවත් වූද?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "ඇසූ බව ඇත්තේද"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙක්"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬක්"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ගින්නෙන්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙස"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "සහ ජීවත් වූද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:24.844448660Z",
+  "model": "glm-5.3"
+}

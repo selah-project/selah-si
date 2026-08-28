@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔහු කීවේය: බලුව, තවම ⟨the⟩ දවස මහත; ගවකරු රැස් කිරීමේ වේලාව නොවේ; බැටළුවන්ට වතුර දෙන්න, යන්න, තවාහු.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "הן",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවම"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "වේලාව"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "රැස් කිරීමේ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ගවකරු"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "වතුර දෙන්න"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "බැටළුවන්ට"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "තවාහු"
+    }
+  ],
+  "timestamp": "2026-08-28T08:06:03.624265834Z",
+  "model": "glm-5.3"
+}

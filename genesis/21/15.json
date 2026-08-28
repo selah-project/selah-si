@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "චරමෙහි ජලය අවසන් වූ කල, ඇය දරුවාව ⟨את⟩ පඳුරු එකක් යටට හෙළාලීය.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "අවසන් වූ කල"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "චරමෙහි"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ඇය හෙළාලීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දරුවාව"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "දරුවා"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යටට"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "පඳුරු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:15:40.379237823Z",
+  "model": "glm-5.3"
+}

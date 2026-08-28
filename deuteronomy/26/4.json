@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "කොහෙන් ⟨the⟩ බුමුතුරුණ ඔබේ අතින් ගෙන යහ්වේ ඔබේ එලෝහීම්ගේ පූජාවේලයට ඉදිරිපිට තබනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ගනී"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "කොහෙන්"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "බුමුතුරුණ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ඔබේ අතින්"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "එය තබනු ඇත"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාවේලයට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:51.505234772Z",
+  "model": "glm-5.3"
+}

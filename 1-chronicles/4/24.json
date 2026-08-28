@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ෂිමොන්ගේ පුත්‍රයෝ: නෙමුඑල්, සහ යමීන්, යාරීබ්, සෙරාඛ්, ෂාඌල්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ෂිමොන්"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "නෙමුඑල්"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "සහ යමීන්"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "යාරීබ්"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "සෙරාඛ්"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:02.456033674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "එයර් අවුරුදු සිවියක් හා තිස් හතරක් ජීවත්ව, ⟨את⟩ පෙලෙග් ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත්ව"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "එයර්"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිවියක්"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "හා තිස් හතරක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පෙලෙග්"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "පෙලෙග්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:47.298064023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ආටෙර්, චිස්කියා, අසූර්,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ආටෙර්"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "චිස්කියා"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "අසූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:40.517823295Z",
+  "model": "glm-5.3"
+}

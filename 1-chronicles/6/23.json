@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යිට්ස්හාර්ගේ පුත්, කෙහාත්ගේ පුත්, ලෙවීගේ පුත්, යිස්රාඑල්ගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "යිට්ස්හාර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "කෙහාත්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවී"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:43.019359570Z",
+  "model": "glm-5.3"
+}

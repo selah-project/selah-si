@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යොයාකීම්ගේ දිනවල පූජකයෝ — ⟨the⟩ පියවරුන්ගේ ප්‍රධානීහු — ⟨they were⟩ ෂරයාගේ ⟨family⟩ මරයා; යිර්මයාගේ ⟨family⟩ ඡනන්යා.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "යොයාකීම්ගේ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "පූජකයෝ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ප්‍රධානීහු"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "පියවරුන්ගේ"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "ෂරයාගේ"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "මරයා"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "යිර්මයාගේ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ඡනන්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:12.143919567Z",
+  "model": "glm-5.3"
+}

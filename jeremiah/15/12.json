@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යකඩ, උතුරේ යකඩ සහ තඹ — ⟨මේවා⟩ බිඳිය හැක්කේද?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "බිඳිය හැක්කේද"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "උතුරේ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "සහ තඹ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:48:26.179914328Z",
+  "model": "glm-5.3"
+}

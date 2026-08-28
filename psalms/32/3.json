@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මම නිහඬ සිටියදී, මගේ කෑගැස්ම ⟨නිසා⟩ දිනමුල මගේ ඇට මැකිණා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "දී"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "මම නිහඬ සිටිය"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "මැකිණා"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "මගේ ඇට"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "මගේ කෑගැස්ම නිසා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුල"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:14.796083236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "බාරක් ඇයට කීවේය: ඔබ මා සමඟ යන්නේ නම් මම යමි; ඔබ මා සමඟ නොයන්නේ නම් මම නොයමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "බාරක්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "යන්නේ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මා සමඟ"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "මම යමි"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "යන්නේ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මා සමඟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "යමි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:39:24.363029219Z",
+  "model": "glm-5.3"
+}

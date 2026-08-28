@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඇත්තෙහිම, මා වෙතට ඔහු ආපසු හැරේ — ඔහු සියලු දවස තම අත පෙරළයි.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ඇත්තෙහිම"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා වෙතට"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "පෙරළයි"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දවස"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:46.705406497Z",
+  "model": "glm-5.3"
+}

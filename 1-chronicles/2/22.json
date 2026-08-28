@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සෙගූබ්හු යායීර්ට පියෙකු විය, ගිල්අද් දේශයේ ⟨ה⟩ ඔහුට නගර විසිතුනක් ⟨මි>)",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "සෙගූබ්හු"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "පියෙකු විය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යායීර්ට"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "යායීර්ට"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ගිල්අද්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:49.568335880Z",
+  "model": "glm-5.3"
+}

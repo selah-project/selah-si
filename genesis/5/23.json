@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "හනොක්ගේ සියලු දින අවුරුදු තුන්සිය පන්නෑසැටයි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "හනොක්ගේ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "සැට"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:34.470334387Z",
+  "model": "glm-5.3"
+}

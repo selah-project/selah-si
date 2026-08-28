@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මුහුණට මුහුණ යහ්වේ කන්ද මත, ගින්න මැදින් ඔබ සමඟ කතා කළේය.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "මුහුණට මුහුණ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කතා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්ද මත"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ගින්න"
+    }
+  ],
+  "timestamp": "2026-08-28T08:40:19.959301245Z",
+  "model": "glm-5.3"
+}

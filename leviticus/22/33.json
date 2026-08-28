@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මිසර දේශයෙන් ඔබව ⟨את⟩ පිටත් කර යවා, ඔබට එලෝහීම් වන පිණිස ⟨ඔහු⟩ — මම යහ්වේ වෙමි.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "පිටත් කර යවන තැනැත්තා"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබව",
+      "marks": "ඔබ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "දේශයෙන්"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිසර"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "වන පිණිස"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:19:17.180182558Z",
+  "model": "glm-5.3"
+}

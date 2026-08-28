@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබට කූඩාරමෙන් ⟨පිටත⟩ අතක් ⟨වේවා⟩, ඔබ එහි පිටතට පිටත්ව යනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "අතක්"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "කූඩාරමෙන්"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "පිටත්ව යව"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "පිටතට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:39.937204692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යනූම්, බෙත්-තප්පූඛ්, අපෙකා,",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "යනූම්"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "තප්පූඛ්"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "අපෙකා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.011804830Z",
+  "model": "glm-5.3"
+}

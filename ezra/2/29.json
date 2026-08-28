@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නෙබෝගේ පුත්‍රයෝ — පනස් දෙදෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "නෙබෝ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙදෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:56.966468968Z",
+  "model": "glm-5.3"
+}

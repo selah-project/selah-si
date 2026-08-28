@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "යහ්වේ තම ජනයාට බලය දෙයි; යහ්වේ ⟨את⟩ තම ජනයා සාමයෙන් ආශීර්වාද කරයි.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "බලය"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "තම ජනයාට"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ආශීර්වාද කරයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම ජනයා"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "තම ජනයා"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "සාමයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:15:42.221962253Z",
+  "model": "glm-5.3"
+}

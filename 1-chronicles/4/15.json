@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "කාලෙබ්ගේ — ජෙපුනේගේ පුත්‍රයාගේ — පුත්‍රයෝ: ඉරු, එලා සහ නාඅම්; එලාගේ පුත්‍රයෝ: කෙනාස්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "කාලෙබ්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ජෙපුනේ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ඉරු"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලා"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "සහ නාඅම්"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලාගේ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "කෙනාස්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:41.352683027Z",
+  "model": "glm-5.3"
+}

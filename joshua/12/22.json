@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "කෙදෙෂ්හි ⟨රජු⟩ එකෙකි; කර්මෙල් සමීපයේ යොක්නෙආම්හි ⟨රජු⟩ එකෙකි;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "කෙදෙෂ්හි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකෙකි"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "යොක්නෙආම්හි"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "කර්මෙල් සමීපයේ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:51:17.978943609Z",
+  "model": "glm-5.3"
+}

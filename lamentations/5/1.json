@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මතක තබාගන්න, යහ්වේ, අපට කුමක් සිදු වී ද; බලා දකින්න ⟨את⟩ අපගේ නින්දිතභාවය.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "මතක තබාගන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිදු වී ද"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "බලා"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "දකින්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අපගේ නින්දිතභාවය"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "අපගේ නින්දිතභාවය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:20.880641497Z",
+  "model": "glm-5.3"
+}

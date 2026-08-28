@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සහ යහ්වේගේ වචනය මට ‹මෙසේ› පැමිණීය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහ වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "‹මෙසේ› පැමිණීය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:26:57.642608132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එම වේලාවේදී මම යහ්වේ අත ප්‍රාර්ථනා කළෙමි, මෙසේ කියා:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ප්‍රාර්ථනා කළෙමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "වේලාවේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:57.905192049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඥානයට 'ඔබ මාගේ සහෝදරිය' කියව්; බුද්ධියට 'ඥාතිනියි' යැයි කතා කරව්.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "කියව්"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ඥානයට"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "මාගේ සහෝදරිය"
+    },
+    {
+      "surface": "את",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ඥාතිනියි"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "බුද්ධියට"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "කතා කරව්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:01:02.645803882Z",
+  "model": "glm-5.3"
+}

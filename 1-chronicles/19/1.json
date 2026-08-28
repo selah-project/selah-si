@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඉන් පසු, බනේ-අම්මෝන් රජ නාහාෂ් මිය ගියේය, ඔහුගේ පුත්‍රයා ඔහු වෙනුවට රාජ්‍ය කළේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ඉන්"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "නාහාෂ්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "අම්මෝන්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍ය කළේය"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්‍රයා"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:33.339825792Z",
+  "model": "glm-5.3"
+}

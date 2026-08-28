@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මොෂේ යහ්වේගේ වචනය අනුව ⟨את⟩ ඔවුන් ගණන් කළේය, ඔහුට අණ කරන ලද්දක් මෙන්.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ගණන් කළේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ඔවුන්",
+      "gloss": "ඔවුන්",
+      "note": "pronoun suffix on את"
+    },
+    {
+      "surface": "על",
+      "gloss": "අනුව"
+    },
+    {
+      "surface": "פי",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "මෙන්"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කරන ලද්දක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:29:00.688675019Z",
+  "model": "glm-5.3"
+}

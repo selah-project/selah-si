@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "සියලු නායකයෝද, බලවන්තයෝද, රජ දාවීද්ගේ පුතුන් සියල්ලන්ද රජ ෂෙලෝමෝහ් යටතේ ⟨කීකරුව⟩ සිටියහ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "නායකයෝද"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "බලවන්තයෝද"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්ද"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුතුන්"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "දුන්හ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "හස්තය"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යටතේ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝහ්"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:08:33.509112128Z",
+  "model": "glm-5.3"
+}

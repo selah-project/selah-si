@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මම ගියෙමි, පිරාත්හි එය සැඟවූවෙමි, යහ්වේ මට ⟨את⟩ අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "මම ගියෙමි"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "එය සැඟවූවෙමි"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "පිරාත්හි"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ මට",
+      "marks": "මට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:52:45.235398889Z",
+  "model": "glm-5.3"
+}

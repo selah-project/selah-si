@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බොඅස් ⟨את⟩ ඔවෙද් බිහිකළේය; ඔවෙද් ⟨את⟩ යීෂයි බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "බොඅස්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවෙද්"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ඔවෙද්"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ඔවෙද්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යීෂයි"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "යීෂයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:31.473094456Z",
+  "model": "glm-5.3"
+}

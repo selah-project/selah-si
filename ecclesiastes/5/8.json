@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "පොළොවේ ලාභය සියල්ලට ම — රජු කුඹුරකට සේවය කරනු ලැබන්නෙකි.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "සහ ලාභය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියල්ලට ම"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "කුඹුරකට"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "සේවය කරනු ලැබන්නෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:56.025539867Z",
+  "model": "glm-5.3"
+}

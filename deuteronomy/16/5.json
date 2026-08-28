@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔබට ⟨את⟩ පස්ස මරා පූජා කිරීමට නොහැක — යහ්වේ ඔබේ එලෝහීම් ඔබට දෙන ඔබේ දොරටුවන් අතුරෙන් කිසිම එකක ⟨දොරටුවක⟩ නොහැක.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ඔබට හැක"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "මරා පූජා කිරීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පස්ස"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "පස්ස"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "එකක"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ඔබේ දොරටුවන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:05:23.249070737Z",
+  "model": "glm-5.3"
+}

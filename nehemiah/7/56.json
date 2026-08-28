@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නෙට්සියක්ගේ පුත්‍රයෝ, හටිපාගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "නෙට්සියක්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "හටිපාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:09.503934673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "හිස් වී හිස් වන පොළොව, කොල්ලකෑමට කොල්ලකන ලද; මන්දයත් යහ්වේ මේ වචනය ⟨את⟩ කීවේය.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "හිස් වී"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "හිස් වන"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "කොල්ලකෑමට"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "කොල්ලකන ලද"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්දයත්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:21:31.685474211Z",
+  "model": "glm-5.3"
+}

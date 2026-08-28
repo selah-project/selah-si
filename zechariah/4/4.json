@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම උත්තර දී මා සමඟ කථා කරන දූතයාට මෙසේ කීවෙමි: අදෝනයි, මේවා මොනවාද?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "මම උත්තර දී"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ඔහු",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා සමඟ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:46:13.886732203Z",
+  "model": "glm-5.3"
+}

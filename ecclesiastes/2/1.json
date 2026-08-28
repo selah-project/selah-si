@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම මගේ හදවත තුළ කීවෙමි: එව් මැනවි, සතුටෙන් පරීක්ෂා කරමි; යහපත බලව — සහ බෙහෙවින්, එයද හායල ⟨භාවයයි⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "මගේ හදවත තුළ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "එව්"
+    },
+    {
+      "surface": "נא",
+      "gloss": "මැනවි"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "පරීක්ෂා කරමි"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "සතුටෙන්"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "සහ බලව"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බෙහෙවින්"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හායල"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:21.238335426Z",
+  "model": "glm-5.3"
+}

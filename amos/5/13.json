@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එබැවින් බුද්ධිමතා ⟨the⟩ එම කාලයේදී නිහඬ වන්නේය, මන්ද ⟨the⟩ එය නපුරු කාලයකි.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "බුද්ධිමතා"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "නිහඬ වන්නේය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-28T01:26:18.005009757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යෙහෝනාතන්ගේ පුත් මෙරිබ්-බාල්, මෙරිබ්-බාල් ⟨את⟩ මීඛා බිජු කළේය.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "යෙහෝනාතන්"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "මෙරිබ්-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "බාල්"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "මෙරිබ්-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "බාල්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිජු කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මීඛා"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "මීඛා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:50.722098490Z",
+  "model": "glm-5.3"
+}

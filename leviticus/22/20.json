@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "එහි කුඩාපලුවක් ඇති කිසිවක් ඔබ ආසන්න නොකරන්න — මන්ද එය ඔබට ප්‍රීතිකර දෙයක් නොවන නිසාය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "בו",
+      "gloss": "…ඇති"
+    },
+    {
+      "surface": "מום",
+      "gloss": "කුඩාපලුවක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ආසන්න කරන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවන"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ප්‍රීතිකර දෙයක්"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන නිසාය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:17.945732451Z",
+  "model": "glm-5.3"
+}

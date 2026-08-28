@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ප්‍රාකාර මුඛයන් — වටේට සිටියේ — දිග අඟල් පණම් විසිපහක්, පළල අඟල් පණම් පහකි.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ප්‍රාකාර මුඛයන්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේට"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "සිටියේ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විසි"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල් පණම්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල් පණම්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:56:21.469688246Z",
+  "model": "glm-5.3"
+}

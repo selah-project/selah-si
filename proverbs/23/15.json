@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මාගේ පුත්‍රය, ඔබේ හදවත ප්‍රඥාවන්ත නම්, මාගේ හදවතද සතුටු වන්නේය, මමද එසේමය.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මාගේ පුත්‍රය"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ප්‍රඥාවන්ත වේ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "සතුටු වන්නේය"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "මාගේ හදවතද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මමද"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:57.866043927Z",
+  "model": "glm-5.3"
+}

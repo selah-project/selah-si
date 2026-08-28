@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම දන්නෙමි — බලවත් අතකින් නොවේ නම්, මිත්ස්රයිම් රජු ⟨את⟩ඔබට යාමට ඉඩ නොදෙන බව.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "මම දන්නෙමි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—බව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ඉඩ දෙන්නේ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ඔබට",
+      "marks": "ඔබ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිත්ස්රයිම්"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "යාමට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොවේ නම්"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතකින්"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "බලවත්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:41:14.026973620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "සබත දිනයේදී ඔබේ සියලු වාසස්ථානවල ගිනි දැල්වීමෙන් නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "දැල්වීමෙන් කරන්න"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ඔබේ වාසස්ථානවල"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "සබත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:01:41.601334330Z",
+  "model": "glm-5.3"
+}

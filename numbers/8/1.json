@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ යහ්වේ මොෂේට දොඩවා වදාළේය, කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ දොඩවා වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:10.855212547Z",
+  "model": "glm-5.3"
+}

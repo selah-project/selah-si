@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "තාගේ පියාගේ බිරිඳගේ නිරුවත නොහෙළන්න — ⟨එය⟩ තාගේ පියාගේ නිරුවතයි.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "බිරිඳගේ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "තාගේ පියාගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "හෙළන්න"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "තාගේ පියාගේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨එය⟩ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:40.536165598Z",
+  "model": "glm-5.3"
+}

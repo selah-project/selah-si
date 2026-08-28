@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "උතුරු දෙස මැන්නේය — මිනුම් බට බැවින් බට පන්සියයක්, වටපිට මැන්නේය.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "මැන්නේය"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "දෙස"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "බට"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "බට බැවින්"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "මිනුම්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටපිට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:06:40.195944176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "යහ්වේ මිනිසාගේ සිතුවිලි දන්නේය — ඒවා ⟨හිස් වන⟩ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නේය"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "සිතුවිලි"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හිස්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:13.652261104Z",
+  "model": "glm-5.3"
+}

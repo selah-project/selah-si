@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එවිට ඩැනියෙල් රජු සමඟ කතා කොට: රජු, සදාකාලයට ජීවත් වන්න.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ඩැනියෙල්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ජීවත් වන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T05:48:27.195831804Z",
+  "model": "glm-5.3"
+}

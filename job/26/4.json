@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "⟨את⟩ කවුන්ට වචන කීවේද? කාගේ ආත්මය තොපගෙන් පිටත්ව ගියේද?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කවුන්"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුන්"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "කීවේද"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කාගේ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "පිටත්ව ගියේද"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "තොපගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:44:53.078304236Z",
+  "model": "glm-5.3"
+}

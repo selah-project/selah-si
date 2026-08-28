@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "සහ යහ්වේ මොෂෙට කථා කළේය එම දිනයේම සැබෑ දිනයේදී, කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "සැබෑ දිනයේදීම"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දිනයේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:16:49.434137948Z",
+  "model": "glm-5.3"
+}

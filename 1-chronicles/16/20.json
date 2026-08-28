@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔවුන් ජාතියෙකින් අන් ජාතියකටද, රාජ්‍යයකින් වෙනත් ජනයෙකුටද ඇවිද ගියහ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ඇවිද ගියහ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ජාතියෙකින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ජාතියකට"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "රාජ්‍යයකින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "වෙනත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:51:11.297872770Z",
+  "model": "glm-5.3"
+}

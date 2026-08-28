@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එසේ වුවද මෙම කාරණයේදී ඔබ යහ්වේ ඔබගේ එලෝහීම් විශ්වාස නොකළහ.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "එසේ වුවද මෙම කාරණයේදී"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "නො"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "විශ්වාස කළහ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ විශ්වාස"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:19.814658594Z",
+  "model": "glm-5.3"
+}

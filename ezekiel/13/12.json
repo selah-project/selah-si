@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "බැලූකල — බැම්ම වැටී ඇත; ඔබ වෙත 'ඔබ තවරා ගත් තැවරුම කොහි ද?' යැයි නොකියනේ ද?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ත්-බැලූකල"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "වැටී-ඇත"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "බැම්ම"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "නො...ද"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "කියනේ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබ-වෙත"
+    },
+    {
+      "surface": "איה",
+      "gloss": "කොහි-ද"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "තැවරුම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "ඔබ-තවරා-ගත්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:28:27.674307416Z",
+  "model": "glm-5.3"
+}

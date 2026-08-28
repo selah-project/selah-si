@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔහු මළවුන් හා ජීවත්වූවන් අතර සිටියේය; මරකුස නවතා ලදී.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "සිටියේය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා ... අතර"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ජීවත්වූවන්"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "නවතා ලදී"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "මරකුස"
+    }
+  ],
+  "timestamp": "2026-08-27T20:39:11.467704223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ෂාපාන්ගේ පුත් ගෙමර්යාහුගේ පුත් මිකායෙහු පොතෙන් යහ්වේගේ සියලු වචන ⟨את⟩ අසා ගත් විට,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "අසා ගත් විට"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "මිකායෙහු"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "ගෙමර්යාහුගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ෂාපාන්ගේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු වචන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "පොතෙන්"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "පොත"
+    }
+  ],
+  "timestamp": "2026-08-28T00:08:38.830206662Z",
+  "model": "glm-5.3"
+}

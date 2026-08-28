@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ ගදෝර්, සහ අකීයෝ, සහ සඛර් —",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "සහ ගදෝර්"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "සහ අකීයෝ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "සහ සඛර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:18.416375889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "වට පිටාව ⟨את⟩ පිහිටුවන්නෙහි; වට පිටාවේ දොරටුවේ තිරයද ⟨את⟩ තබන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "පිහිටුවන්නෙහි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වට පිටාව"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "වට පිටාව"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේට"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "තබන්නෙහි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තිරය"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "තිරය"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "වට පිටාවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:19.378309467Z",
+  "model": "glm-5.3"
+}

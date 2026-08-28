@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එය භයංකරය; බිහිසුණුය; එහි නීතියද එහි උසස් බවද එයින්ම නික්මෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "භයංකරය"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "බිහිසුණුය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්ම"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "එහි නීතිය"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "එහි උසස් බවද"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "නික්මෙන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T01:37:48.615963541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔහුව තදින් අල්ලාගෙන ඔහුට සිපගත්තාය; ඇය මුහුණ තද කරගෙන ඔහුට මෙසේ කීවාය:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "තදින් අල්ලාගත්තාය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහුව"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "සිපගත්තාය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "තද කරගෙන"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ඇගේ මුහුණ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:39.729381846Z",
+  "model": "glm-5.3"
+}

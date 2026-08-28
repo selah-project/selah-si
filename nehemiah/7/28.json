@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙත්-අස්මාවෙත් මිනිස්සු හතළිස දෙකයි.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "අස්මාවෙත්"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:53.149360521Z",
+  "model": "glm-5.3"
+}

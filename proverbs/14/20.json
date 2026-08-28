@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "දුප්පතා තම ⟨යාළුවාටද⟩ වෛර කැරේ; පොහොසතාට ආදරය කරන්නෝ බොහෝ වෙති.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "තම යාළුවාටද"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "වෛර කැරේ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "දුප්පතා"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "සහ ආදරය කරන්නෝ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "පොහොසතාට"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:06:15.922747553Z",
+  "model": "glm-5.3"
+}

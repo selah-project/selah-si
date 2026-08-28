@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "බොරු පිපි හෙළන ⟨the⟩ කොළඹ සාක්ෂිකරු, සහෝදරයන් අතර ගැටුම් ප්‍රචාරය කරන්නා",
+  "tokens": [
+    {
+      "surface": "යפיח",
+      "gloss": "පිපි හෙළන"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "බොරු"
+    },
+    {
+      "surface": "עד",
+      "gloss": "සාක්ෂිකරු"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "කොළඹ"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "සහ ප්‍රචාරය කරන්නා"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ගැටුම්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "සහෝදරයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:44.730973392Z",
+  "model": "glm-5.3"
+}

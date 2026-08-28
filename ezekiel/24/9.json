@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "එබැවින් මෙසේ කියයි අදෝනයි යහ්වේ: අනේ, ලේවල නගරය! මමද දර ගොඩ මහත් කරමි.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "අනේ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ලේවල"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "මහත් කරමි"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "දර ගොඩ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:37:10.194252196Z",
+  "model": "glm-5.3"
+}

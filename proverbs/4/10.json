@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මාගේ පුත්, අසන්න; මාගේ වචන ගන්න; ජීවිතයේ අවුරුදු ඔබට වැඩි වේවා.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මාගේ පුත්"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "මාගේ වචන"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "වැඩි වේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවිතයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:15.701659497Z",
+  "model": "glm-5.3"
+}

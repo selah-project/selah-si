@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යහ්වේ මා සමඟ නැවතත් වදින්නට එක් වූයේය, කියන පිණිස:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "එක් වූයේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වදින්නට"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා සමඟ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවතත්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන පිණිස"
+    }
+  ],
+  "timestamp": "2026-08-27T23:12:57.740148639Z",
+  "model": "glm-5.3"
+}

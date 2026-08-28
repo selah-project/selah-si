@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔබට සමාන කිසිවෙක් නැත, යහ්වේ; ඔබ මහත් වූ තැනැත්තෙකි, බලසම්පන්නව ඔබේ නාමයද මහත් වේ.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ඔබට සමාන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ඔබේ නාමයද"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "බලසම්පන්නව"
+    }
+  ],
+  "timestamp": "2026-08-27T23:49:12.652352359Z",
+  "model": "glm-5.3"
+}

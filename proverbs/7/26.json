@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බොහෝ තුවාලකරුවන් ⟨ඇය⟩ බිම දැම්මාය; ඇගේ මරාදැමූ සියල්ල බලවත්හු වූහ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "තුවාලකරුවන්"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "බිම දැම්මාය"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "බලවත්හු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "ඇගේ මරාදැමූ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:42.969507253Z",
+  "model": "glm-5.3"
+}

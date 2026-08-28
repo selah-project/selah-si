@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ ෂම්ෂෙරයි, සහ ෂෙහර්යා, සහ අතල්යා.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "සහ ෂම්ෂෙරයි"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "සහ ෂෙහර්යා"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "සහ අතල්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:45.006077890Z",
+  "model": "glm-5.3"
+}

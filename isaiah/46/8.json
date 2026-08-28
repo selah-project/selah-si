@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "මෙය සිහි කරව, පිරිමියෝ වව; ආපසු හරවා ගනව, පාපතරයො, හදවතට.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "සිහි කරව"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "පිරිමියෝ වව"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ආපසු හරවා ගනව"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "පාපතරයො"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:33:46.735036525Z",
+  "model": "glm-5.3"
+}

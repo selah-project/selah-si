@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "⟨את⟩ රනින් කළ පිරියත් දාම දෙක මුදු දෙක මත — පපු පළඳනාවේ කෙළවරුවලට — ඔබ තබන්නේය.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ඔබ තබන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පිරියත් දාම දෙක"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "පිරියත් දාම"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "මුදු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "කෙළවරු"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "පපු පළඳනාව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:56:43.665554638Z",
+  "model": "glm-5.3"
+}

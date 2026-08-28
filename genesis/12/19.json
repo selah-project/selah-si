@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඇයි 'ඇය මගේ සහෝදරිය' යැයි කී නිසා මම ⟨את⟩ ඇයව මට බිරිඳට ගත්තෙමි? දැන් බල — ඇය ඔබේ බිරිඳ; ගෙන යන්න.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "කී නිසා"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "මගේ සහෝදරිය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ගත්තෙමි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ඇයව"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "බිරිඳට"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ඔබේ බිරිඳ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "යන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:49.801962524Z",
+  "model": "glm-5.3"
+}

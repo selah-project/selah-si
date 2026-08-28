@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 5:29",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ශෙලෙමෝහ්ට බර ඔසවන හැත්තෑව දහසක් ද, කන්දෙහි කපන අසූ දහසක් ද වූහ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ශෙලෙමෝහ්ට"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "හැත්තෑව"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ඔසවන"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "බර"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "අසූ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "කපන"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්දෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:33:21.427896651Z",
+  "model": "glm-5.3"
+}

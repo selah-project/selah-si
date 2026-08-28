@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද ⟨බැලුවම⟩ ශීත ඍතුව පසුව ගියේය; වැසියා ඉක්ම ගොස්, තම මඟ ගියේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බැලුවම"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ශීත ඍතුව"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "පසුව ගියේය"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "වැසියා"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ඉක්ම ගියේය"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තම මඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:44:45.308400171Z",
+  "model": "glm-5.3"
+}

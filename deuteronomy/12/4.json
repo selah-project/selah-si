@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඔබ යහ්වේට — ඔබගේ එලෝහීම්ට — එසේ නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:55.531850613Z",
+  "model": "glm-5.3"
+}

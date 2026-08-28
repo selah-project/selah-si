@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මරාරීගේ පුත්‍රයෝ — මක්ලී සහ මූෂී; මක්ලීගේ පුත්‍රයෝ — එලජාසාර් සහ කීෂ්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "මරාරීගේ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "මක්ලී"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "සහ මූෂී"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "මක්ලීගේ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "එලජාසාර්"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "සහ කීෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:02:11.265339222Z",
+  "model": "glm-5.3"
+}

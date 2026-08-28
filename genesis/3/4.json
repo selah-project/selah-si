@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සර්පයා ගැහැණියට කීය: \"මිය යන්නේ නැත — ඔබ මිය නොයවු.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "සර්පයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ගැහැණියට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මිය යන්නේ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "මිය නොයවු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:30.381482457Z",
+  "model": "glm-5.3"
+}

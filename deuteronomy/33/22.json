@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "දන් ගැන ඔහු කීවේය: දන් ⟨වූ⟩ කෙනා සිංහයෙකුගේ පැටියෙකි, බාෂාන් වෙතින් පනී.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "දන් ගැන"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දන්"
+    },
+    {
+      "surface": "גור",
+      "gloss": "පැටියෙකි"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "සිංහයෙකුගේ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "පනී"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "බාෂාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:15:56.219297168Z",
+  "model": "glm-5.3"
+}

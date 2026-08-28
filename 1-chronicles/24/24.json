@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "උස්සීඑල්ගේ පුත්‍රයෝ — මීඛා; මීඛාගේ පුත්‍රයන්ට — ෂමූර්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "උස්සීඑල්ගේ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "මීඛා"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "මීඛාගේ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ෂමූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:07.101339016Z",
+  "model": "glm-5.3"
+}

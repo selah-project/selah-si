@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මම මුහුදද, නැතහොත් තැනිතලා මකරාද, නුඹ මට ආරක්ෂකයෙකු යෙදවූ සේක්?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "මකරා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "යෙදවූ සේක්"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ආරක්ෂකයෙකු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:39:44.967960285Z",
+  "model": "glm-5.3"
+}

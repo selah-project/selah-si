@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 86,
+  "translation": "අදෝනයි, මට කරුණා කරන්න, මන්ද මම සියලු ⟨දින⟩ ඔබ වෙත කෑගසමි.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "මට කරුණා කරන්න"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "මම කෑගසමි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T03:07:40.507268988Z",
+  "model": "glm-5.3"
+}

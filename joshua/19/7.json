@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "අයින්, රිමොන්, එතෙර් සහ අෂාන් — නගර හතරක් සහ ඒවායේ ගම්මාන",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "අයින්"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "රිමොන්"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "එතෙර්"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "අෂාන්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ඒවායේ ගම්මාන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:02.599742535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එබැවින් ඔබට නොවේ ඉර විසින්නා — ගොඩලෑමෙහි — යහ්වේගේ සභාවෙහි.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "විසින්නා"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ඉර"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ගොඩලෑමෙහි"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "සභාවෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:14:48.521679174Z",
+  "model": "glm-5.3"
+}

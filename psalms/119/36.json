@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මගේ සිත ඔබේ සාක්ෂිකරණවලට නැඹුරු කරන්න, අනුචිත ලාභයට නොවේ.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "නැඹුරු කරන්න"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "මගේ සිත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...වලට"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ඔබේ සාක්ෂිකරණ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "අනුචිත ලාභය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:32:43.809842869Z",
+  "model": "glm-5.3"
+}

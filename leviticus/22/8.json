@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මළ මසක් හෝ කොටා දමන ලද ගොදුරක් — එයින් අපවිත්‍ර වීමට ⟨ඔහු⟩ නො කයි; මම ⟨වෙමි⟩ යහ්වේ",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "මළ මසක්"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "කොටා දමන ලද ගොදුරක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කයි"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "අපවිත්‍ර වීමට"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:12.540440199Z",
+  "model": "glm-5.3"
+}

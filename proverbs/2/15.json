@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔවුන්ගේ මාර්ග ඇඹරුණු, ඔවුන්ගේ වටපටං ව්‍යාකූල;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "ඔවුන්ගේ මාර්ග"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "ඇඹරුණු"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "ව්‍යාකූල"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "ඔවුන්ගේ වටපටං"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:32.665871081Z",
+  "model": "glm-5.3"
+}

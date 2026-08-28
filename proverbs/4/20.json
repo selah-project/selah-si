@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මගේ පුත්‍රය, මගේ වචනවලට කන් යොමු කර; මගේ කථාවලට නින්දගේ කන නවාත.<\/br>",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්‍රය"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "මගේ වචනවලට"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "කන් යොමු කර"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "මගේ කථාවලට"
+    },
+    {
+      "surface": "הט",
+      "gloss": "නවාත"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "නින්දගේ කන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:19.566280305Z",
+  "model": "glm-5.3"
+}

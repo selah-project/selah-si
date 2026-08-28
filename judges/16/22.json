@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔහුගේ හිසෙහි කෙස්, මුඩු කරන ලද ලෙසට, වැවී ඒමට පටන් ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "පටන්ගත්තේය"
+    },
+    {
+      "surface": "שער",
+      "gloss": "කෙස්"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ඔහුගේ හිසෙහි"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "වැවීමට"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙසට"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "මුඩුකරනලද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:48:15.239216925Z",
+  "model": "glm-5.3"
+}

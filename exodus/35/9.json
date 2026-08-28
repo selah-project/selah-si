@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "සෝහම් ගල්ද, පිහිටුවීමේ ගල්ද — එපොදයටද, චෝෂෙනයටද.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ගල්ද"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "සෝහම්"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ගල්ද"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "පිහිටුවීම් (මුතු ඇතිරීමේ)"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "එපොදයට"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "චෝෂෙනයටද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:00:07.633014296Z",
+  "model": "glm-5.3"
+}

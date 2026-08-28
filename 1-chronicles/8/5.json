@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ගෙරා, ෂෙපුපාන් සහ හුරාම් ය.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "ගෙරා"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "ෂෙපුපාන්"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "හුරාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:28.562397976Z",
+  "model": "glm-5.3"
+}

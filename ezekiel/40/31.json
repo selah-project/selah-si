@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 40:31",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "එහි ප්‍රාකාර මුඛය ⟨faced⟩ පිටත අංගණයට ⟨toward⟩; එහි කුළුණු මත තල් රූ වූහ; එබැවින් ⟨the⟩ නැගීමට පියවර අටක් වූයේය.",
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "එහි ප්‍රාකාර මුඛය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "අංගණය"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "තල් රූ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "එහි කුළුණු"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "පියවර"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "නැගීම"
+    }
+  ],
+  "timestamp": "2026-08-28T00:56:21.469823080Z",
+  "model": "glm-5.3"
+}

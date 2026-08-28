@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහු කීවේය: මේ ඔබ ම මගේ පුත් එසාව් ද? ඔහු කීවේය: මම ම ය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "එසාව්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම ම ය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:15.673074181Z",
+  "model": "glm-5.3"
+}

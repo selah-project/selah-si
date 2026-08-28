@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සහ රෙපා ⟨ඔහුගේ⟩ පුත්, සහ රෙෂෙප්, සහ තෙලා ⟨ඔහුගේ⟩ පුත්, සහ තඛාන් ⟨ඔහුගේ⟩ පුත්.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "සහ රෙපා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "සහ රෙෂෙප්"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "සහ තෙලා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "සහ තඛාන්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:41.351231941Z",
+  "model": "glm-5.3"
+}

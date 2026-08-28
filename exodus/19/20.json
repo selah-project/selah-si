@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "යහ්වේ සීනායි කන්ද මතට — කඳු මුදුනට — බැස ගියේය; යහ්වේ කඳු මුදුනට මොෂේට කථා කළේය, මොෂේ නැඟී ගියේය.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "බැස ගියේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "සීනායි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "මුදුන"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "මුදුන"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟී ගියේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:17.744258058Z",
+  "model": "glm-5.3"
+}

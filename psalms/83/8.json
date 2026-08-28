@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 83,
+  "translation": "ගෙබාල, අම්මොන්, අමාලෙක්, ප්ලෙෂෙත්, සෝර් වැසියන් සමඟ —",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ගෙබාල"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "අම්මොන්"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "අමාලෙක්"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ප්ලෙෂෙත්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "වැසියන්"
+    },
+    {
+      "surface": "צור",
+      "gloss": "සෝර්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:48.507107653Z",
+  "model": "glm-5.3"
+}

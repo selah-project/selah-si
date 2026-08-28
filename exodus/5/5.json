@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "පර්ඕ කීයේ: බල, රටේ ජනයා දැන් බොහෝ ය, ඔබ ඔවුන් ⟨את⟩ ඔවුන්ගේ බරවලින් විවේක ගන්වයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "බල"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රටේ"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "විවේක ගන්වයි"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ඔවුන්ගේ බරවලින්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:40:50.856516590Z",
+  "model": "glm-5.3"
+}

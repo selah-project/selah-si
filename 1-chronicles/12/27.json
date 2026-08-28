@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ලෙවීයන්ගේ පුත්‍රයන්ගෙන් — හාර දහසක් හා හය් සියයක්.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ලෙවීයන්"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "හාර"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "හා හය්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:48:54.812978102Z",
+  "model": "glm-5.3"
+}

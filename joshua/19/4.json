@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "එල්තෝලාද්, බෙතූල්, හෝර්මා.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "එල්තෝලාද්"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "බෙතූල්"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "හෝර්මා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:04.843874032Z",
+  "model": "glm-5.3"
+}

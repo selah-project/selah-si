@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මොෂේ ඒ ඇසූ විට, එය ඔහුගේ ඇස් සම්මුඛයේ යහපත් විය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසූ විට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "යහපත් විය"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ඔහුගේ ඇස් සම්මුඛයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:51.444850863Z",
+  "model": "glm-5.3"
+}

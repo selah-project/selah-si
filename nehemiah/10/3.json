@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සෙරායා, අසරියා, යිර්මෙයා.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "සෙරායා"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසරියා"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "යිර්මෙයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:07.897762752Z",
+  "model": "glm-5.3"
+}

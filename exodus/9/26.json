@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඒ ගෝෂෙන් රටෙහි පමණක් — යිස්රාඑල් පුත්‍රයෝ එහි සිටි තැන — අලික නොවීය.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "රටෙහි"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ගෝෂෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වී"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "අලික"
+    }
+  ],
+  "timestamp": "2026-08-27T19:43:00.235177472Z",
+  "model": "glm-5.3"
+}

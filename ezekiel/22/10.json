@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "පියාගේ නග්නත්වය ඔබ තුළ හෙළි කළෝය, නිතාවේ අශුද්ධිය ඔබ තුළ පීඩා කළෝය.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "නග්නත්වය"
+    },
+    {
+      "surface": "אב",
+      "gloss": "පියාගේ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "හෙළි කළෝය"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ තුළ"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "අශුද්ධිය"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "නිතාවේ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "පීඩා කළෝය"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ඔබ තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:36:45.972726801Z",
+  "model": "glm-5.3"
+}

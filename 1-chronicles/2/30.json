@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නදාබ්ගේ පුත්‍රයෝ — සෙලෙද් සහ අප්පයිම්; සෙලෙද් පුතුන් නැතිව මළේය.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "නදාබ්ගේ"
+    },
+    {
+      "surface": "සלד",
+      "gloss": "සෙලෙද්"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "අප්පයිම්"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "සෙලෙද්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැතිව"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:01:05.004498106Z",
+  "model": "glm-5.3"
+}

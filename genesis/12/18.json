@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඵාරෝ අව්රාහම්ට කැඳවා කීවේය: මට මේ කී නිසා මේ කළේ කුමක්ද? ඇය ඔබේ බිරිඳ බව මට නොකී ඇයි?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "කැඳවා"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ඵාරෝ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "අව්රාහම්ට"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "කළේ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "කී"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ඔබේ බිරිඳ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:49.801811588Z",
+  "model": "glm-5.3"
+}

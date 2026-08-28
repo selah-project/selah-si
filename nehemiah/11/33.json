@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඛසොර්, රාමා, ගිත්තායිම්.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ඛසොර්"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "රාමා"
+    },
+    {
+      "surface": "ඒתים",
+      "gloss": "ගිත්තායිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:21.551684889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බින්නුයි (Binnui) පුත්‍රයන් — හයසිය හතළිස් අටයි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "බින්නුයි"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.213107912Z",
+  "model": "glm-5.3"
+}

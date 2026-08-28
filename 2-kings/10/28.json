@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙසේ යෙහු ඉශ්රායෙල්ගෙන් ⟨את⟩ බාල් විනාශ කළේය.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "විනාශ කළේය"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "යෙහු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බාල්"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "බාල්"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ඉශ්රායෙල්ගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:54:55.732108401Z",
+  "model": "glm-5.3"
+}

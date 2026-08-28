@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ශාපයට පත් වේ තම බෑනමා සමඟ සැතපෙන තැනැත්තා; සියලු ජනයා ද „ආමෙන්\" යැයි කියනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාපයට පත් වේ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "සැතපෙන"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "තම බෑනමා"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "සහ කියනු ඇත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ආමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:02.010683607Z",
+  "model": "glm-5.3"
+}

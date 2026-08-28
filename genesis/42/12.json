@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "ඔවුන්ට කීවේය — නැත; රටේ නිරුවත බැලීමට තොසේ පැමිණියා වෙයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මෙන්"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රටේ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "පැමිණියා"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "බැලීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:31:08.847931026Z",
+  "model": "glm-5.3"
+}

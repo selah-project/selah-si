@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "ඔහු නැගෙනහිර දෙස මිනුම් බටෙන් මැන්නේය — බට පහස් සියයක්, මිනුම් බටෙන් වට පිටය.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "මැන්නේය"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "දෙස"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "බටෙන්"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "මිනුම්"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහස්"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "(සිය)"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "බට"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "බටෙන්"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "මිනුම්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වට පිට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:57:42.181454604Z",
+  "model": "glm-5.3"
+}

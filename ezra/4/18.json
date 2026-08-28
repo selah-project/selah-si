@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 4:18",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබ අප වෙත යවන ලද ලිපිය මා ඉදිරිපිට පැහැදිලි කර කියවන ලදී.",
+  "tokens": [
+    {
+      "surface": "נשתונא",
+      "gloss": "ලිපිය"
+    },
+    {
+      "surface": "די",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "שלחתון",
+      "gloss": "යවන ලද"
+    },
+    {
+      "surface": "עלינא",
+      "gloss": "අප වෙත"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "පැහැදිලි කර"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "කියවන ලදී"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "මා ඉදිරිපිට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:56:55.890072907Z",
+  "model": "glm-5.3"
+}

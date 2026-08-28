@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "අහිනදාබ් — ඉද්දෝගේ පුත් — මහනයිම්හි ⟨තිබුණේ⟩.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "අහිනදාබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ඉද්දෝ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "මහනයිම්හි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:30:34.698847635Z",
+  "model": "glm-5.3"
+}

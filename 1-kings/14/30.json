@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "රෙකබෙම් සහ යරබෙම් අතර සියලු දින යුද්ධයක් ⟨පැවතියි⟩.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "සහ යුද්ධයක්"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "පැවතියි"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "රෙකබෙම්"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "යරබෙම්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T22:42:29.943194813Z",
+  "model": "glm-5.3"
+}

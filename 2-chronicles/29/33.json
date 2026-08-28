@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "පූජා කළ පූජනීය වස්තුන් වූයේ ගවයන් සය සියයක් සහ බැටළුවන් තුන් දහසකි.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "පූජා කළ පූජනීය වස්තුන්"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ගවයන්"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "සහ බැටළුවන්"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසකි"
+    }
+  ],
+  "timestamp": "2026-08-28T11:08:23.458395669Z",
+  "model": "glm-5.3"
+}

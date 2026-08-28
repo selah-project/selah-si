@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යෙරිකෝවේ පුත්‍රයෝ — තුන්සිය හතළිස් පස් දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "යෙරිකෝවේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්සිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(සිය)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පස්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:25.402616807Z",
+  "model": "glm-5.3"
+}

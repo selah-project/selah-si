@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "අදෝනයි වචනයක් යාකොව් වෙත එවූහ; එය යිස්රාඑල් මත වැටුණි.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "වචනයක්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "එවූහ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "යාකොව් වෙත"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "වැටුණි"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "යිස්රාඑල් මත"
+    }
+  ],
+  "timestamp": "2026-08-27T23:15:03.368660497Z",
+  "model": "glm-5.3"
+}

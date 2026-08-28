@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මේවාද ෂලෝමෝහේ උපමා, යුදාහී රජු වන හිස්කියාහ් මිනිසුන් පිටපත් කළ ඒවායි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "උපමා"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝහේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "පිටපත් කළ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "හිස්කියාහ්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යුදාහී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:18:10.965156433Z",
+  "model": "glm-5.3"
+}

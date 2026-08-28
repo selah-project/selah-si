@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "උලාම්ගේ පුත්‍රයෝ — එක්දහස් දෙසිය පනස් හතර දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "උලාම්ගේ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "එක්දහස්"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "හතර දෙනෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:53:51.087013466Z",
+  "model": "glm-5.3"
+}

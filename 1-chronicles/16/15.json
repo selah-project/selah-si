@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "සදාකාලයට ඔහුගේ සන්ධානයද, දහස් පරම්පරාවකට ඔහු අණ කළ වචනයද සිහි කරවුන්,",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "සිහි කරවුන්"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ඔහුගේ සන්ධානය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ඔහු අණ කළ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාවකට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:52:22.296702041Z",
+  "model": "glm-5.3"
+}

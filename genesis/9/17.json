@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එලෝහීම් නොහ්ට කීවේය: මෙය ⟨මෙයයි⟩ ⟨මා⟩ සහ පොළොව මත සිටින සියලු මස් අතර මම පිහිටුවූ ගිවිසුමේ ලකුණයි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොහ්"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ලකුණ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ගිවිසුමේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "මම පිහිටුවූ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "මා අතර"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:56.593764144Z",
+  "model": "glm-5.3"
+}

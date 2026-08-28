@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "යොසෙප් පර්ඔහට කීවේය: පර්ඔගේ සිහිනය එකකි; එලෝහීම් ⟨את⟩ කරන දේ පර්ඔහට ප්‍රකාශ කර ඇත.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඔ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "සිහිනය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඔගේ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකකි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨වේ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කරන දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ප්‍රකාශ කර ඇත"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "පර්ඔහට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:09:44.013423404Z",
+  "model": "glm-5.3"
+}

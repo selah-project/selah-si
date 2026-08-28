@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "අයහපතෙන් වෙන් වව, යහපත කරව, සාමය සොයව, එය පසනව.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "වෙන් වව"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "අයහපතෙන්"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "කරව"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "සොයව"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "එය පසනව"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:23.302035719Z",
+  "model": "glm-5.3"
+}

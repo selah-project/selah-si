@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මෙහු ය — ෂුතෙලාහ්ගේ පුත්‍රයෝ: එරාන්ට — එරානීවරුන්ගේ පවුල.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙහු ය"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ෂුතෙලාහ්ගේ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "එරාන්ට"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පවුල"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "එරානීවරුන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:42.370689535Z",
+  "model": "glm-5.3"
+}

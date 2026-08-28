@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යිර්මෙයාහු ⟨දසවැන්නා⟩, මඛ්බන්යායි ⟨එකොළොස්වැන්නා⟩;",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "දසවැන්නා"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "මඛ්බන්යායි"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "එකොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:50:17.990559637Z",
+  "model": "glm-5.3"
+}

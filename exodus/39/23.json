@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "මේලයේ කටය එහි මැද ⟨is⟩ — සන්නාහයක කටය මෙන්; කටය වටා තොලක් ⟨is⟩, එය නොඉරෙන පරිදි.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "කටය"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "මේලයේ"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "එහි මැද"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "කටය මෙන්"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "සන්නාහයක"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "තොලක්"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "කටය වටා"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "ඉරෙන පරිදි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:06.343498955Z",
+  "model": "glm-5.3"
+}

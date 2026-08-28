@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බේබායිගේ පුත්‍රයෝ — හයසිය විසිතුනක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "බේබායිගේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:28.439163906Z",
+  "model": "glm-5.3"
+}

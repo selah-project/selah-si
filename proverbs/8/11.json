@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මන්ද ප්‍රඥාව මුතුවලට වඩා යහපත්ය; කැමති සියලු දේවල් එයට සමාන නොවේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "මුතුවලට වඩා"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "කැමති දේවල්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "සමාන"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එයට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:01.279449625Z",
+  "model": "glm-5.3"
+}

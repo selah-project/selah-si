@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නාතන් රජුට කීය: හදවත තුළ ඇති සියල්ල කරව, යන්න, කරව, මන්ද යහ්වේ ඔබ සමඟ වන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "හදවත තුළ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරව"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:09:26.536021791Z",
+  "model": "glm-5.3"
+}

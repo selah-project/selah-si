@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "උමා, අෆෙක් සහ රෙචොබ්; නගර විසිදෙක් සහ ඒවායේ ගම්මානද.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "උමා"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "අෆෙක්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "රෙචොබ්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "දෙක්"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ඒවායේ ගම්මානද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:33.436942384Z",
+  "model": "glm-5.3"
+}

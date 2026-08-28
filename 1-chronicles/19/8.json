@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "දාවීද් මෙය අසා ⟨את⟩ යොආබ් සහ ⟨את⟩ වීරයන්ගේ සම්පූර්ණ හමුදාවද යැව්වේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොආබ්"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "යොආබ්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "වීරයන්ගේ සම්පූර්ණ හමුදාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "හමුදාව"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "වීරයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:58:23.849252347Z",
+  "model": "glm-5.3"
+}

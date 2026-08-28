@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යෝයාරිබ් නිකායට — මත්නායි; යෙදායා නිකායට — උස්සි;",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "යෝයාරිබ් නිකායටද"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "මත්නායි"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "යෙදායා නිකායට"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "උස්සි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:08.122608761Z",
+  "model": "glm-5.3"
+}

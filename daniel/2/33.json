@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එහි කකුල් යකඩ වූ අතර, එහි පාද ඒවායින් කොටසක් යකඩ ද කොටසක් මැටි ද විය.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "එහි කකුල්"
+    },
+    {
+      "surface": "די",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "එහි පාද"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "ඒවායින් කොටසක්"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨වූ⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "සහ ඒවායින් කොටසක්"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨වූ⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "මැටි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:38:01.364967994Z",
+  "model": "glm-5.3"
+}

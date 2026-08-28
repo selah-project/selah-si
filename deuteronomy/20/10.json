@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "නුඹ සටන් කිරීමට එක් නගරයක් වෙත ළං වූ කල, එයට සාමය පිළිබඳ කැඳවන්න.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "… කල"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ළං වූ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරයක්"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "සටන් කිරීමට"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එයට එරෙහිව"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "කැඳවන්න"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "සාමය පිළිබඳ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:06.306255356Z",
+  "model": "glm-5.3"
+}

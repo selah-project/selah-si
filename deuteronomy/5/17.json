@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "නොකරුණා, මිනිසෙකු මරන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නොකරුණා"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "මිනිසෙකු මරන්නේ නැත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:19.058672853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සභාවේ මහලුෝ යහ්වේ ඉදිරියේ ගවයාගේ හිස මත ⟨את⟩ ඔවුන්ගේ අත් තබා, ⟨ඔහු⟩ ගවයාව ⟨את⟩ යහ්වේ ඉදිරියේ මරති.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "තබා"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "මහලුෝ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨සභාවේ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්ගේ අත්"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ඔවුන්ගේ අත්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨ගවයාගේ⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "මරති"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගවයා"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ගවයා"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:08.594924212Z",
+  "model": "glm-5.3"
+}

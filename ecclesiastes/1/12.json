@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම කොහෙලෙත්, යිස්රාඑල් මත යෙරුෂාලයිම්හි රජු වී සිටියෙමි.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "කොහෙලෙත්"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "වී සිටියෙමි"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "යෙරුෂාලයිම්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:20.548574562Z",
+  "model": "glm-5.3"
+}

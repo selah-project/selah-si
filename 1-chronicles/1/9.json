@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කූෂ්ගේ පුත්‍රයෝ — සෙවා, හවීලා, සබ්තා, රඅමා, සබ්තෙඛා; රඅමාගේ පුත්‍රයෝ — ෂෙවා සහ දෙදාන්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "කූෂ්ගේ"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "සෙවා"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "හවීලා"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "සබ්තා"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "රඅමා"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "සබ්තෙඛා"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "රඅමාගේ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ෂෙවා"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "දෙදාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:24.422146896Z",
+  "model": "glm-5.3"
+}

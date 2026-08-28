@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මගෙන් ඈත් වෙලා, අවතාරය කරන්නා සියල්ලෙනි; මන්ද යහ්වේ මගේ හැඬීමේ හඬ ඇසුවේය.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "මගෙන් ඈත් වෙලා"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෙනි"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "කරන්නා"
+    },
+    {
+      "surface": "און",
+      "gloss": "අවතාරය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇසුවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "හැඬීමේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:18:48.991887213Z",
+  "model": "glm-5.3"
+}

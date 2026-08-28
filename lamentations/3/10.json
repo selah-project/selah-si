@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු සැඟවී සිටින වලසෙකි ⟨මට⟩; සැඟවුන් ස්ථානවල සිටින සිංහයෙකි.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "වලසෙකි"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "සැඟවී සිටින"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨මට⟩"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "සිංහයෙකි"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "සැඟවුන් ස්ථානවල"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:43.597385693Z",
+  "model": "glm-5.3"
+}

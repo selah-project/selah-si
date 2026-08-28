@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "කළමනාකරුට ⟨වෙන් කරන ලදී⟩, දාවීද්ගේ මිස්මෝර් එකක් ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කළමනාකරුට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:28:48.011556016Z",
+  "model": "glm-5.3"
+}

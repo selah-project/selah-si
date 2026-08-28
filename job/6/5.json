@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "කැලෑ බූරුවා තණකොළ මත බූරන්නේද? හරකා තම පශු කෑම මත ගොරවන්නේද?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "බූරන්නේද"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "කැලෑ බූරුවා"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "තණකොළ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ගොරවන්නේද"
+    },
+    {
+      "surface": "שור",
+      "gloss": "හරකා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "තම පශු කෑම"
+    }
+  ],
+  "timestamp": "2026-08-28T10:40:12.438596196Z",
+  "model": "glm-5.3"
+}

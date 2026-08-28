@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "දුප්පත් නමුත් ඥානවන්ත තරුණයා, තවදුරටත් අවවාද ලබාගන්නට නොදන්නා මහලු මෝඩ රජුට වඩා යහපත්ය.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "තරුණයා"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "දුප්පත්"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "සහ ඥානවන්ත"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "රජුට වඩා"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "මහලු"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "සහ මෝඩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නේ"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "අවවාද ලබාගන්නට"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවදුරටත්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:02.569669447Z",
+  "model": "glm-5.3"
+}

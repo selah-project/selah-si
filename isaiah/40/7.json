@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "තණකොළ වියළේය, මල මිරිකී වැටේ; මන්ද යහ්වේගේ සුළඟ එහි මත හැම්මේය; ඇත්තෙන්ම ජනයා තණකොළකි.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "වියළේය"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "තණකොළ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "මිරිකී වැටේ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "මල"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "සුළඟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "හැම්මේය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි මත"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ඇත්තෙන්ම"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "තණකොළකි"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:29:12.062228636Z",
+  "model": "glm-5.3"
+}

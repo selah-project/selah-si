@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "අෂේර් පුත්‍රයන්ගේ ගෝත්‍රයට නායකයා — ෂෙලොමී පුත් අහීහූද්.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අෂේර්"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "නායකයා"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "අහීහූද්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ෂෙලොමී"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:14.946696720Z",
+  "model": "glm-5.3"
+}

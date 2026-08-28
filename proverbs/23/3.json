@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔහුගේ රසම්බා ආහාර පැතන්නේ නැත, ඒවා රැවටිලිකාර ආහාර වන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "පැතන්නේ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "ඔහුගේ රසම්බා ආහාර"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ආහාර"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "රැවටිලිකාර"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:28.044451236Z",
+  "model": "glm-5.3"
+}

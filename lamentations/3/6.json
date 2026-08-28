@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අඳුරු තැන්හි ඔහු මා වාසය කරවීය, පුරාණ කාලයේ මළවුන් සේ ය.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "අඳුරු තැන්හි"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "මා වාසය කරවීය"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "මළවුන් සේ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "පුරාණ කාලයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:44.104581798Z",
+  "model": "glm-5.3"
+}

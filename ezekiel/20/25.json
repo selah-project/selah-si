@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඒ නිසා මමද ⟨ඈ⟩ ඔවුන්ට පණත් — යහපත් නොවන — දුන්නෙමි, සහ නීති, ඒවායේ ඔවුන් නොජීවත්වන.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ඒ නිසා...ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "දුන්නෙමි"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "පණත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවන"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "සහ නීති"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ජීවත්වන"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ඒවායේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:36:23.553821337Z",
+  "model": "glm-5.3"
+}

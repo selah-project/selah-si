@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "කියන්න එපා — „මට කළ ලෙස මම ඔහුට කරමි; මිනිසාට ඔහුගේ ක්‍රියාවට අනුව මම ආපසු දෙමි“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "කියන්න එපා"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙස"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "මම කරමි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "මම ආපසු දෙමි"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "ඔහුගේ ක්‍රියාවට අනුව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:55.263946973Z",
+  "model": "glm-5.3"
+}

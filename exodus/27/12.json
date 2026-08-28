@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "අංගණයේ පළල බටහිර පසට — රියන් පනහක් තිර ය; ඒවායේ කණු දහයයි, පාදම් දහයයි.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "අංගණයේ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "පසට"
+    },
+    {
+      "surface": "ים",
+      "gloss": "බටහිර"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "තිර"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනහක්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ඒවායේ කණු"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "පාදම්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:11.022081588Z",
+  "model": "glm-5.3"
+}

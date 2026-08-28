@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "සම්පූර්ණයෙන් නොවේ — යහ්වේගේ වචනය මා වෙත ⟨මට⟩ පැමිණියේ මෙසේ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:06:33.103311408Z",
+  "model": "glm-5.3"
+}

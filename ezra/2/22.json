@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නෙතොපා වැසියෝ, පනස් හයක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "වැසියෝ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "නෙතොපා"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "හයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:53.130394298Z",
+  "model": "glm-5.3"
+}

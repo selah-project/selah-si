@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ජලය පූජාසනය වටා ගලා ගියේය, ඔහු ⟨את⟩ අගලද ජලයෙන් පුරවා දැමීය.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ගලා ගියේය"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "පූජාසනය"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "සහ ද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අගල"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "අගල"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ඔහු පුරවා දැමීය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:47:03.679672151Z",
+  "model": "glm-5.3"
+}

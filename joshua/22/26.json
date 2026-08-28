@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "අප කීවෙමු: කරමු දැන් අපට ⟨את⟩ ⟨the⟩ මෙවලම ගොඩනැගීමට — නොව දහන-පූජාවට, නොව බලි-පූජාවට.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "අප කීවෙමු"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "කරමු"
+    },
+    {
+      "surface": "נא",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ගොඩනැගීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙවලම"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "මෙවලම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "දහන-පූජාවට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "බලි-පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:33:25.681060850Z",
+  "model": "glm-5.3"
+}

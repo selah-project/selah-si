@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 18:21",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "යොආව් කුෂියාට කීහ: \"යා, රජුට ඔබ දුටු දෑ සැල කරව.\" කුෂිය යොආව්ට වැඳ දිව්වේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "යොආව්"
+    },
+    {
+      "surface": "לכושי",
+      "gloss": "කුෂියාට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "සැල කරව"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "ראיתה",
+      "gloss": "දුටු දෑ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "වැඳ"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "කුෂිය"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "යොආව්ට"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "දිව්වේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:25:02.630807845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඔහු මා උතුරු දොරට ගෙන ගියේය, අනතුරුව මෙම මිනුම් අනුව ⟨එය⟩ මැණවිය.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ඔහු මා ගෙන ගියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරට"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "උතුරු"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "මැණවිය"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "මිනුම් අනුව"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-28T00:55:56.739402908Z",
+  "model": "glm-5.3"
+}

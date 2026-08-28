@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සන්ධ්‍යාව විය; උදෑසන විය — පස්වන දවසයි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සන්ධ්‍යාව"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "පස්වන"
+    }
+  ],
+  "timestamp": "2026-08-28T08:01:50.837025732Z",
+  "model": "glm-5.3"
+}

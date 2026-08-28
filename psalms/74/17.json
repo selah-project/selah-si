@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 74,
+  "translation": "ඔබ පොළොවේ සියලු සීමාවන් පිහිටුවා ඇත; ගිම්හානයද ශීත සෘතුවද ඔබ සෑදුවේය.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "පිහිටුවා ඇත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "සීමාවන්"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ගිම්හානය"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ශීත සෘතුව"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "සෑදුවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:54:34.544528842Z",
+  "model": "glm-5.3"
+}

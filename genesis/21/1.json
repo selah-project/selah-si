@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යහ්වේ සාරාට ⟨את⟩ බැලුවේය, ඔහු කී පරිදි; යහ්වේ සාරාට කළේය, ඔහු කතා කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "බැලුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සාරා"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "සාරාට"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "සාරාට"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කතා කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:15:22.823144877Z",
+  "model": "glm-5.3"
+}

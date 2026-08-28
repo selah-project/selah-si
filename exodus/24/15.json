@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මොෂේ පර්වතයට නැඟියේය; වලාකුළ පර්වතය ⟨את⟩ වැස්සේය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟියේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "වැස්සේය"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "වලාකුළ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පර්වතය"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "පර්වතය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:24.911400095Z",
+  "model": "glm-5.3"
+}

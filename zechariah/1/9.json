@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම කීවෙමි: මේවා මොනවාද, අදෝනයි? එවිට මතු දෙමින් සිටි දූතයා මට කීවේය: මම ඔබට පෙන්වන්නෙමි, මේවා මොනවාද යන්න.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "මතු දෙමින් සිටි"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ඔබට පෙන්වන්නෙමි"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    }
+  ],
+  "timestamp": "2026-08-28T01:42:46.510593851Z",
+  "model": "glm-5.3"
+}

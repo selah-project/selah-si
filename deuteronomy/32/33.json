@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "තැන්නීන්ගේ විෂය ඔවුන්ගේ වයිනයයි, සර්පයන්ගේ කෲර විෂයයි.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "විෂය"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "තැන්නීන්ගේ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ඔවුන්ගේ වයිනය"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "සහ විෂ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "සර්පයන්ගේ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "කෲර"
+    }
+  ],
+  "timestamp": "2026-08-27T21:18:20.748345469Z",
+  "model": "glm-5.3"
+}

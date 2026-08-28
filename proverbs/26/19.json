@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "එසේම තම ⟨את⟩ යාළුවාව රවටන මිනිසා සහ කියන්නේ: „මම නොවේ ද සෙල්ලම් කරන්නේ?“ යනුවෙනි.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "රවටන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම යාළුවාව"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "තම යාළුවාව"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "සහ කියන්නේ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නොවේ ද"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "සෙල්ලම් කරන"
+    },
+    {
+      "surface": "ඐני",
+      "gloss": "මම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:12.662215989Z",
+  "model": "glm-5.3"
+}

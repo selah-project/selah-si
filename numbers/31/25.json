@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ස්වාමී වූ යහ්වේ මොෂේට වදාළේය:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ ගැනීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:47.963560713Z",
+  "model": "glm-5.3"
+}

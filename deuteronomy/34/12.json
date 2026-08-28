@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "සහ සියලු බලවත් හා සියලු මහා භීතිය සම්බන්ධයෙන් — මොෂේ සියලු ඊශ්‍රායෙල්ගේ ඇස් ඉදිරිපිට කළ",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "היד",
+      "gloss": "බලවත්"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "බලවත්"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ඇස් ඉදිරිපිට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:20:28.441516046Z",
+  "model": "glm-5.3"
+}

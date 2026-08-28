@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "තාවකාලික වැසියෙක් හෝ කුලිකරුවෙක් එහි නොකන්නේය.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "තාවකාලික වැසියෙක්"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "හෝ කුලිකරුවෙක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කන්නේය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:45:10.115700252Z",
+  "model": "glm-5.3"
+}

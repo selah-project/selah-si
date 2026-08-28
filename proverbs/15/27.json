@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ලාභය බිඳගන්නා කෙනා තම ගෙදර කලබල කරයි; තෑගි වෙත වෛර කරන්නා ⟨නම්⟩ ජීවත් වේ.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "කලබල කරයි"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගෙදර"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "බිඳගන්නා කෙනා"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ලාභය"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "වෛර කරන්නා"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "තෑගි"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ජීවත් වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:00.306016143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යහ්වේගේ වචනය ⟨the⟩ මා වෙත විය, ⟨සේ පවසමින්⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "පවසමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:27:14.289947537Z",
+  "model": "glm-5.3"
+}

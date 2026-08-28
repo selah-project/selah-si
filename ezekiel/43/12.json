@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "මෙය ගෘහයේ තෝරාව ය: කඳු මුදුනේ, එහි සම්පූර්ණ සීමාව වටේ වටේ අති පූජනීයයි; බැලුව, මෙය ගෘහයේ තෝරාව ය.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "තෝරාව"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෘහයේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "මුදුන"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සම්පූර්ණ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "පූජනීයතම"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බැලුව"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "තෝරාව"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෘහයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:58:51.949956034Z",
+  "model": "glm-5.3"
+}

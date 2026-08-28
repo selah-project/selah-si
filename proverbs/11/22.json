@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඌරෙකුගේ නාසයෙහි රන් නාසාභරණයක් — රූමත් නමුත් රසවින්ද්‍ය ස්ත්‍රියකි.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "නාසාභරණයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "באף",
+      "gloss": "නාසයෙහි"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ඌරෙකුගේ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ස්ත්‍රියකි"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "රූමත්"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "නමුත් ඉවත යන"
+    },
+    {
+      "surface": "טעෝ",
+      "gloss": "රසවින්ද්‍ය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:07.047263992Z",
+  "model": "glm-5.3"
+}

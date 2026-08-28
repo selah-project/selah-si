@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මක්නිසාද අධර්මයෙහි කැමතෙන එකෙකු ඔබ ⟨නොවේ⟩; නපුරා ඔබ ⟨යාබද⟩ වාසය නොකරයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "කැමතෙන"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "අධර්මයෙහි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "වාසය නොකරයි"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:00:31.268317886Z",
+  "model": "glm-5.3"
+}

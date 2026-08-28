@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔබ වෙත, මිනිසුන්, මම කෑගසමි; සහ මගේ හඬ මනුෂ්‍ය පුත්‍රයන් වෙත ⟨යොමු වේ⟩.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "මම කෑගසමි"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "සහ මගේ හඬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍ය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:59.868798817Z",
+  "model": "glm-5.3"
+}

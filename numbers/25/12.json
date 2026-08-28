@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "එබැවින් කියන්න: බලව, මම ඔහුට සාමය — මාගේ සන්ධානය ⟨את⟩ — දෙමි.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "බලව, මම"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙමි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මාගේ සන්ධානය"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "මාගේ සන්ධානය"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:45:35.440269014Z",
+  "model": "glm-5.3"
+}

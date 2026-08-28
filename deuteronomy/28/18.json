@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ශාපයට පත් වේවා ඔබේ කුසේ ඵලයද, ඔබේ පසෙහි ඵලයද, ඔබේ ගවයන්ගේ පැටවුන්ද, ඔබේ බැටළු රැළද.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාපයට පත්"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵලය"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ඔබේ කුසේ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "සහ ඵලය"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ඔබේ පසෙහි"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "පැටවුන්"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "ඔබේ ගවයන්ගේ"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "සහ රැළ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ඔබේ බැටළු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:30.741518664Z",
+  "model": "glm-5.3"
+}

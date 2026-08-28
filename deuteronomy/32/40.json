@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මම ස්වර්ගය දෙසට මාගේ අත එසවීමි, මම සදාකාලයට ජීවත් වෙමි යි කියමි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "මම එසවීමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ස්වර්ගය"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මාගේ අත"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "මම කියමි"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත් වෙමි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "සදාකාලයට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:16:39.596833557Z",
+  "model": "glm-5.3"
+}

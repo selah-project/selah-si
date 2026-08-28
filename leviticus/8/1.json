@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යහ්වේ මොෂේට දේශනා කර කියා සිටියේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "දේශනා කර කියා සිටියේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා සිටියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:40.537601747Z",
+  "model": "glm-5.3"
+}

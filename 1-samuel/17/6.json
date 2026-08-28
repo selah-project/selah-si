@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "තඹ පාදැල්ලක් ⟨ඔහුගේ⟩ පාදවල ද, තඹ ඊතලයක් ⟨ඔහුගේ⟩ උරහිස් අතර ද විය.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "සහ පාදැල්ල"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ඔහුගේ පාද"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "සහ ඊතලය"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "ඔහුගේ උරහිස්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:00:21.087801153Z",
+  "model": "glm-5.3"
+}

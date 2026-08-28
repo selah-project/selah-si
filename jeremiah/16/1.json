@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේගේ වචනය මට ‹මෙසේ කියන්නැයි› පැමිණියේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියන්නැයි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:45.481415065Z",
+  "model": "glm-5.3"
+}

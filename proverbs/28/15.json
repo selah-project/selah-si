@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ගර්ජනය කරන සිංහයා සහ දඩයම හබ පන්නන වලසා — දිළිඳු ජනයා මත පාලනය කරන දුෂ්ටයා එවැනිය.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "සිංහයා"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ගර්ජනය කරන"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "සහ වලසා"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "දඩයම හබ පන්නන"
+    },
+    {
+      "surface": "משל",
+      "gloss": "පාලනය කරන"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "דל",
+      "gloss": "දිළිඳු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:07.920359563Z",
+  "model": "glm-5.3"
+}

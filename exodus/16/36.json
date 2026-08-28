@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඕමරය ⟨යනු⟩ ඒපාහි දහවන කොටස ⟨යි⟩.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ඕමරය"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "දහවන කොටස"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ඒපා"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "යි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:45.835633299Z",
+  "model": "glm-5.3"
+}

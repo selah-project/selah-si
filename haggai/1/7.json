@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එසේ කියයි යහ්වේ-සේබාඕත්: ඔබේ මාර්ග පිළිබඳ ⟨ඔබේ⟩ හදවත් යොදන්න.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේබාඕත්"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "යොදන්න"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ඔබේ හදවත්"
+    },
+    {
+      "surface": "על",
+      "gloss": "පිළිබඳ"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ඔබේ මාර්ග"
+    }
+  ],
+  "timestamp": "2026-08-28T01:43:21.958668741Z",
+  "model": "glm-5.3"
+}

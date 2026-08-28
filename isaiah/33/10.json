@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "දැන් මම නැඟී සිටිමි, යහ්වේ කියයි; දැන් මම උස් වෙමි; දැන් මම ඔසවා ගනිමි.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "නැඟී සිටිමි"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "උස් වෙමි"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ඔසවා ගනිමි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:22:24.968519654Z",
+  "model": "glm-5.3"
+}

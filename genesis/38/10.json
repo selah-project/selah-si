@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "යහ්වේගේ ඇස් ඉදිරියෙහි ඔහු කළ දේ ⟨ද්‍රෝහී⟩ විය; එබැවින් ඔහුද ⟨את⟩ මරා දැමීය.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ද්‍රෝහී විය"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු කළ දේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මරා දැමීය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:54.451897001Z",
+  "model": "glm-5.3"
+}

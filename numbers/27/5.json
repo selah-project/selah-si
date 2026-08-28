@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මොෂේ ⟨את⟩ ඔවුන්ගේ තීන්දුව යහ්වේ ඉදිරියට ගෙන ආවේය.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ගෙන ආවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්ගේ තීන්දුව"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ඔවුන්ගේ තීන්දුව"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:10.109733304Z",
+  "model": "glm-5.3"
+}

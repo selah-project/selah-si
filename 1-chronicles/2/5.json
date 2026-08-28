@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "පෙරෙට්ස්ගේ පුත්‍රයෝ: චෙට්ස්රෝන් සහ චාමූල්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "පෙරෙට්ස්ගේ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "චෙට්ස්රෝන්"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "සහ චාමූල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:25.255456902Z",
+  "model": "glm-5.3"
+}

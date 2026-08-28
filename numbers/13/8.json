@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "එප්‍රායිම් ගෝත්‍රයට — හෝෂේආ, නූන්ගේ පුත්।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "එප්‍රායිම්"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "හෝෂේආ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "נון",
+      "gloss": "නූන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:56.726103216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඔහු පීඨයට තඹ ජාලක කාර්යයක් සාදූ ය; එය එහි දාරයට යටින්, පහළින්, එහි අඩක් දක්වා විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සාදූ ය"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "පීඨයට"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "දැලක්"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "කාර්යයක්"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ජාලක"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "එහි දාරය"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "පහළින්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "එහි අඩක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:46.837624660Z",
+  "model": "glm-5.3"
+}

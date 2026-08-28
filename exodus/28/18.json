@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "දෙවැනි පේළිය — නොෆෙක්, සපීර් සහ යහලොම්.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "සහ ⟨the⟩ පේළිය"
+    },
+    {
+      "surface": "השני",
+      "gloss": "දෙවැනි"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "නොෆෙක්"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "සපීර්"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "සහ යහලොම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:38.356807057Z",
+  "model": "glm-5.3"
+}

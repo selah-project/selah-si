@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ලෙමෙක් තමාට බිරිඳුන් දෙදෙනකු ගත්තේය; එක්කෙනියගේ නම ආදා, දෙවැනියගේ නම සිලා.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාට"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ලෙමෙක්"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙදෙනකු"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "බිරිඳුන්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්කෙනියගේ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ආදා"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "සහ නම"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "දෙවැනියගේ"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "සිලා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:02:55.326685585Z",
+  "model": "glm-5.3"
+}

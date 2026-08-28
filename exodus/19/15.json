@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔහු ජනයාට කීවේය: තුන්වන දිනයට සූදානම්ව සිටින්න; ස්ත්‍රියක් වෙත ලං නොවන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "היו",
+      "gloss": "සිටින්න"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "සූදානම්ව"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනයට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "ලං වන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ස්ත්‍රියක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:21.844246345Z",
+  "model": "glm-5.3"
+}

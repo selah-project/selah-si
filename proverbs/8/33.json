@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අවවාදය අසන්න, ප්‍රඥාවන් වන්න, එය ⟨ඉවත⟩ නොදමන්න.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "අවවාදය"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "ප්‍රඥාවන් වන්න"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "ඉවත දමන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:59.787331924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ප්ලෙෂ්තිවරු පැමිණ, රෙපායිම් නිම්නයේදී පැතිරුණහ.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ප්ලෙෂ්තිවරු"
+    },
+    {
+      "surface": "באו",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "පැතිරුණහ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "නිම්නයේදී"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "රෙපායිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:49:30.321213184Z",
+  "model": "glm-5.3"
+}

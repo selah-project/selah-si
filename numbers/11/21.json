@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 11:21",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මොෂේ කීවේය: මම මැද සිටින ජනයා පයින් යන්නෝ ලක්ෂ හයකි; ඔබ කීවේ: මස් මම ඔවුනට දෙන්නෙමි, දින මාසයක් ඔවුන් කනු ඇත.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "පයින් යන්නෝ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මම මැද සිටින"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "මැද සිටින"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "දෙන්නෙමි"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුනට"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "කනු ඇත"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "මාසයක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T20:36:30.726158675Z",
+  "model": "glm-5.3"
+}

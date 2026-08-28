@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මැටි භාජනයක් — ඒවායින් එකක් එහි මැදට වැටෙන සෑම එකක්ම — එහි ඇති සියල්ල අශුද්ධ වන්නේය; ඒවා ⟨את⟩ ඔබ බිඳ දමනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාජනය"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "මැටි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටෙන"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ඒවායින්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "මැදට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "එහි ඇති"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධ වන්නේය"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ඔබ බිඳ දමනු ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:42.453995833Z",
+  "model": "glm-5.3"
+}

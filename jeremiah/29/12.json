@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ඔබ මා ⟨את⟩ කැඳවා, ගොස්, මා වෙත යාච්ඤා කරනු ඇත, මම ඔබ වෙත අසන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "කැඳවා"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "මා ⟨את⟩",
+      "marks": "මා"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "යාච්ඤා කරනු ඇත"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "අසන්නෙමි"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබ වෙත"
+    }
+  ],
+  "timestamp": "2026-08-28T09:52:07.643277639Z",
+  "model": "glm-5.3"
+}

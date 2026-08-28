@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු කීයේය: කරුණාකර මට ඔබේ ⟨את⟩ තේජස පෙන්වන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "පෙන්වන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තේජස"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ඔබේ තේජස"
+    }
+  ],
+  "timestamp": "2026-08-27T20:01:19.365378300Z",
+  "model": "glm-5.3"
+}

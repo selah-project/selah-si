@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "කෙසේද කියන්නේ, 'අපි බලවත්හු වමු, සටනට නිර්භීත පුරුෂයෝ වමු' යනුවෙන්?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "කියන්නේ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "බලවත්හු"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "අපි"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "පුරුෂයෝ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "නිර්භීත"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "සටනට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:16:09.281924735Z",
+  "model": "glm-5.3"
+}

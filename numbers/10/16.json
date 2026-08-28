@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සෙවූලූන් පුත්‍රයන්ගේ ගෝත්‍රයේ සේනාව මත — එලීආබ්, ඛෙලොන්ගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ගෝත්‍රයේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "සෙවූලූන්"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "එලීආබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ඛෙලොන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:34:28.449684974Z",
+  "model": "glm-5.3"
+}

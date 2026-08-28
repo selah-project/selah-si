@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔවුන් උණ මුහුදින් පිටත්ව, සීන් මුරුණු බිම්හි කඳවුරු ලෑවෝය.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "පිටත්ව ගියෝය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "මුහුදින්"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "උණ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "කඳවුරු ලෑවෝය"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "මුරුණු බිම්හි"
+    },
+    {
+      "surface": "סין",
+      "gloss": "සීන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:01.173128105Z",
+  "model": "glm-5.3"
+}

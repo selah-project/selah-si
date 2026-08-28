@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 129,
+  "translation": "යහ්වේ ⟨is⟩ ධාර්මිකයි; ⟨הוא⟩ ⟨את⟩ දුෂ්ටයන්ගේ ලණු කපා දැමීය.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධාර්මිකයි"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "කපා දැමීය"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ලණු"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:57.416384544Z",
+  "model": "glm-5.3"
+}

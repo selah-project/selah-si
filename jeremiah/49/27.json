@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "මම දමස්කස් තාප්පයේ ගිනි දලවන්නෙමි, එය බෙන්-හදද්ගේ මාලිගා ගිලින්නේය.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "මම දලවන්නෙමි"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "තාප්පයේ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "දමස්කස්"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "එය ගිලින්නේය"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "මාලිගා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "බෙන්"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "හදද්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:17:34.670716575Z",
+  "model": "glm-5.3"
+}

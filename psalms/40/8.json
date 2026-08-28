@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "එවිට මම කීවෙමි: බල, මම පැමිණි — ලේඛන පිටපතෙහි, පොතේ, මා ගැන ලියා ඇත.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "මම පැමිණි"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "ලේඛන පිටපතෙහි"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "පොතේ"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ලියා ඇත"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා ගැන"
+    }
+  ],
+  "timestamp": "2026-08-28T02:30:18.315777116Z",
+  "model": "glm-5.3"
+}

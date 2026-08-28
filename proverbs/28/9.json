@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "නීතිය ඇසීමෙන් තම කන හරවන්නාගේ, ඔහුගේ යාච්ඤාවද අමනාප දෙයකි.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "හරවන්නාගේ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "තම කන"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ඇසීමෙන්"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "නීතිය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "ඔහුගේ යාච්ඤාව"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "අමනාප දෙයකි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:32.318488112Z",
+  "model": "glm-5.3"
+}

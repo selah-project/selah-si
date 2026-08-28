@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේගේ මුදාගැනීම සඳහා බලා සිටීමද නිශ්ශබ්දව සිටීමද ⟨යහපත්ය⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "බලා සිටීමද"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "නිශ්ශබ්දව සිටීමද"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "මුදාගැනීම සඳහා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:00.183286608Z",
+  "model": "glm-5.3"
+}

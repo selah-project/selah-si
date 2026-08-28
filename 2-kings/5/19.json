@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔහුට කීවේය: සාමයෙන් යව. ඔහු ⟨את⟩ සමඟින් පොළොවේ දුරක් ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "සාමයෙන්"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ඔහු ⟨את⟩ සමඟින්"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "දුරක්"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:54:12.958969524Z",
+  "model": "glm-5.3"
+}

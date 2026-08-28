@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මෙයෝ ෂොබාල්ගේ පුත්‍රයෝ: අල්වාන්, මනාහාත්, ඒබාල්, ෂෙෆෝ සහ ඕනාම්.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙයෝ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ෂොබාල්ගේ"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "අල්වාන්"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "මනාහාත්"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ඒබාල්"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "ෂෙෆෝ"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ඕනාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:05:54.666072169Z",
+  "model": "glm-5.3"
+}

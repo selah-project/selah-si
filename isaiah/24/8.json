@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "තොල් බෙරේ සතුර නතර විය, උද්දාමයේ ඝෝෂාව සිඳී ගියේය; වීණාවේ සතුර නතර විය.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "නතර විය"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "සතුර"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "තොල් බෙරේ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "සිඳී ගියේය"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ඝෝෂාව"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "උද්දාමයේ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "නතර විය"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "සතුර"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "වීණාවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:20:37.748150495Z",
+  "model": "glm-5.3"
+}

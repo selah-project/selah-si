@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබ ⟨the⟩ මේසය මතට මුහුණු රොටි — මා ඉදිරියේ — නිතර තබන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ඔබ තබන්නෙහි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ මේසය"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "රොටි"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණු"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "නිතර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:03.205304032Z",
+  "model": "glm-5.3"
+}

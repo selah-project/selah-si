@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "එල්ගේ ආත්මය මා මවියි; ෂද්දයිගේ හුස් නළය මා පණවයි.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්ගේ"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "මා මවියි"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "හුස් නළය"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ෂද්දයිගේ"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "මා පණවයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:50:31.589906248Z",
+  "model": "glm-5.3"
+}

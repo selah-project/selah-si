@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "යහ්වේගේ ගස් සංතෘප්ත වී ඇත — ලෙබනනයේ දේවදාරු, ඔහු වවා ඇති ඒවා.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "සංතෘප්ත වී ඇත"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "දේවදාරු"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ලෙබනනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "වවා ඇති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:17:39.757365763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "මන්ද මෙසේ මට අදෝනයි කීවේය: යව, බලන්නාව පිහිටුවන්න; ඔහු ⟨he⟩ දුටු දේ ප්‍රකාශ කරන්නා වේවා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "පිහිටුවන්න"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "බලන්නාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු ⟨he⟩ දුටු"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ප්‍රකාශ කරන්නා වේවා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:17:42.046850384Z",
+  "model": "glm-5.3"
+}

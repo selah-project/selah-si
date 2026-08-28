@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "තම නඩුවේදී මිනිසෙකු පෙරළා දැමීමට — අදෝනයි එය නොදක්නේය.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "පෙරළා දැමීමට"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසෙකු"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "තම නඩුවේදී"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දක්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.511960054Z",
+  "model": "glm-5.3"
+}

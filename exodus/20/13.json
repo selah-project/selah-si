@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මිනීමරුකම් නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "මිනීමරුකම් කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:48.944819833Z",
+  "model": "glm-5.3"
+}

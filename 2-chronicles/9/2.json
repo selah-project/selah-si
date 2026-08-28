@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ෂලෝමෝ ⟨את⟩ ඇගේ වචන සියල්ල ඇයට කීයේය; ෂලෝමෝගෙන් සැඟවුණු වචනයක් නොවීය — ඇයට නොකී එකක් ද නොවේ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචන සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ඇගේ වචන"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "සැඟවුණි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනයක්"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "ෂලෝමෝගෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "කීයේද"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    }
+  ],
+  "timestamp": "2026-08-28T07:23:41.726508536Z",
+  "model": "glm-5.3"
+}

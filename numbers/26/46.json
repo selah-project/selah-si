@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "අෂෙර්ගේ දියණියගේ නාමය සෙරාක් විය.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "සහ නාමය"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අෂෙර්ගේ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "සෙරාක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:47:48.932867157Z",
+  "model": "glm-5.3"
+}

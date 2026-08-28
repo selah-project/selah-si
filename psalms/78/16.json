@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 78,
+  "translation": "ගලෙන් දහරැලි ගෙන ආවේය; ජලය ගංගා සේ පහළට ගලා ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ගෙන ආවේය"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "දහරැලි"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ගලෙන්"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "පහළට ගලා ගියේය"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ගංගා සේ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:56:07.092932571Z",
+  "model": "glm-5.3"
+}

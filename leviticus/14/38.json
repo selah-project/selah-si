@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එවිට පූජකයා ගෙයින් ගෙයි දොරටුව වෙත පිටතට ගොස්, ⟨את⟩ ගෙය දින හතක් වසා දමන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටතට ගොස්"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙයින්"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "වසා දමන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෙය"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:13.059460807Z",
+  "model": "glm-5.3"
+}

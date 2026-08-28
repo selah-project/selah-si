@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "එලෝහීම්ගේ සන්තැන්න ඔබට අඩුද? සුමට වචනයක් ඔබ සමඟද?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "අඩුද?"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "සන්තැන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "සහ වචනයක්"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "සුමට"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:42:57.109642600Z",
+  "model": "glm-5.3"
+}

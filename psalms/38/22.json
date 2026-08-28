@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මා අත්හැර නොයන්න, යහ්වේ; මගේ එලෝහීම්, මගෙන් දුරස් නොවන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "මා අත්හැර යන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මගේ එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "දුරස් වන්න"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:26:03.576850881Z",
+  "model": "glm-5.3"
+}

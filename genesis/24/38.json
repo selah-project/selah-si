@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඒ නොවේ — මගේ පියාගේ ගෙදරටද මගේ ඥාති කුලයා වෙතටද ගොස්, මගේ පුතාට බිרිඳක් ගන්න.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...දක්වා"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙදර"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "මගේ පියාගේ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ ...දක්වා"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "මගේ ඥාති කුලයා වෙත"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "බිරිඳක්"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "මගේ පුතාට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:07:13.647164916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "දාවීද් ඔහුට කීවේය — ඔබ මා ⟨את⟩ සමඟ ගියොත්, ඔබ මට බරක් වන්නෙහි;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ඓוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "ඔබ ගියොත්"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ මා සමඟ",
+      "marks": "මා සමඟ (යන බව)"
+    },
+    {
+      "surface": "והית",
+      "gloss": "වන්නෙහි"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "බරක්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:22:08.574082650Z",
+  "model": "glm-5.3"
+}

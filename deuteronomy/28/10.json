@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එවිට පොළොවේ සියලු ජනයෝ යහ්වේගේ නාමය ඔබ මත කියා ඇති බව දැක ඔබට බිය වන්නාහුය.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ජනයෝ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "කියා ඇත"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "බිය වන්නාහුය"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:45.257144902Z",
+  "model": "glm-5.3"
+}

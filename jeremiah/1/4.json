@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එවිට යහ්වේ ගේ වචනය මා වෙත පැමිණියේ, කියමින් —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට පැමිණියේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:42:18.873728854Z",
+  "model": "glm-5.3"
+}

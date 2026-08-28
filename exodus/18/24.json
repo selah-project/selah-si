@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මොෂේ තම මස්සිනාගේ හඬට කන් දුන්නේය, ඔහු කී සියල්ල කළේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "කන් දුන්නේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "හඬට"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "තම මස්සිනාගේ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ඔහු කී"
+    }
+  ],
+  "timestamp": "2026-08-27T19:49:50.440955783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඔබ, යහ්වේ, ඔව්හු රකිවි; මෙම පරම්පරාවෙන් උන් සදහට රකවරණ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ඔව්හු රකිවි"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "උන් රකවරණ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යන්නෙන්"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "පරම්පරාව"
+    },
+    {
+      "surface": "זו",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදහට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:07:22.589393410Z",
+  "model": "glm-5.3"
+}

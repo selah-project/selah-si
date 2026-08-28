@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 51,
+  "translation": "කෑගැසීමක හඬක් බබෙලෙන් ⟨ඇත⟩, සහ මහත් විනාශයක් කස්දිම් දේශයෙන්.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬක්"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "කෑගැසීමක"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "බබෙලෙන්"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "සහ විනාශයක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "දේශයෙන්"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "කස්දිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:57:11.371785516Z",
+  "model": "glm-5.3"
+}

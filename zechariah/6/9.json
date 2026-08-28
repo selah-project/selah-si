@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේගේ වචනය මා වෙත ⟨මට⟩ පැමිණියේය, මෙසේ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:46:04.842217337Z",
+  "model": "glm-5.3"
+}

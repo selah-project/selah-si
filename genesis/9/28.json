@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මහා ජලගිල්ලෙන් පසු නෝආඛ් අවුරුදු තුන්සිය පනස් පමණ ජීවත් විය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් විය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නෝආඛ්"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "මහා ජලගිල්ල"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    }
+  ],
+  "timestamp": "2026-08-28T08:03:01.295798135Z",
+  "model": "glm-5.3"
+}

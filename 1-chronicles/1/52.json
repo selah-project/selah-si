@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "නායක ඕහොලීබාමා, නායක එලා, නායක පිනොන්.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ඕහොලීබාමා"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලා"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "පිනොන්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:47.109475425Z",
+  "model": "glm-5.3"
+}

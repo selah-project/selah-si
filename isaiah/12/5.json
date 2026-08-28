@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ගී ගයන්න යහ්වේට, මන්ද ඔහු උත්කෘෂ්ට දේ කළේය; මේ දේ මුළු ⟨the⟩ පොළොව පුරා දැනගැනේ.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ගී ගයන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "උත්කෘෂ්ට දේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "දැනගැනේ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මේ දේ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "මුළු ... පුරා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T23:12:59.682899282Z",
+  "model": "glm-5.3"
+}

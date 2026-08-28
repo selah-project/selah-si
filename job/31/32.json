@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "පිටත අන්‍යජාතිකයා රැඳුණේ නැත; මඟියාට මගේ දොර ඇරියෙමි.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "රැඳුණි"
+    },
+    {
+      "surface": "גר",
+      "gloss": "අන්‍යජාතිකයා"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "මගේ දොර"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "මඟියාට"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ඇරියෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:50:41.456159081Z",
+  "model": "glm-5.3"
+}

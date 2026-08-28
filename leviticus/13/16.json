@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "නැතහොත් ජීවමාන මස නැවත හැරී සුදු බවට පත් වූ කල, ඔහු පූජකයා වෙත එයි.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කල"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "නැවත හැරී"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "මස"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ජීවමාන"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "පත් වූ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "සුදු බවට"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "එයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:13:45.797971653Z",
+  "model": "glm-5.3"
+}

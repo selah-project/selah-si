@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "දැන් නම් මම පළමු දිනවල සේ මෙම ජනයාගේ ශේෂයට නොවෙමි — යහ්වේ සෙබාඕත්ගේ නියමයි.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන් නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "දිනවල සේ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "ශේෂයට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නියමයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සෙබාඕත්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:47:29.257711851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "කුඹුරට නොයව, මාර්ගයෙහි නොඇවිදින්, මන්ද සතුරාට ⟨the⟩ කඩුවක් — වටේ භීතියකි.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "යව"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කුඹුරට"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "හා මාර්ගයෙහි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ඇවිදින්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "කඩුවක්"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "සතුරාට"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "වටේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:45:52.553541229Z",
+  "model": "glm-5.3"
+}

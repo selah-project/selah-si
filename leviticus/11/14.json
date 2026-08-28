@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "⟨את⟩ දාආ, ⟨את⟩ අයියා — එහි වර්ගය අනුව.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දාආ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "දාආ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අයියා"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "අයියා"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "එහි වර්ගය අනුව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:40.322367273Z",
+  "model": "glm-5.3"
+}

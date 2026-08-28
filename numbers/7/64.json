@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එක් අඬුවෙක්, එළුවන්ගෙන්, පාප පූජාවට.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "අඬුවෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළුවන්ගෙන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:33:25.123615457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "පුරුෂයෙකු ⟨את⟩ ස්ත්‍රියකගේ ශෝබනයෙන් නොහාන්න; එය ⟨අප්‍රීතිජනකයි⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "පුරුෂයෙකු"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "පුරුෂයෙකු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "හාන්න"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ශෝබනයෙන්"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ස්ත්‍රියකගේ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "අප්‍රීතිජනක"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එයයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:18:38.010121083Z",
+  "model": "glm-5.3"
+}

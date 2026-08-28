@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පැවතියේ දුර බැහැරය; ගැඹුරුය, ගැඹුරුය — කවරෙක් ⟨he⟩ එය සොයා ගන්නේද?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "දුර බැහැර"
+    },
+    {
+      "surface": "מה",
+      "gloss": "යම්...ද"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "පැවතියේ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ද"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ගැඹුරුය"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "සොයා ගන්නේද"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:21.778157859Z",
+  "model": "glm-5.3"
+}

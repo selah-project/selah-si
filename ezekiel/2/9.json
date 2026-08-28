@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම බැලූ කල, බෙහෙති! මා වෙතට එවන ලද අතකි; සහ බෙහෙති! එහි පොතක අනුවර්තයකි.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "මම බැලූ කල"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බෙහෙති!"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අතකි"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "එවන ලද"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙතට"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බෙහෙති!"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "අනුවර්තයකි"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "පොතක"
+    }
+  ],
+  "timestamp": "2026-08-28T00:22:07.260453264Z",
+  "model": "glm-5.3"
+}

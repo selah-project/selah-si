@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබ ඇතුළු වන විට ශාපයට පත්, ඔබ පිටතට යන විට ද ශාපයට පත්.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාපයට පත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ඇතුළු වන විට"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "සහ ශාපයට පත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "පිටතට යන විට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:30.741688745Z",
+  "model": "glm-5.3"
+}

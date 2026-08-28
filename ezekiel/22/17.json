@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සිදුවූ යහ්වේ වචනය මට ⟨කරා⟩, මෙසේ තබා කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදුවූ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට කරා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:41.374866007Z",
+  "model": "glm-5.3"
+}

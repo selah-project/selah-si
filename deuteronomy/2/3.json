@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔබට ⟨is⟩ ප්‍රමාණවත් — මෙම කන්ද ⟨את⟩ වට කිරීම; ඔබ උතුරට හැරෙවුන්.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ප්‍රමාණවත්"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "סב",
+      "gloss": "වට කිරීම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම කන්ද"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "හැරෙවුන්"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "උතුරට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:34.431668202Z",
+  "model": "glm-5.3"
+}

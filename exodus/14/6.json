@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඔහු ⟨את⟩ තම රථ පිළියෙළ කළේය, තම ජනතාවව ⟨את⟩ තම සමඟ ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "පිළියෙළ කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම රථ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "තම රථ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තම ජනතාවව"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "තම ජනතාවව"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "තම සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:45:41.734690731Z",
+  "model": "glm-5.3"
+}

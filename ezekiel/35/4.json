@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඔබේ නගර මම පාළු බිම් කරමි, ඔබ විනාශ ස්ථානයක් වනු ඇත; මම යහ්වේ බව ඔබ දැනගනු ඇත.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "ඔබේ නගර"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "පාළු බිම්"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "මම කරමි"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "විනාශ ස්ථානයක්"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ඔබ දැනගනු ඇත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:49:53.760896344Z",
+  "model": "glm-5.3"
+}

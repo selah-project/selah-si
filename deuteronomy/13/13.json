@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඔබ අසන විට — යහ්වේ ඔබේ එලෝහීම් ඔබට එහි වාසය කරන්නට දෙන ඔබේ නගරවලින් එකක — මෙසේ කියන බව ඇසුණොත්:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ඔබ අසන විට"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "අසන්නේ නම්"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "එකක"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ඔබේ නගරවලින්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "වාසය කරන්නට"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:52.240244106Z",
+  "model": "glm-5.3"
+}

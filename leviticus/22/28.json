@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සහ ගවයෙක් හෝ බැටළුවෙක් — ⟨את⟩ ඔහුව සහ ⟨את⟩ ඔහුගේ පුතාව එකම දිනක ⟨දිනයේදී⟩ නොවැසිය යුතුය.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "සහ ගවයෙක්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "බැටළුවෙක්"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ඔහුව"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ඔහුගේ පුතාව"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුතාව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "වැසිය යුතු"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනක"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:34.745654306Z",
+  "model": "glm-5.3"
+}

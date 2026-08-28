@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඔහු කීවේය: මම ඔබට දයාව කරමි, යහ්වේ, මගේ බලයෙනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "මම ඔබට දයාව කරමි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "මගේ බලයෙනි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:08:47.958035284Z",
+  "model": "glm-5.3"
+}

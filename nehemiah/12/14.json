@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මල්ලුචි පෙළට — යොනාතන්; ෂෙබන්යා පෙළට — යොසෙප්.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "මල්ලුචි පෙළට"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "යොනාතන්"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "ෂෙබන්යා පෙළට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:24.947084502Z",
+  "model": "glm-5.3"
+}

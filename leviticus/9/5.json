@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔවුන් ⟨את⟩ මොෂේ අණ කළ දේ හමුවීම් කූඩාරමේ මුහුණ වෙත ගෙන ගියහ; මුළු සභාවද ලං වී යහ්වේ ඉදිරියේ සිටගත්හ.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ගෙන ගියහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ අණ කළ දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරමේ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවීම්"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ලං වී"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "සභාවද"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "සිටගත්හ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:02.720830760Z",
+  "model": "glm-5.3"
+}

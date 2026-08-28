@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "හොරෙබ් සිට, සෙයීර් කන්ද මාර්ගයෙන්, කාදේෂ්-බර්නෙයා දක්වා එකොළොස් දිනක් ය.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "එකොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(දහය) — එකොළොස්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "හොරෙබ් සිට"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගයෙන්"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "සෙයීර්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "කාදේෂ්-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "බර්නෙයා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:12.092183985Z",
+  "model": "glm-5.3"
+}

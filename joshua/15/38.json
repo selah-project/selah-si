@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "දිල්උන්, හම්මිට්ස්පේ, යොක්තෙඑල්,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "දිල්උන්"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "හම්මිට්ස්පේ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "යොක්තෙඑල්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:49:59.370492290Z",
+  "model": "glm-5.3"
+}

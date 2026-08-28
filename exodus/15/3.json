@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේ යුද්ධ වැද්දෙකි; යහ්වේ ⟨හෙතෙම⟩ ඔහුගේ නාමයයි.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "වැද්දා"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "යුද්ධ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නාමය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:46:55.202234752Z",
+  "model": "glm-5.3"
+}

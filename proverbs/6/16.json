@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මේ හයක් යහ්වේ වෛර කරයි, ඔහුගේ නෙෆෙෂ් හට අමනාප වූ සතක්",
+  "tokens": [
+    {
+      "surface": "ෂෙෂ්",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "හෙන්නා",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "සානෙ",
+      "gloss": "වෛර කරයි"
+    },
+    {
+      "surface": "යධ්වේ",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "වෙෂෙවා",
+      "gloss": "සහ සත"
+    },
+    {
+      "surface": "ටෝආවොත්",
+      "gloss": "අමනාප වූ"
+    },
+    {
+      "surface": "නෙෆෙෂෝ",
+      "gloss": "ඔහුගේ නෙෆෙෂ් හට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:57.693644416Z",
+  "model": "glm-5.3"
+}

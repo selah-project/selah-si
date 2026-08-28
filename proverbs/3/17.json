@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඇගේ මාර්ග මිහිරි මාර්ගය; ඇගේ සියලු පථ සාමය වේ.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "ඇගේ මාර්ග"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "මිහිරි"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "ඇගේ පථ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:11.790339622Z",
+  "model": "glm-5.3"
+}

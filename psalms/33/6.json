@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "යහ්වේගේ වචනයෙන් අහස මැවිනි; ⟨ඔහුගේ⟩ මුඛයේ සුළඟෙන් සියලු සේනාව ⟨මැවිනි⟩.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "වචනයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "මැවිනි"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "සුළඟෙන්"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "මුඛයේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "සේනාව"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:49.788020913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ධනවතා හා දුගී මුණගැසෙති; සියල්ලන්ගේ කරුවා ⟨වන්නේ⟩ යහ්වේ ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ධනවතා"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "හා දුගී"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "මුණගැසෙති"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරුවා"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "සියල්ලන්ගේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:00.618344Z",
+  "model": "glm-5.3"
+}

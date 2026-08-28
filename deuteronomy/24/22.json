@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔබ මිස්රයිම් රටෙහි වහලෙකු වූ බව මතක තබා ගන්න; එබැවින් මම ඔබට මේ කාරණය ⟨את⟩ කිරීමට අණ කරමි.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ඔබ මතක තබා ගන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "වහලෙකු"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ඔබ වූ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "රටෙහි"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිස්රයිම්"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින් (මත)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ඔබට අණ කරමි"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ කාරණය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:07.006841700Z",
+  "model": "glm-5.3"
+}

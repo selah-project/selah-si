@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ෂාඌල් අමාලෙක් නගරය දක්වා පැමිණ, නිම්නයේ සැඟව සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "අමාලෙක්"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "සැඟව සිටියේය"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "නිම්නයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:59:39.586195614Z",
+  "model": "glm-5.3"
+}

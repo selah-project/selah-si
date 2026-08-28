@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 68,
+  "translation": "එලෝහීම්ගේ කන්ද — බාෂාන් කන්ද; කුළු රැසක කන්ද — බාෂාන් කන්ද.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "බාෂාන්"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "කුළු රැසක"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "බාෂාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:47:29.948521048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 88,
+  "translation": "ඔබේ කෝපය මා මත තබා ඇත; ඔබේ රළ සියල්ල ම මා පීඩා කළේ ය. සෙලා.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "මා මත"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "තබා ඇත"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ඔබේ කෝපය"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියල්ල ම"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ඔබේ රළ"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "පීඩා කළේ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:04:08.741616583Z",
+  "model": "glm-5.3"
+}

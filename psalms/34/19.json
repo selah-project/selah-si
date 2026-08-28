@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "හද කැඩුණුවන්ට යහ්වේ ළඟ ⟨වෙයි⟩; ආත්මය පීඩිතයන් ⟨את⟩ බේරාලයි.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ළඟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "කැඩුණුවන්ට"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හද"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ආත්මය පීඩිතයන්"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "පීඩිතයන්"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "බේරාලයි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:21:13.919951373Z",
+  "model": "glm-5.3"
+}

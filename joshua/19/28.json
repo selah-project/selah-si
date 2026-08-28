@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "සහ එබ්රොන්, රෙහොබ්, හමොන්, කානා, ⟨the⟩ මහා චීදොන් දක්වා.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "සහ එබ්රොන්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "සහ රෙහොබ්"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "සහ හමොන්"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "සහ කානා"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "චීදොන්"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:35.058800716Z",
+  "model": "glm-5.3"
+}

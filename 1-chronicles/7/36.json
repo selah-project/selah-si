@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂොපාඛ්ගේ පුත්‍රයෝ — සුඅඛ්, හර්නෙපර්, ෂුඅල්, බෙරි, ඉම්රා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ෂොපාඛ්ගේ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "සුඅඛ්"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "හර්නෙපර්"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ෂුඅල්"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "බෙරි"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ඉම්රා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:09.621577187Z",
+  "model": "glm-5.3"
+}

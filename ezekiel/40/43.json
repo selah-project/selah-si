@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 40:43",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "සහ දාර, අත්-පළලක් — කාමරය පුරා වටේම සකසන ලද; මේස මත පූජාවේ මස් ⟨තැබේ⟩.",
+  "tokens": [
+    {
+      "surface": "והשפתים",
+      "gloss": "සහ දාර"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "අත්-පළලක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מוכנים",
+      "gloss": "සකසන ලද"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "කාමරයේ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ මේසවලට"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "මේස"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "הקרבן",
+      "gloss": "පූජාවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:57:10.284912182Z",
+  "model": "glm-5.3"
+}

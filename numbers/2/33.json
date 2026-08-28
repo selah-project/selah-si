@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ලෙවීයෝ ද යිස්රායෙල් පුත්‍රයන් අතර ගණන් නොකරන ලදහ; යහ්වේ මොෂේට ⟨את⟩ අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "ලෙවීයෝ ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ගණන් නොකරන ලදහ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:47.527883584Z",
+  "model": "glm-5.3"
+}

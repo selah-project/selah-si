@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යහ්වේ යෙහෝෂුඌට වදාළේය කියා:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුඌට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:20:26.872740602Z",
+  "model": "glm-5.3"
+}

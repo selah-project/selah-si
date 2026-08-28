@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "බලුව, මම ⟨ඔබ සේම⟩ එල් ඉදිරිපිට සිටිමි; මැටියෙන් මමද ⟨මවන ලද්දෙමි⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ඔබ සේම"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "එල් ඉදිරිපිට"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "මැටියෙන්"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "මවන ලද්දෙමි"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මමද"
+    }
+  ],
+  "timestamp": "2026-08-28T04:50:56.583170115Z",
+  "model": "glm-5.3"
+}

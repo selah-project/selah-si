@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "නෙතනෙල් හතරවැන්නා, රද්දයි පස්වැන්නා.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "නෙතනෙල්"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "හතරවැන්නා"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "රද්දයි"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "පස්වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:19.296468435Z",
+  "model": "glm-5.3"
+}

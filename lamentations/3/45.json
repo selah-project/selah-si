@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ජනතාවන් මැද ඔබ අපව ඉවතලන-දෙයක් හා පිළිකුල්-දෙයක් කළහ.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "ඉවතලන-දෙය"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "පිළිකුල්-දෙය"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ඔබ අපව කළහ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ජනතාවන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:40.529703408Z",
+  "model": "glm-5.3"
+}

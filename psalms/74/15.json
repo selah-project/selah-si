@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 74,
+  "translation": "ඔබ දිය උල්පතද ගංගාවද පලා දැම්මේය; නොසිඳෙන ගංගා ඔබ වියළුවේය.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "පලා දැම්මේය"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "දිය උල්පත"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ගංගාවද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "වියළුවේය"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ගංගා"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "නොසිඳෙන"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:09.607830606Z",
+  "model": "glm-5.3"
+}

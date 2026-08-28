@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ගායක නායකයා වෙත; යහ්වේගේ සේවකයා වෙත, දාවීඩ් වෙත.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ගායක නායකයා වෙත"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "සේවකයා වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීඩ් වෙත"
+    }
+  ],
+  "timestamp": "2026-08-28T02:23:24.511862672Z",
+  "model": "glm-5.3"
+}

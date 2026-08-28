@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "අදෝනයි, ඔබ ඉදිරිපිට ⟨is⟩ මගේ සියලු ආශාව; ඔබගෙන් මගේ සුසුම සැඟවී ⟨න⟩ඐත.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ඔබ ඉදිරිපිට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "මගේ ආශාව"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "සහ මගේ සුසුම"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබගෙන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "සැඟවී ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T02:27:11.115853744Z",
+  "model": "glm-5.3"
+}

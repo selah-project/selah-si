@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "පිතෙහි පුත්‍රයෝ: කූෂ්, මිස්රයිම්, පූත් සහ කනාන්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "පිතෙහි"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "කූෂ්"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "මිස්රයිම්"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "පූත්"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "කනාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:57.458322523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබ කාදේෂ්හි දින රැසක් — ඔබ ⟨එහි⟩ වාසය කළ දිනවලට අනුරූපව — වාසය කළහ.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ඔබ වාසය කළහ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "කාදේෂ්හි"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "රැසක්"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "දිනවලට අනුරූපව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨එහි⟩"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "ඔබ වාසය කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:38.586248737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම දන්නෙමි ඔවුන් තුළ හොඳ දෙයක් නැති බව — නමුත් සතුටු වීමට සහ තම ජීවිතයේදී හොඳ කිරීමට මිස.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "මම දන්නෙමි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ දෙයක්"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඔවුන් තුළ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නමුත්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මිස"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "සතුටු වීමට"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "සහ කිරීමට"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "තම ජීවිතයේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:52.277335827Z",
+  "model": "glm-5.3"
+}

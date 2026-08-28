@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔබ සඳහා නගර තුනක් වෙන් කරන්න; යහ්වේ ඔබේ එලෝහීම් ඔබට උරුම කර ගැනීමට දෙන ඔබේ දේශය මැද ඒවා ⟨අත්හළ⟩ යුතුය.",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "වෙන් කරන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ සඳහා"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ඔබේ දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "උරුම කර ගැනීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T11:51:31.738544986Z",
+  "model": "glm-5.3"
+}

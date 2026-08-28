@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "සාරයි අව්රාම්ගේ බිරිඳ ඔහුට දරුවන් නොලදැ; ඇයට දාසියක් — මිස්රියක් — සිටියාය; ඇගේ නම හගාර් ය.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "සාරයි"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "බිරිඳ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "අව්රාම්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ලදැ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "දාසියක්"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "මිස්රියක්"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ඇගේ නම"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "හගාර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:12:10.156202489Z",
+  "model": "glm-5.3"
+}

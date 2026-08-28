@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ආශීර්වාද ලත් වේ ඔබ පැමිණෙන විටද, ආශීර්වාද ලත් වේ ඔබ නික්ම යන විටද.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ආශීර්වාද ලත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "පැමිණෙන විට"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ආශීර්වාද ලත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "නික්ම යන විට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:20.326770932Z",
+  "model": "glm-5.3"
+}

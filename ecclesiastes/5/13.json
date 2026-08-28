@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඒ සම්පත නපුරු ව්‍යාපාරයකින් විනාශ වන්නීය; ඔහු පුතෙකු ලැබ, ⟨එවිට⟩ ඔහුගේ අතේ කිසිවක් නැත.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "සහ විනාශ වේ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "සම්පත"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ව්‍යාපාරයකින්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "සහ ලබේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ඔහුගේ අතේ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "කිසිවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:54.312531212Z",
+  "model": "glm-5.3"
+}

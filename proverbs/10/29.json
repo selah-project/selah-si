@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බලකොටුවකි දෝෂරහිතයාට යහ්වේගේ මාර්ගය; විනාශයකි ⟨the⟩ අයුක්තිය කරන්නන්ට.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "බලකොටුවකි"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "දෝෂරහිතයාට"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "සහ විනාශය"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "කරන්නන්ට"
+    },
+    {
+      "surface": "און",
+      "gloss": "අයුක්තිය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:02:10.840173175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබ ආපසු හැරී යහ්වේ ඉදිරියෙහි හැඬුවහ, නමුත් යහ්වේ ඔබේ හඬ නොඇසූ ⟨සේය⟩, ඔබ කරා ⟨කන්⟩ නොදුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ඔබ ආපසු හැරී"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "හැඬුවහ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නො"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "ඔබේ හඬ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "⟨කන්⟩ දුන්නේය"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබ කරා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:38.585904370Z",
+  "model": "glm-5.3"
+}

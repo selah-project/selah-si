@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මොෂේද අහරෝන්ද හමුවීමේ කූඩාරය ඉදිරියට පැමිණියහ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියහ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේද"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "අහරෝන්ද"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ඉදිරියට"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරය"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවීමේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:39:28.206382056Z",
+  "model": "glm-5.3"
+}

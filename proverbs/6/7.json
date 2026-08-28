@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එයට ⟨නැත⟩ නායකයෙක්, අධීක්ෂකයෙක් හෝ පාලකයෙක් ⟨වේද⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "לה",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "නායකයෙක්"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "අධීක්ෂකයෙක්"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "සහ පාලකයෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:49.058579138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලීපාස්ගේ පුත්‍රයෝ: තේමාන්, ඕමාර්, සෙපී, ගාතාම්, කෙනාස්, තිම්නා සහ අමාලෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "එලීපාස්ගේ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "තේමාන්"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ඕමාර්"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "සෙපී"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ගාතාම්"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "කෙනාස්"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "තිම්නා"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "අමාලෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:29.172151106Z",
+  "model": "glm-5.3"
+}

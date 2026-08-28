@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "රජෙකුගේ උදහස ⟨වන්නේ⟩ මරණයේ දූතයන් ය; නුවණැති මිනිසෙක් ⟨එය⟩ සමථ කරයි.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "උදහස"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙකුගේ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "දූතයන්"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "සහ මිනිසෙක්"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "නුවණැති"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "සමථ කරයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:08:37.036886825Z",
+  "model": "glm-5.3"
+}

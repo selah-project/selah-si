@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හා පූජකයා ⟨את⟩ තම ඇඟිල්ල ලේ තුළ ගිල්වා, ලේ වලින් හත් වරක් යහ්වේ ඉදිරියෙහි, පවිත්‍ර පටියේ මුහුණත ⟨את⟩ ඉස්සේය.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ගිල්වා"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම ඇඟිල්ල"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "තම ඇඟිල්ල"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ලේ තුළ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ඉස්සේය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වලින්"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "හත්"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "වරක්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුහුණත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණත"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "පටියේ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "පවිත්‍ර"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:39.293501916Z",
+  "model": "glm-5.3"
+}

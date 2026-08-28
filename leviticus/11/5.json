@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ⟨את⟩ හස්පානය — මක්ද ඔහු ගෙරාව ඔසවන්නෙකි, නමුත් පර්සාව නොබෙදයි; ඔහු ඔබට අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "හස්පානය"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "හස්පානය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ඔසවන්නෙකි"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ගෙරාව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "පර්සාව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "බෙදයි"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:27.067337614Z",
+  "model": "glm-5.3"
+}

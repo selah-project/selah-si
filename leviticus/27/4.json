@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "සහ ඉඳුල් වූ විට, ඔබේ තක්සේරුව ⟨වේ⟩ ෂෙකල තිසයි.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ඉඳුල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "වූ විට"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "සහ ⟨වේ⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ඔබේ තක්සේරුව"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිසයි"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ෂෙකල"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:07.388594865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඇය ඔවුන්ට කීවාය: මට නාඕමී කියා නොකති; මට මාරා කියා කති; මන්ද ෂද්දයි මට ඉතා කටුක කර ඇත්තේය.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ඇය කීවාය"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "කියා කති"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "නාඕමී"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "කියා කති"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "මාරා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "המר",
+      "gloss": "කටුක කර ඇත්තේය"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ෂද්දයි"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:09:49.442529212Z",
+  "model": "glm-5.3"
+}

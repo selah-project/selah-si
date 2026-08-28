@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මෝබලකාට විනෝදය ගැළපෙන්නේ නැත; තවත් කෙබඳුද — වහලකුට සරදේවරුන් පාලනය කිරීම.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ගැළපෙන්නේ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "මෝබලකාට"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "විනෝදය"
+    },
+    {
+      "surface": "אף",
+      "gloss": "තවත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කෙබඳුද"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "වහලකුට"
+    },
+    {
+      "surface": "משל",
+      "gloss": "පාලනය කිරීම"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "සරදේවරුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:12:13.011202233Z",
+  "model": "glm-5.3"
+}

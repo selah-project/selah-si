@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "වසංගතයෙන් මළවුන් වූයේ හතරයයි විසියයි දහසකි.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "වසංගතයෙන්"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "හතරය"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විසි"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:45:35.439656684Z",
+  "model": "glm-5.3"
+}

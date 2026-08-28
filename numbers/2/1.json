@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යහ්වේ මොෂේ වෙතද අහරෝන් වෙතද ⟨මෙසේ⟩ කථා කළේය, කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:56.975263903Z",
+  "model": "glm-5.3"
+}

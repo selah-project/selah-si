@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මෙසේ කියයි සේනාවලකාධිපති යහ්වේ: තවමත්, ජනතාව ⟨කැඳවනු ලැබෙති⟩ සහ බොහෝ නගරවල වැසියෝ ⟨එති⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවලකාධිපති"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තවමත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෑ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "එති"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "සහ වැසියෝ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගරවල"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:49:51.508995265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ෂිම්ඕන් සඳහා — ට්සූරිෂද්දයිගේ පුත් ෂෙලුමියෙල්.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ෂිම්ඕන් සඳහා"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ෂෙලුමියෙල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ට්සූරිෂද්දයිගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:36.172623262Z",
+  "model": "glm-5.3"
+}

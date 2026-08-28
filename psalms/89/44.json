@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 89,
+  "translation": "තවද ඔබ ඔහුගේ කඩුවේ මුව පෙරළා දැම්මේය; සටනේදී ඔහු සිටුවුවේ ⟨නො⟩වේ.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "තවද"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "පෙරළා දැම්මේය"
+    },
+    {
+      "surface": "צור",
+      "gloss": "මුව"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ඔහුගේ කඩුවේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "සිටුවුවේය"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "සටනේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:06:37.722106760Z",
+  "model": "glm-5.3"
+}

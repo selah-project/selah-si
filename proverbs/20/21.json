@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඉක්මනින් පළමුව ලද උරුමය — එහි අග ⟨ආශීර්වාදය⟩ නොලබන්නේය.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "උරුමය"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "ඉක්මනින්-ලද"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "පළමුව"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "එහි අග"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ආශීර්වාද ලබන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:11:31.061032638Z",
+  "model": "glm-5.3"
+}

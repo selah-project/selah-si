@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සහ ⟨את⟩ පපන්, සහ ⟨את⟩ දකුණු කකුල, අහරොන් යහ්වේ ඉදිරියේ ඔසවා-පූජාවක් ලෙස සෙලවීය — මොෂේ අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පපන්"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "පපන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දකුණු කකුල"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "කකුල"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "සෙලවීය"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ඔසවා-පූජාව"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:35.075133965Z",
+  "model": "glm-5.3"
+}

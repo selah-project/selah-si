@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "නුඹේ බලය කාන්තාවන්ට නොදෙන්න, නුඹේ මාර්ගද රජුන් මකා දමන දෙයට නොදෙන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නොදෙන්න"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙ"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "කාන්තාවන්ට"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "නුඹේ බලය"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "නුඹේ මාර්ගද"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "මකා දමන දෙයට"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "රජුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:38:47.675426191Z",
+  "model": "glm-5.3"
+}

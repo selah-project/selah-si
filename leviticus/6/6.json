@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "දවුල නිතර බලිපීඨය මත දැල්වී සිටින්නේය; නිවන්න නොවේ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "දවුල"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "නිතර"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "දැල්වී සිටින්නේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "බලිපීඨය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "නිවන්න වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:37.684233295Z",
+  "model": "glm-5.3"
+}

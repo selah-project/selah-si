@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මට ⟨සිහි කරන්න>>, <<මගේ>> එලෝහීම්, යහපතට, මෙම ජනයා ⟨වෙනුවෙන්>> මම කළ සියල්ල ⟨සිහියෙන්>>.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "සිහි කරන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මගේ එලෝහීම්"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "යහපතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "මම කළ"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙනුවෙන්"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-28T06:14:31.623298288Z",
+  "model": "glm-5.3"
+}

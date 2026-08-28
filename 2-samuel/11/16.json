@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යෝවාබ් නගරය නිරීක්ෂණය කරන කල ⟨is⟩ උරියාව ⟨את⟩ තමා දැන සිටි ප්‍රබල යොධයෝ සිටි තැනට යෙදුවේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූ කල"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "නිරීක්ෂණය කරන"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "යෝවාබ්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "යෙදුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "උරියාව"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "උරියාව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "තැනට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දැන සිටි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "යොධයෝ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ප්‍රබල"
+    },
+    {
+      "surface": "שם",
+      "gloss": "සිටි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:19:00.690295765Z",
+  "model": "glm-5.3"
+}

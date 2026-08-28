@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 40:36",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "එහි කුටි, එහි කණු, එහි ප්‍රාකාරදොර, එහි ජනේල වටා වටා තිබුණේය; දිග රියන් පනස්, පළල රියන් විසිපහයි.",
+  "tokens": [
+    {
+      "surface": "תאו",
+      "gloss": "එහි කුටි"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "එහි කණු"
+    },
+    {
+      "surface": "ואלמו",
+      "gloss": "එහි ප්‍රාකාරදොර"
+    },
+    {
+      "surface": "וחלונות",
+      "gloss": "ජනේල"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එහාට"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "රියන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:55:56.739528844Z",
+  "model": "glm-5.3"
+}

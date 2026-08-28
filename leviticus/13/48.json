@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "හෝ පිළියෙහි හෝ වියන ලද නූලෙහි, පලුවල හෝ ලොම්වල, හෝ සමේ හෝ සමින් කළ කිසිදු නිමි දෙයක —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "පිළියෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "වියන ලද නූලෙහි"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "පලුවල"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "සහ ලොම්වල"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "සමේ"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "නිමි දෙයක"
+    },
+    {
+      "surface": "עור",
+      "gloss": "සමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:28.058356442Z",
+  "model": "glm-5.3"
+}

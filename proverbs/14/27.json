@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "යහ්වේගේ බිය ජීවිතයේ උල්පතකි — මරණයේ උගුලුවලින් වළක්වා ගැනීමට.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "බිය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "උල්පතකි"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවිතයේ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "වළක්වා ගැනීමට"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "උගුලුවලින්"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:13.683956027Z",
+  "model": "glm-5.3"
+}

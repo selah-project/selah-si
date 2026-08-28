@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔබේ ඇස්වලට නින්ද නොදෙන්න, ඔබේ ඇහිබැමිලිවලට මුදක් නින්ද නොදෙන්න —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "නින්ද"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ඔබේ ඇස්වලට"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "සහ මුදක් නින්ද"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ඔබේ ඇහිබැමිලිවලට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:06.942670746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සිදු වූයේ, සියලු පොළොවට ⟨එක⟩ ම භාෂාවක් සහ වචනද එක ම වූ බවයි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු වූයේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවට"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "භාෂාවක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එක ම"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "සහ වචන"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "එක ම"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:40.140142819Z",
+  "model": "glm-5.3"
+}

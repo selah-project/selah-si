@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "ඔයා මිලට ගත්, ඔයාගේ ඉණේ ඇති ⟨את⟩ තිරය ගෙන, නැඟිට පෙරාත් වෙත යන්න; එය එහි ගල් පලුවේ සඟවාන්න.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තිරය"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "තිරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔයා මිලට ගත්"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "මිලට ගත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ඔයාගේ ඉණේ"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "නැඟිට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "පෙරාත් වෙත"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "සඟවාන්න"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "පලුවේ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ගල්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:28.621169657Z",
+  "model": "glm-5.3"
+}

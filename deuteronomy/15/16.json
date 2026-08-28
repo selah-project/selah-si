@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "එසේ වන්නේ නම්, ඔහු ඔබට 'මම ඔබ ළඟින් නොයමි' කීවේ නම් — මන්ද ඔහු ඔබට ආදරය කරයි, සහ ⟨את⟩ ඔබේ ගෙදරටද, මන්ද ඔබ ළඟ ඔහුට යහපති.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "එසේ වන්නේ නම්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ඔහු කියන"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "මම යමි"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "ඔබ ළඟින්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ඔහු ඔබට ආදරය කරයි"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ඔබේ ගෙදර"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ඔබේ ගෙදර"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ ළඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:05:38.941473131Z",
+  "model": "glm-5.3"
+}

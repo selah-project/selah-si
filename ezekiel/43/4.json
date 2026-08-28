@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "යහ්වේගේ තේජස නැගෙනහිර දෙසට මුහුණ ලා ඇති දොරටුවේ මාර්ගයෙන් ගෙට පැමිණියේය.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගයෙන්"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුවේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "මුහුණ ලා ඇති"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "නැගෙනහිර"
+    }
+  ],
+  "timestamp": "2026-08-28T00:58:24.194950412Z",
+  "model": "glm-5.3"
+}

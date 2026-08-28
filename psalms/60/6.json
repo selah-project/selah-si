@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 60,
+  "translation": "ඔබ ඔබට බිය වන අයට ⟨the⟩ කොඩියක් දුන් සේක, සත්‍යය නිසා ⟨the⟩ එය ඔසවනු ලැබේ සැලහ්.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "දුන් සේක"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ඔබට බිය වන අයට"
+    },
+    {
+      "surface": "נס",
+      "gloss": "කොඩියක්"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ඔසවනු ලැබේ පිණිස"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "සත්‍යය"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සැලහ්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:03:29.715339609Z",
+  "model": "glm-5.3"
+}

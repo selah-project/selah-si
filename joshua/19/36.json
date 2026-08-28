@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "සහ අදාමා, සහ රාමා, සහ හට්සෝර්.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "සහ අදාමා"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "සහ රාමා"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "සහ හට්සෝර්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:50:52.369976475Z",
+  "model": "glm-5.3"
+}

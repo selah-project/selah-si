@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අපගේ බෙල්ල මත අප පසපා එලවන ලද්දෙමු; අප වෙහෙස මහන්සි වූයෙමු — අපට විවේකයක් නොතැබුණි.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "අපගේ බෙල්ල"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "අප පසපා එලවන ලද්දෙමු"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "අප වෙහෙස මහන්සි වූයෙමු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "තැබුණි"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:45:51.272270773Z",
+  "model": "glm-5.3"
+}

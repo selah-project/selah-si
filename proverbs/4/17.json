@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මන්ද ඔවුහු අධර්මයේ පාන් අනුභව කරති, හිංසනයේ වයින් පානය කරති.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "අනුභව කරති"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "අධර්මයේ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "හිංසනයේ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "පානය කරති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:19.565670452Z",
+  "model": "glm-5.3"
+}

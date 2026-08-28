@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "එලෝහීම් නින්දි නොකරන්න, ඔබේ ජනයා අතර ⟨ඇති⟩ නායකයාට ශාප නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "නින්දි කරන්න"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "හා නායකයාට"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ඔබේ ජනයා අතර"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ශාප කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T19:51:10.520636837Z",
+  "model": "glm-5.3"
+}

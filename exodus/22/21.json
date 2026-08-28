@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සියලු වැන්දඹුවන්ට හෝ අනාථයන්ට පීඩා නොකරවු.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "වැන්දඹුවන්ට"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "සහ අනාථයන්ට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "පීඩා කරවු"
+    }
+  ],
+  "timestamp": "2026-08-28T08:18:02.460079449Z",
+  "model": "glm-5.3"
+}

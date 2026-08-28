@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ලේ මිදුලා විසින්ම ⟨את⟩ මරන්නා මරා දමයි; ඔහු හමු වූ විට ඔහුම ඔහු මරා දමයි.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "මිදුලා"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුම"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "මරා දමයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මරන්නා"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "මරන්නා"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "හමු වූ විට"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුම"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ඔහු මරා දමයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:58.656426971Z",
+  "model": "glm-5.3"
+}

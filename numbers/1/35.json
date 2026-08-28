@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔවුන් ගණන ලද අය — මෙනාෂේ ගෝත්‍රයෙන් — දෙතිස් දෙදහසක් සහ සියයකි.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ඔවුන් ගණන ලද අය"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයෙන්"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙතිස් දෙදහසක්"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "සහ සියයකි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:30:09.595267937Z",
+  "model": "glm-5.3"
+}

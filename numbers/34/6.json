@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "බටහිර සීමාව සම්බන්ධයෙන් — මහ මුහුද ඔබට සීමාව වන්නේය; මේ ⟨ම⟩ ඔබේ බටහිර සීමාව වන්නේය.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "සහ සීමාව"
+    },
+    {
+      "surface": "ים",
+      "gloss": "බටහිර (මුහුද)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහ"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "සහ සීමාව"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබේ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "ים",
+      "gloss": "බටහිර"
+    }
+  ],
+  "timestamp": "2026-08-28T08:37:03.264536390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේගේ ප්‍රේමක්‍රියා — අප මුළුමනින් නොනසී සිටින්නේ ඒවා නොකෙළවූ බැවිනි; ඔහුගේ දයාවන් නොකෙළේ නිසාය.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ප්‍රේමක්‍රියා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නිසාය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "නොකෙළවූ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නිසාය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "නොකෙළේ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ඔහුගේ දයාවන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:52.903477626Z",
+  "model": "glm-5.3"
+}

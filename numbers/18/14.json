@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඊශ්‍රායෙල්හි සියලු චෙරෙම් (කැප කරන ලද දෙය) ඔබට වන්නේය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "චෙරෙම්"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ඊශ්‍රායෙල්හි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:41:35.609378570Z",
+  "model": "glm-5.3"
+}

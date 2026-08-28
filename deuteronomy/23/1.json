@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මිනිසෙක් ⟨את⟩ තම පියාගේ බිරිඳ ගන්නේ නැත; තම පියාගේ අස්ථානඟය නොනිරාවරණය කරයි.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගන්නේ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම පියාගේ බිරිඳ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "බිරිඳ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාගේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "නොනිරාවරණය කරයි"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "අස්ථානඟය"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:18.072618111Z",
+  "model": "glm-5.3"
+}

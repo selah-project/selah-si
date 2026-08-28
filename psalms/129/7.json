@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 129,
+  "translation": "කපන්නා ඔහු අත පුරා නොගන්නා — මිටි බැඳුනාගේ ළයද නොපිරෙන",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "නො-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පුරා ගන්නා"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ඔහු අත"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "කපන්නා"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "මිටි බැඳුනාගේ ළය"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "මිටි බැඳුනා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:38:49.567944501Z",
+  "model": "glm-5.3"
+}

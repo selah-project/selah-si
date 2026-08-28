@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ශෙලෝමෝට එක් වර්ෂයකදී පැමිණි රන් බර — රන් කිකාර සය සිය ළුසැටයකි.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ශෙලෝමෝට"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "වර්ෂයකදී"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "හැට"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "කිකාර"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:36:47.640617930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "දාවීද් එවිට බලකොටුවේ සිටියේය, ප්ලිෂ්තීන්ගේ නිළියා එවිට බෙත්ලෙහෙම්හි විය.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "බලකොටුවේ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "නිළියා"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ප්ලිෂ්තීන්ගේ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ලෙහෙම්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:15.473956177Z",
+  "model": "glm-5.3"
+}

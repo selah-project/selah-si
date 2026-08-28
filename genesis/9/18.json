@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "නොහ්ගේ පුත්‍රයන් — බාර්ජුවෙන් පිටතට ආ අය — ෂෙම්, හම් සහ යාෆෙත්; හම් ⟨ඔහු⟩ කෙනාන්ගේ පියායි.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොහ්ගේ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "පිටතට ආ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "බාර්ජුව"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ෂෙම්"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "සහ හම්"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "සහ යාෆෙත්"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "හම්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙනාන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:56.594016729Z",
+  "model": "glm-5.3"
+}

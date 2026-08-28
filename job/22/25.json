@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 22:25",
+  "book": "job",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ෂද්දයි ඔබේ රන්-පදම වනු ඇත, සහ බොහෝ රිදී ඔබට වනු ඇත.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ෂද්දයි"
+    },
+    {
+      "surface": "בצריך",
+      "gloss": "ඔබේ රන්-පදම"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "සහ රිදී"
+    },
+    {
+      "surface": "תועפות",
+      "gloss": "බොහෝ රැසක්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:41:58.886217224Z",
+  "model": "glm-5.3"
+}

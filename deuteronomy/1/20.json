@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මම ඔබට කීවෙමි: ඔබ එමෝරි කන්ද වෙත පැමිණ ඇත — යහ්වේ අපගේ එලෝහීම් අපට දෙන තැන.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "පැමිණ ඇත"
+    },
+    {
+      "surface": "עד",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "එමෝරි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:40.735556885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ගොස් වෙනත් එලෝහීම් වෙත සේවය කර, ඔවුන්ට වැඳ සිටින, හිරුට හෝ සඳුට හෝ අහසේ සේනාවට කුමන එකකට හෝ — මම අණ නොකළ දේ —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "සේවය කර"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "වෙනත්"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "වැඳ සිටින"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "හිරුට"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "සඳුට"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "කුමන එකකට හෝ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අදහස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොකළ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "මම අණ කළෙමි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:09:17.967746387Z",
+  "model": "glm-5.3"
+}

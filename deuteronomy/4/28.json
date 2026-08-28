@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එහිදී ඔබ මිනිස් අත් කම්කළ — දුටු නොහැකි, ඇසූ නොහැකි, කෑ නොහැකි, ගඳ නොදැනෙන — ලී හා ගල් වූ දෙවිවරුන්ට සේවය කරන්නහුය.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "සහ ඔබ සේවය කරනවා"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරුන්ට"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "කම්"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "අත්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිස්"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ලී"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "සහ ගල්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "දකිනවා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ඇහුම්කනවා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "කනවා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "ගඳ දකිනවා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:56.456158882Z",
+  "model": "glm-5.3"
+}

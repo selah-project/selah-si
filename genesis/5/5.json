@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අාදම් ජීවත්ව සිටි ඔහුගේ සියලු දිනවල් අවුරුදු නවසිය තිස් තුනක් විය; ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ආදම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිටි"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්ව"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස් තුනක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:01.273345065Z",
+  "model": "glm-5.3"
+}

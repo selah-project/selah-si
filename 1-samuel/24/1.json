@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "දාවීද් එතැනින් නැඟී ගියේය, එයින්-ගෙදී බලකොටුවල වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟී ගියේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "משם",
+      "gloss": "එතැනින්"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "බලකොටුවල"
+    },
+    {
+      "surface": "עין",
+      "gloss": "එයින්-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ගෙදී"
+    }
+  ],
+  "timestamp": "2026-08-28T09:05:33.290097731Z",
+  "model": "glm-5.3"
+}

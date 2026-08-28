@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "බොහෝ දෙයින් හෙබල් වැඩි කරන බැවින් — මිනිසාට ⟨ඇති⟩ අතිරික්තය කුමක්ද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "දෙයින්"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "වැඩි කරන"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙබල්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "අතිරික්තය"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසාට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:01.357605362Z",
+  "model": "glm-5.3"
+}

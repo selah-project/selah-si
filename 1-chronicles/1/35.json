@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඒසාවගේ පුත්‍රයෝ: එලීපාස්, රෙඋඑල්, යෙඋෂ්, යාලාම් සහ කොරාඛ්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසාවගේ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "එලීපාස්"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "රෙඋඑල්"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "යෙඋෂ්"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "යාලාම්"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "කොරාඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:29.172013636Z",
+  "model": "glm-5.3"
+}

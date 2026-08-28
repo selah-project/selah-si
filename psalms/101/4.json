@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 101,
+  "translation": "වක්‍ර හදවතක් මගෙන් ඈත් වී යා යුතුය; නපුර මම නොදනිමි.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "හදවතක්"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "වක්‍ර"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "මගෙන් ඈත් වී යා යුතුය"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුර"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "දනිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:15:55.143478726Z",
+  "model": "glm-5.3"
+}

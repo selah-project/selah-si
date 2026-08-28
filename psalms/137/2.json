@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 137,
+  "translation": "එහි මැද ඇති විල් ගස් මත අපේ නාදකින් එල්ලා තැබුවෙමු.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "විල් ගස්"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "එහි මැද"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "එල්ලා තැබුවෙමු"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "අපේ නාදකින්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:32:29.902620990Z",
+  "model": "glm-5.3"
+}

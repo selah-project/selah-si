@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "මාර්ගයේදී උන් මගේ බලය මැකූ සේය; මගේ දිනයන් කෙටි කළ සේය.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "මැකූ සේය"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයේදී"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "මගේ බලය"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "කෙටි කළ සේය"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "මගේ දිනයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:14:19.356278240Z",
+  "model": "glm-5.3"
+}

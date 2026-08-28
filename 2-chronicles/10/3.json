@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔවුහු යවා ඔහුව කැඳවූහ; යරබආම් හා සියලු යිස්රාඑල් පැමිණ රෙහබආම්ට කතා කොට මෙසේ කීහ.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "කැඳවූහ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුව"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "යරබආම්"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "හා සියලු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "කතා කොට කීහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "රෙහබආම්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:23:34.618737770Z",
+  "model": "glm-5.3"
+}

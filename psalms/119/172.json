@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මාගේ දිව ඔබ වදන ගායනා කරයි, මන්ද ඔබ සියලු ආඥා ධර්මිෂ්ඨය.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ගායනා කරයි"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "මාගේ දිව"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ඔබ වදන"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ඔබ ආඥා"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මිෂ්ඨය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:01.163277907Z",
+  "model": "glm-5.3"
+}

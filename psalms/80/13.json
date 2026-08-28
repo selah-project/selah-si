@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 80,
+  "translation": "ඇයි ඔබ ඇගේ වැටි කඩාදැම්මේ, මාර්ගයේ යන සියල්ල ඇය සූරාකන්නේ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ඔබ කඩාදැම්මේ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ඇගේ වැටි"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "සූරාකන්නේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "යන්නන්"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "මාර්ගයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:59:25.569787402Z",
+  "model": "glm-5.3"
+}

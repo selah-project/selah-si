@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හැඬීමට වේලාවක්, සිනාසීමට වේලාවක්; වැලපීමට වේලාවක්, නැටීමට වේලාවක්.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "වේලාවක්"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "හැඬීමට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ වේලාවක්"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "සිනාසීමට"
+    },
+    {
+      "surface": "עת",
+      "gloss": "වේලාවක්"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "වැලපීමට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ වේලාවක්"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "නැටීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:10.771374512Z",
+  "model": "glm-5.3"
+}

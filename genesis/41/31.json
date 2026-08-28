@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "ඒ බඩගින්න නිසා, ඉන්පසු, දේශයෙහි සරු බහුලත්වය නොදැනෙන්නේය; මන්ද එය ඉතා බරපතළ වන්නේය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දැනෙන්නේය"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "සරු බහුලත්වය"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහි"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "බඩගින්න"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ඉන්පසු"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බරපතළ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:30:52.684060016Z",
+  "model": "glm-5.3"
+}

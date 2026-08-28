@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔවුහු එය ද ⟨את⟩ එහි භාජන සියල්ලද තච්ෂ් සම් ආවරණයක් තුළ තබා, බර මත තබන්නෝය.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ඔවුහු තබා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එහි භාජන සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "එහි භාජන"
+    },
+    {
+      "surface": "אל",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ආවරණයක්"
+    },
+    {
+      "surface": "עור",
+      "gloss": "සම්"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "තච්ෂ්"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "තබන්නෝය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "බර"
+    }
+  ],
+  "timestamp": "2026-08-27T20:29:49.169282951Z",
+  "model": "glm-5.3"
+}

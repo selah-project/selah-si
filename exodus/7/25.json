@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "දින සතක් පිරුණේය, යහ්වේ ⟨את⟩ ⟨ම⟩ ගඟ පහර දීමෙන් පසුවය.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "පිරුණේය"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "සතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසුවය"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "පහර දීමෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගඟ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ගඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:41:59.262264471Z",
+  "model": "glm-5.3"
+}

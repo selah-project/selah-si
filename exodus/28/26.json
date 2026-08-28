@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "රන් කොටු දෙකක් කරන්නේ ය, ⟨את⟩ ඒවා හොසනයේ කෙළවර දෙක මත, එපොදයේ පැත්තට ඇති එහි දාරය මත, ඇතුළත් පැත්තෙහි තබන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "කරන්නේ ය"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "කොටු"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "තබන්නේ ය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "හොසනයේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "එහි දාරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "පැත්ත"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "එපොදයේ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇතුළට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:57:12.334349556Z",
+  "model": "glm-5.3"
+}

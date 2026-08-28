@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "දෙවි-කන්ද — දිග මිටි දොළොසක්, පළල දොළොසක්, එහි සතර පැතිවලින් සමචතුරස්‍රයි.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "දෙවි-කන්ද"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "දොළොසක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "සමචතුරස්‍රයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්ලෙන"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "පැති"
+    }
+  ],
+  "timestamp": "2026-08-28T00:59:03.411622092Z",
+  "model": "glm-5.3"
+}

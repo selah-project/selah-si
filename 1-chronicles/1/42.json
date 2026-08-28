@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඒට්සෙර්ගේ පුත්‍රයෝ — බිල්හාන්, සආවාන් සහ යආකාන්; දිෂෝන්ගේ පුත්‍රයෝ — උස් සහ අරාන්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ඒට්සෙර්ගේ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "බිල්හාන්"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "සආවාන්"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "යආකාන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "දිෂෝන්ගේ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "උස්"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "අරාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:18.327693990Z",
+  "model": "glm-5.3"
+}

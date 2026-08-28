@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 57,
+  "translation": "උස හා ඉහළට එසවුණු කන්දක් උඩ ඔබ ඔබේ ඇඳ තැබුවා; එහිද බිලියක් ⟨to⟩ පූජා කිරීමට ඔබ නැගුවා.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "උඩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්දක්"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "උස"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ඉහළට එසවුණු"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ඔබ තැබුවා"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ඔබේ ඇඳ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ඔබ නැගුවා"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "බිලි පූජා කිරීමට"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "බිලියක්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:37:38.423257244Z",
+  "model": "glm-5.3"
+}

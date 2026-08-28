@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එවිට ඔබ ඔබේ මාර්ගයේ ආරක්ෂිතව යනු ඇත, ඔබේ පාදයද නොහැපෙනු ඇත.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "යනු ඇත"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ආරක්ෂිතව"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ඔබේ මාර්ගයේ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ඔබේ පාදයද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "හැපෙනු ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:13.571862259Z",
+  "model": "glm-5.3"
+}

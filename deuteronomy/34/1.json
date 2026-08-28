@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "මොෂේ මෝවබ් තැන්නෙන් නෙබෝ කන්දට, යෙරිහෝ ඉදිරිපිට ඇති පිස්ගා ශිඛරයට නැඟියේය; යහ්වේ ඔහුට ⟨את⟩ මුළු දේශයද — ⟨את⟩ ගිල්උද් දන් දක්වා — පෙන්වූ සේක.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟියේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "තැන්නෙන්"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවබ්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්දට"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "නෙබෝ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ශිඛරය"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "පිස්ගා ⟨the⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ක"
+    },
+    {
+      "surface": "על",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "යෙරිහෝ"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "පෙන්වූ සේක"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මුළු දේශය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගිල්උද්"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ගිල්උද්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:18:30.802526170Z",
+  "model": "glm-5.3"
+}

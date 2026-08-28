@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "පරම්පරාවක් යයි, පරම්පරාවක් එයි; ⟨එහෙත්⟩ පොළොව නම් සදාකාලයටම සිටගෙන සිටී.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාවක්"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "යයි"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "සහ පරම්පරාවක්"
+    },
+    {
+      "surface": "בא",
+      "gloss": "එයි"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "සහ ⟨පොළොව"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයටම"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "සිටගෙන සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:46.334631724Z",
+  "model": "glm-5.3"
+}

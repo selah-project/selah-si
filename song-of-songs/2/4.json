@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔහු මා මිදුරේ ගෙට ගෙන ගියේය, ඔහුගේ කොඩිය මට වූ කරුණ ප්‍රේමය ය.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "මා ගෙන ගියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "היין",
+      "gloss": "මිදුරේ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ඔහුගේ කොඩිය"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මට වූ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ප්‍රේමය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:03.396247210Z",
+  "model": "glm-5.3"
+}

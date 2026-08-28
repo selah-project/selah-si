@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "යිබ්හාර්, එලීෂුවා, නෙෆෙග් සහ යාෆියා.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "සහ යිබ්හාර්"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "සහ එලීෂුවා"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "සහ නෙෆෙග්"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "සහ යාෆියා"
+    }
+  ],
+  "timestamp": "2026-08-27T22:15:20.032279202Z",
+  "model": "glm-5.3"
+}

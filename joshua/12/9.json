@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යෙරිහෝහි රජ — එකයි; අයි හි රජ — බෙත්-එල් පැත්තේ ඇති — එකයි;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "යෙරිහෝ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකයි"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "අයි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "පැත්තේ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකයි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:30.180388232Z",
+  "model": "glm-5.3"
+}

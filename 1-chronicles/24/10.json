@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "හත්වන ‹අංකය හකෝට්ස්ට, අටවන අංකය අබියාට.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "හකෝට්ස්ට"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "හත්වන"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "අබියාට"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අටවන"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:50.900340521Z",
+  "model": "glm-5.3"
+}

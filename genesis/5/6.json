@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ෂෙත් අවුරුදු සිය පහක් ජීවත් ව, ⟨את⟩ එනෝෂ් ලබා ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත් ව"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ෂෙත්"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබා ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එනෝෂ්"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "එනෝෂ්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:01.273601117Z",
+  "model": "glm-5.3"
+}

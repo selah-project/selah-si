@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඒ මතට ඔබ තෙල් දමනු ලැබේ, ඒ මතට ලෙබොනා තබනු ලැබේ — ⟨එය⟩ පූජාවකි.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ඔබ දමනු ලැබේ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මතට"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "තෙල්"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ඔබ තබනු ලැබේ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ඒ මතට"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ලෙබොනා"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "පූජාවකි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨එය⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T08:22:38.293844522Z",
+  "model": "glm-5.3"
+}

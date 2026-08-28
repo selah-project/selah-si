@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ තර්ෂීෂ් නෞකා සියල්ල මතට සහ රමණීය වස්තූන් සියල්ල මතට,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ ... මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "නෞකා"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "තර්ෂීෂ්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ ... මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "වස්තූන්"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "රමණීය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:07:17.037130364Z",
+  "model": "glm-5.3"
+}

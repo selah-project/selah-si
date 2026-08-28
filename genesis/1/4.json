@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් ⟨את⟩ ආලෝකය දුටුවේය — හොඳ බව; එලෝහීම් ආලෝකය හා අන්ධකාරය අතර වෙන් කෙළේය.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දුටුවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආලෝකය"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ බව"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "වෙන් කෙළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "හා අතර"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "අන්ධකාරය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:33.553635791Z",
+  "model": "glm-5.3"
+}

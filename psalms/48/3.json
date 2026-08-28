@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "උස් බිමෙහි රමණීයයි, සමස්ත පොළොවේ සතුට වූ සියෝන් කන්ද — උතුරේ දිගු කෙළවරේ, මහා රජුගේ නගරය.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "රමණීයයි"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "උස් බිම"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "සතුට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සියෝන්"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "දිගු කෙළවරේ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුරේ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:34:19.019850373Z",
+  "model": "glm-5.3"
+}

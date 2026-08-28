@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එහෙත් උයන මැද ඇති වෘක්ෂයේ ඵලය ගැන එලෝහීම් කීය: 'එයින් නොකන්න, එය ස්පර්ශ ද නොකරන්න, නොඑසේ නම් මිය යවු.'",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "එහෙත්...ඵලය"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "වෘක්ෂයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "උයන"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ද නො"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ස්පර්ශ කරන්න"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එය"
+    },
+    {
+      "surface": "פן",
+      "gloss": "නොඑසේ නම්"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "මිය යවු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:30.381358243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔබ ⟨את⟩ ඒවා පේළි දෙකක් ලෙස තබන්න — පේළියකට හය බැගින් — පිරිසිදු මේසය මත, යහ්වේ ඉදිරියේ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "තබන්න"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "පේළි"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "පේළිය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "මේසය"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:23:32.631493380Z",
+  "model": "glm-5.3"
+}

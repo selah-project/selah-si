@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මගේ පුත්‍රය, මගේ තෝරා නොකරන්න; මගේ අණ පණත් ඔබේ හදවත රැක ගන්නා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්‍රය"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "මගේ තෝරා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "නොකරන්න"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "මගේ අණ පණත්"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "රැක ගන්නා"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:10.692265062Z",
+  "model": "glm-5.3"
+}

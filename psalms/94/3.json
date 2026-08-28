@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "කවදත්ද? දුෂ්ටයෝ — යහ්වේ; කවදත්ද? දුෂ්ටයෝ ප්‍රීතිමත් ව නටන්නෝය.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…ද?"
+    },
+    {
+      "surface": "ඞ",
+      "gloss": ""
+    },
+    {
+      "surface": "מתי",
+      "gloss": "කවදත්"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයෝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ද?"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "කවදත්"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයෝ"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ප්‍රීතිමත් ව නටන්නෝය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:12:31.218511680Z",
+  "model": "glm-5.3"
+}

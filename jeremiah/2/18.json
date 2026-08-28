@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දැන් ඔබට මිට්ස්රයිම් මඟට කුමක් — ෂිඛෝර් ජලය බොන්නටද? ඔබට අෂූර් මඟට කුමක් — ⟨මහා⟩ නදියේ ජලය බොන්නටද?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "මඟට"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිට්ස්රයිම්"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "බොන්නට"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "ෂිඛෝර්"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "සහ කුමක්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "මඟට"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අෂූර්"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "බොන්නට"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "නදිය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:44:04.204055754Z",
+  "model": "glm-5.3"
+}

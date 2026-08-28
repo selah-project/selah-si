@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "සහ ඔව්හු මට ජනයා වන්නාහු, සහ මම ඔවුන්ට එලෝහීම් වන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "සහ ඔව්හු ... වන්නාහු"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "සහ මම"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "වන්නෙමි"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "එලෝහීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:52:55.928819374Z",
+  "model": "glm-5.3"
+}

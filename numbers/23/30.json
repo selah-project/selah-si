@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "බාලාක් බිල්ආම් කී පරිදි කළේය; ඔහු ⟨the⟩ මැදිකළ මතට ගවයකුදු බිංගමෙකුදු පුද පූජා කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "බාලාක්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිල්ආම්"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "පුද පූජා කළේය"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ගවයකු"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "සහ බිංගමෙකු"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "මැදිකළ මතට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:36:40.901636430Z",
+  "model": "glm-5.3"
+}

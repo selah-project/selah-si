@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මිනිසා පොළොව මත තැබූ කාලයේ සිට, පුරාණ කාලයේ සිට, මෙය ඔබ දන්නේ නැද්ද?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ඔබ දන්නේ නැද්ද"
+    },
+    {
+      "surface": "מני",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "පුරාණ කාලයේ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "שים",
+      "gloss": "තැබූ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:42:33.805848630Z",
+  "model": "glm-5.3"
+}

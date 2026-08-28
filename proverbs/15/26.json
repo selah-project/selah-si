@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේට අරුමය නපුරු සිතුවිලි වේ; පින්වත් වචනද මිහිරි වචන වේ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "අරුමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "සිතුවිලි"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "පින්වත්"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "වචනද"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "මිහිරි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:18.701641125Z",
+  "model": "glm-5.3"
+}

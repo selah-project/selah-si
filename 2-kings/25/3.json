@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මාසයේ නවවැනි දිනට සාගතය නගරය තුළ තීව්‍ර වූ අතර, දේශයේ ජනයාට පාන් නොවීය.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "නවවැනි දිනට"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "තීව්‍ර වූ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "සාගතය"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරය තුළ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:09:24.571685373Z",
+  "model": "glm-5.3"
+}

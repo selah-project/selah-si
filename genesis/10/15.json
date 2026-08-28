@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "කෙනාන් ⟨את⟩ සීදෝන් තම පළමුඋපන් පුතාව ද ⟨את⟩ හෙත් ද ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "කෙනාන්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සීදෝන්"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "සීදෝන්"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "තම පළමුඋපන් පුතා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "හෙත්"
+    },
+    {
+      "surface": "חת",
+      "gloss": "හෙත්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:23.643907584Z",
+  "model": "glm-5.3"
+}

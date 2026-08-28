@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙම සලකුණු ⟨දෑ⟩ ඔබට පැමිණෙන කල ඔබේ අතට හමු වන දෙය ඔබ කරන්න; මන්ද එලෝහීම් ඔබ සමඟය.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කල"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "පැමිණෙන"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "සලකුණු"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙය"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "හමු වන"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අතට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "සමඟය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:57:40.807967768Z",
+  "model": "glm-5.3"
+}

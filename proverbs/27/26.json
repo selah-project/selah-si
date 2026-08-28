@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "කුරුල්ලෝ ඔබේ වස්ත්‍රයට, සහ කෙතේ මිලට එළුවදුරෝ ⟨යි⟩.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "කුරුල්ලෝ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ඔබේ වස්ත්‍රයට"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "සහ මිලට"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "කෙතේ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "එළුවදුරෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:06.612641913Z",
+  "model": "glm-5.3"
+}

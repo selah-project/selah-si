@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 14:28",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "තුන් වසරක අවසානයේ, ඒ වසරේදී, ඔබ ඔබේ ඵලදාවේ ⟨את⟩ සියලු දශමය පිටතට ගෙන, ඔබේ දොරටුවල තබනු ඇත.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "අවසානයේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසරක"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ඔබ පිටතට ගෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු දශමය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "දශමය"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ඔබේ ඵලදාවේ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "වසරේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "והנחת",
+      "gloss": "ඔබ තබනු ඇත"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ඔබේ දොරටුවල"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:50.943499264Z",
+  "model": "glm-5.3"
+}

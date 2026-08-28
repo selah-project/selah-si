@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔවුන්ට ඔහු මෙසේ කීවේය: ඇහුම්කන්න, මෙම සිහිනය මම සිහින දුටුවෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ඇහුම්කන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "සිහිනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "සිහින දුටුවෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T08:11:13.745637106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඉද්දෝ පෙළට — සෙකර්යා; ගිනෙතොන් පෙළට — මෙෂුල්ලාම්.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ඉද්දෝ පෙළට"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "සෙකර්යා"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ගිනෙතොන් පෙළට"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "මෙෂුල්ලාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:24:24.947349841Z",
+  "model": "glm-5.3"
+}

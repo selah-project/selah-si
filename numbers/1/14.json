@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ගාද් වංශයට — එල්යාසාෆ්, දෙයුඑල්ගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ගාද් වංශයට"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "එල්යාසාෆ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "දෙයුඑල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:26:29.736877898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "දාවීද් කෙතේ සැඟවුණේය; අමව් පුන වූ විට, රජ ආහාරය ළඟ අසුන් ගෙන කෑමට විය.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "සැඟවුණේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "කෙතේ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "වූ විට"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "අමව් පුන"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "අසුන් ගෙන"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ළඟ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ආහාරය"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "කෑමට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:03:07.611040667Z",
+  "model": "glm-5.3"
+}

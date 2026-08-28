@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මන්ද එය යෝබෙල් වන්නේ ය; එය ඔබට පූජනීය වන්නේ ය; කෙතෙන් ⟨את⟩ එහි ඵලදාව ඔබ අනුභව කරන්නහු ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "යෝබෙල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්නේ ය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "කෙතෙන්"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙත"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "අනුභව කරන්නහු ය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එහි ඵලදාව"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "එහි ඵලදාව"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:33.498767523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 122,
+  "translation": "යහ්වේ අපගේ එලෝහීම්ගේ ගෙට ⟨අත්⟩ නිසා, ඔබට ⟨අත්⟩ සුබ සෙව්මි.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්ගේ"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "සෙව්මි"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "සුබ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:37:21.253990800Z",
+  "model": "glm-5.3"
+}

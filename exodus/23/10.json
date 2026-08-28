@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "හවුරුදු හයක් ⟨את⟩ ඔබේ දේශය වපුරා, ⟨את⟩ එහි ඵලදාව රැස් කරගන්න;",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "හවුරුදු"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "වපුරා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ දේශය"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ඔබේ දේශය"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "රැස් කරගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඵලදාව"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "එහි ඵලදාව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:51:50.166991981Z",
+  "model": "glm-5.3"
+}

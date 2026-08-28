@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "දාන්ගේ පුත්‍රයෝ: හුෂිම්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දාන්ගේ"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "හුෂිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:20.693781634Z",
+  "model": "glm-5.3"
+}

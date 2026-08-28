@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "නුමුත් ඔබේ ඇස අනුකම්පා නොකළ යුතුය: ප්‍රාණයට ප්‍රාණයක්, ඇසට ඇසක්, දතට දතක්, අතට අතක්, පයට පයක්.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නුමුත් නො"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "අනුකම්පා කළ යුතුය"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ඔබේ ඇස"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ප්‍රාණයක් සඳහා"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇස"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ඇසක් සඳහා"
+    },
+    {
+      "surface": "שן",
+      "gloss": "දත"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "දතක් සඳහා"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතක් සඳහා"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "පය"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "පයක් සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:13.193359324Z",
+  "model": "glm-5.3"
+}

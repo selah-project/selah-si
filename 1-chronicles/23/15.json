@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මොෂේගේ පුත්‍රයෝ: ගේර්ෂොම් සහ එලීඋෙසර්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේගේ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ගේර්ෂොම්"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "සහ එලීඋෙසර්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:03:34.591658976Z",
+  "model": "glm-5.3"
+}

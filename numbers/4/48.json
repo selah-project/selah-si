@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔවුන්ගේ ගණන් අට දහසක් සහ පන්සියයක් සහ අසූවක් විය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ඔවුන්ගේ ගණන්"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "අට"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "සහ පන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "සහ අසූවක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:44.163600901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "යකඩ දූවිල්ලෙන් ගැනේ; ගලෙන් තඹ උණුකර වත් කරනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "දූවිල්ලෙන්"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ගැනේ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ගලෙන්"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "උණුකර වත් කරනු ලැබේ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "තඹ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:47:17.744332857Z",
+  "model": "glm-5.3"
+}

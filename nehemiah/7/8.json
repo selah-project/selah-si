@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පර්ඕෂ්ගේ පුත්‍රයෝ — දෙදහස් සියයක් හැත්තෑ දෙකක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "පර්ඕෂ්ගේ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහස්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "හැත්තෑ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:07.581549307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "කරුණාවන්ත ස්ත්‍රිය තේජස රඳවා ගනී, නමුත් පීඩකයෝ ධනය රඳවා ගනිති.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ස්ත්‍රිය"
+    },
+    {
+      "surface": "חן",
+      "gloss": "කරුණාවන්ත"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "රඳවා ගනී"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "නමුත් පීඩකයෝ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "රඳවා ගනිති"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ධනය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:34.194678160Z",
+  "model": "glm-5.3"
+}

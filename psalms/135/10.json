@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 135,
+  "translation": "ගෝත්‍ර රැසක් ගැසූ තැනැත්තා, බලවත් රජුන් මරා දැමූ තැනැත්තා —",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ගැසූ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ගෝත්‍ර"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "රැසක්"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "සහ මරා දැමූ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "රජුන්"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "බලවත්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:40:52.704963062Z",
+  "model": "glm-5.3"
+}

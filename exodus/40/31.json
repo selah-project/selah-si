@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඊට මොෂේ හා අහරොන් හා ඔහුගේ පුත්‍රයෝ තම ⟨את⟩ අත් හා තම ⟨את⟩ පා සේදූහ.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "සේදූහ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ඊට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "අහරොන්"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ඔහුගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම අත්"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "තම අත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තම පා"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "තම පා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:06:08.715968649Z",
+  "model": "glm-5.3"
+}

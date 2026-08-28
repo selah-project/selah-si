@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඔව්හු කීහ — යහ්වේ මොෂේ සමඟ පමණක් ද කථා කළේ? අප සමඟද නොකථා කළේ ද? යහ්වේ ⟨එය⟩ ඇසුණේය.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ඔව්හු කීහ"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "ද පමණක්"
+    },
+    {
+      "surface": "אך",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "මොෂේ සමඟ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නො… ද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළේ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසුණේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:56.019717532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "මිනිසා යොසෙප් කී ලෙස කළේය; මිනිසා මිනිසුන් ⟨את⟩ යොසෙප්ගේ නිවසට ගෙන ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ලෙස"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ගෙන ගියේය"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මිනිසුන්"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "නිවසට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:42.263236099Z",
+  "model": "glm-5.3"
+}

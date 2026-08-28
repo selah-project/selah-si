@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "බලුව! වීරයෝ පිටත කෑගසති; සාමයේ දූතයෝ කටුකව වැළපෙති.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "වීරයෝ"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "කෑගසති"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "දූතයෝ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමයේ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "කටුකව"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "වැළපෙති"
+    }
+  ],
+  "timestamp": "2026-08-28T09:36:40.356286079Z",
+  "model": "glm-5.3"
+}

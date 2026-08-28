@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ලොම් සහ පියලි එකට මුහුණත් කළ රෙදි — ෂඅට්නේස් — නොඇඳිය යුතුයි.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ඇඳිය යුතුයි"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ෂඅට්නේස් (මුහුණත් කළ රෙදි)"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ලොම්"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "පියලි"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එකට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:19.159316091Z",
+  "model": "glm-5.3"
+}

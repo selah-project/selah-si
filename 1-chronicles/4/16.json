@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යෙහලෙලෙල්ගේ පුත්‍රයෝ — සීප්, සීපා, තිර්යා සහ අසරෙල්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "යෙහලෙලෙල්ගේ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "සීප්"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "සහ සීපා"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "තිර්යා"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "සහ අසරෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:41.352814375Z",
+  "model": "glm-5.3"
+}

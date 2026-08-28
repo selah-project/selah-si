@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එම කාලයේදී අඛාස් රජු ආෂූර් රජවරුන් වෙත, තමාට උදව් කරන්නට, දූතයන් යවා ඇත.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "කාලයේදී"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "යවා ඇත"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "අඛාස්"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "රජවරුන්"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ආෂූර්"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "උදව් කරන්නට"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාට"
+    }
+  ],
+  "timestamp": "2026-08-28T07:43:00.814696325Z",
+  "model": "glm-5.3"
+}

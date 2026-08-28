@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "කෙදෙෂ්, අද්රෙයි, ඒන්-චාත්සොර්ය.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "කෙදෙෂ්"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "අද්රෙයි"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ඒන්"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "චාත්සොර්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:19.489067422Z",
+  "model": "glm-5.3"
+}

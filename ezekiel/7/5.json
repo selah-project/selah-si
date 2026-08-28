@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙසේ කීවේය අදෝනයි යහ්වේ: නපුරක්, එකම නපුරක් — බල්, එය එමින් සිටී.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නපුරක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "නපුරක්"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල්"
+    },
+    {
+      "surface": "באה",
+      "gloss": "එය එමින් සිටී"
+    }
+  ],
+  "timestamp": "2026-08-28T00:23:58.544093318Z",
+  "model": "glm-5.3"
+}

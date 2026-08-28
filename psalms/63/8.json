@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 63,
+  "translation": "මට උදව්වන් වූ ඔබ වූ නිසා, ඔබේ පියාපත් සෙවනේ මම උදාර ව ගායනා කරමි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "היית",
+      "gloss": "වූ ඔබ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "උදව්වන්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "සෙවනේ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ඔබේ පියාපත්"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "උදාර ව ගායනා කරමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:45:48.397160147Z",
+  "model": "glm-5.3"
+}

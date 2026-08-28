@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "වචන සියල්ල වෙහෙසකරය; මිනිසාට ඒවා කියා නිම කළ නොහැක; දැකීමෙන් ඇස පිරෙන්නේ නැත, ඇසීමෙන් කන පිරෙන්නේද නැත.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "වෙහෙසකරය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "හැක"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "කියා නිම කිරීමට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "පිරෙන්නේ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇස"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "දැකීමෙන්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "පිරෙන්නේ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "කන"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ඇසීමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:25.308148119Z",
+  "model": "glm-5.3"
+}

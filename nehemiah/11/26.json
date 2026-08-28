@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යෙෂුවා හිද, මොලාදා හිද, බෙත්-පාලෙත් හිද ⟨වැඩුහ⟩.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "යෙෂුවා හිද"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "මොලාදා හිද"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "පාලෙ඘්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:23.278910467Z",
+  "model": "glm-5.3"
+}

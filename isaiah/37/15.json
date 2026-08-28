@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "චිස්කියාහු යහ්වේ වෙත යාච්ඤා කොට මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "යාච්ඤා කොට"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "චිස්කියාහු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T12:12:01.347079946Z",
+  "model": "glm-5.3"
+}

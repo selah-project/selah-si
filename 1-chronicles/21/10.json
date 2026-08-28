@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යව, දාවීද් වෙත කථා කර, කියාමින්: මෙසේ කීවේය යහ්වේ: තුනක් මම ඔබ මත දමමින් සිටිමි; ඔබට ඒවායින් එකක් තෝරාගන්න, මම ඔබට කරමි.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "කථා කර"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියාමින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "දමමින් සිටිමි"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "තෝරාගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ඒවායින්"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "මම කරමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:41.684418440Z",
+  "model": "glm-5.3"
+}

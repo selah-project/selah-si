@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සෙනාහා පුත්‍රයෝ — තුන්දහස් නවසිය තිස් තුන්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "සෙනාහා"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහස්"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස් තුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:11.814048371Z",
+  "model": "glm-5.3"
+}

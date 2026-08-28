@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "ඔබ නිග්‍රහය වෛර කළහ, මගේ වචන ඔබ පසුපසට විසිකළහ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ඒ අතර ඔබ"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "වෛර කළහ"
+    },
+    {
+      "surface": "මුසාරය",
+      "gloss": "නිග්‍රහය"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "සහ විසිකළහ"
+    },
+    {
+      "surface": "දබරයි",
+      "gloss": "මගේ වචන"
+    },
+    {
+      "surface": "අහරෙක",
+      "gloss": "ඔබ පසුපසට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:23:19.361196184Z",
+  "model": "glm-5.3"
+}

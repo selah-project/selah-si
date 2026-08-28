@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ මම ⟨את⟩ මගේ නෙත් ඔසවා බැලූවෙමි, සහ මම දුටිමි, සහ බල — හතර අඟකි.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ඔසවා බැලූවෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මගේ නෙත්"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "මගේ නෙත්"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "මම දුටිමි"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බල"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "අඟකි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:48:34.706813170Z",
+  "model": "glm-5.3"
+}

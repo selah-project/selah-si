@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "කෙහාත්ගේ පුත්‍රයෝ: අම්රාම්, යිත්සාර්, හෙබ්‍රොන් සහ උසීයෙල්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "කෙහාත්ගේ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "අම්රාම්"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "යිත්සාර්"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "හෙබ්‍රොන්"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "සහ උසීයෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:35.003129115Z",
+  "model": "glm-5.3"
+}

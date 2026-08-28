@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මන්ද අදෝනයි යහ්වේ මෙසේ කියයි: බාවෙල් රජුගේ කඩුව ඔබ වෙත එන්නීය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "කඩුව"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "බාවෙල්"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ඔබ වෙත එන්නීය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:44:58.035914034Z",
+  "model": "glm-5.3"
+}

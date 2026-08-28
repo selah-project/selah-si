@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ මොෂේට කතා කළේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:42.477735470Z",
+  "model": "glm-5.3"
+}

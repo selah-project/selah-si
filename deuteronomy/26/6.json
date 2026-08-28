@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මිස්රයිම්වරු ⟨את⟩ අපට අයහපත් කළහ, අපව පීඩා කළහ, අප මත දැරුම් වැඩ පැටවූහ.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "අපට අයහපත් කළහ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "අපට"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "මිස්රයිම්වරු"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "අපව පීඩා කළහ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "පැටවූහ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අප මත"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "වැඩ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "දැරුම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:07.633661426Z",
+  "model": "glm-5.3"
+}

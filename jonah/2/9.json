@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "හිස් බොරු දේ රකින්නෝ ⟨ඔවුන්ගේම⟩ කරුණාව අත්හරිති.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "රකින්නෝ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "හිස්"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "බොරු දේ"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "ඔවුන්ගේම කරුණාව"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "අත්හරිති"
+    }
+  ],
+  "timestamp": "2026-08-28T01:27:07.318708407Z",
+  "model": "glm-5.3"
+}

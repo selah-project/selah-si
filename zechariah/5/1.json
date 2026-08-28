@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මම නැවත හැරී, මගේ ඇස් ඔසවා දුටිමි, එසේ බැලූ කල පියාඹන ලියවිල්ලකි.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "මම නැවත හැරී"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ඔසවා ගතිමි"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "මගේ ඇස්"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "දුටිමි"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "එසේ බැලූ කල"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ලියවිල්ලකි"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "පියාඹන"
+    }
+  ],
+  "timestamp": "2026-08-28T01:49:28.789272239Z",
+  "model": "glm-5.3"
+}

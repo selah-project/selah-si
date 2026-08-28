@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සිංහ නාදයේ හා යුද ඝෝෂාවේ දිනය — බලකොටු නගර මත සහ උස කොන් කුළුණු මත.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "සිංහ නාදයේ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "යුද ඝෝෂාවේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "බලකොටු"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ...මත"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "කොන් කුළුණු"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "උස"
+    }
+  ],
+  "timestamp": "2026-08-28T01:39:41.727965158Z",
+  "model": "glm-5.3"
+}

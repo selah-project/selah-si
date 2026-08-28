@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "කාලයක් සොයා ගැනීමට, සහ කාලයක් නැති කිරීමට; කාලයක් රැක ගැනීමට, සහ කාලයක් හැර දැමීමට.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "කාලයක්"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "සොයා ගැනීමට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ කාලයක්"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "නැති කිරීමට"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලයක්"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "රැක ගැනීමට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ කාලයක්"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "හැර දැමීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:24.515263327Z",
+  "model": "glm-5.3"
+}

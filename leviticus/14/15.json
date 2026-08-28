@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සහ පූජකයා තෙල් ලෝගයෙන් ටිකක් ගෙන, පූජකයාගේ වම් අත්පත මතට එළවීය.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "සහ-ගෙන"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ලෝගයෙන්-ටිකක්"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "තෙල්"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "සහ-එළවීය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අත්පත"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයාගේ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "වම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:34.242840451Z",
+  "model": "glm-5.3"
+}

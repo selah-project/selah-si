@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔව්හු හැරී කඳුකරයට නැගී, එෂ්කෝල් නිම්නය වෙත පැමිණ ⟨את⟩ එය ඔත්තු බැලූහ.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "හැරුණහු"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "නැගුණහු"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "කඳුකරයට"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "පැමිණියහු"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "නිම්නය"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "එෂ්කෝල්"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ඔත්තු බැලූහ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය (දේශය)"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:41.781126780Z",
+  "model": "glm-5.3"
+}

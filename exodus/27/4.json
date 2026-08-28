@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 27:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔබ එයට ජාලිමාවක් — තඹ දැලක කාර්යයක් — කරන්නහ; ඔබ ඒ දැල මත, එහි සතර කෙළවරවල, තඹ කොකු හතර කරන්නහ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ඔබ කරන්නහ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ජාලිමාව"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "කාර්යයක්"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "දැලක"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ඔබ කරන්නහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ඒ දැල"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "කොකු"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "එහි කෙළවරවල"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:24.045074966Z",
+  "model": "glm-5.3"
+}

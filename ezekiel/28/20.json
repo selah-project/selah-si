@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "යහ්වේගේ වචනය මට ⟨මෙසේ⟩ ආවේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ආවේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨මෙසේ⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T10:03:43.366402059Z",
+  "model": "glm-5.3"
+}

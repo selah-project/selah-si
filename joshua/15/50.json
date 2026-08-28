@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "අනාබ්, එෂ්තෙමෝ, අනීම් —",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "අනාබ්"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "එෂ්තෙමෝ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "අනීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.967886733Z",
+  "model": "glm-5.3"
+}

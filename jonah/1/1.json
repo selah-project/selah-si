@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේගේ වචනය අමිත්තයිගේ පුත් යොනා වෙත වූයේ, මෙසේ කියාම:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "යොනා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "අමිත්තයිගේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියාම"
+    }
+  ],
+  "timestamp": "2026-08-28T01:29:55.783635950Z",
+  "model": "glm-5.3"
+}

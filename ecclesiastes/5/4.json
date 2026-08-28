@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔබ ප්‍රතිඥාවක් නොකරනු ⟨it⟩ වඩා යහපත් වන්නේ, ප්‍රතිඥාවක් කර ඉටු නොකරනු මෙන් නොවේ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ප්‍රතිඥාවක් කරනු"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ප්‍රතිඥාවක් කර"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ඉටු කරනු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:20:06.924550677Z",
+  "model": "glm-5.3"
+}

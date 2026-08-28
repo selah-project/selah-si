@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 69,
+  "translation": "එලෝහීම්, ඔබ මගේ මෝඩකම දන්නේය; මගේ වැරදි ඔබ ඉඳන් සැඟවී නැත.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "දන්නේය"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "මගේ මෝඩකම"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "මගේ වැරදි"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබ ඉඳන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "සැඟවී"
+    }
+  ],
+  "timestamp": "2026-08-28T12:04:00.584371456Z",
+  "model": "glm-5.3"
+}

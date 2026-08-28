@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "පාරකයක ගලක් බැඳ තැබෙන ලෙස — එසේම මෝඩයාට ගෞරවය දෙන්නා ⟨ය⟧.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "බැඳ තැබෙන ලෙස"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගලක්"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "පාරකයක"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "දෙන්නා"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "මෝඩයාට"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ගෞරවය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:38:47.247813789Z",
+  "model": "glm-5.3"
+}

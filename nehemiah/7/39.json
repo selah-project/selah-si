@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පූජකවරු — යදයා පුත්‍රයෝ, යේෂුවාගේ ගෙයින් — නවසිය අනූතුන් තුන්.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකවරු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "යදයා"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෙයින්"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "යේෂුවා"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:11.814204657Z",
+  "model": "glm-5.3"
+}

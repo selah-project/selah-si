@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අසර්යා ⟨את⟩ අමර්යාව බිහිකළේය, අමර්යා ⟨את⟩ අහිටූබ්ව බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අමර්යා"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "අමර්යා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අහිටූබ්"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "අහිටූබ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:20.673244651Z",
+  "model": "glm-5.3"
+}

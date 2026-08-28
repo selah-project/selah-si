@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මම නිෂ්ඵල මිනිසුන් සමඟ වාඩි වූයේ නැත, සඟවන සුළුවන් සමඟ මම එන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "වාඩි වූයේ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "නිෂ්ඵල"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "සඟවන සුළුවන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "එන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:19:14.299701013Z",
+  "model": "glm-5.3"
+}

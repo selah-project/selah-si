@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මොෂේ යහ්වේ ⟨את⟩ ⟨ඔහුට⟩ අණ කළ පරිදි කළේය, සහ සභාව හමුවිදාන කූඩාරයේ දොරටුව ළඟට රැස් විය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ඔහුට⟩"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "රැස් විය"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "සභාව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරයේ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවිදාන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:40.538261858Z",
+  "model": "glm-5.3"
+}

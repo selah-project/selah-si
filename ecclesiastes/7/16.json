@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අධික ලෙස ධාර්මික නොවව, හා වැඩියෙන් ප්‍රඥාවන්ත නොවව — මන්ද ඔබ විනාශ වන්නේ ද?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "වව"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධාර්මික"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "අධික ලෙස"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "හා නො"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ප්‍රඥාවන්ත වව"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "වැඩියෙන්"
+    },
+    {
+      "surface": "למה",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "විනාශ වන්නේ ද"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:05.820135870Z",
+  "model": "glm-5.3"
+}

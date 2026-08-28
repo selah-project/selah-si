@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මන්ද මෙම නගරය ඉදිකල දින සිට මේ දින දක්වා මාගේ කෝපයට හා මාගේ උරණකමට හේතුවක් වී ඇත — එය මාගේ මුහුණෙන් ඉවත් කිරීම සඳහා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "මාගේ කෝපය"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "හා වෙත"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "මාගේ උරණකම"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වී ඇත"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "למן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඉදිකල"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ එය",
+      "marks": "නගරය"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "එය ඉවත් කිරීම සඳහා"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉඳන්"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මාගේ මුහුණෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:07:53.406436224Z",
+  "model": "glm-5.3"
+}

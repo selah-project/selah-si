@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඔබ දෙන නගරවලින් හයක් රැකවරණ නගර ලෙස ඔබට ⟨පවතින්නේය⟩.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "සහ නගර"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ දෙන"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "දෙනවා"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "රැකවරණ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:26.426230929Z",
+  "model": "glm-5.3"
+}

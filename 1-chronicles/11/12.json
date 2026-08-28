@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඔහුට පසුව ඇලෙක්සාර් — දෝදෝගේ පුත්, ආහොහී වූවා; ඔහු තිදෙනා වීරයන් අතර විය.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ඔහුට පසුව"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ඇලෙක්සාර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "දෝදෝගේ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ආහොහී වූවා"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "තිදෙනා අතර"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "වීරයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:19.353721531Z",
+  "model": "glm-5.3"
+}

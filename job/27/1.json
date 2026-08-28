@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඉයෝබ් දිගටම ⟨තවදුරටත්⟩ තම උපමාව ඔසවා, මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "දිගටම තවදුරටත්"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ඉයෝබ්"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "තම උපමාව"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T12:06:56.968065365Z",
+  "model": "glm-5.3"
+}

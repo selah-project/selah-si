@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "හා ඒවා ඔබට ශෙකෙට් වන්නේය; ඒවාගේ මස් ඔබ නොකන්න, ⟨את⟩ ඒවාගේ මළකඳ ඔබ කුණුහලන්න.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "හා ශෙකෙට්"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ඒවාගේ මස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවාගේ මළකඳ"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ඒවාගේ මළකඳ"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "කුණුහලන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:10:54.942669406Z",
+  "model": "glm-5.3"
+}

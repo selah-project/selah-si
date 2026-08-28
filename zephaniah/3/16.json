@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "එම දිනයේදී යෙරුෂාලයිම්ට කියනු ලැබේ: බිය නොවෙන්න; සීයෝන්, ඔබේ අත් ලිහිල් නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "කියනු ලැබේ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "යෙරුෂාලයිම්ට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "බිය වෙන්න"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සීයෝන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ලිහිල් කරන්න"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ඔබේ අත්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:40:23.938739264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔවුන්ට උපන් දරුවෝ, ඔවුන්ගේ තුන්වන පරම්පරාව, යහ්වේගේ සභාවට ඔවුන් සමඟ ⟨ඇතුල් වන්නෝය⟩.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "දරුවෝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උපන්"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "උපන්"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාව"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "තුන්වන"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ඇතුල් වන්නෝය"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන් සමඟ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "සභාවට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:33.408030437Z",
+  "model": "glm-5.3"
+}

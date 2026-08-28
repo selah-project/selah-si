@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "එලී ⟨את⟩ ⟨the⟩ විලාපයේ හඬ ඇසූ කල කීවේය — මෙම ඝෝෂාවේ හඬ කුමක්ද? — ඒ මිනිසා ඉක්මන් කර පැමිණ එලීට දැන්වීය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසූ කල"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "එලී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ විලාපයේ හඬ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "⟨the⟩ විලාපයේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ඝෝෂාවේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ඒ මිනිසා"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ඉක්මන් කර"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "දැන්වීය"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "එලීට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:54:17.210651814Z",
+  "model": "glm-5.3"
+}

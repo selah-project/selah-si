@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-28T05:29:05.313300573Z",
+  "model": "glm-5.3"
+}

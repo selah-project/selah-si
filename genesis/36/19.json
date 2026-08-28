@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මොහු ඒෂාව්ගේ පුත්‍රයෝ; මොහු ඔවුන්ගේ අලුප්වරු; ඔහු ⟨⟨ඒඩොම්⟩⟩ නම් වේ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒෂාව්ගේ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "අලුප්වරු"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ඒඩොම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:31.066670099Z",
+  "model": "glm-5.3"
+}

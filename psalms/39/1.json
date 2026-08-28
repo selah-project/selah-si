@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "කළමනාකරුට ⟨ද⟩, යෙදුතුන්ට ⟨ද⟩ — දාවීද්ගේ මිස්මෝර්.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කළමනාකරුට"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "යෙදුතුන්ට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:28:03.959378531Z",
+  "model": "glm-5.3"
+}

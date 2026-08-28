@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කරදරය සිනහවට වඩා හොඳය, මන්ද මුහුණේ උදාසීනත්වයෙන් හදවත හොඳ වේ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "කරදරය"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "සිනහවට වඩා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "උදාසීනත්වයෙන්"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණේ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "හොඳ වේ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:54.997290404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මූෂීගේ පුත්‍රයෝ — මක්ලී, ජේදර් සහ යිරෙමොත් — තිදෙනාය.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "මූෂීගේ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "මක්ලී"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "සහ ජේදර්"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "සහ යිරෙමොත්"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තිදෙනාය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:02:11.265797641Z",
+  "model": "glm-5.3"
+}

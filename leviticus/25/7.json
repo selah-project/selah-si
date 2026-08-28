@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබේ ගවයන්ටද, ඔබේ දේශයේ ඇති සතුන්ටද — එහි සමස්ත ඵලය ආහාරයට වන්නේය.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ඔබේ ගවයන්ටද"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "සතුන්ටද"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ඔබේ දේශයේ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ඵලය"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ආහාරයට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:12.923436285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 142,
+  "translation": "මාගේ හඬ යහ්වේ වෙත ඔසවා මම අඬමි; මාගේ හඬ යහ්වේ වෙත ඔසවා මම අනුකම්පා යදමි.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "මාගේ හඬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "මම අඬමි"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "මාගේ හඬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "මම අනුකම්පා යදමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:46:11.513626669Z",
+  "model": "glm-5.3"
+}

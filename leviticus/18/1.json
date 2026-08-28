@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "යහ්වේ මොෂේට වදාළේය, මෙසේ කියන්නැයි:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියන්නැයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:17:34.083455411Z",
+  "model": "glm-5.3"
+}

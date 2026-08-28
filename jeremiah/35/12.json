@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "එවිට යහ්වේගේ වචනය යිර්මෙයාහු වෙත මෙසේ පැමිණි:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට ⟨විය⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:06:59.926872831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "දරය, හබක්කූක් නබිවරයා ⟨එය⟩ ස්වප්නයෙන් දුටු බව.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "දරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨එය⟩ සේයා"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ස්වප්නයෙන් දුටු"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "හබක්කූක්"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "නබිවරයා"
+    }
+  ],
+  "timestamp": "2026-08-28T01:37:46.298350440Z",
+  "model": "glm-5.3"
+}

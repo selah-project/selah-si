@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "අස්මාවෙත් හි පුත්‍රයෝ, හතළිස් දෙදෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "අස්මාවෙත්"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙදෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:34.743009128Z",
+  "model": "glm-5.3"
+}

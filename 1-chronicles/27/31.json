@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "බැටළුවන් මත යාසිස් හග්‍රි සිටියේය; මේ සියල්ල රජ දාවීදට අයත් වස්තුවේ ප්‍රධානීහු වූහ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ ... මත"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "බැටළුවන්"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "යාසිස්"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "හග්‍රි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ප්‍රධානීහු"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "වස්තුවේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අයත්"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජාට"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:07:00.980116250Z",
+  "model": "glm-5.3"
+}

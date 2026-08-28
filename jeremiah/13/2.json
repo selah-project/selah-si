@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මම ⟨את⟩ තිරය, යහ්වේගේ වචනය පරිදි, මිලට ගතිමි; එය මගේ ඉණ මත තිබුණෙමි.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "මිලට ගතිමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තිරය"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "තිරය"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "වචනය පරිදි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "තිබුණෙමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "මගේ ඉණ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:28.620855493Z",
+  "model": "glm-5.3"
+}

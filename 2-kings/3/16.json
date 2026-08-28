@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු කීවේය: යහ්වේ මෙසේ කියයි — මේ නිම්නයේ ⟨the⟩ අගල් අගල් ගවන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ගවන්න"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "නිම්නයේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "අගල්"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "අගල්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:51:16.972294725Z",
+  "model": "glm-5.3"
+}

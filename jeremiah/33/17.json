@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මන්ද යහ්වේ මෙසේ කීවේය: දාවීද්ට ඊශ්‍රායෙල් ගෙයි සිහසුන මත වැඩ හිඳින මිනිසෙක් කපා නොදමනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "කපා දමනු ලැබේ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "වැඩ හිඳින"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "සිහසුන"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:06:35.498863797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 29:29",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "ලාබාන් තම දියණිය රාහෙලට තම දාසිය වන බිල්හාව ⟨את⟩ ඇගේ දාසිය කොට දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ලාබාන්"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "රාහෙලට"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "තම දියණිය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බිල්හාව"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "බිල්හාව"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "තම දාසිය"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇගේ"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "දාසිය කොට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:51.379247957Z",
+  "model": "glm-5.3"
+}

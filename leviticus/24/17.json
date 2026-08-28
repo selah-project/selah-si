@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "සහ මිනිසෙක් මිනිසාගේ ඕනෑම ප්‍රාණයක් පහර දෙන්නේ නම්, මරණයෙන් මරණුම් ලැබේ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "සහ මිනිසෙක්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "පහර දෙන්නේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ඕනෑම"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණයක්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයෙන්"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "මරණුම් ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:59.588957595Z",
+  "model": "glm-5.3"
+}

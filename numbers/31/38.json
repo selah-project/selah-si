@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "එළදෙනුන් සතළිස් හය දහසක්; ඉන් ඔවුන්ගේ බද්ද යහ්වේට දෙසැට දෙකකි.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "සහ එළදෙනුන්"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "හය"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "සහ තිස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "සහ ඔවුන්ගේ බද්ද"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "සහ හැත්තෑවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:26.646286Z",
+  "model": "glm-5.3"
+}

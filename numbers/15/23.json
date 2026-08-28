@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 15:23",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේ විසින් මොෂේ අතින් ඔබට අණ කළ ⟨את⟩ සියල්ල — යහ්වේ අණ කළ දිනයේ සිට ඉදිරියට, ඔබේ පරම්පරාවලට —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතින්"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දිනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "සහ ඉදිරියට"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ඔබේ පරම්පරාවලට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:41:10.823559709Z",
+  "model": "glm-5.3"
+}

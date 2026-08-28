@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "අෂේර්ගේ දේශසීමාව මත, නැගෙනහිර පැත්තෙන් මුහුද පැත්ත දක්වාද — නෆ්තාලි, එකක්.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "දේශසීමාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අෂේර්ගේ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "පැත්තෙන්"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වාද"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "පැත්ත"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "නෆ්තාලි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:03:42.996768800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "ඔබ ⟨ඔබගේ⟩ පණවුඩ ඉතා සැලකිල්ලෙන් රැකීමට නියෝග කළහ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "නියෝග කළහ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ඔබගේ පණවුඩ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා සැලකිල්ලෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:30:29.559238546Z",
+  "model": "glm-5.3"
+}

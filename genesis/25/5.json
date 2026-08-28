@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "අව්රාහම් ⟨את⟩ තමාට තිබූ සියල්ල යිට්ස්ඛාක්ට දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමාට තිබූ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාට"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "යිට්ස්ඛාක්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:17:37.321984349Z",
+  "model": "glm-5.3"
+}

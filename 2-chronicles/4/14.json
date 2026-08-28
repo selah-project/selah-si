@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ ⟨את⟩ පාමුල් අඩි ඔහු කළේය, සහ ⟨את⟩ තැටි ඔහු කළේය පාමුල් අඩි මත.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පාමුල් අඩි"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "පාමුල් අඩි"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තැටි"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "තැටි"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "පාමුල් අඩි"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:02.719039743Z",
+  "model": "glm-5.3"
+}

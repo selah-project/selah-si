@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ගෝමෙර්ගේ පුත්‍රයෝ: අෂ්කෙනාස්, දීෆාත් සහ තෝගර්මා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ගෝමෙර්ගේ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "අෂ්කෙනාස්"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "දීෆාත්"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "තෝගර්මා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:40.328262302Z",
+  "model": "glm-5.3"
+}

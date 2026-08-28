@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඔහු එහි කොන් හතරෙහි එහි අං සාදූ ය; ඒ අං එයින්ම වූයේ ය; ඔහු ⟨את⟩ එය තඹින් පිරියම් කළේ ය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "සාදූ ය"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "එහි අං"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "එහි කොන්"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූයේ ය"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ඒ අං"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "පිරියම් කළේ ය"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "පීඨය"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:46.837324894Z",
+  "model": "glm-5.3"
+}

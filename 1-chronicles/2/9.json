@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "හෙට්ස්රොන්ට ඔහුට උපන් පුත්‍රයෝ — ⟨את⟩ යෙරක්මෙල්, ⟨את⟩ රාම්, ⟨את⟩ කෙලුබයි.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "හෙට්ස්රොන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "උපන්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෙරක්මෙල්"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "යෙරක්මෙל්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "රාම්"
+    },
+    {
+      "surface": "רם",
+      "gloss": "රාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "කෙලුබයි"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "කෙලුබයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:31.472452740Z",
+  "model": "glm-5.3"
+}

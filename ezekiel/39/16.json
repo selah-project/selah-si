@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "අහෝ, නගරයේ නාමය හමොනා ⟨වන්නේ ය⟩; ඔව්හු පොළොව පිරිසිදු කරන්නෝ ය.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "අහෝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "හමොනා"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "පිරිසිදු කරන්නෝ ය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T00:51:49.146455208Z",
+  "model": "glm-5.3"
+}

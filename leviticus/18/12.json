@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "නිරුවත — ඔබේ පියාගේ සහෝදරියගේ — ඔබ නොඅනන්න; ඇය ඔබේ පියාගේ ම මාංසයයි.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "සහෝදරිය"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ඔබේ පියා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "අනන්න"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "මාංසය"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ඔබේ පියා"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇයයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:17:18.811148739Z",
+  "model": "glm-5.3"
+}

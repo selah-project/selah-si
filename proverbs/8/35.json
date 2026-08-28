@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මට සොයාගන්නා කෙනා ජීවිතය සොයාගනී, යහ්වේගෙන් ප්‍රසාදය ලබයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "සොයාගන්නා කෙනා"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "සොයාගනී"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවිතය"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ලබයි"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ප්‍රසාදය"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "යහ්වේගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:59.787832845Z",
+  "model": "glm-5.3"
+}

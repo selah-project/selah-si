@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "සහ ඉරා ⟨ය⟩ යායිරී තැනැත්තා ⟨ද⟩ දාවීද්ට පූජකයෙක් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සහ...ද"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ඉරා"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "යායිරී"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "පූජකයෙක්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:24:09.800915134Z",
+  "model": "glm-5.3"
+}

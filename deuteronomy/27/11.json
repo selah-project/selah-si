@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඒ දින මොෂේ ජනයාට ⟨את⟩ අණ කළේය, කියා:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයාට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ඒ දින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:26.788220293Z",
+  "model": "glm-5.3"
+}

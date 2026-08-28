@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "කන් යොමු කර, ඉයෝබ්, මට අසව; නිහඬ වව — මම කථා කරන්නෙමි",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "කන් යොමු කර"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ඉයෝබ්"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසව"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "නිහඬ වව"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "කථා කරන්නෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:51:41.517995886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ශාපයට පත් වේවා ඔබේ කූඩයද, ඔබේ පිටි මිරිකන බඳුනද.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාපයට පත්"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ඔබේ කූඩය"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "සහ ඔබේ පිටි මිරිකන බඳුන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:30.741283637Z",
+  "model": "glm-5.3"
+}

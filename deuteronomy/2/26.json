@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "කොදෙමොත් මෝදරයෙන් දූතයන් සිහොන් හෙෂබොන් රජු වෙත යවා සාම වචන කීමි:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "දූතයන්"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "මෝදරයෙන්"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "කොදෙමොත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "සිහොන්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "හෙෂබොන්"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාම"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීමි"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:53.456414975Z",
+  "model": "glm-5.3"
+}

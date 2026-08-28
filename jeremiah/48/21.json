@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "තීන්දුව මැදි බිම් දේශයට — ඛොලොන් සහ යාහ්ට්සා සහ මොෆාඅත් මතට පැමිණීය.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "තීන්දුව"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණීය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයට"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "මැදි බිම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ඛොලොන්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "යාහ්ට්සා"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "මොෆාඅත්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:15:41.265853519Z",
+  "model": "glm-5.3"
+}

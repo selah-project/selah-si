@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 74,
+  "translation": "ඔබ ඔබේ බලයෙන් මුහුද කැඩුවේය; ජලයන් මත තනීනීම්ගේ හිස් ඔබ පිහිරුවේය.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "කැඩුවේය"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ඔබේ බලයෙන්"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "පිහිරුවේය"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "හිස්"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "තනීනීම්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:09.607429160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔබ ⟨නව⟩ නිවසක් තනන විට, ඔබේ වහලට බැම්මක් සාදන්න; එසේ නොකොට, යමෙක් එයින් වැටුණහොත්, ඔබේ නිවස මත ලේ වරද නොපටවන්න.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "විට"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "තනන"
+    },
+    {
+      "surface": "בית",
+      "gloss": "නිවස"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "නව"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "සාදන්න"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "බැම්මක්"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "ඔබේ වහලට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොකොට"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "නොපටවන්න"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ලේ වරද"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ඔබේ නිවස මත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "හොත්"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටුණහොත්"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "යමෙක්"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:45:13.587729886Z",
+  "model": "glm-5.3"
+}

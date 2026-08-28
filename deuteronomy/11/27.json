@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ආශීර්වාදය ⟨את⟩ — ඔබගේ එලෝහීම් යහ්වේගේ ආඥාවන්ට ඔබ කන් දෙන්නහු නම්, අද මම ඔබට ⟨את⟩ අණ කරන —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ආශීර්වාදය"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ආශීර්වාදය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ඔබ කන් දෙන්නහු නම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ආඥාවන්ට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ඔබට ⟨את⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:30.939371688Z",
+  "model": "glm-5.3"
+}

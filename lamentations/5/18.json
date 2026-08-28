@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සීයෝන් කන්ද — එය හිස් වියකි නිසා; වලගෝන් එහි ඇවිදිති.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "සීයෝන්"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "හිස් වියකි"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "වලගෝන්"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ඇවිදිති"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:46:28.740169053Z",
+  "model": "glm-5.3"
+}

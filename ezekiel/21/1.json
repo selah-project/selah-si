@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යහ්වේගේ වචනය මා වෙත පැමිණ කිවේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කිවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:35:00.812361473Z",
+  "model": "glm-5.3"
+}

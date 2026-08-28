@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කුලඟු එකක්, රැළේ පුතෙක්, එළදෙන එකක්, අවුරුද්දක පුතෙක් වූ බැටළුවෙක්, දහන පූජාවට;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "කුලඟු"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙක්"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "රැළේ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "එළදෙන"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "බැටළුවෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙක්"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "අවුරුද්දක"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "දහන පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:58.977027351Z",
+  "model": "glm-5.3"
+}

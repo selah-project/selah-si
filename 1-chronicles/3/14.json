@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ආමෝන් ⟨ඔහුගේ⟩ පුත්, යෝෂියාහු ⟨ඔහුගේ⟩ පුත්.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "ආමෝන්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨ඔහුගේ⟩ පුත්"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "යෝෂියාහු"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨ඔහුගේ⟩ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:34:53.455111163Z",
+  "model": "glm-5.3"
+}

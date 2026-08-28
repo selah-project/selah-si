@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "අයියෝබ් පිළිතුරු දී මෙසේ කීවේය.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "පිළිතුරු දී"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "අයියෝබ්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "මෙසේ කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:44:53.077876869Z",
+  "model": "glm-5.3"
+}

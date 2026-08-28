@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "අයහපතෙන් වෙන් වව්, යහපත කරව්, අනන්තයටම වාසය කරව්.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "වෙන් වව්"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "අයහපතෙන්"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "කරව්"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "වාසය කරව්"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "අනන්තයටම"
+    }
+  ],
+  "timestamp": "2026-08-28T10:22:27.137396619Z",
+  "model": "glm-5.3"
+}

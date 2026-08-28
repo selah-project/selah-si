@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කූෂ් ⟨את⟩ නිම්රොද් බිහි කෙළේය; ඔහු ⟨is⟩ පොළොවෙහි වීරයෙකු වීමට පටන් ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "කූෂ්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "බිහි කෙළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නිම්රොද්"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "නිම්රොද්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "החל",
+      "gloss": "පටන් ගත්තේය"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "වීමට"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "වීරයෙකු"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:24.422362608Z",
+  "model": "glm-5.3"
+}

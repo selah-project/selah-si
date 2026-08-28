@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 116,
+  "translation": "මන්ද ⟨ඔහු⟩ මගේ කන නමා ⟨මට⟩, එබැවින් මගේ දිනවල මම යාච්ඤා කරන්නෙමි।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "නමා"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "මගේ කන"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "මගේ දිනවල"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "මම යාච්ඤා කරන්නෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:30:50.071124163Z",
+  "model": "glm-5.3"
+}

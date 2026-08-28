@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මගේ සම මා මත කළු විය, මගේ ඇටද උණුසුමෙන් දැවී ගියේය.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "මගේ සම"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "කළු විය"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "මා මත"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "සහ මගේ ඇට"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "දැවී ගිය"
+    },
+    {
+      "surface": "מני",
+      "gloss": "යත්"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "උණුසුම"
+    }
+  ],
+  "timestamp": "2026-08-28T04:49:36.684941729Z",
+  "model": "glm-5.3"
+}

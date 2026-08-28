@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එල්කනාගේ පුත්, යොඊල්ගේ පුත්, අසර්යාගේ පුත්, ත්සෙපන්යාගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "එල්කනා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "යොඊල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ත්සෙපන්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:43.018925976Z",
+  "model": "glm-5.3"
+}

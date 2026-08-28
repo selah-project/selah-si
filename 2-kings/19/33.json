@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔහු ගමන් කළ මාර්ගයෙන්ම ⟨ඔහු⟩ ආපසු හැරේ; මේ නගරයට ඔහු නොඑයි, යහ්වේගේ නියමයයි.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු කළ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ගමන් කළ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එයෙන්ම"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ වෙත"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයට"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "එයි"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නියමයයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:04:23.581444768Z",
+  "model": "glm-5.3"
+}

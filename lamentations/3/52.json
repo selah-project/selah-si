@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "පක්ෂියෙකු මෙන් බිය නැතිව මගේ සතුරෝ මා ලුහුබැඳියහ.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "බිය නැතිව"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "මා ලුහුබැඳියහ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "පක්ෂියෙකු මෙන්"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "මගේ සතුරෝ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "බිය නැතිව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:48.459239062Z",
+  "model": "glm-5.3"
+}

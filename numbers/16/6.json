@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මෙය කරව්: ඔබ සඳහා ගිනි තැටි ගන්න, කෝරාක් හා ඔහුගේ සමස්ත රැස්වීම.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කරව්"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ සඳහා"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "ගිනි තැටි"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කෝරාක්"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "හා සමස්ත"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "ඔහුගේ රැස්වීම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:25.962274664Z",
+  "model": "glm-5.3"
+}

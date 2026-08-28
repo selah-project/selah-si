@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහුට පසුව මහ පොළොවේ පූජකයන් — කුමරටේ මිනිසුන් — බැඳගත්හ.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ඔහුට පසුව"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "බැඳගත්හ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයන්"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "කුමරටේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:13:38.648514469Z",
+  "model": "glm-5.3"
+}

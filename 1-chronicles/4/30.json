@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ බෙත්-උඑල්දී, හොර්මාදී, ට්සික්ලාග්දී",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "සහ බෙත්-උඑල්දී"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "හොර්මාදී"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ට්සික්ලාග්දී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:37:33.716076497Z",
+  "model": "glm-5.3"
+}

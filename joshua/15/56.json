@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යිස්රෙඑල්, යොක්දෙආම්, සනෝඛ්,",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "යිස්රෙඑල්"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "යොක්දෙආම්"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "සනෝඛ්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.012353814Z",
+  "model": "glm-5.3"
+}

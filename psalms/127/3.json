@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 127,
+  "translation": "බලු — පුත්‍රයෝ යහ්වේගේ උරුමයකි; උදරයේ ඵලය වේතනයකි।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "උරුමයකි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "වේතනයකි"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵලය"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "උදරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:41:28.323187927Z",
+  "model": "glm-5.3"
+}

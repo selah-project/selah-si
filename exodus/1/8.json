@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඉන්පසු මිට්ස්රයිම් මත යෝසෙප්ව ⟨את⟩ නොදැන සිටි නව රජෙක් නැඟී සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟී සිටියේය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජෙක්"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "නව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිට්ස්රයිම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යමෙක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දැන සිටි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යෝසෙප්ව"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:26.631960343Z",
+  "model": "glm-5.3"
+}

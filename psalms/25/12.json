@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "යහ්වේට බිය වන මිනිසා කවරෙක්ද? ඔහු තෝරාගත් මාර්ගයෙහි ඔහුට උගන්වයි.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "බිය වන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ඔහුට උගන්වයි"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මාර්ගයෙහි"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "තෝරාගත්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:16.942372283Z",
+  "model": "glm-5.3"
+}

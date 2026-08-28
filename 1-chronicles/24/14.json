@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "බිල්ගාට ⟨පහළොසයි⟩, ඉමෙර්ට ⟨දහසයයි⟩.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "බිල්ගාට"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය — පහළොස"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ඉමෙර්ට"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "හය"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය — දහසය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:57.860993570Z",
+  "model": "glm-5.3"
+}

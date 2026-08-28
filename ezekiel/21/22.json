@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සහ මම ⟨ද⟩ මගේ අත්පත මගේ අත්පත ⟨මත⟩ ගසමි, මගේ කෝපය සංසිඳුවමි; මම යහ්වේ කථා කළෙමි.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ගසමි"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "මගේ අත්පත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "මගේ අත්පත"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "සංසිඳුවමි"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "මගේ කෝපය"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "කථා කළෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:02:26.085895305Z",
+  "model": "glm-5.3"
+}

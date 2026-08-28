@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මිට්ස්පේ, කෙෆිරා, මොට්සා,",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "මිට්ස්පේ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "කෙෆිරා"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "මොට්සා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:16.223050771Z",
+  "model": "glm-5.3"
+}

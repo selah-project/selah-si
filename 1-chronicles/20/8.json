@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මොවුහු ගාත්හි රාපාට උපන්නෝ ය; ඔවුහු දාවීද්ගේ අතටද, ඔහුගේ සේවකයන්ගේ අතටද වැටුණෝ ය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "මොවුහු"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "උපන්නෝ ය"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "රාපාට"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ගාත්හි"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "වැටුණෝ ය"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතට"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "සහ අතට"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ඔහුගේ සේවකයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:57:15.988574872Z",
+  "model": "glm-5.3"
+}

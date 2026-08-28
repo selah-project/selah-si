@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "උද්‍යානවල ජලධාරාවක්, ජීවමාන ජලයෙන් ⟨the⟩ ලිඳක්, ලෙබනන් දෙසින් ගලා එන දහරුන්",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ජලධාරාවක්"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "උද්‍යානවල"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ලිඳක්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයෙන්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවමාන"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ගලා එන"
+    },
+    {
+      "surface": "מן",
+      "gloss": "දෙසින්"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ලෙබනන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:14.975008510Z",
+  "model": "glm-5.3"
+}

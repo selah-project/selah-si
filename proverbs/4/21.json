@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඒවා ඔබේ ඇස් ඉදිරිපිටින් ඉවත් නොවන්න; ඔබේ හදවත ⟨තුළ⟩ මැද ඒවා රකින්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "ඉවත් වන්න"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "ඔබේ ඇස් ඉදිරිපිටින්"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "ඒවා රකින්න"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ හදවත"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:07.781027897Z",
+  "model": "glm-5.3"
+}

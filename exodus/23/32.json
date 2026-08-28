@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබ ඔවුන්ට හා ඔවුන්ගේ දෙවිවරුන්ට ගිවිසුමක් නොකපන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "කපන්න"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "සහ ඔවුන්ගේ දෙවිවරුන්ට"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ගිවිසුමක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:53:08.386988939Z",
+  "model": "glm-5.3"
+}

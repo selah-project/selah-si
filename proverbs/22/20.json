@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මා නුඹට තුන් වරක් නොලිව්වේ ද — උපදේශයෙන් හා දැනුමෙන්?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "නො... ද"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "මා ලිව්වේ නො"
+    },
+    {
+      "surface": "לך",
+      "gloss": "නුඹට"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "තුන් වරක්"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "උපදේශයෙන්"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "හා දැනුමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:14:17.723301732Z",
+  "model": "glm-5.3"
+}

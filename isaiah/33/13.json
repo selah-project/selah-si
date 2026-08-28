@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "දුර සිටියනි, මම කළ දේ අසව්; ළඟ සිටියනි, මගේ බලප්‍රාණය දනව්.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "දුර සිටියනි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "මම කළ"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "දනව්"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ළඟ සිටියනි"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "මගේ බලප්‍රාණය"
+    }
+  ],
+  "timestamp": "2026-08-27T23:22:54.141694739Z",
+  "model": "glm-5.3"
+}

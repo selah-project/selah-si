@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අස්ගද්ගේ පුත්‍රයෝ — දෙදහස් තුන්සිය විසිදෙකෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "අස්ගද්ගේ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දෙදහස්"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:58:30.395059008Z",
+  "model": "glm-5.3"
+}

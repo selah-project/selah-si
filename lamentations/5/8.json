@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "වහල්හු අප මත පාලනය කළහ; ⟨ගළවන්නා⟩ ⟨ඉන්නේ⟩ ඔවුන්ගේ අතින් ⟨නැත⟩.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "වහල්හු"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "පාලනය කළහ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "අප මත"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ගළවන්නා"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ඔවුන්ගේ අතින්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:45:53.694409147Z",
+  "model": "glm-5.3"
+}

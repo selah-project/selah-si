@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 18:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මම එය කෙරෙහි කී ඒ නපුරෙන් ඒ ජාතිය ආපසු හැරේ නම්, එයට කිරීමට මම සිතූ නපුර ගැන මම මැලි වෙමි.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ආපසු හැරේ නම්"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ඒ ජාතිය"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "ඒ නපුරෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කි"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "මම... කී"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එය කෙරෙහි"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "මම මැලි වෙමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "නපුර"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "සිතූ"
+    },
+    {
+      "surface": "חשבתי",
+      "gloss": "මම සිතූ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:56:55.534798003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඉයෝබ් ⟨ඔහුට⟩ පිළිතුරු දී කතා කළේය:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "පිළිතුරු දී"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ඉයෝබ්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කළේය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:42:48.738096893Z",
+  "model": "glm-5.3"
+}

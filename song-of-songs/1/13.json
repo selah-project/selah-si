@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මගේ ප්‍රියයා මට මොර මල් පොද මාලාවකි; ⟨එය⟩ මගේ පපු දෙක අතර රැය ගෙවයි.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "මොර මල් පොද මාලාවකි"
+    },
+    {
+      "surface": "המר",
+      "gloss": "මොර"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "මගේ ප්‍රියයා"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "පපු දෙක"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "රැය ගෙවයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:00:06.255889819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 89,
+  "translation": "ඉගැන්වීමක් — එසරහියෙහි ඒයිතාන්ට අයි.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ඉගැන්වීමක්"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ඒයිතාන්ට"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "එසරහියෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:06:29.174059233Z",
+  "model": "glm-5.3"
+}

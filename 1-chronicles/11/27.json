@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ෂම්මොත් ⟨ද⟩ හරෝරී, ඛෙලෙත්ස් ⟨ද⟩ පෙලෝනී,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ෂම්මොත්"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "⟨ද⟩ හරෝරී"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ඛෙලෙත්ස්"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "⟨ද⟩ පෙලෝනී"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:11.216115646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "රට සත් සරු අවුරුදුවල මිටි පිරෙන ලෙස බෝග දැරුවාය.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "දැරුවාය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שני",
+      "gloss": "අවුරුදුවල"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "සරු"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "මිටි පිරෙන ලෙස"
+    }
+  ],
+  "timestamp": "2026-08-27T19:31:31.200685650Z",
+  "model": "glm-5.3"
+}

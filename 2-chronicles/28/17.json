@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "තවද, එදොමිවරු පැමිණ, යෙහූදාහෙ ⟨...⟩ ගැටී, සිරකරුවන් ගෙන ගියහ.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "තවද"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "එදොමිවරු"
+    },
+    {
+      "surface": "באו",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ගැටී"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "යෙහූදාහෙ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ගෙන ගියහ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "සිරකරුවන්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:41:36.529544022Z",
+  "model": "glm-5.3"
+}

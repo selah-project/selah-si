@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ යාරෙෂ්යා, සහ එලියා, සහ සික්රී — යෙරොකාම්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "සහ යාරෙෂ්යා"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "සහ එලියා"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "සහ සික්රී"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "යෙරොකාම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:45.006261340Z",
+  "model": "glm-5.3"
+}

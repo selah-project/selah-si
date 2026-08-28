@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "යහ්වේ මොෂේට ⟨את⟩ අණ කළ පරිදි, සෙලෝප්ඛාද්ගේ දූවරු එසේ කළහ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරු"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "සෙලෝප්ඛාද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:57.634661441Z",
+  "model": "glm-5.3"
+}

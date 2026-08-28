@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මෙකී වචන සියල්ලටද, මේ දර්ශනය සියල්ලටද අනුව නාතන් දාවීට කථා කළේය.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙකී"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "සියල්ලටද අනුව"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "දර්ශනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:55:56.551972126Z",
+  "model": "glm-5.3"
+}

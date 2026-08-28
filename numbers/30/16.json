@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "නමුත් ඇසූ පසු ඔහු ⟨את⟩ ඒවා අවලංගු කළේ නම්, ඔහු ⟨את⟩ ඇගේ අපරාධය දරන්නේය.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත් නම්"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "අවලංගු"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "කළේ නම්"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ඒවා",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "දරන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඇගේ අපරාධය"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ඇගේ අපරාධය"
+    }
+  ],
+  "timestamp": "2026-08-28T08:37:46.327328306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "උස් ඇස්, බොරු දිව, අහිංසකයන්ගේ ⟨the⟩ රුධිරය වගුරවන අත්",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "උස්"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "සහ අත්"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "වගුරවන"
+    },
+    {
+      "surface": "דם",
+      "gloss": "රුධිරය"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "අහිංසකයන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:44.730553570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "කෙනාස් ප්‍රධානී, තෙමාන් ප්‍රධානී, මිබ්සාර් ප්‍රධානී.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "කෙනාස්"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "තෙමාන්"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "මිබ්සාර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:34.849030981Z",
+  "model": "glm-5.3"
+}

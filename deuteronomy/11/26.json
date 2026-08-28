@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "බලව්, මම අද ඔබ ඉදිරිපිට ආශීර්වාදයක් සහ ශාපයක් තබමි.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "බලව්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "තබමි"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ඔබ ඉදිරිපිට"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ආශීර්වාදයක්"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "සහ ශාපයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:30.939240771Z",
+  "model": "glm-5.3"
+}

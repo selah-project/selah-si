@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ වෙනුවෙන් ඔහු පූජකවන සියලු දින, මළ පුද්ගලයෙකු ළඟ ⟨ඔහු⟩ නොයන්නේය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "පූජකවන"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙනුවෙන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "ළඟ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "පුද්ගලයා"
+    },
+    {
+      "surface": "מת",
+      "gloss": "මළ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "යන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:01.619802562Z",
+  "model": "glm-5.3"
+}

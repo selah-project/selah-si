@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 92,
+  "translation": "මිරිකුණු මිනිසා නොදනී; නූගතා මෙය නොවටහා ගනී.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "בער",
+      "gloss": "මිරිකුණු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දනී"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "සහ නූගතා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "වටහා ගනී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙය"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:12:06.753406853Z",
+  "model": "glm-5.3"
+}

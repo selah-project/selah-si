@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබ එය ⟨את⟩ පිරිසිදු රනින් ආවරණය කරන්න; එයට වටා රන් කිරුළක් ඔබ කරන්න.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ඔබ ආවරණය කරන්න"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ඔබ කරන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "זר",
+      "gloss": "කිරුළක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:48.756271313Z",
+  "model": "glm-5.3"
+}

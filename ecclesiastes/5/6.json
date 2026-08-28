@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මන්ද, සිහින බහුල වූ තැන, හිස් දේ ද බහුලය, වචන ද බොහෝය; එහෙත් ⟨את⟩ එලෝහීම් බිය වන්න.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "බහුල වූ තැන"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "සිහින"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "සහ හිස් දේ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "සහ වචන"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "බොහෝය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එලෝහීම්"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "බිය වන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:56.025223858Z",
+  "model": "glm-5.3"
+}

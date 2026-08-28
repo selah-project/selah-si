@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "වරදුන් පූජාවක් ⟨the⟩ — ඔහු යහ්වේ වෙත වරද කළේ ම ය.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "වරදුන් පූජාවක්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "වරද කළේ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "වරද කළේ ම"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:13.791199505Z",
+  "model": "glm-5.3"
+}

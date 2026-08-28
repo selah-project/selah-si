@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු කීවේය: නිරුවත් බව ඔබට කවුරු කීවද? මම ඔබට කෑ යුතු නැතැයි අණ කළ ⟨the⟩ ගසෙන් ඔබ කෑවාද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුරු"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "කීවද"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "නිරුවත්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ගෙන්-ද"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ගස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ඔබට අණ කළෙමි"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "කෑ යුතු"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "එයින්"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ඔබ කෑවාද"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:07.946263021Z",
+  "model": "glm-5.3"
+}

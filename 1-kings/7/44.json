@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සහ ⟨את⟩ එකම මුහුද, සහ ⟨את⟩ එළදෙනුන් දොළොස් දෙනා — ඒ මුහුද යට;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එකම මුහුද"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "එළදෙනුන් දොළොස් දෙනා"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "එළදෙනුන්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දසය"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    }
+  ],
+  "timestamp": "2026-08-28T09:18:04.630941009Z",
+  "model": "glm-5.3"
+}

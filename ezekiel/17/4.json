@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "එහි තරුණ අතු මුදුන කපා ගෙන ⟨එය⟩ කෙළෙස දේශයට, වෙළඳ නගරයකට ගෙන ගියේය",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එහි තරුණ අතු මුදුන"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "මුදුන"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "එහි තරුණ අතු"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "කපා ගෙන"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ගෙන ගියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙළෙස"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයකට"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "වෙළඳ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "තැබුවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:32:26.892293719Z",
+  "model": "glm-5.3"
+}

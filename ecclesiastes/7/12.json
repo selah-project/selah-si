@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මන්ද සෙවන ⟨ය⟩ ඥානය — සෙවන ⟨ය⟩ රිදී — දැනුමේ වාසිය: ඥානය එහි හිමිකරුවන්ට ජීවය දෙයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "සෙවන"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "සෙවන"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "වාසිය"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුමේ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ජීවය දෙයි"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "එහි හිමිකරුවන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:39.110879685Z",
+  "model": "glm-5.3"
+}

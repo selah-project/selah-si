@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "යිස්සාඛාර්ගේ පුත්‍රයන්ට: තෝලා, පුආ, යාෂුබ් සහ ෂිම්රෝන් — සතරක්.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "යිස්සාඛාර්ගේ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "තෝලා"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "පුආ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "යාෂුබ්"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ෂිම්රෝන්"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "සතරක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:35.588005749Z",
+  "model": "glm-5.3"
+}

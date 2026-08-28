@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අව්රාහම්ගේ පුත්‍රයෝ: යිට්ස්ඛාක් සහ යිෂ්මාඑල්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්ගේ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "යිට්ස්ඛාක්"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "සහ යිෂ්මාඑල්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:07.600602319Z",
+  "model": "glm-5.3"
+}

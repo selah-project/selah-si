@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "නැවත ආවේය ගිදියොන්, යොෂ්ගේ පුත්, යුද්ධයෙන්, හේරෙස් නැග්මේ සිට.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "නැවත ආවේය"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ගිදියොන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "යොෂ්ගේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "යුද්ධයෙන්"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "නැග්මේ සිට"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "හේරෙස්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:42:28.312051864Z",
+  "model": "glm-5.3"
+}

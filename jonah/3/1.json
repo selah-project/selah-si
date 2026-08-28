@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "විටෙක යහ්වේගේ වචනය යොනා වෙත දෙවන වරට පැමිණි, මෙසේ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විටෙක"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "යොනා"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "දෙවන වරට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:13:57.971335777Z",
+  "model": "glm-5.3"
+}

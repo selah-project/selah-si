@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙය කෙරෙහි යහ්වේ ප්‍රසාද විය — „එය නොවන්නේය“ යහ්වේ මෙසේ වදාළේය.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ප්‍රසාද විය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වේවි"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "මෙසේ වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:13:51.281522157Z",
+  "model": "glm-5.3"
+}

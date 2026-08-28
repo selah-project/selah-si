@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මට බහුලව ලෑස්ති කිරීමට දැව අවශ්‍යයි; මන්ද මම ගොඩනඟන ගෙය ⟨ය⟩ මහත් හා පුදුම සහිතයි.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "ලෑස්ති කිරීමට"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "දැව"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "බහුලව"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ය⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "ගොඩනඟන"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "හා පුදුම සහිත"
+    }
+  ],
+  "timestamp": "2026-08-28T11:04:49.546783447Z",
+  "model": "glm-5.3"
+}

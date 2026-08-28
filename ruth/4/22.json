@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබේද් ⟨את⟩ යිෂායි බිහිකළේය, යිෂායි ⟨את⟩ දාවීද් බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ඔබේද්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යිෂායි"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "යිෂායි"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "යිෂායි"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දාවීද්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:04:02.743123476Z",
+  "model": "glm-5.3"
+}

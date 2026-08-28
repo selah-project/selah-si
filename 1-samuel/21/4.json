@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "දැන් ඔබේ අත යට ⟨තිබෙන්නේ⟩ කුමක්ද? පාන් පහක් මගේ අතට දෙන්න, නැතහොත් හමුවන දේ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨තිබෙන්නේ⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ඔබේ අත"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "මගේ අතට"
+    },
+    {
+      "surface": "או",
+      "gloss": "නැතහොත්"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "හමුවන දේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:05:28.209943012Z",
+  "model": "glm-5.3"
+}

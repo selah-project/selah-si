@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "ඔහුට මෙසේ කියන්න: යහ්වේ මෙසේ කියයි: බලව — මම ගොඩනැඟූ දේ මම සිඳ දමමි, මම රෝපණය කළ දේ ⟨את⟩ මම උදුරා දමමි — ⟨את⟩ මුළු ⟨the⟩ පොලොවම.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "මම ගොඩනැඟූ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "සිඳ දමමි"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "මම රෝපණය කළ දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "මම රෝපණය කළ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "උදුරා දමමි"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "මුළු පොලොව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොලොව"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ම"
+    }
+  ],
+  "timestamp": "2026-08-28T00:14:01.265319441Z",
+  "model": "glm-5.3"
+}

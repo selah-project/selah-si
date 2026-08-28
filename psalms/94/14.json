@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "මන්ද යහ්වේ තම ජනයා ක්ෂාලෙන්නේ නැත, තම උරුමයද අත්හරින්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ක්ෂාලෙන්නේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "තම ජනයා"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "සහ තම උරුමය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "අත්හරින්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:12:39.567707577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහුට නව ගීතයක් ගයව්; ඝෝෂාකාරී සමග මනාකොට වාදනය කරව්.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ගයව්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "නව"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "මනාකොට කරව්"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "වාදනය"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ඝෝෂාකාරී සමග"
+    }
+  ],
+  "timestamp": "2026-08-28T02:23:35.301127351Z",
+  "model": "glm-5.3"
+}

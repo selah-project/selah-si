@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මා වටා තාප්පයක් බැඳ ඇත, මම පිටතට යන්නෙමි නැත; මගේ ලෝකඩ දංගුව බර කෙළේය.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "තාප්පයක් බැඳ ඇත"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "මා වටා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "මම පිටතට යන්නෙමි"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "බර කෙළේය"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "මගේ ලෝකඩ දංගුව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:44.104742753Z",
+  "model": "glm-5.3"
+}

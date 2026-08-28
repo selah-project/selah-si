@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඔහු දුගී මිනිසෙක් නම්, ඔහුගේ තැන්පතුව සමඟ නො නිදා සිටින්න.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "עני",
+      "gloss": "දුගී"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "නිදා සිටින්න"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ඔහුගේ තැන්පතුව සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:29.192046162Z",
+  "model": "glm-5.3"
+}

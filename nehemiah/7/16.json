@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බෙබෙයි (Bebai) පුත්‍රයන් — හයසිය විසි අටයි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "බෙබෙයි"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.213214320Z",
+  "model": "glm-5.3"
+}

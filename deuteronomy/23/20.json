@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔබේ සහෝදරයාට පොලිය නොගන්න — රිදී පොලිය, ආහාර පොලිය, පොලියට ලබාදෙන ඕනෑම දෙයක පොලිය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "පොලිය ගන්න"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ඔබේ සහෝදරයාට"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "පොලිය"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "පොලිය"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ආහාර"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "පොලිය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ඕනෑම"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙයක"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨හි⟩"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "පොලියට ලබාදෙන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:30.734336008Z",
+  "model": "glm-5.3"
+}

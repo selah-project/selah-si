@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 55,
+  "translation": "මම එලෝහීම් වෙත කැඳවමි; යහ්වේ මා ⟨බේරා ගනී⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "කැඳවමි"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "සහ යහ්වේ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "මා බේරා ගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T02:39:14.671692483Z",
+  "model": "glm-5.3"
+}

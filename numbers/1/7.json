@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යෙහූදා සඳහා — අම්මිනදාබ්ගේ පුත් නාෂොන්.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "යෙහූදා සඳහා"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "නාෂොන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "අම්මිනදාබ්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:25:36.172750130Z",
+  "model": "glm-5.3"
+}

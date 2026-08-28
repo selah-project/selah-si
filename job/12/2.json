@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඇත්තෙන්ම, ඔබුන් ම ⟨ජනයා⟩ය; ඔබ සමඟම ඥානය මිය යන්නේය.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ඇත්තෙන්ම"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ම"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබුන්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ජනයා⟩"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ඔබ සමඟම"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "මිය යන්නේය"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:34:29.665690885Z",
+  "model": "glm-5.3"
+}

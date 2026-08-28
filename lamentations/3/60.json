@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබ දුටුවේය ⟨the⟩ ඔවුන්ගේ පළිගැනීම සියල්ලද, ⟨the⟩ මට එරෙහි ඔවුන්ගේ කල්පනා සියල්ලද.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ඔබ දුටුවේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "ඔවුන්ගේ පළිගැනීම"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ඔවුන්ගේ කල්පනා"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට එරෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:27.270281597Z",
+  "model": "glm-5.3"
+}

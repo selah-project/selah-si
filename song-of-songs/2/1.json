@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම ෂාරොන් තැන්තල්ලේ ⟨මලක්⟩ වෙමි, නිම්නවල ලිලියක් වෙමි.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "තැන්තල්ලේ මල"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ෂාරොන් තැන්තල්ලේ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ලිලියක්"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "නිම්නවල"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:03.395715361Z",
+  "model": "glm-5.3"
+}

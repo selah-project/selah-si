@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "අස්මාවෙත් හබරුමියා, එල්යාඛ්බා ෂුවල්බෝනියා —",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "අස්මාවෙත්"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "හබරුමියා"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "එල්යාඛ්බා"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ෂුවල්බෝනියා"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:46.442542064Z",
+  "model": "glm-5.3"
+}

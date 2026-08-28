@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "තම කටද තම දිවද රකින තැනැත්තා, මහදුක්ගෙන් තම නෙෆෙෂ් රකියි.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "රකින"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "තම කට"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "තම දිවද"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "රකියි"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "මහදුක්ගෙන්"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "තම නෙෆෙෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:38.963965328Z",
+  "model": "glm-5.3"
+}

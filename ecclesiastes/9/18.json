@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "යුද අවියන්ට වඩා ප්‍රඥාව යහපත්ය; එක් පාපිෂ්ඨයෙක් ⟨එක්කෝ⟩ බොහෝ යහපත විනාශ කරයි.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "වඩා අවියන්ට"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "යුද"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "පාපිෂ්ඨයෙක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "විනාශ කරයි"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:00.034976834Z",
+  "model": "glm-5.3"
+}

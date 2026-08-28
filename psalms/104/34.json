@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "මගේ භාවනාව ⟨ඔහුට⟩ රසවත් වේවා; මම යහ්වේ තුළ සතුටු වෙමි.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "රසවත් වේවා"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨ඔහුට⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "මගේ භාවනාව"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "සතුටු වෙමි"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:13:54.575501690Z",
+  "model": "glm-5.3"
+}

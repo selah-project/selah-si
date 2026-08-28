@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නොකියන්න, 'කුමක් විය ද — ද, පළමු දින ⟨මේවායට වඩා⟩ හොඳ වූහ?' — මන්ද ඥානයෙන් නොව මේ ගැන ඔබ විමසූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ද, දින"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "මේවායට වඩා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ඥානයෙන්"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ඔබ විමසූ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:39.110615799Z",
+  "model": "glm-5.3"
+}

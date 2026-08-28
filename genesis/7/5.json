@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නොආඛ් යහ්වේ ඔහුට අණ කළ සියල්ලට අනුව කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොආඛ්"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ඔහුට අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:04:00.885944542Z",
+  "model": "glm-5.3"
+}

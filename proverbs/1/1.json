@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ෂෙලෝමෝගේ මිස්ලේ — දාවීද්ගේ පුත්, යිස්රායෙල්හි රජුගේ:",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "මිස්ලේ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:20.167139351Z",
+  "model": "glm-5.3"
+}

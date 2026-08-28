@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "නබිවරයා වෙත මෙසේ කියන්න: යහ්වේ ඔබට කුමක් උත්තර දුන්නේද? යහ්වේ කුමක් කීවේද?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "නබිවරයා"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ඔබට උත්තර දුන්නේද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "සහ කුමක්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කීවේද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:59:59.770607374Z",
+  "model": "glm-5.3"
+}

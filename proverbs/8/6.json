@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අසන්න, මන්ද ප්‍රධාන දේ මම කථා කරමි; මගේ තොල් විවෘත වීම — ඍජු දේ ය.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ප්‍රධාන දේ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "මම කථා කරමි"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "සහ විවෘත වීම"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "මගේ තොල්"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ඍජු දේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:52.066853594Z",
+  "model": "glm-5.3"
+}

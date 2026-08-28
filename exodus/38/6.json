@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "ඔහු ⟨את⟩ දඩු සිද්ධ ලෑලි ලීයෙන් කළේය, ඒවා තඹින් පිරියම් කෙළේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දඩු"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "දඩු"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ලෑලි ලීයෙන්"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "සිද්ධ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ඒවා පිරියම් කෙළේය"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:02:20.757485885Z",
+  "model": "glm-5.3"
+}

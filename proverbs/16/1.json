@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මිනිසාට ⟨අයිති⟩ හදවතේ සැලසුම්; නමුත් දිවේ පිළිතුර යහ්වේ වෙතින් ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "සැලසුම්"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතේ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "යහ්වේ වෙතින්"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "පිළිතුර"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:53.162278267Z",
+  "model": "glm-5.3"
+}

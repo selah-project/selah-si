@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔබ ‹මෙම› ස්ථානයෙහි භාර්යාවක් ගනියි නැත, පුතුන් හෝ දූවියන් ඔබට නොවේ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ගනියි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "භාර්යාවක්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "සිටියි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුන්"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "දූවියන්"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ස්ථානයෙහි"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:45.481709701Z",
+  "model": "glm-5.3"
+}

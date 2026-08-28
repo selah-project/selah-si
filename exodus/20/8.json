@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ශුද්ධ කිරීමට — විවේක දින ⟨את⟩ මතට ගන්න.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "මතට ගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "විවේක දින"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "විවේක"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ශුද්ධ කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:03.023876427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ සීනයි කන්දේදී ⟨את⟩ මොෂා සමඟ කථා කළ දිනයේදී මෙයෝ අහරොන්ගේ සහ මොෂේගේ වංශය ය.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙයෝ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "වංශය"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්ගේ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "මොෂේගේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂා"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්දේදී"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "සීනයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:29:55.101809496Z",
+  "model": "glm-5.3"
+}

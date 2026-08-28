@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 53,
+  "translation": "කළමනාකරුට, මාහලත් මත, දැනුම දෙන ගීතයක්, දාවීද්ට ⟨විසින්⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "කළමනාකරුට"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "මාහලත්"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "දැනුම දෙන ගීතයක්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:39:03.216603386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 36:32",
+  "book": "job",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "අත්පත් මත ⟨ඔහු⟩ ආලෝකය වසයි, සහ එය ඉලක්කයට වැදීමට ⟨අණ⟩ කරයි.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "අත්පත්"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "වසයි"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කරයි"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එයට ඉක්මට"
+    },
+    {
+      "surface": "במפגיע",
+      "gloss": "හමුවන තැන"
+    }
+  ],
+  "timestamp": "2026-08-28T04:54:51.512931893Z",
+  "model": "glm-5.3"
+}

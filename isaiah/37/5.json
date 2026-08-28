@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "එවිට හිස්කියාහු රජුගේ සේවකයෝ යෙෂයාහු වෙත ⟨ගියහ⟩.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "එවිට පැමිණියහ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "සේවකයෝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "හිස්කියාහු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "යෙෂයාහු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:27:28.119451393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "යෙහෝෂාපාට් යෙහූදා රජ සාමයෙන් තම ගේ වෙත, යෙරුෂාලයිම් වෙත ආපසු ගියේය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "සහ ආපසු ගියේය"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "යෙහෝෂාපාට්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගේ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "සාමයෙන්"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "යෙරුෂාලයිම් වෙත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:33:37.451520210Z",
+  "model": "glm-5.3"
+}

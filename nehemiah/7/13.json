@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සතූ (Zattu) පුත්‍රයන් — අටසිය හතළිස් පහයි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "සතූ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පහයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:17:53.212707037Z",
+  "model": "glm-5.3"
+}

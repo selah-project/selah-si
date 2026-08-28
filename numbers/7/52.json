@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එක් අමු එළදෙනකුගේ පුතෙක් පාප පූජාවට.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "අමු එළදෙනකුගේ පුතෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළදෙනුන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:32:18.451226506Z",
+  "model": "glm-5.3"
+}

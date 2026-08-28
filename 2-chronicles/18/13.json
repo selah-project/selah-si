@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මිකායෙහු පැවසුවේය: යහ්වේ ජීවත් වන බැවින්, මාගේ එලෝහීම් ⟨את⟩ පවසන දේ ⟨את⟩ ඒ මම කථා කරමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "පැවසුවේය"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "මිකායෙහු"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත් වන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පවසන දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "පවසන"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මාගේ එලෝහීම්"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ඒ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "මම කථා කරමි"
+    }
+  ],
+  "timestamp": "2026-08-28T07:32:14.668821850Z",
+  "model": "glm-5.3"
+}

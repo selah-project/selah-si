@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "යෙහුද්, බෙනේ-බෙරක්, ගාත්-රිමොන්",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "යෙහුද්"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "බෙනේ-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "බෙරක්"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ගාත්-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "රිමොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:53.007555005Z",
+  "model": "glm-5.3"
+}

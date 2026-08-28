@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "නොඑසේ නම් — ඔබ කා පුබවා, නිකම් ගෙවල් තටා එහි වාස කළොත්,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "නොඑසේ නම්"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ඔබ කා"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "පුබවා"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ගෙවල්"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "නිකම්"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "තටා"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "වාස කළොත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:00:48.973714846Z",
+  "model": "glm-5.3"
+}

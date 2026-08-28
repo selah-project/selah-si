@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "නමුත් ඔබ එහි යමින් උරුම කර ගැනීමට එම පොළොව — කඳුවැටි හා නිම්න ඇති දේශයක් — අහසේ වැසි ජලය බොන්නී ය.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "නමුත් එම පොළොව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "යමින්"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "උරුම කර ගැනීමට"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයක්"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳුවැටි"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "හා නිම්න"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "වැසි නිසා"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "බොන්නී ය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:06.806053667Z",
+  "model": "glm-5.3"
+}

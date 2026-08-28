@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 4:39",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හා ඔබ අද දින දැනගනිව — හා එය ඔබේ හදවතට ආපසු ගෙන එවව — යහ්වේ ඔහුම ⟨the⟩ එලෝහීම් බව, උඩ අහසෙහි හා යට පොළොව මත; වෙනත් කිසිවක් නැත.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "හා ඔබ දැනගනිව"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද දින"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "හා ආපසු ගෙන එවව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහුම"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ එලෝහීම්"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහසෙහි"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "උඩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "හා මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "වෙනත් කිසිවක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:32.217659481Z",
+  "model": "glm-5.3"
+}

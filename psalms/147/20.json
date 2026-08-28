@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 147,
+  "translation": "කිසිදු ගෝත්‍රයකට ⟨ඔහු⟩ මෙසේ නොකළේය; තම නීති ඔවුන් නොදනිති. යාව ⟨අගයන්න⟩!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ගෝත්‍රයකට"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "තම නීති"
+    },
+    {
+      "surface": "בל",
+      "gloss": "නොමැතිව"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ඔවුන් දනිති"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "අගයන්න"
+    },
+    {
+      "surface": "יה",
+      "gloss": "යාව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:51:16.849600353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "සහ සියලු යිස්රායෙල් අසන්නේය, බිය වන්නේය, ඔබ මැද මෙබඳු නපුරු දෙය නැවත කරන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "අසන්නේය"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "බිය වන්නේය"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "නැවත කරන්නේ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "මෙබඳු දෙය"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ඔබ මැද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:10.352862444Z",
+  "model": "glm-5.3"
+}

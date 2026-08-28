@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "අහස තනිවම විහිදුවන්නා — මුහුදු උස් තරම් මත ගමන් කරන්නා —",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "විහිදුවන්නා"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "තනිවම"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "ගමන් කරන්නා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "උස් තරම්"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුදු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:31:20.701519519Z",
+  "model": "glm-5.3"
+}

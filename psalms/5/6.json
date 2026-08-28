@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "උඩඟයෝ ඔබේ ඇස් ඉදිරියේ නොපිහිටියෝ; දුෂ්ටකම් කරන සියල්ලන්ම ඔබ වෛර කරයි.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "පිහිටති"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "උඩඟයෝ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "වෛර කරයි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්ම"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "און",
+      "gloss": "දුෂ්ටකම්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:00:31.268527346Z",
+  "model": "glm-5.3"
+}

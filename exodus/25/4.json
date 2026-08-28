@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "නිල්, දම්, ලේ පැහැ කිරිල්ලි සහ සියුම් ලිනන්, එළු ලොම්.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "නිල්"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "දම්"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "කිරිල්ලි"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ලේ පැහැ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "සියුම් ලිනන්"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "එළු ලොම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:48.202972187Z",
+  "model": "glm-5.3"
+}

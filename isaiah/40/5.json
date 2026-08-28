@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "යහ්වේගේ තේජස හෙළි වන්නේය, සියලු මස් ⟨එය⟩ එක්ව දකින්නේය; මන්ද යහ්වේගේ මුඛය කී නිසාය.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "හෙළි වන්නේය"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "දකින්නේය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එක්ව"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කී"
+    }
+  ],
+  "timestamp": "2026-08-27T23:29:12.061845177Z",
+  "model": "glm-5.3"
+}

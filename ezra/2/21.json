@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බෙත්-ලෙහෙම් වැසියන්, සිය විස්සක් තුනක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "වැසියන්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ලෙහෙම්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්සක්"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:55:53.130167023Z",
+  "model": "glm-5.3"
+}

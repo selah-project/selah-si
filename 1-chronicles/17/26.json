@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "දැන් අහෝ යහ්වේ, ඔබ වනාහි ⟨ඔහුම⟩ ⟨⟨the⟩⟩ එලෝහීම්; ඔබ ඔබේ දාසයා වෙත මේ යහපත ගැන කථා කොට ඇත.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන් අහෝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ඔහුම⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "කථා කොට ඇත"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ඔබේ දාසයා"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "මේ යහපත"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:57:19.019471786Z",
+  "model": "glm-5.3"
+}

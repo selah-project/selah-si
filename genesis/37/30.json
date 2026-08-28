@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔහු තම සහෝදරයන් වෙත ආපසු ගොස් කීවේය: දරුවා නැත; මම — මම කොතැනට යමිද?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ආපසු ගියේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "තම සහෝදරයන්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "දරුවා"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "කොතැනට"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בא",
+      "gloss": "යමිද"
+    }
+  ],
+  "timestamp": "2026-08-27T19:28:36.868391965Z",
+  "model": "glm-5.3"
+}

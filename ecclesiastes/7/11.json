@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "හොඳ ⟨ය⟩ ඥානය, උරුමය ⟨සමඟ⟩; ඉර දක්නාවන්ට අතිරික්තයක් ද ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "උරුමය"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "අතිරික්තයක් ද"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "දක්නාවන්ට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:39.110757316Z",
+  "model": "glm-5.3"
+}

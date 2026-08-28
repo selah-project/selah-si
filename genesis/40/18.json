@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "යෝසෙප් උත්තර දී කීයේය: මෙය එහි අර්ථ දැක්වීමයි — බාජන තුන — දින තුනයි ⟨ඒවා⟩;",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "අර්ථ දැක්වීම"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "බාජන"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:30:19.047492909Z",
+  "model": "glm-5.3"
+}

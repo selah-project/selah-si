@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "ගාද් පුත්‍රයෝ දිබෝන් ⟨את⟩ සහ අතාරොත් ⟨את⟩ සහ අරෝඑර් ⟨את⟩ ඉදිකළහ.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ඉදිකළහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දිබෝන්"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "දිබෝන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අතාරොත්"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "අතාරොත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අරෝඑර්"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "අරෝඑර්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:38:08.070534673Z",
+  "model": "glm-5.3"
+}

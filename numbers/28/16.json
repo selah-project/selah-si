@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "පළමු මාසයේදී, මාසයේ දහහතර දිනයේදී, යහ්වේට පෙසහ් ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "මාසයේදී"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "දහහතර"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(දහහතර)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයේ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "පෙසහ්"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:29.384877478Z",
+  "model": "glm-5.3"
+}

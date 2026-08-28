@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මන්ද යහ්වේ මහා ය, බොහෝ සේ ප්‍රශංසාවට යෝග්‍ය ය; ⟨ඔහු⟩ සියලු දෙවිවරුන්ට වඩා භයජනක ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "සහ ප්‍රශංසාවට යෝග්‍ය"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "බොහෝ සේ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "සහ භයජනක"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "על",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:51:51.351790861Z",
+  "model": "glm-5.3"
+}

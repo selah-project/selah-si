@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 115,
+  "translation": "යහ්වේ බිය වන්නන් ආශීර්වාද කරයි — කුඩාවන් විශාලයන් සමඟ.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "ආශීර්වාද කරයි"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "බිය වන්නන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "කුඩාවන්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "විශාලයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:29:16.260444775Z",
+  "model": "glm-5.3"
+}

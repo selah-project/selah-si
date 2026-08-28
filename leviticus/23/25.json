@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "සියලු සේවාකාරී වැඩ ⟨කිසිවක්⟩ නොකරන්න, අලුත් ගිනිපූජාවක් යහ්වේ වෙත ගෙන එව්.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "වැඩ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "සේවාකාරී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ගෙන එව්"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ගිනිපූජාවක්"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ වෙත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:39.207658739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "එනොෂ්ගේ සියලු දිනවල් අවුරුදු නවසිය පහක් විය; ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල්"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "එනොෂ්ගේ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "නවසිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:36.994375760Z",
+  "model": "glm-5.3"
+}

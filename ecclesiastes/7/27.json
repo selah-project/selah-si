@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බලව — මේ දේ මම සොයාගත්තෙමි, කොහෙලෙත් කියයි; එකක් ⟨එකකට⟩ එකතු කොට, ගණනය සොයා ගැනීමට.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ දේ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "මම සොයාගත්තෙමි"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "කොහෙලෙත්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "එකකට"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "සොයා ගැනීමට"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ගණනය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:48:19.434340864Z",
+  "model": "glm-5.3"
+}

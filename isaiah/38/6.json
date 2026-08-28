@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "අශ්ශූර් රජුගේ අතින් මම ඔබවද ⟨את⟩ මෙම නගරයද ගලවා ගනිමි, මෙම නගරය මම ආරක්ෂා කරමි.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "අතින්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අශ්ශූර්"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ඔබව ගලවා ගනිමි"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම නගරය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ආරක්ෂා කරමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "වට"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T23:26:01.686448672Z",
+  "model": "glm-5.3"
+}

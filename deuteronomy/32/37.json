@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "ඔහු කියන්නේ: ඔවුන්ගේ දෙවිවරු කොහි ද? ඔවුන් ⟨රැකවරණය සළසූ⟩ පර්වතය කොහි ද?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ඔහු කියන්නේ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "කොහි ද"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "ඔවුන්ගේ දෙවිවරු"
+    },
+    {
+      "surface": "צור",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "රැකවරණය සළසූ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:16:39.596307012Z",
+  "model": "glm-5.3"
+}

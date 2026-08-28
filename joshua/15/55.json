@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "මාඕන්, කාර්මෙල්, සීප්, යූටා,",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "මාඕන්"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "කාර්මෙල්"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "සීප්"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "යූටා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:15.012215584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රාමා සහ ගෙවා මිනිස්සු — සයසිය විසි එකක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "රාමා"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "සහ ගෙවා"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:16.678965874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "බල්ලො, නුඹ රූමතුයි, මගේ ප්‍රියයා; මොහොතකට සුමටයි ද — මොහොතට අපේ ඇඳ නිල් වැටුණු පැළඳුමකි.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "බල්ලො"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "රූමතුයි"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "මගේ ප්‍රියයා"
+    },
+    {
+      "surface": "אף",
+      "gloss": "මොහොතකට"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "සුමටයි"
+    },
+    {
+      "surface": "אף",
+      "gloss": "මොහොතට"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "අපේ ඇඳ"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "නිල් වැටුණු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:00:06.256308537Z",
+  "model": "glm-5.3"
+}

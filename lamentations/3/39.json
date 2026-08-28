@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ජීවත්ව සිටින මිනිසා — පුරුෂයා — කුමකට පැමිණිලි කරන්නේද, තම පාපය ගැන?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කුමකට"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "පැමිණිලි කරන්නේද"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්ව සිටින"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "පුරුෂයා"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "තම පාපය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:08.921225142Z",
+  "model": "glm-5.3"
+}

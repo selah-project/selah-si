@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේ මොෂේට වදාළේය, කියන්නේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:05.844690643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 81,
+  "translation": "ගීතයක් ඔසවන්න, තම්බුරිනාව දෙන්න; මිහිරි වීණාව නාබ්ලය සමඟ.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ඔසවන්න"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ගීතයක්"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "תף",
+      "gloss": "තම්බුරිනාව"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "වීණාව"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "මිහිරි"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "නාබ්ලය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:41.285401247Z",
+  "model": "glm-5.3"
+}

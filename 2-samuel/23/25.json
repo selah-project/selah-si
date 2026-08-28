@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ෂම්මා ⟨the⟩ හරෝදි-ස්ථානිකයා, එලීකා ⟨the⟩ හරෝදි-ස්ථානිකයා,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ෂම්මා"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "හරෝදි-ස්ථානිකයා"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "එලීකා"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "හරෝදි-ස්ථානිකයා"
+    }
+  ],
+  "timestamp": "2026-08-28T09:14:38.068464264Z",
+  "model": "glm-5.3"
+}

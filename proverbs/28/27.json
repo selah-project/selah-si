@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "දුගීට දෙන්නාට හිඟකම් ⟨නැත⟩; තම ඇස් සඟවන්නාට නින්දා රැසකි.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "දෙන්නා"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "දුගීට"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨නැත⟩"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "හිඟකම්"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "සඟවන්නාට"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "තම ඇස්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "රැසකි"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "නින්දා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:22:05.790636378Z",
+  "model": "glm-5.3"
+}

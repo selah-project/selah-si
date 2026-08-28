@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු මට කතා කොට කීය: „මේවා කුමක්දැයි ඔබ නොදන්නේහිද?“ මම කීමි: „නැත, මාගේ අදෝනයි යි.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කොට කීය"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "නොදන්නේහිද"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්දැයි"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "මාගේ අදෝනයි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:44:44.364468289Z",
+  "model": "glm-5.3"
+}

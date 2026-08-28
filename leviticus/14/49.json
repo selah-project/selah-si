@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඔහු ⟨את⟩ ගේ පවි කිරීමට කුරුල්ලන් දෙදෙනෙක් ද, දේවදාරු ලී ද, ෂනි-තොලා රතු ද, ඉසොප් ද ගනී.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ඔහු ගනී"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "පවි කිරීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගේ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගේ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙදෙනෙක්"
+    },
+    {
+      "surface": "ඦפרים",
+      "gloss": "කුරුල්ලන්"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ලී ද"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "දේවදාරු"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "රතු ද"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ෂනි-තොලා"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ඉසොප් ද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:13:44.335378451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබේ හිස මතින් ඇති ඔබේ අහස තඹ වන්නේය, ඔබ යට ඇති පොළොව යකඩ වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "සහ වන්නේ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ඔබේ අහස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ඔබේ හිස"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "සහ පොළොව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ඔබ යට ඇති"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:10.830674212Z",
+  "model": "glm-5.3"
+}

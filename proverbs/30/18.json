@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මේ තුන මගෙන් අද්භූත වූයේ; මම නොදන්නා හතරකුද වෙයි.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "අද්භූත වූයේ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "සහ හතරක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "දනිමි ඒවා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:06.154264799Z",
+  "model": "glm-5.3"
+}

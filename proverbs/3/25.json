@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "හදිසියේ ඇතිවන භය ගැන බය නොව; දුෂ්ටයන්ගේ විනාශය, එය පැමිණෙන විට, ⟨බය නොව⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "බය වන්න"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "භය ගැන"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "හදිසියේ"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "සහ විනාශය"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "විට"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "පැමිණෙන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:21.114351524Z",
+  "model": "glm-5.3"
+}

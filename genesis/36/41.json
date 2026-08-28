@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "අහෝලීබමාහ් ප්‍රධානී, එලාහ් ප්‍රධානී, පීනොන් ප්‍රධානී.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "අහෝලීබමාහ්"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "එලාහ්"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ප්‍රධානී"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "පීනොන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:34.848810920Z",
+  "model": "glm-5.3"
+}

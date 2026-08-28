@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "වසරක් ඇතුළත ෂලෝමොට පැමිණි රන් හි බර සයක් සියයක් සහ හැටක් සහ හයක් — රන් කිකර 666 විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "⟨the⟩ රන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ෂලෝමොට"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "වසරක් ඇතුළත"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සයක්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "සහ හැටක්"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "සහ හයක්"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "කිකර"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:20:09.638786277Z",
+  "model": "glm-5.3"
+}

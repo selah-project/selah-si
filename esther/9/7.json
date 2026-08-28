@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සහ ⟨את⟩ පර්ෂන්දාතා, සහ ⟨את⟩ දල්පොන්, සහ ⟨את⟩ අස්පාතා —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පර්ෂන්දාතා"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "පර්ෂන්දාතා"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දල්පොන්"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "දල්පොන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අස්පාතා"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "අස්පාතා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:31:12.425806364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම පිළිතුරු දී ඔහුට කීවෙමි: මේණෙරුවේ දකුණු පස සහ වම් පස ඇති මේ ඔලිව් ගස් දෙක මොනවාද?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "මම පිළිතුරු දී"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොනවාද"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "ඔලිව් ගස්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "පස"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "මේණෙරුවේ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ... පස"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "වම්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:47:26.027713904Z",
+  "model": "glm-5.3"
+}

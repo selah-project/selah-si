@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "⟨එය⟩ සුවය වන්නේ ඔබේ නාභියට, සහ තෙතමනය ඔබේ ඇටවලට.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "සුවය"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "වන්නේ"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "ඔබේ නාභියට"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "සහ තෙතමනය"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "ඔබේ ඇටවලට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:32:39.010424205Z",
+  "model": "glm-5.3"
+}

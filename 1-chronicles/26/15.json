@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ඔවෙද්-එදොම්ට දකුණු දෙසට; ඔහුගේ පුතුන්ට රැස්වීම් ගෙයද.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "ඔවෙද්-එදොම්ට"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(එදොම්)"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "දකුණු දෙසට"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ඔහුගේ පුතුන්ට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "රැස්වීම්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:03:20.502364109Z",
+  "model": "glm-5.3"
+}

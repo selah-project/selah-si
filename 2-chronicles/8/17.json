@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඉන් අනතුරුව ෂලෝමෝ එට්සියෝන්-ගෙබර් වෙතද එයොත් වෙතද — මුහුදු වෙරළේ, එදොම් දේශයේ — ගියේය.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ඉන් අනතුරුව"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "එට්සියෝන් වෙත"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ගෙබර්"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ... වෙත"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "එයොත්"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "වෙරළේ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුදු"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොම්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:18:11.489527878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 120,
+  "translation": "මොකක්ද ඔබට දෙනු ලැබේ? තවත් මොකක්ද ඔබට එකතු කරනු ලැබේ, රැවටිලිකාර දිව?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙනු ලැබේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "තවත් මොකක්ද"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "එකතු කරනු ලැබේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "රැවටිලිකාර"
+    }
+  ],
+  "timestamp": "2026-08-28T10:31:34.830361847Z",
+  "model": "glm-5.3"
+}

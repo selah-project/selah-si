@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රන් කිනිස්සක් එකක්, ෂෙකල් දහයක්, සුවඳ දුම් පූජාවෙන් පිරී තිබුණි.",
+  "tokens": [
+    {
+      "surface": "කף",
+      "gloss": "කිනිස්සක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "පිරී"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳ දුම් පූජාවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:26.463191888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ෂෙලඛ් අවුරුදු තිහක් ජීවත්ව, ⟨את⟩ එයර් ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ෂෙලඛ්"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්ව"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිහක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එයර්"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "එයර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:47.297845384Z",
+  "model": "glm-5.3"
+}

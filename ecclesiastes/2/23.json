@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද, ඔහුගේ සියලු දින වේදනාවෙන් ද, ඔහුගේ කාර්යය කෝපයෙන් ද පිරී ඇත; රාත්‍රියේද ඔහුගේ හදවත සැතපෙන්නේ නැත. මෙයද හෙවල් වේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ඔහුගේ දින"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "වේදනාවෙන්"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "කෝපයෙන් ද"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ඔහුගේ කාර්යය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "රාත්‍රියේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "සැතපෙන්නේ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ඔහුගේ හදවත"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙවල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:17:51.015882272Z",
+  "model": "glm-5.3"
+}

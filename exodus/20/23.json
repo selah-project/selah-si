@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මා සමඟ ⟨את⟩ රිදී දෙවිවරුන්ද, ඔබ සඳහා රන් දෙවිවරුන්ද නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ මා සමඟ",
+      "marks": "රිදී දෙවිවරුන්"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "දෙවිවරු"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "දෙවිවරුද"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:31.887275063Z",
+  "model": "glm-5.3"
+}

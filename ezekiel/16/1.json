@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "සම්ප්‍රදායක වචනය යහ්වේ වෙත මා වෙත පැමිණි, ⟨කියමින්⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:01:38.614035040Z",
+  "model": "glm-5.3"
+}

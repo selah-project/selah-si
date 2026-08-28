@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මැද තිරිංග පුවරු මැදින් කෙළවරින් කෙළවර දක්වා දිවෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "හා තිරිංග"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "පුවරු"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "දිවෙන්නේය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "කෙළවරින්"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "කෙළවර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:53:54.570539462Z",
+  "model": "glm-5.3"
+}

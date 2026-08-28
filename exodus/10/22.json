@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මොෂේ ⟨את⟩ තම අත අහස වෙත දිගු කළේය; ඝන අඳුර සමස්ත මිට්ස්රයිම් දේශයේ තුන් දිනක් විය.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "දිගු කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම අත"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "අඳුර"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ඝණ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිට්ස්රයිම්"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:43:54.161283628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔහුගේ පූජනීය නාමයෙන් ප්‍රශංසා කරන්න; යහ්වේ පතන ලද අයගේ හදවත සතුටු වේවා.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ප්‍රශංසා කරන්න"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙන්"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ඔහුගේ පූජනීය"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "සතුටු වේවා"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "පතන ලද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:47:51.718742611Z",
+  "model": "glm-5.3"
+}

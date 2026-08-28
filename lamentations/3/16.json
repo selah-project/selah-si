@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු ගල් බාල්බෙන් මාගේ දත් කුඩු කළේය; අළු තුළ ⟨මා⟩ පෑගුවේය.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "කුඩු කළේය"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ගල් බාල්බෙන්"
+    },
+    {
+      "surface": "שני",
+      "gloss": "මාගේ දත්"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "මා පෑගුවේය"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "අළු තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.502926381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "යොෂියාහුගේ රාජ්‍යත්වයේ අවුරුදු අටළොසක් වන කල මෙම පෙසහ පවත්වන ලදී.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "අටළොසයේ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුද්දේ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "රාජ්‍යත්වයේ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "යොෂියාහුගේ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "පවත්වන ලදී"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "පෙසහ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-28T07:57:05.819786998Z",
+  "model": "glm-5.3"
+}

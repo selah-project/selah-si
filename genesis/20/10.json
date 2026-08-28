@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "අබිමෙලෙක් අව්රාහම් වෙත කිවීය: „මොකක්ද දුටුවේ, මේ ⟨את⟩ කාරණය ඒ නිසා කළේද?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කිවීය"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "අබිමෙලෙක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "දුටුවේද"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "කළේද"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කාරණය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:14:40.556694222Z",
+  "model": "glm-5.3"
+}

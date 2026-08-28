@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "අප කතා කළ කාරණය ගැන — මම හා ඔබ — බෙහෙවින්, යහ්වේ මා හා ඔබ අතර සදාකාලයට දක්වා වෙයි.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "කතා කළ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බෙහෙවින්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "මා හා"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ඔබ අතර"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:03:07.610903730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සාරා ⟨ව⟩ කීවාය: එලෝහීම් මට සිනාවක් කළේය; ඇසුණු සියල්ලෝ මට සිනාසෙති.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "සාරා"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "සිනාවක්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ඇසුණු"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "සිනාසෙති"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:14:15.043527514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේ මොෂේ වෙත වදාළේය, මෙසේ කියාය:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියාය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:50.250377778Z",
+  "model": "glm-5.3"
+}

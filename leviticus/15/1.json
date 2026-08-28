@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යහ්වේ මොෂේටද අහරොන්ටද කතා කොට කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ ...ට"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරොන්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:03.851166769Z",
+  "model": "glm-5.3"
+}

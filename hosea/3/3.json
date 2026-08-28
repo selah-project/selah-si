@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම ඇයට කීවෙමි: බොහෝ දින ඔබ මට වසන්න; ඔබ ගණිකාවක් නොවන්න, අන්‍ය පුරුෂයෙකුට නොවන්න — මමද ඔබට එසේම වෙමි.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "වසන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "ගණිකාවක් වන්න"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "වන්න"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "පුරුෂයෙකුට"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "මමද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:09:51.835383201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "එක් තිරයක දිග රියන් තිස් අටකි; එක් තිරයක පළල රියන් හතරකි; තිර එකොළහට එකම මිනුමකි.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරයක"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතරකි"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරයක"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "මිනුමකි"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "එකොළහට"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "තිර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:23.544391124Z",
+  "model": "glm-5.3"
+}

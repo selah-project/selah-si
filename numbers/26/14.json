@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මේවා ⟨වේ⟩ ෂිම්ඕනීවරුන්ගේ පෙළපත් — විසි දෙදහසක් සහ දෙසියයකි.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "පෙළපත්"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "ෂිම්ඕනීවරුන්ගේ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විස්ස"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "සහ සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:46:44.844279609Z",
+  "model": "glm-5.3"
+}

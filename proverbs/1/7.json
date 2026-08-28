@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේගේ භය ඥානයේ ආරම්භයයි; ඥානයද අනුශාසනයද මෝඩයෝ පිළිකුල් කරති.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "භය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ආරම්භය"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ඥානයේ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "අනුශාසනය"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "මෝඩයෝ"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "පිළිකුල් කරති"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:02.813772269Z",
+  "model": "glm-5.3"
+}

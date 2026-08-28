@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යිස්සාඛාර් ගෝත්‍රයට — යිග්ආල්, යෝසෙප්ගේ පුත්।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "යිස්සාඛාර්"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "යිග්ආල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:56.725998641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔහු ⟨את⟩ ඒ ස්ථානයේ නාමය බෙත්-එල් (එලෝහීම්ගේ ගෙය) යැයි නම් කළේය; එහෙත් එම නගරයේ නාමය මුලදී ලූස් විය.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "නම් කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒ ස්ථානයේ නාමය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "ඔසම",
+      "gloss": ""
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ස්ථානයේ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "ලූස්"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "මුලදී"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:44.848884339Z",
+  "model": "glm-5.3"
+}

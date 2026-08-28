@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මම ඔවුන් මත අයහපත් දේ රැස් කරමි; මගේ ඊතල ඔවුන් වෙත මම නිමවා දමමි.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "රැස් කරමි"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ඔවුන් මත"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "අයහපත් දේ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "මගේ ඊතල"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "නිමවා දමමි"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඔවුන් වෙත"
+    }
+  ],
+  "timestamp": "2026-08-28T08:49:17.877370456Z",
+  "model": "glm-5.3"
+}

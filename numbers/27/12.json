@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මොෂේට යහ්වේ කීවේය: මෙම අබාරීම් කන්දට නගින්න, යිස්රාඑල් පුත්‍රයන්ට මම දී ඇති ⟨את⟩ දේශය බලාගන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "නගින්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הר",
+      "gloss": "කන්ද"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "අබාරීම්"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "බලාගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මම දී ඇති"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:42.986647244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 104,
+  "translation": "ඒවා මත අහස් කුරුල්ලෝ වාසය කරති; අතු අතරින් ඔව්හු හඬ පිට කරති.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "ඒවා මත"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "කුරුල්ලෝ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "වාසය කරයි"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "අතරින්"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "අතු"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "පිට කරති"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:15:55.508875938Z",
+  "model": "glm-5.3"
+}

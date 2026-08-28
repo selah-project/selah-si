@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මක්නිසාද යත්: ඔබ දුර දී ⟨את⟩ දේශය දැකිය යුතු මුත්, එහි නොපැමිණෙනු — මා යිස්රායෙල් පුත්‍රයින්ට දෙන දේශයට.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද යත්"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "දුර දී"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "දැකිය යුතු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "පැමිණෙනු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මා"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයින්ට"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:47:44.685618417Z",
+  "model": "glm-5.3"
+}

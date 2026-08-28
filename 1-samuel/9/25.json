@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔවුහු බමාවෙන් නගරයට බැස්සාහුය; ⟨ෂමුවෙල්⟩ වහල මත දී ෂාවුල් සමඟ කථා කළේය.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "බැස්සාහුය"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "බමාවෙන්"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයට"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාවුල්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "වහල"
+    }
+  ],
+  "timestamp": "2026-08-27T21:56:01.572759644Z",
+  "model": "glm-5.3"
+}

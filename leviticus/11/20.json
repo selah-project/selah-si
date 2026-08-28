@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සිවුපා මත ඇවිදෙන සියලුම පක්ෂි-කෘමියෝ — ඔබට එය ⟨the⟩ අපිරිසිදු දෙයකි.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලුම"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "කෘමි-පිබිදෙන්නා"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "පක්ෂි-කෘමියා (පියාඹන්නා)"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ඇවිදෙන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිව් (පා)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "අපිරිසිදු දෙය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:04.119180397Z",
+  "model": "glm-5.3"
+}

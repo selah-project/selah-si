@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "හා ඔබේ මළ සිරුරු — ඔබ ම — මෙම කාන්තාරයේ වැටෙන්නෝ වෙති.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "හා ඔබේ මළ සිරුරු"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "වැටෙන්නෝ වෙති"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "කාන්තාරයේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:36.471369033Z",
+  "model": "glm-5.3"
+}

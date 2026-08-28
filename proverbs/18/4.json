@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ගැඹුරු ජලය වැනි මිනිසාගේ කටෙහි වචන; පිපා ගලන වෑන්නක් — ඥානයේ මූලාශ්‍රය.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ගැඹුරු"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "פי",
+      "gloss": "කටෙහි"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "වෑන්නක්"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "පිපා ගලන"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "මූලාශ්‍රය"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:47.338818771Z",
+  "model": "glm-5.3"
+}

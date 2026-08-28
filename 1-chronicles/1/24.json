@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ෂෙම්, අර්පක්ෂද්, ෂෙලාක්.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ෂෙම්"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ෂෙලාක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:22.202419461Z",
+  "model": "glm-5.3"
+}

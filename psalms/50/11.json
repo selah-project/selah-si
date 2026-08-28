@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "කඳුවල සියලු පක්ෂීහු මට මුන ගැසේ; වීදියේ වන සත්තු මා සමඟ සිටිති.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "මම දනිමි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "පක්ෂීහු"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳුවල"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "සහ වන සත්තු"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "වීදියේ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "මා සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:31:56.278210946Z",
+  "model": "glm-5.3"
+}

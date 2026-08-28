@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බෙයිත්-එල් සහ හඅයි මිනිස්සු — සිය දෙසිය විසි තුනක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "සහ හඅයි"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:52:44.502164186Z",
+  "model": "glm-5.3"
+}

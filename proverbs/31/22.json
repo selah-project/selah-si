@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇය ඇගේම සඳහා ඇඳ ආවරණ කළාය; සියුම් පිළි සහ දම් පැහැ ඇගේ වස්ත්‍රය ය.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "ඇඳ ආවරණ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "කළාය"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇගේම සඳහා"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සියුම් පිළි"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "සහ දම් පැහැ"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "වස්ත්‍රය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:29.885267934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "සහ ඔබ රිදී සහ රන් ගෙන, කිරුළු සාදා, මහ පූජක යෙහෝත්සදක්ගේ පුත් යෙහෝෂුආගේ හිස මත තබන්න.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "සහ ගෙන"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "සහ රන්"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "සාදා"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "කිරුළු"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "තබන්න"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "හිස මත"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "යෙහෝත්සදක්ගේ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජක"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "මහ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:46:04.842881469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සහ ⟨את⟩ හදෝරාම්, සහ ⟨את⟩ උසාල්, සහ ⟨את⟩ දික්ලා.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "හදෝරාම්"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "හදෝරාම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "උසාල්"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "උසාල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "දික්ලා"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "දික්ලා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:22.201690795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මේ-හය්-යර්කොන්, රකොන්, යාෆෝට මුහුණලා ඇති ⟨අත්බැවින්⟩ සීමාව සමඟ",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "මේ-…-"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "හය්-යර්කොන්"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "රකොන්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "සීමාව"
+    },
+    {
+      "surface": "מול",
+      "gloss": "මුහුණලා"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "යාෆෝ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:53.007817669Z",
+  "model": "glm-5.3"
+}

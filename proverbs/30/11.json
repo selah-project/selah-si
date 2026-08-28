@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "එවැනි පරම්පරාවක් ⟨ඇත⟩ — තම පියාට ශාප කරන, ⟨את⟩ තම මවට ආශීර්වාද නොකරන.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "පරම්පරාවක්"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාට"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ශාප කරන"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තම මවට"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "තම මවට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ආශීර්වාද කරන"
+    }
+  ],
+  "timestamp": "2026-08-28T04:20:52.858363610Z",
+  "model": "glm-5.3"
+}

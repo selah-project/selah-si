@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "මිනිසෙක් — නෙපෙෂක්ගේ ලේහි පීඩා කරන්නා — උගුල දක්වා පලා යන්නේය; ඔහුට සහාය නොදෙනු.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "පීඩා කරන්නා"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ලේහි"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "නෙපෙෂක්ගේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "בור",
+      "gloss": "උගුල"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "පලා යන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "සහාය දෙනු"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:22:22.702080289Z",
+  "model": "glm-5.3"
+}

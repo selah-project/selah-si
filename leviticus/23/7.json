@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "පළමු දින ඔබට පූජනීය කැඳවීමක් වේවා; සියලු සේවා කාර්යයක් ඔබ නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "කැඳවීම"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "කාර්යය"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "සේවා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ඔබ කරන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T20:22:09.590854168Z",
+  "model": "glm-5.3"
+}

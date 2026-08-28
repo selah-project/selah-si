@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ගල් ගෙනයන්නා ඒවායින් හිංසා විඳින්නේය; දැව පලන්නා ඒවායින් අනතුරට පත්වන්නේය.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ගෙනයන්නා"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "හිංසා විඳින්නේය"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ඒවායින්"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "පලන්නා"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "දැව"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "අනතුරට පත්වන්නේය"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ඒවායින්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:15.858376176Z",
+  "model": "glm-5.3"
+}

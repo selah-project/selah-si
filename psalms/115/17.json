@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 115,
+  "translation": "මළවුන් යා නොස්තුති කරති, නිශ්ශබ්දතාවට බසින සියල්ලන්ද ⟨නොවේ⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ස්තුති කරති"
+    },
+    {
+      "surface": "יה",
+      "gloss": "යා"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "බසින"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "නිශ්ශබ්දතාවට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:28:57.444067254Z",
+  "model": "glm-5.3"
+}

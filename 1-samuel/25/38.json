@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "දින දහයක් ගත වූ කල, යහ්වේ ⟨את⟩ නාබාල්ව ගැසූ සේක; ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "දින දහයක්"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ගැසූ සේක"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නාබාල්ව"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "නාබාල්"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:09:45.073232028Z",
+  "model": "glm-5.3"
+}

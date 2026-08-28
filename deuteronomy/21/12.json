@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "එවිට ඔබ ඇයව ඔබේ ගෙදර මැදට ගෙන එන්න; ඇය ⟨את⟩ තම හිස කෙස් රවුම කපා, ⟨את⟩ තම නියපොතු කපා සකස් කරගනී.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ගෙන එන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ව"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "මැදට"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ඔබේ ගෙදර"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "කෙස් රවුම කපා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම හිස"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "තම හිස"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "සකස් කරගනී"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම නියපොතු"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "තම නියපොතු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:19.606444106Z",
+  "model": "glm-5.3"
+}

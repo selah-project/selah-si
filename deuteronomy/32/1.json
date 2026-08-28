@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "කන් පාදන්න, අහස්, මම කථා කරන්නෙමි; පොළොව ද මාගේ මුවින් වදන් අසා ගනීවා!",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "කන් පාදන්න"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස්"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "මම කථා කරන්නෙමි"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ද අසා ගනීවා"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "වදන්"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මාගේ මුවින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:46:55.480818502Z",
+  "model": "glm-5.3"
+}

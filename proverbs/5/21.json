@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මන්දය මිනිසාගේ මාර්ග යහ්වේගේ ඇස් ඉදිරියේ ⟨වේ⟩, ඔහුගේ සියලු පියවර ඔහු මැන බලයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්දය"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසාගේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියලු"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "ඔහුගේ පියවර"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "මැන බලයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:50.900912760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සුවය දෙන දිව ⟨ය⟩ ජීවන වෘක්ෂයකි; එහි කුකුස ⟨ය⟩ රූආඛ් තුළ කැඩුමකි.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "සුවය දෙන"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "වෘක්ෂය"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "සහ කුකුස"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කැඩුමක්"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "රූආඛ් තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:24.173501918Z",
+  "model": "glm-5.3"
+}

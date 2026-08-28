@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "භීතිය පැමිණේ; සාමය සොයති, එහෙත් නැත.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "සොයති"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නැත"
+    }
+  ],
+  "timestamp": "2026-08-28T00:22:39.195531089Z",
+  "model": "glm-5.3"
+}

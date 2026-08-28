@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ලෙයා නැවත ගැබ් ගත්තාය, යාකොව්ට සවන පුතෙකු ප්‍රසූත කළාය.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ගැබ් ගත්තාය"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "නැවත"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලෙයා"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ප්‍රසූත කළාය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "සවන"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "යාකොව්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:22:09.234540103Z",
+  "model": "glm-5.3"
+}

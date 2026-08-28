@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔහු ඉදිරියෙන් පොළොව ⟨මුළුමහත්⟩ වෙව්ලන්න; එසේම ලෝකය ස්ථිර වන්නේය, එය නොසෙල්වී ය.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "වෙව්ලන්න"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ඔහු ඉදිරියෙන්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළුමහත්"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "אף",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ස්ථිර වන්නේය"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ලෝකය"
+    },
+    {
+      "surface": "בל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "සෙල්වී ය"
+    }
+  ],
+  "timestamp": "2026-08-28T06:54:16.740651567Z",
+  "model": "glm-5.3"
+}

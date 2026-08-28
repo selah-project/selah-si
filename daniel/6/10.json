@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මෙය නිසා දාර්යවේෂ් රජු ලේඛනය හා තහනම අත්සන් කළේය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "මෙය නිසා"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "දාර්යවේෂ්"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "අත්සන් කළේය"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ලේඛනය"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "හා තහනම"
+    }
+  ],
+  "timestamp": "2026-08-28T05:44:52.718929985Z",
+  "model": "glm-5.3"
+}

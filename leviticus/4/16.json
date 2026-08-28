@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ආලේප ලත් පූජකයා ගවයාගේ ලේ ස්වල්පයක් හමුවීමේ මුණ්ඩපයට ගෙන එති.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ගෙන එති"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨පූජකයා⟩"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ආලේප ලත්"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ලේ ස්වල්පයක්"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨ගවයාගේ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "මුණ්ඩපය"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවීමේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:08.595035029Z",
+  "model": "glm-5.3"
+}

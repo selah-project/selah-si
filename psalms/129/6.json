@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 129,
+  "translation": "ඔව්හු වහල් මත තණ වන්නට පිහිටා — ඇද නොදැමූ පෙරම වියළී යන්න",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "වන්නට පිහිටා"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "තණ වැනි"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "වහල් මත"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "පෙරම"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ඇද දැමූ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "වියළී යන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T03:38:49.567815579Z",
+  "model": "glm-5.3"
+}

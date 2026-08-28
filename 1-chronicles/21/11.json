@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "පැමිණියේය ගැඞ් දාවීද් වෙත; ඔහුට කීවේය: මෙසේ කීවේය යහ්වේ: පිළිගන්න ඔබට",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගැඞ්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "පිළිගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:41.684541741Z",
+  "model": "glm-5.3"
+}

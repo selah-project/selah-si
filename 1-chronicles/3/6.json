@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යිබාර්, එලිෂාමා සහ එලිපෙලෙත්ද (විය).",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "යිබාර්"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "එලිෂාමා"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "එලිපෙලෙත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:34:51.190319102Z",
+  "model": "glm-5.3"
+}

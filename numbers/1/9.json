@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සබුලොන්ට — එලියාබ්, හෙලොන්ගේ පුත්‍රයා.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "සබුලොන්ට"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "එලියාබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "හෙලොන්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:31:05.735614961Z",
+  "model": "glm-5.3"
+}

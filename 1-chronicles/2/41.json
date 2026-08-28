@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සහ ෂල්ලූම් යකම්යාව ⟨את⟩ ලබා ගත්තේය, යකම්යා එලීෂමාව ⟨את⟩ ලබා ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "සහ ෂල්ලූම්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබා ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යකම්යා"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "යකම්යා"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "සහ යකම්යා"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ලබා ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එලීෂමා"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "එලීෂමා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:20.985575314Z",
+  "model": "glm-5.3"
+}

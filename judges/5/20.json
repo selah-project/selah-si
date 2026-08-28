@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අහසෙන් සටන් කළහ — තරු, තමන්ගේ පථයන්ගෙන් සීස්රා සමඟ සටන් කළහ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහසෙන්"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "සටන් කළහ"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "තරු"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "තමන්ගේ පථයන්ගෙන්"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "සටන් කළහ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "සීස්රා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:56:02.891040752Z",
+  "model": "glm-5.3"
+}

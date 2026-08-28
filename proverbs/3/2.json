@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මන්ද, දිගු දිනයන්ද, ජීවත් වසරයන්ද, ශාන්තියද ඔබට එකතු වනු ඇත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිගු"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනයන්"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "සහ වසරයන්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවත්"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "සහ ශාන්තියද"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "එකතු වනු ඇත"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:10.692575840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "හිංසනයේ සාක්ෂිකරුවෝ නැඟී සිටිති; මම නොදත් දේ මගෙන් විමසති.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "නැඟී සිටිති"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "සාක්ෂිකරුවෝ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "හිංසනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "මම දත්"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "මගෙන් විමසති"
+    }
+  ],
+  "timestamp": "2026-08-28T02:22:33.887115445Z",
+  "model": "glm-5.3"
+}

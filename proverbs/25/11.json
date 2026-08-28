@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "රන් ඇපල්-ගෙඩි, රිදී මැදිරිවල — තම කාලයේදී කියන ලද වචනයයි.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "ඇපල්-ගෙඩි"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "මැදිරිවල"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කියන ලද"
+    },
+    {
+      "surface": "על",
+      "gloss": "…මත"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "තම කාලයේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T10:39:08.032387475Z",
+  "model": "glm-5.3"
+}

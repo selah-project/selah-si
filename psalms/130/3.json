@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 130,
+  "translation": "යා, ඔබ අකුරු සලකා තබන්නේ නම්, අදෝනයි, කවරෙක් සිටගනීද?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "අකුරු"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "සලකා තබන්නේ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "යා"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "සිටගනීද"
+    }
+  ],
+  "timestamp": "2026-08-28T10:32:16.684895946Z",
+  "model": "glm-5.3"
+}

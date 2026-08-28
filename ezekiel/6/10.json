@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එවිට ඔව්හු මම යහ්වේ බව දැන ගනිති; වසරක් නැතිව ම මම මේ නපුර ඔවුන්ට කරන්නට කථා නොකළ බව ද.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "දැන ගනිති"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වසරක් නැතිව ම"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "නිසා නොව"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "මම කථා කළ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කරන්නට"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "මේ නපුර"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:23:22.671313380Z",
+  "model": "glm-5.3"
+}

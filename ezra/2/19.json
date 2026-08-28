@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "චාෂුම්ගේ පුත්‍රයෝ — දෙසිය විසිතුන් දෙනා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "඗שם",
+      "gloss": "චාෂුම්ගේ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "තුන් දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:50.819436257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "යොබාබ් මිය ගියේය, ඔහු වෙනුවට තෙමනි රටින් හුෂාම් රාජ්‍ය කළේය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "යොබාබ්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍ය කළේය"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "හුෂාම්"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "රටින්"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "තෙමනි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:34.594575016Z",
+  "model": "glm-5.3"
+}

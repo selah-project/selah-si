@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "නිග්‍රහිතයාට අතිරික්ත තොල් ⟨නො⟩ ගැළපේ; ධනවත් ප්‍රභුවෙකුට බොරු තොල් ගැළපෙන්නේ ⟨කෙසේද⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ගැළපේ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "නිග්‍රහිතයාට"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "අතිරික්ත"
+    },
+    {
+      "surface": "אף",
+      "gloss": "තවත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ධනවත් ප්‍රභුවාට"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:42.386720518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "තැලුණු, මිරිකුණු හෝ කපන ලද සන්නාහ ඇති තැනැත්තා යහ්වේගේ රැස්වීමට නොපැමිණෙන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "පැමිණෙන්නේ"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "තැලුණු"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "මිරිකුණු"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "හෝ කපන ලද"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "සන්නාහ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "රැස්වීමට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:18.072996674Z",
+  "model": "glm-5.3"
+}

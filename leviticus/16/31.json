@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ශබතයක්, ශබතෝනයක් — එය ඔබට; ඔබ ⟨את⟩ ඔබේ නෙෆෙෂ පීඩා කරන්න; සදාකාලික පණිවිඩයකි.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ශබතයක්"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ශබතෝනයක්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "පීඩා කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ නෙෆෙෂ"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ඔබේ නෙෆෙෂ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "පණිවිඩයක්"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලික"
+    }
+  ],
+  "timestamp": "2026-08-27T20:19:07.715665832Z",
+  "model": "glm-5.3"
+}

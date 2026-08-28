@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ෂෙමුවෙල්ගේ පුත්‍රයෝ: ⟨පළමුවැජැඹෑ⟩ වෂ්නී, අබියා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ෂෙමුවෙල්ගේ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "පළමුවැජැඹෑ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "වෂ්නී"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "අබියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:39:17.543017982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඛනන්ගේ පුත්‍රයෝ, ගිද්දෙල්ගේ පුත්‍රයෝ, ගඛර්ගේ පුත්‍රයෝ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ඛනන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ගිද්දෙල්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ගඛර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:21.713511419Z",
+  "model": "glm-5.3"
+}

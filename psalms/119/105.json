@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මාගේ පාදයට පහනක් ඔබේ වචනය, මාගේ පාරට ⟨එය⟩ ආලෝකයකි.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "පහනක්"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "මාගේ පාදයට"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ඔබේ වචනය"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "සහ ආලෝකයකි"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "මාගේ පාරට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:33:02.810946172Z",
+  "model": "glm-5.3"
+}

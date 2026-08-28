@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "කථා කළේය යහ්වේ ගැඞ් වෙත — දාවීද්ගේ දුටු-පත්කරුවා — කියාමින්:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගැඞ්"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "දුටු-පත්කරුවා"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියාමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:59:41.684147549Z",
+  "model": "glm-5.3"
+}

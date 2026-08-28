@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "වළඹෙක් — එළුවන්ගෙන් — එක්, පාප-පූජාවට;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "වළඹෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළුවන්ගෙන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප-පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:51.071004294Z",
+  "model": "glm-5.3"
+}

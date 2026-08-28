@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "වංචා කෙටුම්පත් සිතීමට තම ඇස් වසාගෙන, තොල් තදකර අයහපත සම්පූර්ණ කරයි.",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "වසාගෙන"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "තම ඇස්"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "සිතීමට"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "වංචා කෙටුම්පත්"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "තදකර"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "සම්පූර්ණ කරයි"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අයහපත"
+    }
+  ],
+  "timestamp": "2026-08-28T10:36:25.179539606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "කවරෙක් — මේ — කීයේද, එය සිදු වූයේද, අදෝනයි එසේ අණ නොකළේද?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීයේද"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "සිදු වූයේද"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළේද"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:08.920830510Z",
+  "model": "glm-5.3"
+}

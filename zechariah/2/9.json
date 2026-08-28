@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම — යහ්වේගේ නියමය — ඇයට වටේ ගිනි පවුරක් වන්නෙමි, සහ ඇගේ මැද තේජසක් වන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "වන්නෙමි"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "නියමය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "පවුරක්"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "තේජසක් වීමට"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "වන්නෙමි"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ඇගේ මැද"
+    }
+  ],
+  "timestamp": "2026-08-28T01:45:42.303277992Z",
+  "model": "glm-5.3"
+}

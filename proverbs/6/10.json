@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ටිකක් නින්ද, ටිකක් නිදාගැනීම, ටිකක් අත් දෙක වැලඳගෙන හාන්නට",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ටිකක්"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "නින්ද"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ටිකක්"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "නිදාගැනීම"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ටිකක්"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "වැලඳගැනීම"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "අත් දෙක"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "හාන්නට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:21.889538615Z",
+  "model": "glm-5.3"
+}

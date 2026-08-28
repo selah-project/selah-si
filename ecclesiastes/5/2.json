@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මන්ද බොහෝ කාර්යයන් මැදින් සිහිනය පැමිණේ, සහ බොහෝ වචනයන් මැදින් මෝඩයාගේ හඬ ⟨is⟩ පැමිණේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "සිහිනය"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "බොහෝ ... මැදින්"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "කාර්යයන්"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "සහ හඬ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "බොහෝ ... මැදින්"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "වචනයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:20:06.924230280Z",
+  "model": "glm-5.3"
+}

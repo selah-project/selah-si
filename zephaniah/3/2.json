@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඇය කටහඬ නොඇසුවාය; අවවාදය නොගත්තාය; යහ්වේ කෙරෙහි නොබැඳුණාය; තම එලෝහීම් වෙත ලං නොවූවාය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ඇසුවාය"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "කටහඬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ගත්තාය"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "අවවාදය"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ කෙරෙහි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "බැඳුණාය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "තම එලෝහීම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ලං වූවාය"
+    }
+  ],
+  "timestamp": "2026-08-28T01:42:56.963697293Z",
+  "model": "glm-5.3"
+}

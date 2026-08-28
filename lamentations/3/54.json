@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ජලය මාගේ හිස උඩින් පිරී ගියේය; මම කීවෙමි: කපා හැරුණෙමි වෙමි.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "පිරී ගියේය"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "על",
+      "gloss": "උඩින්"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "මාගේ හිස"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "කපා හැරුණෙමි වෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:10.526006917Z",
+  "model": "glm-5.3"
+}

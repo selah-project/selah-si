@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යහ්වේ දූතයාට කී විට, ඔහු තම කඩුව එහි කොපුවට ආපසු දැම්මේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කී විට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "දූතයාට"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ආපසු දැම්මේය"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "තම කඩුව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "එහි කොපුව"
+    }
+  ],
+  "timestamp": "2026-08-28T06:54:41.964947782Z",
+  "model": "glm-5.3"
+}

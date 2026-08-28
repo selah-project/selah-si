@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "දිග්ලග්, බෙත්-හම්මර්කාබොත් සහ හට්සර්-සුසා",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "දිග්ලග්"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "හම්මර්කාබොත්"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "හට්සර්"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "සුසා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:02.599364105Z",
+  "model": "glm-5.3"
+}

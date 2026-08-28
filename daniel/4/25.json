@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සියල්ල ⟨මෙයයි⟩ නෙබුකද්නෙසර් ⟨⟨⟩> රජු මත පැමිණියේය.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "ජ",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "නෙබුකද්නෙසර්"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "රජු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:41:14.870493109Z",
+  "model": "glm-5.3"
+}

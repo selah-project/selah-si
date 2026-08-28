@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "අමලෙක්ගේ ගැලවී සිටි ශේෂයට ⟨את⟩ පහර දී, මේ දවස් තෙක් එහි වාසය කළහ.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "පහර දුන්නෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ශේෂය"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ශේෂය"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "ගැලවී සිටි"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "අමලෙක්"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "වාසය කළහ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තෙක්"
+    },
+    {
+      "surface": "היום",
+      "gloss": "මේ දවස්"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:06.992094818Z",
+  "model": "glm-5.3"
+}

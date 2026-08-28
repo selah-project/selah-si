@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "බිල්ගා නිකායට — ෂම්මුවා; ෂෙමායා නිකායට — යෙහෝනතන්;",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "බිල්ගා නිකායට"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ෂම්මුවා"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "ෂෙමායා නිකායට"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "යෙහෝනතන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:08.122447265Z",
+  "model": "glm-5.3"
+}

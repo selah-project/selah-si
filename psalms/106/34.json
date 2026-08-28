@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 106,
+  "translation": "ඔවුන් ⟨את⟩ ⟨the⟩ ජාතීන් විනාශ නොකළහ, යහ්වේ ඔවුන්ට නියම කළ ⟨the⟩ ජාතීන්.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "විනාශ කළහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජාතීන්"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ජාතීන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "නියම කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:22:02.727936975Z",
+  "model": "glm-5.3"
+}

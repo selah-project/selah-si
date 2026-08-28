@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අයි නගරයේ රජුද ⟨את⟩ ජීවත්ව අල්වාගෙන, යෙහෝෂුආ වෙත ⟨את⟩ ඔහු ගෙන ආහ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අයි නගරයේ රජු"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "העי",
+      "gloss": "අයි නගරයේ"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "අල්වාගෙන"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්ව"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ගෙන ආහ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ඔහු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:25:38.144947175Z",
+  "model": "glm-5.3"
+}

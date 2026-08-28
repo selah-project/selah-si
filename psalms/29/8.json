@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "යහ්වේගේ හඬ කාන්තාරය කැරකවයි; යහ්වේ කදේෂ් කාන්තාරය කැරකවයි.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "කැරකවයි"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කාන්තාරය"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "කැරකවයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කාන්තාරය"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "කදේෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:21:00.902234247Z",
+  "model": "glm-5.3"
+}

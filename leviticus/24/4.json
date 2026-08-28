@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "පිරිසිදු මැණික්-දැල්වුම මත ඔහු පහන් සකස් කරන්නේ යහ්වේ ඉදිරියේ නිතරම ය.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "මැණික්-දැල්වුම"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "සකස් කරන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පහන්"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "පහන්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "නිතරම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:16.024556684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යෙෂයාහු හිස්කියාහු වෙත කීවේය: යහ්වේගේ වචනය අසව්.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "යෙෂයාහු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "හිස්කියාහු"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසව්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:05:26.875292219Z",
+  "model": "glm-5.3"
+}

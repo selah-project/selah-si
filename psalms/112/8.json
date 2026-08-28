@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 112,
+  "translation": "ඔහුගේ හදවත තහවුරු වී ⟨ඇත⟩, බිය නොවේ — තම සතුරන් ⟨දෙස⟩ නෙතින් දක්නා තුරු.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "තහවුරු වී"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ඔහුගේ හදවත"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "බිය වේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "නෙතින් දක්නා"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "තම සතුරන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:27:31.594249118Z",
+  "model": "glm-5.3"
+}

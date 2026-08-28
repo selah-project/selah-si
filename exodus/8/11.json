@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "පර්ඕ සහනය ඇති වූයේ දැක, ⟨את⟩ තම හදවත බර කළේය, යහ්වේ කතා කළ පරිදි ඔවුන්ට නො සවන් දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "දැක"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "සහනය ඇති වූයේ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "සහනය"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "බර කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම හදවත"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "තම හදවත"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "සවන් දුන්නේය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කතා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:41:51.407865026Z",
+  "model": "glm-5.3"
+}

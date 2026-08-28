@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ ඔබ ආශීර්වාද කරාවා, ඔබ රක්ෂා කරාවා —",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ආශීර්වාද කරාවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "රක්ෂා කරාවා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:05.904088427Z",
+  "model": "glm-5.3"
+}

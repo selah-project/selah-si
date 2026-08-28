@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "සහ ⟨את⟩ බස්මත්, ඉෂ්මායෙල්ගේ දියණිය, නෙබායොත්ගේ සහෝදරිය —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "බස්මත්"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "බස්මත්"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ඉෂ්මායෙල්ගේ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "සහෝදරිය"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "නෙබායොත්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:25.044915787Z",
+  "model": "glm-5.3"
+}

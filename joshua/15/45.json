@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "එක්රොන්, එහි පුරවරයෝ සහ එහි ගම්මානයෝය.",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "එක්රොන්"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "සහ එහි පුරවරයෝ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "සහ එහි ගම්මානයෝ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:40.963210814Z",
+  "model": "glm-5.3"
+}

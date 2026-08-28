@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මම මගේ ඇට සියල්ල ගණන් කරමි; ඔව්හු බලා සිට මා දෙස ⟨බලති⟩.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "මම... ගණන් කරමි"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "මගේ ඇට"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔව්හු"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "බලා සිට"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "⟨බලති⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා දෙස"
+    }
+  ],
+  "timestamp": "2026-08-28T02:12:42.447347681Z",
+  "model": "glm-5.3"
+}

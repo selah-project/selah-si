@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "හෙබෙල්, හෙබලයන්ගේ, කියා කොහෙලෙත් ⟨කීයේය⟩; සියල්ල හෙබෙල් ⟨වේ⟧.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "හෙබෙල්"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "හෙබලයන්ගේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "කොහෙලෙත්"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙබෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:15:07.926711157Z",
+  "model": "glm-5.3"
+}

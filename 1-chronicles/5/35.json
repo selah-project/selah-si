@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අහිමාස් ⟨את⟩ අසර්යාව ලබාගත්තේය; අසර්යා ⟨את⟩ යොහනන්ව ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "අහිමාස්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අසර්යා"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "අසර්යා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොහනන්"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "යොහනන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:36:08.974974469Z",
+  "model": "glm-5.3"
+}

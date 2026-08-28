@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "මෙයෝ ද අනාගේ පුත්‍රයෝ — දිෂෝන් සහ අනාගේ දියණිය ද වන අහෝලිබාමා ය.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙයෝ ද"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "අනාගේ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "දිෂෝන්"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "සහ අහෝලිබාමා"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "අනාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:25:54.491502001Z",
+  "model": "glm-5.3"
+}

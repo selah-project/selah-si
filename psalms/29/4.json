@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "යහ්වේගේ හඬ බලයෙන් ⟨ය⟩; යහ්වේගේ හඬ අලංකාරයෙන් ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "බලයෙන්"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "අලංකාරයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:18:25.062039627Z",
+  "model": "glm-5.3"
+}

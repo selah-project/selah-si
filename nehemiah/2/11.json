@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම යෙරුෂාලයිම් වෙත පැමිණ, එහි දින තුනක් සිටියෙමි.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "පැමිණියෙමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "යෙරුෂාලයිම්"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "සිටියෙමි"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "තුනක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:13:35.727634493Z",
+  "model": "glm-5.3"
+}

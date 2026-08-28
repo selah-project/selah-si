@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "නොඛා සතරවැන්නා, සහ රාපා පස්වැන්නා.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "නොඛා"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "සතරවැන්නා"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "සහ රාපා"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "පස්වැන්නා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:44.648494286Z",
+  "model": "glm-5.3"
+}

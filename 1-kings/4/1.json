@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "රජු වූ ෂලෝමෝ ⟨විය⟩ සියලු ඊශ්‍රායෙල් මත රජු විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු වූ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු විය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:30:42.464187014Z",
+  "model": "glm-5.3"
+}

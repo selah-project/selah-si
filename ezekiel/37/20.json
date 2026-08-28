@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔබ ඒවා මත ලියන දඬු ඔබේ අත තුළ ඔවුන්ගේ ඇස් ඉදිරිපිට වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "දඬු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ලියන"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඒවා මත"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ඔබේ අත තුළ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ඔවුන්ගේ ඇස් ඉදිරිපිට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:52:29.099118222Z",
+  "model": "glm-5.3"
+}

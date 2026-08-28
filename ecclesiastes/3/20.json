@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සියල්ල එකම ස්ථානයක් වෙත යන්නේය; සියල්ල ධූලියෙන් ⟨came⟩, සහ සියල්ල ධූලිය වෙත ආපසු හැරේ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "යන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ස්ථානයක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකම"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ධූලියෙන්"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "සහ සියල්ල"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ආපසු හැරේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ධූලිය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:53.466700377Z",
+  "model": "glm-5.3"
+}

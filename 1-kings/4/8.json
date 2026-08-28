@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මෙයින් ඔවුන්ගේ නම්: බෙන්-හූර්, එප්රායිම් කන්දෙහි.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "මෙයින්"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ඔවුන්ගේ නම්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "חור",
+      "gloss": "හූර්ගේ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්දෙහි"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "එප්රායිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:30:10.942446556Z",
+  "model": "glm-5.3"
+}

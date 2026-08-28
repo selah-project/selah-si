@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කීවේය මට: ඔබ කවුරුන්ද? කීවේය ඔහුට: මම අමලෙකි වෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුරුන්ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "අමලෙකි"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම වෙමි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:12:43.278712311Z",
+  "model": "glm-5.3"
+}

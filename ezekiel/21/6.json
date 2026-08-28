@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යහ්වේගේ වචනය මා වෙත ආවේය, කියනු මෙසේ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ආවේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියනු මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:33:28.604061173Z",
+  "model": "glm-5.3"
+}

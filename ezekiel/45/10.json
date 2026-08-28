@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 45,
+  "translation": "ධර්මිෂ්ඨ තරාදි, ධර්මිෂ්ඨ ඒයිපා, ධර්මිෂ්ඨ බාත් ඔබට ⟨වේවා⟩.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "තරාදි"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "හා ඒයිපා"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "හා බාත්"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:00:56.308496758Z",
+  "model": "glm-5.3"
+}

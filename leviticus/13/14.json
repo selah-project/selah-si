@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "නමුත් ඔහු තුළ ජීවමාන මස් පෙනෙන දිනයේදී, ඔහු අපිරිසිදු වේ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "පෙනෙන කල"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවමාන"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අපිරිසිදු වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:13:45.797557203Z",
+  "model": "glm-5.3"
+}

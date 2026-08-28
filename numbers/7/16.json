@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එක් අපිච්ඡ එළදෙනුන්ගෙන් — පාප පූජාවට එක් අපිච්ඡයෙක්.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "අපිච්ඡයෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළදෙනුන්ගෙන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:25.741040574Z",
+  "model": "glm-5.3"
+}

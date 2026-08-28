@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හතඛ් පැමිණියේය; එස්තෙර්ට මෝරධකයිගේ වචන ⟨את⟩ දැන්වීය.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "התך",
+      "gloss": "හතඛ්"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "දැන්වීය"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "එස්තෙර්ට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෝරධකයිගේ වචන"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "මෝරධකයිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:27:13.984378490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "මම ඔබේ ⟨වෙමි⟩ — මා ගළවන්න, මන්ද මම ඔබේ පණවිඩ විමසීමි.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබේ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "මා ගළවන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ඔබේ පණවිඩ"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "මම විමසීමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:34:05.813730620Z",
+  "model": "glm-5.3"
+}

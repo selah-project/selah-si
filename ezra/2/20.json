@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ගිබ්බාර්ගේ පුත්‍රයෝ — අනූපහ දෙනා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ගිබ්බාර්ගේ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "පහ දෙනා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:50.819551783Z",
+  "model": "glm-5.3"
+}

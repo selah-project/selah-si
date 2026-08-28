@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "ඔබ ළඟ සිටී, යහ්වේ; ඔබේ ආඥා සියල්ල සත්‍යයි.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ළඟ සිටී"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ඔබේ ආඥා"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:34:31.288849475Z",
+  "model": "glm-5.3"
+}

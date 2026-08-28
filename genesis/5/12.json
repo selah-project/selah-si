@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "කේනාන් අවුරුදු හැත්තෑවක් ජීවත්ව ⟨ඔහු⟩ මහලල්එල්ව ⟨את⟩ ලබුවේය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ජීවත්ව"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "කේනාන්"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "හැත්තෑවක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලබුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මහලල්එල්ව"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "මහලල්එල්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:36.994482639Z",
+  "model": "glm-5.3"
+}

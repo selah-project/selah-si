@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ගාද් ගෝත්‍රය ද, ගාද් පුත්‍රයන්ගේ නායකයා රෙඌෙල්ගේ පුත් එල්යාසාප් ද වේ.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ගෝත්‍රය ද"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "නායකයා"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "එල්යාසාප්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "රෙඌෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:31:25.688971027Z",
+  "model": "glm-5.3"
+}

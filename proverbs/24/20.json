@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මන්ද අයහපත් තැනැත්තාට අනාගතයක් තිබිය ⟨නො⟩වේ; පව්කාරයන්ගේ පහන නිවී යයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ඇති වේ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "අනාගතය"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "අයහපත් තැනැත්තාට"
+    },
+    {
+      "surface": "נר",
+      "gloss": "පහන"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "පව්කාරයන්ගේ"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "නිවී යයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:17:03.786248959Z",
+  "model": "glm-5.3"
+}

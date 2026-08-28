@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔබ සියල්ලෝ යුද මිනිසුන්, ⟨את⟩ නගරය වට කරමින් නගරය වටා ⟨את⟩ එක් වරක් කුර ගසව්; මෙසේ ඔබ කරනු ඇත — දින හයක්.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "වට කරව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නගරය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෝ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "යුද"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "වටා කුර ගසව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නගරය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "වරක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ඔබ කරනු ඇත"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-27T21:22:56.478129213Z",
+  "model": "glm-5.3"
+}

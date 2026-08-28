@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඔබන් අතර සියලු හද-නුවණැත්තෝ එළඹ, යහ්වේ අණ කළ සියල්ල ⟨את⟩ කරත්වා.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "නුවණැත්තෝ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හද-"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ඔබන් අතර"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "එළඹ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "කරත්වා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියල්ල"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:00:07.633235068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මෙයයි ඔවුන්ගෙන් ⟨את⟩ ගනු ලබන කැපකිරීම: රන්, රිදී සහ තඹ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "සහ මෙය"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "කැපකිරීම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…වන"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ගනු ලබන"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්ගෙන්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "තඹ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:54:48.202865508Z",
+  "model": "glm-5.3"
+}

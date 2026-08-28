@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 114,
+  "translation": "ඔබට කුමක් වූයේද, ⟨the⟩ මුහුද, කුමනිසා ඔබ පලා යන්නේ? ⟨the⟩ යර්දන්, ඔබ පසුපසට හැරෙන්නේ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "כי",
+      "gloss": "කුමනිසා"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "පලා යන්නේ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යර්දන්"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "හැරෙන්නේ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "පසුපසට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:28:47.388485059Z",
+  "model": "glm-5.3"
+}

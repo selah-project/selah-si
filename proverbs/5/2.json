@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "විචක්ෂණ සිතුම් රැකීමට, දැනුම ඔබේ තොල් රකින්නාහ.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "විචක්ෂණ සිතුම්"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ඔබේ තොල්"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "රකින්නාහ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:51.887864613Z",
+  "model": "glm-5.3"
+}

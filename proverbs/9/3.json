@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඇය ⟨את⟩ තම තරුණියන් යවා ඇත; ඇය නගරයේ උස් තැන්වල, මුදුන්වල කෑගසයි —",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ඇය යවා ඇත"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "තම තරුණියන්"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ඇය කෑගසයි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "මුදුන්වල"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "උස් තැන්වල"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "නගරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:33:59.425957906Z",
+  "model": "glm-5.3"
+}

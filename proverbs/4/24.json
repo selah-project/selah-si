@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබෙන් මුඛයේ වක්‍රබව ඉවත් කරන්න; තොල්වල වංකබව ඔබෙන් ඈත කරන්න.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ඉවත් කරන්න"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබෙන්"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "වක්‍රබව"
+    },
+    {
+      "surface": "פה",
+      "gloss": "මුඛයේ"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "සහ වංකබව"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "තොල්වල"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "දුරු කරන්න"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:55:07.781619435Z",
+  "model": "glm-5.3"
+}

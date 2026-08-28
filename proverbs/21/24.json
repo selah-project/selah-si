@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "උඩඟු, අහංකාර — අගේ නම 'උපහාසකයා'; උඩඟු කෝපයෙහි ක්‍රියා කරන්නා ඔහු ය.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "උඩඟු"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "අහංකාර"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "උපහාසකයා"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "අගේ නම"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "ක්‍රියා කරන්නා"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "කෝපයෙහි"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "උඩඟු"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:38.964168314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මගෙන් දුරස් නොවන්න, මන්ද පීඩාව ළඟ ඇත, මන්ද උදව්කරුවෙක් ⟨නැත⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "දුරස් වන්න"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "මගෙන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "පීඩාව"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ළඟ ඇත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "උදව්කරුවෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:12:40.763517570Z",
+  "model": "glm-5.3"
+}

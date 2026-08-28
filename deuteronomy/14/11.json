@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "පිරිසිදු සියලු කුරුල්ලන් ඔබ කවයි.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "කුරුල්ලන්"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "පිරිසිදු"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කවයි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:04.786431258Z",
+  "model": "glm-5.3"
+}

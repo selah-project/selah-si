@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මිකයාහු කීවේය: යහ්වේ ජීවත් සේම, යහ්වේ මට කියන්නේ ⟨את⟩ ඕ දෙය ම, මම ⟨את⟩ ඒ කථා කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאඪר",
+      "gloss": "සහ කීවේය"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "මිකයාහු"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවත්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ම"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඕ දෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙය"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "කියන්නේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඒ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "කථා කරන්නෙමි"
+    }
+  ],
+  "timestamp": "2026-08-27T22:49:47.283343952Z",
+  "model": "glm-5.3"
+}

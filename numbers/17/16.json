@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යහ්වේ මෝෂේ සමඟ කතා කොට කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මෝෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:39:11.468176194Z",
+  "model": "glm-5.3"
+}

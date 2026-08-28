@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අපගේ එලෝහීම් යහ්වේ ඛෝරෙබ්හිදී අප සමඟ කථා කළේය, කියමින්: මෙම කන්දේ වාසය කිරීම ඔබට ප්‍රමාණවත් ය —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ඛෝරෙබ්හිදී"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ප්‍රමාණවත්"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "වාසය කිරීම"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්දේ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:38.462746307Z",
+  "model": "glm-5.3"
+}

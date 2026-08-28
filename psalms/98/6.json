@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 98,
+  "translation": "තුරිත් සහ ෂොෆාර් හඬින්, රජු වන යහ්වේ ඉදිරියෙහි ඝෝෂා කරවුන්.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "තුරිත් සමඟ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "සහ හඬ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ෂොෆාර්"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ඝෝෂා කරවුන්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:15:11.618356251Z",
+  "model": "glm-5.3"
+}

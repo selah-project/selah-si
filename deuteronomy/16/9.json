@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "සත් සති තී, ගණන් කරන්න; කඳුලෙහි අළුය ඇරඹෙන විට, සත් සති ගණන් කිරීම ඇරඹුව යුතුය.",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "සති"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ගණන් කරන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තී"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "ඇරඹෙන විට"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "අළුය"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "කඳුලෙහි"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "ඇරඹුව යුතුය"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ගණන් කිරීම"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "සති"
+    }
+  ],
+  "timestamp": "2026-08-28T08:44:36.790691334Z",
+  "model": "glm-5.3"
+}

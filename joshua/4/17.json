@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යෙහෝෂුආ ⟨את⟩ පූජකයන්ට විධාන කොට කීයේ: යර්දන් ගඟෙන් නැඟිටිව්.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "විධාන කෙළේය"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පූජකයන්"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "පූජකයන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "නැඟිටිව්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යර්දන් ගඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:20:25.030162405Z",
+  "model": "glm-5.3"
+}

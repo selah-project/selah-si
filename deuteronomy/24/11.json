@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "පිටත ඔබ සිටින්න, ඔබ ණය දෙන මිනිසා ⟨את⟩ තැන්පතුව පිටතට ඔබ වෙත ගෙන එනු ඇත.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "පිටත"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "සිටින්න"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "ණය දෙන"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ගෙන එනු ඇත"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තැන්පතුව"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "තැන්පතුව"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "පිටට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:11:29.191917743Z",
+  "model": "glm-5.3"
+}

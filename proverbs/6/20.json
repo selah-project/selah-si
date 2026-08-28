@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මගේ පුත්, ඔබේ පියාගේ අණ රකිව, ඔබේ මවගේ ඉගැන්වීම අත්හරින් නොඉඳිව",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "රකිව"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "අණ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ඔබේ පියාගේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "අත්හරින් නොඉඳිව"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ඉගැන්වීම"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ඔබේ මවගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:44.731129678Z",
+  "model": "glm-5.3"
+}

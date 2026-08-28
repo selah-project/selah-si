@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අව්රාම් — ඔහු ම ⟨ය⟩ අව්රාහම්.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "අව්රාම්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:07.600475240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "ඇස් ඇති අන්ධ ජනයා පිටතට ගෙන එන්න, කන් ඇති බිහිරු අයව ද.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "පිටතට ගෙන එන්න"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "עור",
+      "gloss": "අන්ධ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ඇස් ඇති"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇති⟩"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "බිහිරු"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "කන් ඇති"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ඔවුන්ට⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T11:57:57.038547546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 18:8",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "සටන එහිදී මුළු ⟨රට⟩ පුරා විසිරී ගියේය; වනය ජනයා අතර කෑමට වැඩි වූයේ — එදින කඩුව කෑ තරමට වඩාය.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "සටන"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "විසිරී ගියේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "පුරා (මුහුණ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "වැඩි වූයේ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "වනය"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "කෑමට"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ජනයා අතර"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "වඩා"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "කෑවේ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "කඩුව"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    }
+  ],
+  "timestamp": "2026-08-28T09:13:38.770542647Z",
+  "model": "glm-5.3"
+}

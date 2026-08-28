@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "අදා ඒසාව්ට ⟨את⟩ එලිපාස් ප්‍රසූ කළාය; බස්මත් ⟨את⟩ රෙඋවෙල් ප්‍රසූ කළාය —",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ප්‍රසූ කළාය"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "අදා"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ඒසාව්ට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එලිපාස්"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "එලිපාස්"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "බස්මත්"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ප්‍රසූ කළාය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රෙඋවෙල්"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "රෙඋවෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:26:25.045063516Z",
+  "model": "glm-5.3"
+}

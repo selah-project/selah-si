@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 55,
+  "translation": "භීතිය සහ වෙව්ලුම මා තුළට ⟨පැමිණ⟩ ⟨වෙයි⟩, භයංකාරය මා ⟨වසා⟩ ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "භීතිය"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "සහ වෙව්ලුම"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "පැමිණ වෙයි"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා තුළට"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "මා වසා ඇත"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "භයංකාරය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:24:23.727363407Z",
+  "model": "glm-5.3"
+}

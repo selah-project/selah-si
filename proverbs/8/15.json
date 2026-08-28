@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මා විසින් රජවරු රාජ්‍ය කරති, නිලධාරීහු ධර්මය නියම කරති.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "මා විසින්"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "රජවරු"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "රාජ්‍ය කරති"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "නිලධාරීහු"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "නියම කරති"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:21.902546198Z",
+  "model": "glm-5.3"
+}

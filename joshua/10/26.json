@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 10:26",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඉන් පසු යෙහෝෂුආ ඔවුන් ගසා මරා දැම්මේය, ඔවුන් ගස් පහක එල්ලීය; ඔවුහු සවස් වන තුරු ⟨the⟩ ගස් මත එල්ලී සිටියහ.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "ගසා දැම්මේය"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ඉන්"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "මරා දැම්මේය"
+    },
+    {
+      "surface": "ויתלם",
+      "gloss": "එල්ලීය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "පහක"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "תלוים",
+      "gloss": "එල්ලී සිටියහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨the⟩ ගස්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨the⟩ සවස"
+    }
+  ],
+  "timestamp": "2026-08-28T08:52:12.733008628Z",
+  "model": "glm-5.3"
+}

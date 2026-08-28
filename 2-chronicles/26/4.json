@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "යහ්වේගේ ඇස් හමුවේ යහපත් දේ ඔහු කළේය, ඔහුගේ පියා වූ අමස්යා කළ සියල්ලට අනුව.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත් දේ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් හමුවේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "අමස්යා"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ඔහුගේ පියා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:39:40.579040012Z",
+  "model": "glm-5.3"
+}

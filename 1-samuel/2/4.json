@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "බලකයන්ගේ දුනු කැඩී ගිය; බිඳ වැටුණු අය බලයෙන් බඳිනා ලදහ.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "දුනු"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "බලකයන්ගේ"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "කැඩී ගිය"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "බිඳ වැටුණු අය"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "බඳිනා ලදහ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "බලයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:52:03.278208009Z",
+  "model": "glm-5.3"
+}

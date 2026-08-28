@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "පූජකවරුන් අතර සියලු පිරිමිහු ⟨את⟩ එය කා යුතු; පූජනීයන්ගේ පූජනීයයි ⟨එය⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "පිරිමිහු"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "පූජකවරුන් අතර"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කා යුතු"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "පූජනීයන්ගේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:07:15.839962126Z",
+  "model": "glm-5.3"
+}

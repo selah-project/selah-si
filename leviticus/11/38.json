@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ බීජය මතට ජලය දමා ඇත්නම්, සහ ඔවුන්ගේ මළ සිරුරුවලින් ඊට වැටුණොත්, එය ඔබට අපවිත්‍රයි.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "සහ-නම්"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දමා ඇත්නම්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "බීජය"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "සහ-වැටුණොත්"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ඔවුන්ගේ මළ සිරුරුවලින්"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඊට"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අපවිත්‍රයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:24.104420270Z",
+  "model": "glm-5.3"
+}

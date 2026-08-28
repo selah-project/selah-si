@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 16:19",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "අකාස් කළ අනෙක් කථාවන් — ඒවා යුදාවේ රජුන්ගේ දිනවල කථා පොතෙහි ලියා නැත්තේද?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "අනෙක්"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කථාවන්"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "අකාස්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තැනීම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නැත්තේද"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ලියා"
+    },
+    {
+      "surface": "על",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "පොතෙහි"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කථා"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "රජුන්ගේ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යුදාවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:01:28.236449444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ධාර්මිකයාගේ ගෙය මහා සම්පතකි; නමුත් දුෂ්ටයන්ගේ ඵලයෙහි කලබලයකි.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධාර්මිකයාගේ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "සම්පත"
+    },
+    {
+      "surface": "רב",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "නමුත් ඵලයෙහි"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "කලබලයකි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:07:15.389719331Z",
+  "model": "glm-5.3"
+}

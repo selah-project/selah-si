@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "යහ්වේ සීනායි කන්දෙහි මොෂෙට කථා කොට කියන ලදී:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂෙ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "කන්දෙහි"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "සීනායි"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T20:24:46.258652647Z",
+  "model": "glm-5.3"
+}

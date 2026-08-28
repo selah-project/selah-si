@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 73,
+  "translation": "මම මෙය දැන ගැනීමට සිතුවෙමි — එය මගේ ඇස් හමුවේ වෙහෙසක් විය.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "සිතුවෙමි"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "දැන ගැනීමට"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "වෙහෙසක්"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "මගේ ඇස් හමුවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:52:20.561286341Z",
+  "model": "glm-5.3"
+}

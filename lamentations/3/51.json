@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මගේ නගරයේ දූවරුන් සියල්ල නිසා මගේ ඇය මගේ නෙෆෙෂට හානි කරයි.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "මගේ ඇය"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "හානි කරයි"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "මගේ නෙෆෙෂට"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරුන්"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "මගේ නගරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:48.459134718Z",
+  "model": "glm-5.3"
+}

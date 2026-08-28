@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "යිට්ස්හාර්ගේ පුත්‍රයන් — ෂෙලෝමිත් ⟨ය⟩ ප්‍රධානයා.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "යිට්ස්හාර්ගේ"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ෂෙලෝමිත්"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ප්‍රධානයා"
+    }
+  ],
+  "timestamp": "2026-08-28T07:01:12.678453622Z",
+  "model": "glm-5.3"
+}

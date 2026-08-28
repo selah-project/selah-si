@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මෙසේ කී යහ්වේ මට: ඔබට ම බැමි ද කරපත් ද කරගෙන, ඒවා ඔබේ බෙල්ල මත තබන්න.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරගෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට ම"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "බැමි"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "කරපත්"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ඒවා … තබන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ඔබේ බෙල්ල"
+    }
+  ],
+  "timestamp": "2026-08-28T00:01:59.209253861Z",
+  "model": "glm-5.3"
+}

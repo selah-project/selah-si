@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 103,
+  "translation": "මන්ද ⟨ඔහු⟩ අපගේ ස්වරූපය දන්නේය; අපි දූලි බව සිහි කරයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නේය"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "අපගේ ස්වරූපය"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "සිහි කරයි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "දූලි"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "අපි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:16:49.298615181Z",
+  "model": "glm-5.3"
+}

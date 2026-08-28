@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "යිර්මියා න෶බියා වෙත ප්‍රතිපලිෂ්තුන් ගැන පැමිණි යහ්වේගේ වචනය — පාරෝ ⟨את⟩ අසාව පහර දෙන්නට පෙර.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මියා"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "න෶බියා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ප්‍රතිපලිෂ්තුන්"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "පහර දෙන්නට"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පාරෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අසාව"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "අසාව"
+    }
+  ],
+  "timestamp": "2026-08-28T09:54:53.257844169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සිවු පා ඇති අනෙක් සියලු පන්නන-පියාඹන උරඟයෝ ඔබට අපවිත්‍ර දෙයකි.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "පන්නන-සතුන්"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "පියාඹන උරඟයෝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිවු"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "පා"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "අපවිත්‍ර දෙයක්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨යි⟩"
+    },
+    {
+      "surface": "මට",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:03.097263648Z",
+  "model": "glm-5.3"
+}

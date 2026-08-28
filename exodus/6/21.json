@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යිට්ස්හර්ගේ පුත්‍රයෝ: කොරෛ, නෙෆෙග් සහ සික්‍රී.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "යිට්ස්හර්ගේ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරෛ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "නෙෆෙග්"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "සික්‍රී"
+    }
+  ],
+  "timestamp": "2026-08-28T08:13:59.131248886Z",
+  "model": "glm-5.3"
+}

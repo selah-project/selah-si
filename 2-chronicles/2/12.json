@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "දැන් මම අවබෝධය දන්නා නුගත් මිනිසෙකු — හුරාම් අබී — යැව්වෙමි.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "මම යැව්වෙමි"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙකු"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "නුගත්"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දන්නා"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "අවබෝධය"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "හුරාම්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "අබී"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:06.379279811Z",
+  "model": "glm-5.3"
+}

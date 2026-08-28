@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මගේ පුත, පාපතරයෝ ඔබව රවටා ගත්තොත්, ඔබ එකඟ නොවන්න.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත"
+    },
+    {
+      "surface": "אם",
+      "gloss": "...ත්"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "රවටා ගත්තොත්"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "පාපතරයෝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "එකඟ වන්න"
+    }
+  ],
+  "timestamp": "2026-08-28T03:51:12.422983582Z",
+  "model": "glm-5.3"
+}

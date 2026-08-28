@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "මෝවාබ් ජනයෙක් වීමෙන් විනාශ වන්නේය, මන්ද යහ්වේට එරෙහිව ඔහු මහා වූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "විනාශ වන්නේය"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවාබ්"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ජනයෙක් වීමෙන්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "על",
+      "gloss": "එරෙහිව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "මහා වූ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:16:02.299311994Z",
+  "model": "glm-5.3"
+}

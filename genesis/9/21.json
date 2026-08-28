@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔහු වයින් පානය කොට මත් වූයේය, තම කූඩාරය මැද නිරුවත් විය.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "පානය කළේය"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "היין",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "මත් විය"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "නිරුවත් විය"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "තම කූඩාරය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:42.395660786Z",
+  "model": "glm-5.3"
+}

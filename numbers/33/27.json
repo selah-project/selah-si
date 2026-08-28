@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔව් තාහත්හෙන් පිටත්ව තෙරහ්හි කඳවුරු බැඳියහ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "පිටත්ව ගියහ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "තාහත්හෙන්"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "කඳවුරු බැඳියහ"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "තෙරහ්හි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:52:42.465463062Z",
+  "model": "glm-5.3"
+}

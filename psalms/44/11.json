@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "ඔබ අපව සතුරාගෙන් ආපසු හරවයි, අපට වෛර කරන්නෝ තමන්ට ⟨ම⟩ කොල්ලකනහ.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "හරවයි"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ආපසු"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "צר",
+      "gloss": "සතුරා"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "අපට වෛර කරන්නෝ"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "කොල්ලකනහ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "තමන්ට ම"
+    }
+  ],
+  "timestamp": "2026-08-28T02:30:25.294051456Z",
+  "model": "glm-5.3"
+}

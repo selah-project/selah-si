@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "එලිහූ තවදුරටත් කථා කොට ⟨මෙසේ⟩ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "තවදුරටත් කථා කොට"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "එලිහූ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    }
+  ],
+  "timestamp": "2026-08-28T12:06:14.169931203Z",
+  "model": "glm-5.3"
+}

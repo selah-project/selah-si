@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "දාවිද් කාන්තාරයෙහිදී අසා ගත්තේය, නාබාල් ⟨את⟩ තම රැළ ලොමු කපන බව.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "අසා ගත්තේය"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවිද්"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "කාන්තාරයෙහිදී"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ලොමු කපන"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "නාබාල්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම රැළ"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "තම රැළ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:07:53.029081458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔහු පර්ඔ සමීපයෙන් පිටත්ව ගොස් යහ්වේ වෙත යාච්ඤා කළේය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත්ව ගියේය"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "සමීපයෙන්"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඔ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "සහ යාච්ඤා කළේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:44:11.099909543Z",
+  "model": "glm-5.3"
+}

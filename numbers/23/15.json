@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "ඔහු බාලාක්ට කීවේය: මෙසේ ඔබේ දහන පූජාව අසල සිට ගන්න, මම මෙසේ හමුවීමට යමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "බාලාක්"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "සිට ගන්න"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "ඔබේ දහන පූජාව"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "සහ මම"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "හමුවීමට යමි"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:45:39.399972125Z",
+  "model": "glm-5.3"
+}

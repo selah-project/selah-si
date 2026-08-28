@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "හතටද අටටද කොටසක් දෙන්න, පොළොව මත කුමන අනර්ථයක් විය යුතුදැයි ඔබ නොදන්නේ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "කොටසක්"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "හතට"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "අටට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ඔබ දන්නේ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමන"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "විය යුතුද"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අනර්ථයක්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:12.217696377Z",
+  "model": "glm-5.3"
+}

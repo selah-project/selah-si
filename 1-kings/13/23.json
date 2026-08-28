@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 13:23",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "පසුව, ඔහු පාන් කා බී නිම වූ පසු, ඔහු ආපසු ගෙන ආ න෶බියාට ⟨the⟩ කොටළුවා ඔහුට සදා දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "පසුව"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "කා"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "שתותו",
+      "gloss": "බී"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "සදා දුන්නේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "කොටළුවා"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "න෶බියාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ආපසු ගෙන ආ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:41:26.031674838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "එලෝහීම් බිල්ආම් වෙත පැමිණ, කීවේය: මේ මිනිස්සු කවුරුද — ඔබ සමඟ සිටින්නෝ?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිල්ආම්"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුරුද"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:25.988970643Z",
+  "model": "glm-5.3"
+}

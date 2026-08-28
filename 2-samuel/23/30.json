@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "බෙනායාහු පිරආතෝනිවරයා; හිද්දයි ගආෂ්හි ඇළවලින්,",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "බෙනායාහු"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "පිරආතෝනිවරයා"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "හිද්දයි"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ඇළවලින්"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ගආෂ්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:28:06.537335810Z",
+  "model": "glm-5.3"
+}

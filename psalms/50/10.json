@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "මාගේ ය වනයේ සියලු පශුවෝ, දහස් ගණන් කඳුවල ⟨⟨the⟩> මහා පශුවෝය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මාගේ ය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "පශුවෝ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "වනයේ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "මහා පශුවෝ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "කඳුවල"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස් ගණන්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:31:56.278064850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මෙසේ කියා — ඔබට මම කෙනන් දේශය දෙමි; එය ඔබලාගේ උරුමයේ මානය වේ.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "මම දෙමි"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "කෙනන්"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "මානය"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ඔබලාගේ උරුමය"
+    }
+  ],
+  "timestamp": "2026-08-28T06:51:11.297628571Z",
+  "model": "glm-5.3"
+}

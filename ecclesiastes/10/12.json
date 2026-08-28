@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "නුවණැතිකෙනාගේ මුඛ වචන කරුණුබර කරුණාවන්ත ය; මෝඩයාගේ තොල් වනාහී ⟨ඔහුම⟩ ගිල දමන්නේය.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "නුවණැතිකෙනාගේ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "කරුණාව"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ගිල දමන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:15.858954788Z",
+  "model": "glm-5.3"
+}

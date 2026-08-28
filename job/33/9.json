@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "පවිත්‍ර වූ මම, කැරලිකමකින් තොර; නිරපරාධී වූ මම — මට අධර්මයක් නැත.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "පවිත්‍ර"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "නැති \/ තොර"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "කැරලිකම"
+    },
+    {
+      "surface": "חף",
+      "gloss": "නිරපරාධී"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "עון",
+      "gloss": "අධර්මය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:48:43.948076320Z",
+  "model": "glm-5.3"
+}

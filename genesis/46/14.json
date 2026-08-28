@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "සෙබූලූන්ගේ පුත්‍රයෝ — සෙරෙද්, එලෝන් සහ යහ්ලෙඑල්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "සෙබූලූන්ගේ"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "සෙරෙද්"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "එලෝන්"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "යහ්ලෙඑල්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:34:15.107962833Z",
+  "model": "glm-5.3"
+}

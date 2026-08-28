@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඔහු ⟨את⟩ මේසය මුණතිරයේ මිශ්කානය තුළ, මිශ්කානයේ උතුරු පස, තිරයට පිටතින් තැබීය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "තැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේසය"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "මේසය"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "මුණතිරයේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "පස"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "මිශ්කානයේ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "උතුරු දෙසට"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "පිටතින්"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "තිරයට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:04:54.422890601Z",
+  "model": "glm-5.3"
+}

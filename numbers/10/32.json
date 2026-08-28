@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ඔබ අප සමඟ ගියොත් වනු ඇත, වනු ඇත — යහ්වේ අපට යහපත් කරන එම යහපත — අපි ඔබට යහපත් කරමු.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "යම්විට"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ඔබ යන්නේ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "වනු ඇත"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම්"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "යහපත් කරන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "අප සමඟ"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "අපි යහපත් කරමු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:11.520832842Z",
+  "model": "glm-5.3"
+}

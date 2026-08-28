@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "විනිශ්චයන් මට දෙන එල් ⟨ය⟩, ජනයා ⟨මා⟩ යටතේ යවන්නා ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "විනිශ්චයන්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "හා යටත් කරයි"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "මා යටතේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:11:13.855289119Z",
+  "model": "glm-5.3"
+}

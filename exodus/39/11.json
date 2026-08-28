@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "දෙවන ⟨the⟩ පේළිය — නොපෙක්, සපීර සහ යහලොම්.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "පේළිය"
+    },
+    {
+      "surface": "השני",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "නොපෙක්"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "සපීර"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "සහ යහලොම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:14.974492569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 83,
+  "translation": "එලෝහීම්, නිශ්ශබ්ද වී නොසිටින්න; නිහඬ නොවන්න, විවේක නොගන්න, එල්.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "නිශ්ශබ්ද වී"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "නිහඬ වන්න"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "විවේක ගන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:23.712773295Z",
+  "model": "glm-5.3"
+}

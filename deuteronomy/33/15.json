@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ආදී කඳුවල ශිර්ෂයෙන්ද, සදාකාලික කඳු බැවිලිවල උත්තම දේවලින්ද,",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ශිර්ෂයෙන්ද"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "කඳුවල"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ආදී"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "උත්තම දේවලින්ද"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "කඳු බැවිලිවල"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "සදාකාලික"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:12.301015938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "සතර මහා භූමියි — එකිනෙකට වෙනස් වූ — මුහුදෙන් නැඟී ආවේ ය.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "භූමියි"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "නැඟී ආවේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "මෙන්\/වෙතින්"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "වෙනස් වූ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "එක"
+    },
+    {
+      "surface": "מן",
+      "gloss": "වෙතින්"
+    },
+    {
+      "surface": "דא",
+      "gloss": "එක"
+    }
+  ],
+  "timestamp": "2026-08-28T10:53:06.103547037Z",
+  "model": "glm-5.3"
+}

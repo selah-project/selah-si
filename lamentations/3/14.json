@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම මාගේ සමස්ත ජනයාට සිනහවක් වීමි; ඔවුන්ගේ වාද්‍ය ගීය දින පුරා ⟨වීමි⟩.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "මම වීමි"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "සිනහවක්"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සමස්ත...ට"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මාගේ ජනයා"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "ඔවුන්ගේ වාද්‍ය ගීය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "පුරා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.502680931Z",
+  "model": "glm-5.3"
+}

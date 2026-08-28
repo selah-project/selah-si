@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔහුගේ සේනාව සහ ඔවුන් ගණන් කරන ලද්දෝ — සැට දෙදහසක් සහ සත්සියයක් ය.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ඔහුගේ සේනාව"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ඔවුන් ගණන් කරන ලද්දෝ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "සැට"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහස"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "හත"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:28:28.616012273Z",
+  "model": "glm-5.3"
+}

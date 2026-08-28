@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔව්, බිනාව අමතා කථා කළොත්, තෙවුනාව වෙත ⟨ඔබේ⟩ හඬ දුන්නොත් —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ඔව්,"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…තොත්"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "බිනාව"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "අමතා කථා කළොත්"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "තෙවුනාව වෙත"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දුන්නොත්"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ඔබේ හඬ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:32:55.255059795Z",
+  "model": "glm-5.3"
+}

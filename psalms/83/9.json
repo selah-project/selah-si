@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 83,
+  "translation": "අශ්ශූර්ද ⟨ඔවුන්⟩ සමඟ එක් වී ⟨ඇත⟩; ලොත්ගේ පුත්‍රයන්ට ඔවුහු බාහුවක් වූහ. සෙලා.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අශ්ශූර්"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "එක් වී"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ඔවුන් සමඟ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "බාහුවක්"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ලොත්ගේ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "සෙලා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:00:01.861041078Z",
+  "model": "glm-5.3"
+}

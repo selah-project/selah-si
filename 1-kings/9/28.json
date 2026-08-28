@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 9:28",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔවුහු ඕපිරට ගොස් එතැනින් රන් — කුඩා තල සිය විස්සක් — ගෙන ෂෙලෝමෝ රජු වෙත ගෙන ආහ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ගොස්"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "ඕපිරට"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "משם",
+      "gloss": "එතැනින්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විස්සක්"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "කුඩා තල"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ගෙන ආහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:37:44.897681953Z",
+  "model": "glm-5.3"
+}

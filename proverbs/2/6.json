@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මන්ද යහ්වේ ප්‍රඥාව දෙයි; ඔහුගේ මුඛයෙන් ඥානයද තේරුම්බීමද ⟨පැමිණේ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ඔහුගේ මුඛයෙන්"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ඥානයද"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "තේරුම්බීමද"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:08.064469626Z",
+  "model": "glm-5.3"
+}

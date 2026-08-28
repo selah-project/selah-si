@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "යහ්වේ ඔහුට කීවේය: ඔබේ අත තුළ ⟨ඇත්තේ⟩ මේ කුමක්ද? ඔහු කීවේය: බාධුවකි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "මේ කුමක්ද"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ඔබේ අත තුළ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "බාධුවකි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:40:09.840576846Z",
+  "model": "glm-5.3"
+}

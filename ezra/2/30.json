@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මග්බීෂ්ගේ පුත්‍රයෝ — සිය පනස් හය දෙනෙක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "මග්බීෂ්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "හය දෙනෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:54:56.966680231Z",
+  "model": "glm-5.3"
+}

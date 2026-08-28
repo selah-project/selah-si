@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "උපතට වේලාවක්, මිය යාමට වේලාවක්; සිටුවීමට වේලාවක්, සිටුවන ලද්ද උදුරා දැමීමට වේලාවක්.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "වේලාවක්"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "උපතට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ වේලාවක්"
+    },
+    {
+      "surface": "למות",
+      "gloss": "මිය යාමට"
+    },
+    {
+      "surface": "עת",
+      "gloss": "වේලාවක්"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "සිටුවීමට"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "සහ වේලාවක්"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "උදුරා දැමීමට"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "සිටුවන ලද්ද"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:10.771097460Z",
+  "model": "glm-5.3"
+}

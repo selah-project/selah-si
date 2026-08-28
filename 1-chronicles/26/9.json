@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මෙෂෙලෙමියාහුට පුත්‍රයෝ සහ සහෝදරයෝ — බලයැති පුත්‍රයෝ — දහඅට දෙනෙක් වූහ.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "මෙෂෙලෙමියාහුට"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "සහ සහෝදරයෝ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "බලයැති"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "අට"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:02:36.521303529Z",
+  "model": "glm-5.3"
+}

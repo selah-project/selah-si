@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් කීවේය: ජලයන් මැද විවිරණයක් වේවා, ජලයන්ට ජලයන් අතර වෙන් කරන්නා වේවා.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "විවිරණයක්"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මැද"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයන්"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "වෙන් කරන්නා"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයන්ට"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ජලයන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:40.107674962Z",
+  "model": "glm-5.3"
+}

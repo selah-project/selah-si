@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යහ්වේගේ වචනය ඔහුට මෙසේ පැමිණියේය — කියන්නේ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:42:34.930530477Z",
+  "model": "glm-5.3"
+}

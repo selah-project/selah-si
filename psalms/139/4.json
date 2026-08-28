@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 139,
+  "translation": "මාගේ දිව මත වචනයක් ⟨නැත්තේය⟩ — බලුව, යහ්වේ, ඔබ එය සම්පූර්ණයෙන් දන්නවා.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත්තේය"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "වචනයක්"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "මාගේ දිව මත"
+    },
+    {
+      "surface": "הן",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "දන්නවා"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "සම්පූර්ණයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:45:00.475610506Z",
+  "model": "glm-5.3"
+}

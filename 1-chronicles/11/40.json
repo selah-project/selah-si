@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඉරා ⟨the⟩ යිත්රි-වැසියා, ගාරෙබ් ⟨the⟩ යිත්රි-වැසියා.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ඉරා"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "යිත්රි-වැසියා"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ගාරෙබ්"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "යිත්රි-වැසියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:01.593423679Z",
+  "model": "glm-5.3"
+}

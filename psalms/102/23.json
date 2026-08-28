@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "ජනයා එක්ව රැස්ව, රාජ්‍යයන්ද, යහ්වේට ⟨את⟩ සේවය කිරීමට —",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "රැස්වීමේදී"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එක්ව"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "සහ රාජ්‍යයන්"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "සේවය කිරීමට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:14:19.356151742Z",
+  "model": "glm-5.3"
+}

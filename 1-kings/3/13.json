@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 3:13",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඒ නොව, ඔබ නොඉල්ලූ දේද මම ඔබට දී ඇත්තෙමි — ධනයද, තේජසද; ඔබගේ සියලු දිනවල රජුන් අතර ඔබ වැනි මිනිසෙක් නොසිටියේය.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ඒ නොව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ඉල්ලූ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "දී ඇත්තෙමි"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—ද"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ධනය"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—ද"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිටියේය"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ඔබ වැනි"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "රජුන් අතර"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ඔබගේ දිනවල"
+    }
+  ],
+  "timestamp": "2026-08-27T22:31:33.532161314Z",
+  "model": "glm-5.3"
+}

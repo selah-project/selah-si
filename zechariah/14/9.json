@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සිට යහ්වේ සියලු පොළොව මත රජු වන්නේය; එදින යහ්වේ ⟨එකෙකු⟩ වන්නේය, ඔහුගේ නාමයද එකක් වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සිට වන්නේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජු වශයෙන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකෙකු"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ඔහුගේ නාමයද"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:55:29.797060856Z",
+  "model": "glm-5.3"
+}

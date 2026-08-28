@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "සේනාවල යහ්වේ මෙසේ කීවේය: මේ ජනයා කීවේ — 'යහ්වේගේ ගෙය ගොඩනැගීමට වූ කාලය නොපැමිණි' යනුවෙනි.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාවල"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "בא",
+      "gloss": "පැමිණි"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "ගොඩනැගීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:44:14.113888340Z",
+  "model": "glm-5.3"
+}

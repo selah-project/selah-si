@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඇය ඔහුගේ වස්ත්‍රය තම ලඟ තබා ගත්තාය — ඔහුගේ ස්වාමියා තම ගෙට එන තුරු.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "තබා ගත්තාය"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ඔහුගේ වස්ත්‍රය"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "තම ලඟ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "එන"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ඔහුගේ ස්වාමියා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගෙට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:29:04.242633536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 107,
+  "translation": "ඔහු පාළු බිමක් ජල තටාකයක් කරයි, වියළි භූමියක් ජල උල්පත් බවට පත් කරයි.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "කරයි"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "පාළු බිමක්"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ජල තටාකයක්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "සහ භූමියක්"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "වියළි"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "උල්පත්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජල"
+    }
+  ],
+  "timestamp": "2026-08-28T03:24:18.315124693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මිනිසා ⟨the⟩ තම බිරිඳට හවා යන නම තැබුවේය, මන්ද ඇය සියලු ජීවීන්ගේ මව වූවා නිසාය.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "තැබුවේය"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා ⟨the⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "තම බිරිඳට"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "හවා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වූවා"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ජීවීන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:49:53.733838428Z",
+  "model": "glm-5.3"
+}

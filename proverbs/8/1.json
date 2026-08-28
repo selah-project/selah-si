@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඥානය නොකියා සිටීමේද? සහ අවබෝධය ⟨ඇයගේ⟩ හඬ දෙයි.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "නොකියා සිටීමේද?"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "සහ අවබෝධය"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ඇයගේ හඬ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:59:59.868219183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මීඛා ඔහුගේ පුත්, රෙආයා ඔහුගේ පුත්, බාල් ඔහුගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "මීඛා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "රෙආයා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "බාල්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:04.719091912Z",
+  "model": "glm-5.3"
+}

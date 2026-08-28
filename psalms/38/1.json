@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "දාවීද්ගේ මෙතිස්මෝර් — සිහි කරනු පිණිස.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "මෙතිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "සිහි කරනු පිණිස"
+    }
+  ],
+  "timestamp": "2026-08-28T02:28:02.880881242Z",
+  "model": "glm-5.3"
+}

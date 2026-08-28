@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "යිස්රායෙල් එමොරිවරුන්ගේ ⟨දේශයේ⟩ වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "එමොරිවරුන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:21.744618955Z",
+  "model": "glm-5.3"
+}

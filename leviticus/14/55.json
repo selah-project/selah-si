@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "හා ඇඳුමේ කුෂ්ටය පිළිබඳ ද, ගෙවල් [කුෂ්ටය] පිළිබඳ ද [වන්නේය].",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "හා කුෂ්ටය පිළිබඳ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ඇඳුමේ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "හා ගෙ පිළිබඳ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:42.601529761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "දාවීද් මෙසේ කීවේය: මේ තැන යහ්වේ එලෝහීම්ගේ ගෙය වේ, මේ තැන යිස්රාඑල්ට වූ දහන පූජාවට පූජාසනය වේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "මේ තැන"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාසනය"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "දහන පූජාවට"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "යිස්රාඑල්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T11:03:31.862062565Z",
+  "model": "glm-5.3"
+}

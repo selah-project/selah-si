@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "නමුත් ඔබ පිටතට යාමට ප්‍රතික්ෂේප කළහොත්, යහ්වේ මට පෙන්වූ වචනය මෙයයි —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත්...කළහොත්"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ප්‍රතික්ෂේප කරයි"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "පිටතට යාමට"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨වන⟩"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "මට පෙන්වූ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:54:46.958301474Z",
+  "model": "glm-5.3"
+}

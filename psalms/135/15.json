@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 135,
+  "translation": "ජාතීන්ගේ ⟨ප්‍රතිමා⟩ රිදී හා රන් — මිනිස් අත්වල කෘතියකි.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ප්‍රතිමා"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ජාතීන්ගේ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "හා රන්"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "කෘතියකි"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "අත්වල"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිස්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:41:20.204855996Z",
+  "model": "glm-5.3"
+}

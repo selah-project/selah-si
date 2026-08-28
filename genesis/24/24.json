@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඇය ඔහුට කීවා: මම බෙතුඑල්ගේ දියණියයි — නාහෝර්ට මිල්කා බිහි කළ පුත්‍රයා ⟨යි⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ඇය කීවා"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණියයි"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "බෙතුඑල්ගේ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "මිල්කා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "බිහි කළ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "නාහෝර්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:17:36.699846872Z",
+  "model": "glm-5.3"
+}

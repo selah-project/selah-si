@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ ඔබගේ එලෝහීම් ඔබව ⟨את⟩ බහුල කළේය; බලව, ඔබ අද අහසේ තරුවන් සේ බොහෝ සේ වී සිටියහ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "බහුල කළේය"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "සහ බලව, ඔබ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "තරුවන් සේ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහසේ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "බොහෝ සේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:55:01.889147238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එවිට සියලු ගස් ⟨කටු පඳුරාට⟩ කීහ: ඔබ යා, අප මත රජ වන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ගස්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "කටු පඳුරාට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ යා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ වන්න"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "අප මත"
+    }
+  ],
+  "timestamp": "2026-08-27T21:42:08.847168834Z",
+  "model": "glm-5.3"
+}

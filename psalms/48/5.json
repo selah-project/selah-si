@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "මන්ද, බල්න, රජවරු එක්තැනක රැස්වූහ; ඔවුහු එකට ගමන් කළහ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල්න"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "රජවරු"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "එක්තැනක රැස්වූහ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ගමන් කළහ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එකට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:32:51.122092085Z",
+  "model": "glm-5.3"
+}

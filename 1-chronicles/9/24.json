@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "දොරටු රකින්නෝ සතර දිගට — නැගෙනහිර, බටහිර, උතුර සහ දකුණ — සිටියහ.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "දිගට (සුළං)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "සිටියහ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "දොරටු රකින්නෝ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "බටහිර (මුහුද දෙසට)"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "උතුර"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "සහ දකුණ"
+    }
+  ],
+  "timestamp": "2026-08-28T11:02:17.767147213Z",
+  "model": "glm-5.3"
+}

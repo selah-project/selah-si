@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු ⟨את⟩ ගෘහය අලංකාරය සඳහා වටිනා පාෂාණයෙන් ආවරණය කළේය; රන් — පර්වයිම් රන් විය.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ආවරණය කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෘහය"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෘහය"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "පාෂාණයෙන්"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "වටිනා"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "අලංකාරය සඳහා"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "සහ රන්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "පර්වයිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:01.435611266Z",
+  "model": "glm-5.3"
+}

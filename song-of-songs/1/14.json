@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මගේ ප්‍රියයා මට කොප්පර මල් පොකුරකි — ඒ-ගදි මිදි වතු මැද.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "මල් පොකුරකි"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "කොප්පර"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "මගේ ප්‍රියයා"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "වතු මැද"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඒ-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ගදි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:00:06.256084409Z",
+  "model": "glm-5.3"
+}

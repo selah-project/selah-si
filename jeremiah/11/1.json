@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යිර්මෙයාහු වෙත යහ්වේ අතැනින් ⟨את⟩ වූ වචනය, මෙසේ කියා,",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ අතැනින්",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-27T23:51:20.812799802Z",
+  "model": "glm-5.3"
+}

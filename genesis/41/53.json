@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "මිත්ස්රයිම් දේශයෙහි වූ සමෘද්ධියේ වසර සත් අවසන් වූයේය.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "අවසන් වූයේය"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "שני",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "සමෘද්ධියේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහි"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිත්ස්රයිම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:31:34.175286598Z",
+  "model": "glm-5.3"
+}

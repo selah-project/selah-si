@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "හතළිස් දිනක් අවසානයේ සිදු වූයේ: නොආ තමා කළ පෙට්ටියේ ⟨את⟩ ජනේලිය විවෘත කළේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සහ සිදු විය"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "අවසානයේ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "සහ විවෘත කළේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොආ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පෙට්ටියේ ජනේලිය"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ජනේලිය"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "පෙට්ටියේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමා"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:18.686212031Z",
+  "model": "glm-5.3"
+}

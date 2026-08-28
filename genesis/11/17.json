@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "ඒරෙබර් පේලග්ට පියකු වූ පසු වසර තිස් හතරයක් සිටිවිට, පුතුන් දුවරුන් ලැබීය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "සිටිවිට"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ඒරෙබර්"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "පියකු වූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පේලග්"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "පේලග්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "හතරයක්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුන්"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "දුවරුන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:01.593006115Z",
+  "model": "glm-5.3"
+}

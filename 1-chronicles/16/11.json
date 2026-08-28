@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "යහ්වේ ද ඔහුගේ බලය ද පතන්න; ඔහුගේ මුහුණ සැමදා පතන්න.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "පතන්න"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ඔහුගේ බලය"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "පතන්න"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ඔහුගේ මුහුණ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "සැමදා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:47:51.718871133Z",
+  "model": "glm-5.3"
+}

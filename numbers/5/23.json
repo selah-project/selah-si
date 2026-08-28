@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "පූජකයා ⟨את⟩ මෙම ශාප පොතක ලියන්නේය, ඉන්පසු කසට ජලය වෙතට ඒවා මකා දමන්නේය.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ලියන්නේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම ශාප"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ශාප"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "පොතක"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "මකා දමන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙතට"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "කසට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:08.288811995Z",
+  "model": "glm-5.3"
+}

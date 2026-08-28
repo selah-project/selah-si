@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "කිරීමට — මෙළෙයික්කෙකුට, දාවීද්ගේ මිස්මෝර් ⟨ගීතයකි⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "මෙළෙයික්කාට"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝර්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:14:01.503577413Z",
+  "model": "glm-5.3"
+}

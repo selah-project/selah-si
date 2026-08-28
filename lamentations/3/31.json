@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මන්දයත්, අදෝනයි සදාකාලයට ප්‍රතික්ෂේප නොකරන්නේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්දයත්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ප්‍රතික්ෂේප කරන්නේය"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:20.821400272Z",
+  "model": "glm-5.3"
+}

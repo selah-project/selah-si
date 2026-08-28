@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "සරඹ මේසවලට — මේසයෙන් මේසයට — රන් ⟨את⟩ බර අනුව; රිදී මේසවලට රිදී",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "රන්"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර අනුව"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "මේසවලට"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "සරඹ"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "මේසයෙන්"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "මේසයට"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "මේසවලට"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "රිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T07:07:57.398203250Z",
+  "model": "glm-5.3"
+}

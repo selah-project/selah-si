@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "වන මම මගේ කෑම බිටක් තනිව කෑමි, අනාථයා එයින් නොකෑවේ නම් —",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "වන කෑමි"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "මගේ කෑම බිටක්"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "තනිව"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "කෑවේ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "අනාථයා"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "එයින්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:50:16.167981876Z",
+  "model": "glm-5.3"
+}

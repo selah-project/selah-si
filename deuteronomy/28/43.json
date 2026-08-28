@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔබ මැද සිටින පරදේශියා ඔබ මත ඉහළට ඉහළට නගින්නේය, නමුත් ඔබ පහළට පහළට බසින්නෙහිය.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "පරදේශියා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨වූ>>"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ඔබ මැද සිටින"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නගින්නේය"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ඉහළට"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ඉහළට"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "නමුත් ඔබ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "බසින්නෙහිය"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "පහළට"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "පහළට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:18.912565773Z",
+  "model": "glm-5.3"
+}

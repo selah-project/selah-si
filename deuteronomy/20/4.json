@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මන්ද ඔබේ සතුරන්ට එරෙහිව ඔබ වෙනුවෙන් සටන් කොට ඔබව ⟨את⟩ ගළවනු පිණිස, ඔබ සමඟ යන්නේ ඔබේ දෙවි යහ්වේ ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබේ දෙවි"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "යන්නේ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "සටන් කොට"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ වෙනුවෙන්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ඔබේ සතුරන්ට"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ගළවනු පිණිස"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:50.500386019Z",
+  "model": "glm-5.3"
+}

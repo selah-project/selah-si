@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 114,
+  "translation": "ඉදිරියෙන්, ⟨the⟩ අධිපතිගේ, ගැසෙන්න, ⟨the⟩ පොළොව; ඉදිරියෙන්, යාකොව්ගේ ⟨the⟩ එලෝහගේ!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ඉදිරියෙන්"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "අධිපති"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ගැසෙන්න"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ඉදිරියෙන්"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "එලෝහ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:28:47.388829995Z",
+  "model": "glm-5.3"
+}

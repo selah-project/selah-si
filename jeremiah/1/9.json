@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ ⟨את⟩ තම අත දිගු කොට මගේ මුඛය මත තැබීය; යහ්වේ මට කීය: බල, මාගේ වචනයන් ඔබේ මුඛයෙහි මා තැබුවෙමි.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "දිගු කොට තැබීය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම අත"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "තැබීය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මගේ මුඛය"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මා තැබුවෙමි"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "මාගේ වචනයන්"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ඔබේ මුඛයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:41:41.094744072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "පූජකයා අණ කරයි, ඔවුහු ⟨את⟩ රෝග ලකුණ ඇති දෙය සේදති, දින හතක් දෙවන වරට එය වසා තබති.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "අණ කරයි"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "සේදති"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රෝග ලකුණ ඇති දෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "රෝග ලකුණ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "වසා තබති"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "දෙවන වරට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:34.341604527Z",
+  "model": "glm-5.3"
+}

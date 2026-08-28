@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මා බලයෙන් පටබඳවන ⟨එල්⟩, මගේ මාර්ගය නිර්දෝෂ කෙළේය.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "මා පටබඳවන"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "බලයෙන්"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "කෙළේය"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "නිර්දෝෂ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මගේ මාර්ගය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:10:37.698078695Z",
+  "model": "glm-5.3"
+}

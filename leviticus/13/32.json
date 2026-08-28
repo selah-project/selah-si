@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "සහ කොහෙන් හත්වන දින ⟨את⟩ වසඟය බලන්නේය, සහ බලව — නෙතක පැතිර නොගොස්, එහි කහ කෙස් නොමැති අතර, නෙතක පෙනුම සමෙන් ගැඹුරු නොවන්නේ නම්,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "සහ…බලන්නේය"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "කොහෙන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වසඟය"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "වසඟය"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "හත්වන"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "සහ බලව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "පැතිර ගිය"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "නෙතක"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වී"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "שער",
+      "gloss": "කෙස්"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "කහ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "සහ…පෙනුම"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "නෙතක"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ගැඹුරු"
+    },
+    {
+      "surface": "מן",
+      "gloss": "සිට"
+    },
+    {
+      "surface": "העור",
+      "gloss": "සමෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:20.001682084Z",
+  "model": "glm-5.3"
+}

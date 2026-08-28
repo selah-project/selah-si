@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "කන සිටුවන්නා ⟨ඔහු⟩ ඇහුම්කම් නොකරන්නේද? ඇස මවන්නා ⟨ඔහු⟩ නොබලන්නේද?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "සිටුවන්නා"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "කන"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නො...ද"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ඇහුම්කම් කරන්නේ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "මවන්නා"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ඇස"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නො...ද"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "බලන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:13.651947991Z",
+  "model": "glm-5.3"
+}

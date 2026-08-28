@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අව්රාහම් නික්ම ගියේය — යමින් සහ නික්මෙමින් — නෙගෙබ් දෙසට ⟨the⟩.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "නික්ම ගියේය"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "යමින්"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "සහ නික්මෙමින්"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "නෙගෙබ් දෙසට ⟨the⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:06.194410949Z",
+  "model": "glm-5.3"
+}

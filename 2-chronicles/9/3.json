@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ෂෙබා රැජින ⟨את⟩ ෂලෝමෝගේ ප්‍රඥාව ද ඔහු ගොඩනැගූ ගෙය ද දුටුවාය.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "දුටුවාය"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "රැජින"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ෂෙබා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂලෝමෝගේ ප්‍රඥාව"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝගේ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "සහ ගෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ගොඩනැගූ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:23:41.726668087Z",
+  "model": "glm-5.3"
+}

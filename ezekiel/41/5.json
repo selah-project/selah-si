@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 41,
+  "translation": "ඔහු මැන්නේය ගෘහයේ බිත්ත — රියන් හයක්; පැති කුටියේ පළල — රියන් හතරක්, වටලා වටලා ⟨the⟩ ගෘහයට වටලා.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "මැන්නේය"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "බිත්ත"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෘහයේ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හයක්"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "පැති කුටියේ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "හතරක්"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "රියන්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටලා"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටලා"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ගෘහයට"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටලා"
+    }
+  ],
+  "timestamp": "2026-08-28T12:01:14.514099508Z",
+  "model": "glm-5.3"
+}

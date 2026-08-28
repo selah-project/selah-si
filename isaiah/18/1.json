@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "හායි, පියාපත් සළාලූ රටට — කූෂ් ගඟෙන් එපිට ඇත්තීය.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "හායි"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "සළාලූ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "පියාපත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇත්තී"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "එපිට"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ගඟෙන්"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "කූෂ්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:18:34.205161782Z",
+  "model": "glm-5.3"
+}

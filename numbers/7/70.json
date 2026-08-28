@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පාප පූජාවට එළුවන්ගෙන් ලොම් පැටවෙක්;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ලොම් පැටවෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළුවන්ගෙන්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:33:36.006225410Z",
+  "model": "glm-5.3"
+}

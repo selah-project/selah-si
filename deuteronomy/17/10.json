@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "යහ්වේ තෝරාගන්නා ඒ ස්ථානයෙන් ඔබට ප්‍රකාශ කරන වචනයේ මුඛ අනුව ඔබ කරන්න; ඔබට උගන්නන සියල්ල කිරීමට සුරකින්න.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "සහ ඔබ කරන්න"
+    },
+    {
+      "surface": "על",
+      "gloss": "අනුව"
+    },
+    {
+      "surface": "פי",
+      "gloss": "මුඛ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ප්‍රකාශ කරති"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යෙන්"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ස්ථානය"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "තෝරාගන්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "සහ සුරකින්න"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ඔබට උගන්නත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:42.853871469Z",
+  "model": "glm-5.3"
+}

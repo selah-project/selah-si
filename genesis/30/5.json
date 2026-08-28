@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "බිල්හා ගැබ්ගත්තාය, යාකොව්ට පුතෙකු ප්‍රසූත කළාය.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ගැබ්ගත්තාය"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "බිල්හා"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ප්‍රසූත කළාය"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "යාකොව්ට"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:37.324320511Z",
+  "model": "glm-5.3"
+}

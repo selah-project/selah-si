@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "මන්ද අපගේ ජීවාත්මය දූලිට නැමී ඇත; අපගේ උදරය පොළොවට ඇලී ඇත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "නැමී ඇත"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "දූලිට"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "අපගේ ජීවාත්මය"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ඇලී ඇත"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "පොළොවට"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "අපගේ උදරය"
+    }
+  ],
+  "timestamp": "2026-08-28T02:30:48.304319927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "නො වේ තොපට දෙවිවරු අන්‍යයෝ, මගේ මුහුණ ඉදිරිපිට.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තොපට"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරු"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "අන්‍යයෝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මගේ මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:39:30.181318238Z",
+  "model": "glm-5.3"
+}

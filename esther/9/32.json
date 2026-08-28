@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එස්තෙර්ගේ වචනය මේ පුරීම් කරුණු ස්ථිර කළේය, පොතෙහි ලියන ලදී.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්ගේ"
+    },
+    {
+      "surface": "קים",
+      "gloss": "ස්ථිර කළේය"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "කරුණු"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "පුරීම්"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "ලියන ලදී"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "පොතෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:36:06.490620172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ ⟨את⟩ මොෂේට අණ කළ පරිදි, ඔහු සීනායි මරුපියේදී ඔවුන් ගණන් කළේය.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ඔවුන් ගණන් කළේය"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "මරුපියේදී"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "සීනායි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:27:51.241238217Z",
+  "model": "glm-5.3"
+}

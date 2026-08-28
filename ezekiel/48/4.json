@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "නෆ්තාලිගේ දේශසීමාව මත, නැගෙනහිර පැත්තෙන් මුහුද පැත්ත දක්වා — මෙනාෂේ, එකක්.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "දේශසීමාව"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "නෆ්තාලිගේ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "පැත්තෙන්"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "පැත්ත"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:03:42.996929695Z",
+  "model": "glm-5.3"
+}

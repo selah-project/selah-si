@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යෙහූදා, බින්යාමින්, ෂෙමයා සහ යිර්මෙයා",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "සහ බින්යාමින්"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "සහ ෂෙමයා"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "සහ යිර්මෙයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:26:14.714985676Z",
+  "model": "glm-5.3"
+}

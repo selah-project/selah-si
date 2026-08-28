@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "පශුවෙකු සමඟ සැතපෙන සියල්ලෙක් — මරණයෙන් මරණුව ලැබේ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෙක්"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "සැතපෙන"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "පශුවෙකු"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයෙන්"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "මරණුව ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:44.200833010Z",
+  "model": "glm-5.3"
+}

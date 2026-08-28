@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යහ්වේගේ වචනය මා වෙත ⟨පැමිණියේ⟩, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "ייהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:39:14.606794311Z",
+  "model": "glm-5.3"
+}

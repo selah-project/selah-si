@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "යහපත් සහ සත්‍යවන්ත ⟨වේ⟩ යහ්වේ; එබැවින් පාපින්ට මඟ උගන්වයි.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "සහ සත්‍යවන්ත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින්... උඩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "උගන්වයි"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "පාපින්ට"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "මඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:56.592306064Z",
+  "model": "glm-5.3"
+}

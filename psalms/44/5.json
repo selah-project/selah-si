@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "ඔබ ම මගේ රජු, එලෝහීම්; යාකොව්ට ⟨මුදවා ගැනීම්⟩ අණ කරන්න.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ම"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "මගේ රජු"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කරන්න"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "මුදවා ගැනීම්"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්ට"
+    }
+  ],
+  "timestamp": "2026-08-28T02:29:54.601762544Z",
+  "model": "glm-5.3"
+}

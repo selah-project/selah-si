@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "දිය අලින්නන් සේ, රජුගේ හදවත යහ්වේගේ අත සය; ඔහු කැමති සියල්ලට ම එය ඔහු නමයි.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "දිය අලින්නන්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "දිය"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ඔහු කැමති"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "ඔහු නමයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:56.463449167Z",
+  "model": "glm-5.3"
+}

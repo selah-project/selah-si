@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 19:3",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "එදින ඒ ජයග්‍රහණය සියලු ජනයාට ශෝකයක් විය, මන්ද ජනයා එදින “රජු තම පුතු උදෙසා ශෝක කරයි” යැයි ඇසූ බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "התשעה",
+      "gloss": "ඒ ජයග්‍රහණය"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ශෝකයක්"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "එදින"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "යැයි කියා"
+    },
+    {
+      "surface": "נעצב",
+      "gloss": "ශෝක කරයි"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "על",
+      "gloss": "උදෙසා"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "තම පුතු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:25:21.750513189Z",
+  "model": "glm-5.3"
+}

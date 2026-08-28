@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "එහිදී ඔබ යහ්වේ ඔබේ එලෝහීම්ට පූජාසනයක් ගොඩනඟනු — ගල් පූජාසනයක්; ඒවා මත ඔබ යකඩ ඔසවන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "ගොඩනඟනු"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහිදී"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාසනයක්"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාසනයක්"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ඔසවන්නේ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඒවා මත"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:30.624476412Z",
+  "model": "glm-5.3"
+}

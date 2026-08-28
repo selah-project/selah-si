@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මට කොහෙන් මස්, මේ සියලු ජනයාට දීමට? මොවුන් මගේ මත වැළපෙමින් කියන්නේ — අපට මස් දෙන්න, අපි කනිමු කියාය.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "කොහෙන්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "දීමට"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "වැළපෙති"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මගේ මත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මස්"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "අපි කනිමු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:37:16.725448088Z",
+  "model": "glm-5.3"
+}

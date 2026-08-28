@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "සෙවූලූන්ගේ දේශසීමාව අබියස, නැගෙනහිර දිගේ සිට බටහිර දිග දක්වා, ගාද් — එකකි.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "අබියස"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "දේශසීමාව"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "සෙවූලූන්ගේ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "දිගේ සිට"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "බටහිර"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකකි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:05:50.264968061Z",
+  "model": "glm-5.3"
+}

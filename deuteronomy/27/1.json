@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "මොෂේ සහ යිස්රායෙල්හි මහලුන් ⟨את⟩ ජනයාට අණ කොට කීහ: මම අද ⟨את⟩ක් ⟨את⟩ ඔබට අණ කරන සියලු ආඥාව රකිව්.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "අණ කොට කීහ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "සහ මහලුන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්හි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "රකිව්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු ආඥාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ආඥාව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබට"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:42.923265574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මෙම ජනයාට කැරලිකාර හා බැණෙන හදවතක් විය; ඔව්හු වැරදිලා ගොස් සිටිති.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "මෙම ජනයාට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවතක්"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "කැරලිකාර"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "බැණෙන"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "වැරදිලා"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ගොස් සිටිති"
+    }
+  ],
+  "timestamp": "2026-08-28T09:45:53.579883764Z",
+  "model": "glm-5.3"
+}

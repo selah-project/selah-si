@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "කෙසේ වුවත් රුධිරය නොකෑමට ම සිටින්න; මන්ද රුධිරය ම ⟨ය⟩ නෙෆෙෂ් ⟨ඊ⟩; නෙෆෙෂ් මස් සමඟ අනුභව නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "කෙසේ වුවත් පමණක්"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "සිටින්න\/ස්ථිර වව"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "නො…ට"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "කෑම"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "රුධිරය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "රුධිරය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ම ⟨ය⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "නෙෆෙෂ්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ඔබ අනුභව කරන්න"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "නෙෆෙෂ්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "මස්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:03.665537755Z",
+  "model": "glm-5.3"
+}

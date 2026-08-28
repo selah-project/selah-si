@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "නමුත් මා ⟨את⟩ ඔබ ඇමතුවේ නැත, යාකොව්; මම් මා ගැන වෙහෙසුණෙහි, යිස්රාඑල්.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නැත"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "මා"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ඔබ ඇමතුවේ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මම්"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "වෙහෙසුණෙහි"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මා ගැන"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්"
+    }
+  ],
+  "timestamp": "2026-08-28T09:39:25.597408356Z",
+  "model": "glm-5.3"
+}

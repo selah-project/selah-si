@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ද්වාරපාලයෝ කෑගසා, රජුගේ ගෙට ⟨ඇතුළට⟩ එය දැන්වූහ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "කෑගසා"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ද්වාරපාලයෝ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "දැන්වූහ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ඇතුළට"
+    }
+  ],
+  "timestamp": "2026-08-28T09:25:03.663284419Z",
+  "model": "glm-5.3"
+}

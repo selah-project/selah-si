@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "එසේ ෂාවුල් මළේය, ඔහුගේ පුත්‍රයන් තිදෙනාද, ඔහුගේ ගෙය සියල්ලද එකට මළහ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාවුල්"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "තිදෙනාද"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ඔහුගේ පුත්‍රයන්"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියල්ලද"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ඔහුගේ ගෙය"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එකට"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "මළහ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:46:31.011313095Z",
+  "model": "glm-5.3"
+}

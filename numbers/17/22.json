@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මොෂේ ⟨את⟩ බාණ්ඩ යහ්වේ මුහුණලා තැබුවේය, සාක්ෂියේ කූඩාරම තුළ",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "තැබුවේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බාණ්ඩ"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "බාණ්ඩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "මුහුණලා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "කූඩාරම තුළ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "සාක්ෂියේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:40:09.154049735Z",
+  "model": "glm-5.3"
+}

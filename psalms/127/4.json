@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 127,
+  "translation": "වීරයෙකුගේ අතෙහි ඊතල මෙන්, තරුණ වයසේ පුත්‍රයෝ එසේ වන්නෝය।",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ඊතල මෙන්"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "අතෙහි"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "වීරයෙකුගේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "තරුණ වයසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:41:28.323309986Z",
+  "model": "glm-5.3"
+}

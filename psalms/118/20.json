@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 118,
+  "translation": "මෙය යහ්වේට අයත් දොරටුවයි; ධර්මිෂ්ඨයෝ එයට ඇතුළු වෙති.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "השער",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට අයත්"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ධර්මිෂ්ඨයෝ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ඇතුළු වෙති"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එයට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:17.568249974Z",
+  "model": "glm-5.3"
+}

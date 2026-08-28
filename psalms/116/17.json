@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 116,
+  "translation": "ඔබට මම කෘතඥතා පූජාවක් පුදමි, යහ්වේගේ නාමයෙන් මම කැඳවමි.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "මම පුදමි"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "පූජාවක්"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "කෘතඥතා"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "සහ ... නාමයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "මම කැඳවමි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:29:12.015976690Z",
+  "model": "glm-5.3"
+}

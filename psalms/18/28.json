@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මන්දැ ⟨ඔබ⟩ දුගී ජනයා මුදා ගන්නේ ය; නමුත් උස් වූ ඇස් ඔබ පහත් කරන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්දැ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "עני",
+      "gloss": "දුගී"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "මුදා ගන්නේ ය"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "නමුත් ඇස්"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "උස් වූ"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "පහත් කරන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:20:56.834126517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "එලෝහීම් ⟨את⟩ වචන සියල්ලම — මේ වචන — මෙසේ කථා කළේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "වචන සියල්ලම"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලම"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචන"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:17:05.938985159Z",
+  "model": "glm-5.3"
+}

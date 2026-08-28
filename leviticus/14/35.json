@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එවිට ගෙය තිස්සා පැමිණී කහනව්ට කියා සිටියි: මගේ ගෙදෙහි පීඩාවක් වැනි දෙයක් මට පෙනී ඇත.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "පැමිණී"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තිස්සා"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "කියා සිටියි"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "කහනව්ට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "පීඩාවක් වැනි"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "පෙනී ඇත"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙදෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:15:10.570077598Z",
+  "model": "glm-5.3"
+}

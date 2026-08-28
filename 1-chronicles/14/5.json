@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඉබ්හාර්, එලීෂුඋ, එල්පාලෙට්,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ඉබ්හාර්"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "එලීෂුඋ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "එල්පාලෙට්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:49:05.114061004Z",
+  "model": "glm-5.3"
+}

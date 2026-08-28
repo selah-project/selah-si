@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "පූජකයා බැලූ කල, බලන්න — රෝග ලකුණ ඇඳුමෙහි හෝ වියමන් නූලෙහි හෝ වියන නූලෙහි හෝ සම් භාණ්ඩයක හෝ පැතිර නොගියේ නම්,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නම්"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "බැලූ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "බලන්න"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "පැතිර ගිය"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "රෝග ලකුණ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ඇඳුමෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "වියමන් නූලෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "වියන නූලෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ඕනෑම… තුළ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "භාණ්ඩයක"
+    },
+    {
+      "surface": "עור",
+      "gloss": "සම්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:34.341326364Z",
+  "model": "glm-5.3"
+}

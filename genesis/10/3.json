@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ගෝමෙර්ගේ පුත්‍රයෝ — අෂ්කෙනාස්, රීපාත් සහ තෝගර්මා.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ගෝමෙර්ගේ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "අෂ්කෙනාස්"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "සහ රීපාත්"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "සහ තෝගර්මා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:51.883387061Z",
+  "model": "glm-5.3"
+}

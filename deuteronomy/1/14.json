@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එවිට ඔබ ⟨את⟩ මට උත්තර දී කීවහි: කිරීමට ඔබ කී දෙය යහපති.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "සහ ඔබ උත්තර දුන්නහ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "මට"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "සහ කීවහ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "දෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ඔබ කතා කළ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "කිරීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:24.190897546Z",
+  "model": "glm-5.3"
+}

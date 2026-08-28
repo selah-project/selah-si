@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "අනාතොත්, නොබ්, අනන්‍යා යන තැන්වලද.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "අනාතොත්"
+    },
+    {
+      "surface": "נב",
+      "gloss": "නොබ්"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "අනන්‍යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:15.089867563Z",
+  "model": "glm-5.3"
+}

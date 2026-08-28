@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔබ කන විටද ඔබ බොන විටද — කන්නෝ ඔබ ම නොවේද, සහ බොන්නෝ ද ඔබ ම නොවේද?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "සහ යනු විට"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කන විට"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "සහ යනු විට"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "ඔබ බොන විට"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "නොවේද"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "කන්නෝ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "සහ ඔබ ම"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "බොන්නෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:19:08.185681027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මොෂේ පූජාසනයක් ඉදි කළේය, එහි නම යහ්වේ-නිස්සි යැයි නම් කළේය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ඉදි කළේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාසනයක්"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "නම් කළේය"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "එහි නම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "චෙנෙසי",
+      "gloss": "-නිස්සි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:58.778195535Z",
+  "model": "glm-5.3"
+}

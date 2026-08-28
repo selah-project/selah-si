@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ඔබ මෙසේ කියවු: ජීවිතයට ⟨සාමය⟩! ඔබට සාමය, ඔබේ ගෙට සාමය, ඔබට ඇති සියල්ලටම සාමය.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "කියවු"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ජීවිතයට"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ඔබේ ගෙට"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සාමය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:07:57.006672019Z",
+  "model": "glm-5.3"
+}

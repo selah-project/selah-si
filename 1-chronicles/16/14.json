@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔහු ⟨යහ්වේ⟩ අපගේ එලෝහීම් වේ; ⟨ඔහුගේ⟩ විනිශ්චයන් මුළු පොළොව පුරා ඇත.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ඔහුගේ විනිශ්චයන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:52:22.296569992Z",
+  "model": "glm-5.3"
+}

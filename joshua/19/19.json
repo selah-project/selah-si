@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "හපාරයිම්, ෂියොන් සහ අනහරත්.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "හපාරයිම්"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ෂියොන්"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "සහ අනහරත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:04.222700130Z",
+  "model": "glm-5.3"
+}

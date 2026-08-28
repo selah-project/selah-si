@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අමුණු එකක් — එක් ලොමු එකක් — පව් පූජාවක් වශයෙන්.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ලොමු එකක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "අමුණු"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පව් පූජාවක් වශයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:33:24.623513181Z",
+  "model": "glm-5.3"
+}

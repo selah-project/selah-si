@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඉඟින් මේ තෝරාහ — මොෂේ ඉස්රායෙල් පුත්‍රයන් ඉදිරියේ තැබුවා වූ දේ ය.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ඉඟින් මේ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "තෝරාහ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "තැබුවා"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:23.968646183Z",
+  "model": "glm-5.3"
+}

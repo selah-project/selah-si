@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මීඛා, රෙකොව්, හක්ෂබ්යා.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "මීඛා"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "රෙකොව්"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "හක්ෂබ්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:42.304961304Z",
+  "model": "glm-5.3"
+}

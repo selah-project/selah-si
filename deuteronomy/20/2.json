@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔබ සටනට ළං වන විට, කුලියාණන් ළඟා ව ජනයාට කථා කරන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "වන විට"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "ඔබ ළං වන"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "සටන"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ළඟා ව"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "කුලියාණන්"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "කථා කරන්නේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:50.500043907Z",
+  "model": "glm-5.3"
+}

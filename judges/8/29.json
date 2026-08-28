@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "යරුබල්, යොආෂ්ගේ පුත්, ගියේය සහ තම ගෙයි වාසය කළේය.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "යරුබල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "යොආෂ්ගේ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "තම ගෙයි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:41:10.422622709Z",
+  "model": "glm-5.3"
+}

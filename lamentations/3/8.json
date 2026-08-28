@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මම මොරදී උපකාර ඉල්ලා කෑගසද්දීද, ඔහු මගේ යාච්ඤාව වසා දමයි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ද්දීද"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "මම මොරදී"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "උපකාර ඉල්ලා කෑගසමි"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "වසා දමයි"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "මගේ යාච්ඤාව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:44.104884941Z",
+  "model": "glm-5.3"
+}

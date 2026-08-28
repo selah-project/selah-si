@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "උතුර හිස් බව මත ⟨ඔහු⟩ දිග හරී; පොළොව කිසිවක් නැති තැන එල්ලා තබයි.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "දිග හරී"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "උතුර"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "හිස් බව"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "එල්ලා තබයි"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "על",
+      "gloss": "තැන"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "කිසිවක් නැති"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කිසිවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:45:47.830429402Z",
+  "model": "glm-5.3"
+}

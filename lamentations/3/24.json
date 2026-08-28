@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ ⟨වේ⟩ මගේ ඉරණම, මගේ ප්‍රාණය කීවේය; එබැවින් මම ඔහු සඳහා බලා සිටිමි.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "මගේ ඉරණම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මගේ ප්‍රාණය"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "බලා සිටිමි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහු සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:52.903748967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ⟨את⟩ අර්නෙබෙතය — මක්ද ඇය ගෙරාව ඔසවන්නියකි, නමුත් පර්සාව නොබෙදාගත්තාය; ඇය ඔබට අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "අර්නෙබෙතය"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "අර්නෙබෙතය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ඔසවන්නියකි"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ගෙරාව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "පර්සාව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "බෙදාගත්තාය"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:27.067553977Z",
+  "model": "glm-5.3"
+}

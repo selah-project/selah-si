@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මන්ද යහ්වේගේ වචනය සෘජුය; ඔහුගේ සියලු ක්‍රියාවෝ විශ්වාසයෙහි ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "සෘජුය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ඔහුගේ ක්‍රියාවෝ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "විශ්වාසයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:23:35.301261793Z",
+  "model": "glm-5.3"
+}

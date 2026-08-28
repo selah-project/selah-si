@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "පළමු අංශය මත, පළමු මාසයට, යෂොබෙම් සබ්දිඑල්ගේ පුත්‍රයා විය; ඔහුගේ අංශයේ විසි හතර දහසක් වූහ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "අංශය"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයට"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "යෂොබෙම්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "සබ්දිඑල්ගේ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ඔහුගේ අංශයේ"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "හතර"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:06:43.276768301Z",
+  "model": "glm-5.3"
+}

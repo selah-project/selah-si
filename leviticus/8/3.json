@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ ⟨את⟩ සමස්ත සභාව හමුවිදාන කූඩාරයේ දොරටුව ළඟට රැස් කරව.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "සමස්ත සභාව"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සමස්ත"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "සභාව"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "රැස් කරව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "දොරටුව"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "කූඩාරයේ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "හමුවිදාන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:40.538127115Z",
+  "model": "glm-5.3"
+}

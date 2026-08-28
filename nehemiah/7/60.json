@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "නෙතීනීන් සියල්ලද, ෂලෝමෝගේ සේවකයන්ගේ පුත්‍රයෝද — ⟨සියය තුනයි අනූ දෙකයි⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලද"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "නෙතීනීන්"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝද"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "සේවකයන්ගේ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝගේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනයි"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "අනූ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:25.955314664Z",
+  "model": "glm-5.3"
+}

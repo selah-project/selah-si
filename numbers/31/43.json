@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සභාවාගේ අඩක — ලැම්වරුන්ගෙන් — තුන් ලක්ෂ තිස් දහසක්, හත් දහසක් හා පන්සියයක් ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "විය ⟨is⟩"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "අඩක"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "සභාවාගේ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ලැම්වරුන්"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ලක්ෂ (සියයන්)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හත්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "පහ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:28.594612580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "ඇස් ඔසවා බැලීම හා පුළුල් හදවත — දුෂ්ටයන්ගේ නගුල් යෑම — පාපයයි.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ඔසවා බැලීම"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ඇස්"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "හා පුළුල්"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "נר",
+      "gloss": "නගුල් යෑම"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්ගේ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "පාපයයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:56.464064795Z",
+  "model": "glm-5.3"
+}

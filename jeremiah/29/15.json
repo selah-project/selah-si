@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "මන්ද ඔබ කීවේ: යහ්වේ අපට බබිලෝනයෙහි දේශනාකරුවන් නඟා සිටුවා ඇත, යනුවෙනි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ඔබ කීවේ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "නඟා සිටුවා ඇත"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "දේශනාකරුවන්"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "බබිලෝනයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:05:21.780643526Z",
+  "model": "glm-5.3"
+}

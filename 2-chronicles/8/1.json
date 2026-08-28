@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "අවුරුදු විස්සක අවසානයේදී — ෂෙලෝමෝ යහ්වේගේ ගෙයද ⟨את⟩ තමාගේ ගෙයද ⟨את⟩ ඉදිකළ විට — එය සිදු විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදු විය"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "අවසානයේදී"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්සක"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උත්සව කළ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ඉදිකළ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේගේ ගෙය"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "තමාගේ ගෙය"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තමාගේ ගෙය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:22:02.809798314Z",
+  "model": "glm-5.3"
+}

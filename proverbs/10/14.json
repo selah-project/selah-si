@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ප්‍රඥෝපදේශීහු දැනුම සඟවති; මෝඩයාගේ මුව විනාශයට ආසන්නය.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "ප්‍රඥෝපදේශීහු"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "සඟවති"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුම"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "සහ මුව"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "විනාශයට"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ආසන්නය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:02:33.281380372Z",
+  "model": "glm-5.3"
+}

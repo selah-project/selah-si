@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "සහ ඔව්හු ⟨את⟩ රන්ද ⟨את⟩ නිල්ද ⟨את⟩ දම්ද ⟨את⟩ කුරඳු-රතුද ⟨את⟩ සියම්ද ගනිති.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "සහ ඔව්හු"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ගනිති"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රන්"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "නිල්"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "නිල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දම්"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "දම්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "කුරඳු-රතු"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "කුරඳු"
+    },
+    {
+      "surface": "השני",
+      "gloss": "රතු"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සියම්"
+    },
+    {
+      "surface": "השש",
+      "gloss": "සියම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:55:32.997114740Z",
+  "model": "glm-5.3"
+}

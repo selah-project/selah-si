@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "එබැවින් සේනාංකයන්ගේ යහ්වේ මෙසේ කියයි: ඔබ ⟨את⟩ මගේ වචනයන් නොඇසූ බැවින්,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "සේනාංකයන්ගේ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ඇසූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මගේ වචනයන්"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "මගේ වචනයන්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:59:05.143573615Z",
+  "model": "glm-5.3"
+}

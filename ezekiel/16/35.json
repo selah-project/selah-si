@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "එබැවින්, ඵණ්‍යකාරියෙනි, යහ්වේගේ වචනය අස.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ඵණ්‍යකාරියෙනි"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "අස"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:32:17.721274485Z",
+  "model": "glm-5.3"
+}

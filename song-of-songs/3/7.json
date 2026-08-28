@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "බලු, ෂෙලෝමෝගේ ආසනය — ඔහුගේ ⟨the⟩ ඇඳ, ෂෙලෝමෝගේ — වීරයෝ සැට දෙනෙක් එය වටා සිටිති, යිස්රායෙල් වීරයන්ගෙන්.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ඔහුගේ ඇඳ"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "ෂෙලෝමෝගේ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "සැට"
+    },
+    {
+      "surface": "ඒברים",
+      "gloss": "වීරයෝ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "לה",
+      "gloss": "එය"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "වීරයන්ගෙන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:03:30.714792658Z",
+  "model": "glm-5.3"
+}

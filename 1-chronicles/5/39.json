@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ෂල්ලූම් ⟨את⟩ හිල්කියාව බිහිකළේය, හිල්කියා ⟨את⟩ අසර්යාව බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ෂල්ලූම්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "හිල්කියා"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "හිල්කියා"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "හිල්කියා"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අසර්යා"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "අසර්යා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:20.673596925Z",
+  "model": "glm-5.3"
+}

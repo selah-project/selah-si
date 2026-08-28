@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යහ්වේගේ වචනය මට මෙසේ වූයේ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:35:27.818878510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ශාප ලත් වන්නහ ඔබ නගරයෙහි, සහ ශාප ලත් වන්නහ ඔබ කෙතෙහි.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ශාප ලත් වන්නහ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "නගරයෙහි"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "සහ ශාප ලත් වන්නහ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "කෙතෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:41.215802642Z",
+  "model": "glm-5.3"
+}

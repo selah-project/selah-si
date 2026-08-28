@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "ඔහුගේ පුත්‍රයෝ ඔහුට ඔහු ඔවුන්ට අණ කළ පරිද්දෙන්ම කළහ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ඔහුගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිද්දෙන්"
+    },
+    {
+      "surface": "צום",
+      "gloss": "අණ කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:37:21.322416512Z",
+  "model": "glm-5.3"
+}

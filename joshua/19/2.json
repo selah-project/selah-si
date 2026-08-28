@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔවුන්ගේ උරුමයෙහි ඔවුන්ට ⟨වූයේ⟩: බෙඑර්-ෂෙබාඋ, ෂෙබාඋ, මෝලාදා.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨වූයේ⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ඔවුන්ගේ උරුමයෙහි"
+    },
+    {
+      "surface": "באר",
+      "gloss": "බෙඑර්"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ෂෙබාඋ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ෂෙබාඋ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "මෝලාදා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:04.843622590Z",
+  "model": "glm-5.3"
+}

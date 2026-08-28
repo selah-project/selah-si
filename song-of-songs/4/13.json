@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔබේ නිකිලි ⟨the⟩ රඹු වනෝද්‍යානයකි, උසස් පලතුරු සමඟ; කොප්පර සමඟ, නාරඳ සමඟ",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "ඔබේ නිකිලි"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "වනෝද්‍යානයකි"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "රඹු"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "පලතුරු"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "උසස්"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "කොප්පර"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "නාරඳ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:01:14.974618808Z",
+  "model": "glm-5.3"
+}

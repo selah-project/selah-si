@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙයද අපරාධ-පූජාවේ නීතියයි: එය පරම-පූජනීයයි.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "මෙයද"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "නීතිය"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "අපරාධ-පූජාවේ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පරම"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:08:59.850872063Z",
+  "model": "glm-5.3"
+}

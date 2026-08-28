@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "මොන දෙයක ⟨on⟩ මත එහි පාදම් ගිල්වන ලදී ද? හෝ එහි කොනේ ගල බැස්සේ කවුද?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොන දෙයක"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "එහි පාදම්"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ගිල්වන ලදී"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුද"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "බැස්සේ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගල"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "එහි කොනේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:56:08.094905286Z",
+  "model": "glm-5.3"
+}

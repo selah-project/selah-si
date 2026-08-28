@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 57,
+  "translation": "සමාදානයක් නැත, මාගේ එලෝහීම් වදාළේය, දුෂ්ටයන්ටයි.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සමාදානයක්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මාගේ එලෝහීම්"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "දුෂ්ටයන්ටයි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:37:39.344200330Z",
+  "model": "glm-5.3"
+}

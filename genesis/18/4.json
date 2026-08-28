@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ටිකෙන් වතුර ගෙන එන්න, මැනව, ඔබේ පා සේදාගන්න, ගස යට වාඩිවී විවේක ගන්න.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "ගෙන එන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "මැනව"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ටිකෙන්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "වතුර"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "සේදාගන්න"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ඔබේ පා"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "වාඩිවී විවේක ගන්න"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ගස"
+    }
+  ],
+  "timestamp": "2026-08-27T19:13:09.947644721Z",
+  "model": "glm-5.3"
+}

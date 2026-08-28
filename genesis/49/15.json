@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 49,
+  "translation": "ඔහු විවේකය යහපත් බවද දැක, ⟨את⟩ ⟨the⟩ දේශයද මිහිරි බවද දැක, බර දැරීමට තම උරහිස නවා, බදු ගෙවන දාසයෙක් විය.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ඔහු දැක"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "විවේකය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...බවද"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...බවද"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "මිහිරි"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "නවා"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "තම උරහිස"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "බර දැරීමට"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "למס",
+      "gloss": "බදු ගෙවන"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "දාසයෙක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:36:35.172751958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඔහු එහි සුවඳ බෙහෙත් සුවඳදුම් පුදා දැම්මේය; යහ්වේ මොෂේට ⟨את⟩ අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "පුදා දැම්මේය"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "සුවඳදුම්"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "සුවඳ බෙහෙත්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:04:50.854846272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "එප්රොන් අව්රාහම්ට ⟨את⟩ උත්තර දෙමින් ඔහුට කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දුන්නේය"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "එප්රොන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අව්රාහම්"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:15:05.364861006Z",
+  "model": "glm-5.3"
+}

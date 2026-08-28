@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මරණය තුළ ⟨ඔබේ⟩ සිහිවීමක් නැත; ෂෙයෝල් තුළ ඔබට ස්තූති පුදන්නේ කවුද?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "במות",
+      "gloss": "මරණය තුළ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ඔබේ සිහිවීම"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ෂෙයෝල් තුළ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුද"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ස්තූති පුදන්නේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:59:45.244438320Z",
+  "model": "glm-5.3"
+}

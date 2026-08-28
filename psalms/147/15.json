@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 147,
+  "translation": "පොළොවට ⟨the⟩ තම නියෝගය යවන තැනැත්තා; ඉතා ඉක්මනින් තම වචනය දුවයි.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "යවන තැනැත්තා"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "තම නියෝගය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ඉතා ඉක්මනින්"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "දුවයි"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "තම වචනය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:50:29.360808338Z",
+  "model": "glm-5.3"
+}

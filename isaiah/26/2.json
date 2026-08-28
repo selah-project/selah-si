@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "දොරටු අරින්න; සත්‍යය රකින ධර්මිෂ්ඨ ජාතිය ⟨එය⟩ ඇතුළු වේවා.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "අරින්න"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "දොරටු"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ඇතුළු වේවා"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ජාතිය"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ධර්මිෂ්ඨ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "රකින"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "සත්‍යය"
+    }
+  ],
+  "timestamp": "2026-08-28T09:34:40.816428124Z",
+  "model": "glm-5.3"
+}

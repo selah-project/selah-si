@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යහ්වේගේ වචනය මා වෙත පැමිණියේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:28:02.416985904Z",
+  "model": "glm-5.3"
+}

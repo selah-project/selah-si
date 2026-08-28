@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මොෂේ යහ්වේ ඉදිරියේ කීවේ: බලුව, මම අවුරුණු තොල් ඇත්තෙක්මි; පර්ඕ මා අසන්නේ කෙසේද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "බලුව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "අවුරුණු"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "අසන්නේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:39.660770615Z",
+  "model": "glm-5.3"
+}

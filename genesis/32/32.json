@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "පෙනුවෙල් ⟨את⟩ පසුකර යන විට ඔහුට හිරු එළිය විය; ඔහු ඔහුගේ කලවාව මත ඇදෙමින් ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "එළිය විය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "විට"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "පසුකර යන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පෙනුවෙල්"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "පෙනුවෙල්"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ඇදෙමින්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ඔහුගේ කලවාව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:24:21.002182618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මොෂේ ⟨ජනයා වෙත⟩ බැස ගියේය, ඔවුන්ට කීය.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "බැස ගියේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:21.968336080Z",
+  "model": "glm-5.3"
+}

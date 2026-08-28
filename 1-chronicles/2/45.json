@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ෂම්මයිගේ පුත් ⟨වූයේ⟩ මාඕන්; මාඕන් බෙත්-ත්සූර්ගේ පියා ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "සහ පුත්"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ෂම්මයි"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "මාඕන්"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "සහ මාඕන්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ත්සූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:08.187334065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "හිරලෑවා අතින් ග්‍රහණය කළ හැක, එහෙයි එය රජුගේ මාලිගාවල සිටියි.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "හිරලෑවා"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "අතින්"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "ග්‍රහණය කළ හැක"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "මාලිගාවල"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජුගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:37.410905048Z",
+  "model": "glm-5.3"
+}

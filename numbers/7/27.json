@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කළඹ එකක්, රැළේ පුත්‍රයා; බාන එකක්, පැටව් එකක්, එක් වසරක් පුත්‍රයා, සහා පූජාවට;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "කළඹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "රැළේ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "බාන"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "පැටව්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "එක් වසරක්"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "සහා පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:47.490770235Z",
+  "model": "glm-5.3"
+}

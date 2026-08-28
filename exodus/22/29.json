@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "එලෙසම ඔබේ ගවයාටද ඔබේ රැළටද කරන්න; සත් දිනක් ඔහු මව සමඟ සිටියි; අට වන දින ඔහුව මට දෙන්න.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "එලෙසම"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "ඔබේ ගවයාට"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "ඔබේ රැළට"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "සිටියි"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "මව"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දින"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අට වන"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:50:57.158607940Z",
+  "model": "glm-5.3"
+}

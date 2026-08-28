@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "යර්මූත්, අදුල්ලම්, සෝකෝ, අසේකා",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "යර්මූත්"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "අදුල්ලම්"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "සෝකෝ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "අසේකා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:50:26.975701929Z",
+  "model": "glm-5.3"
+}

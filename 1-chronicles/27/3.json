@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "පෙරෙස්ගේ පුත්‍රයන්ගෙන් ⟨he⟩ ⟨was⟩ සියලු සේනාවන්ගේ සෙන්පතියන්ට ප්‍රධානියා, පළමු මාසයට.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "පෙරෙස්ගේ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ප්‍රධානියා"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "සෙන්පතියන්ට"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "සේනාවන්ගේ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "මාසයට"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "පළමු"
+    }
+  ],
+  "timestamp": "2026-08-28T07:06:43.276892936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 2:9",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "හායි, තම ගෙට අයහපත් ලාභයක් ලාභ ලබන්නාට, තම කූඩය ඉහළ තැබීමට, අයහපතෙන් ⟨the⟩ අතෙන් ගැලවීමට!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "හායි"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ලාභ ලබන්නාට"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ලාභයක්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "අයහපත්"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "තම ගෙට"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "තැබීමට"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ඉහළ"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "තම කූඩය"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "ගැලවීමට"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "⟨the⟩ අතෙන්"
+    },
+    {
+      "surface": "רע",
+      "gloss": "අයහපතෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:33:03.883149614Z",
+  "model": "glm-5.3"
+}

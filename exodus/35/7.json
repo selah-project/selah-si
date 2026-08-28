@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "රත් පැහැ කළ රාම් සම්, තකාෂ් සම්, සහ ෂිට්ටීම් දැව ⟨ද යුතුය⟩.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "සම්"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "රාම්"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "රත් පැහැ කළ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "සම්"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "තකාෂ්"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "දැව"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ෂිට්ටීම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:59:30.035141060Z",
+  "model": "glm-5.3"
+}

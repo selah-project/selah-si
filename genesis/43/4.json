@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "ඔබ අප සහෝදරයා ⟨את⟩ අප ⟨את⟩ සමඟ යවන්නේ නම්, අප බසිමු; ඔබට ආහාර මිලදී ගනිමු.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ඔබ යවන්නේ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "යවන්නේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "අප සහෝදරයා"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "අප සහෝදරයා"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ සමඟ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "අප බසිමු"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "මිලදී ගනිමු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ආහාර"
+    }
+  ],
+  "timestamp": "2026-08-27T19:32:25.671073926Z",
+  "model": "glm-5.3"
+}

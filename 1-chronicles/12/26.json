@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ශිම්ඕන්ගේ පුත්‍රයන්ගෙන් — ශූරයෝ, බලය ඇත්තෝ, සමරණ සේවයට — හත් දහසක් හා සියයක්.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ගෙන්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ශිම්ඕන්"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ශූරයෝ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "බලය ඇත්තෝ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "සමරණ සේවයට"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "හත්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "හා සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:48:54.812827747Z",
+  "model": "glm-5.3"
+}

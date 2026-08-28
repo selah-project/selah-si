@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "යහ්වේ කරන මෙම වචනය — ඔහු කථා කළ දේ — සිදු කරන බවට යහ්වේ ⟨את⟩ වෙතින් ලැබෙන මෙය ඔබට ⟨the⟩ සලකුණයි.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "האות",
+      "gloss": "සලකුණ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ වෙතින්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "සිදු කරන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මෙම වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:26:01.686631400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "මෙම කාරණය පාපයක් විය; ජනතාව එක ඉදිරියෙහි, දාන් දක්වා ගියහ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාපයක් වීමට"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ගියහ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියෙහි"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "דן",
+      "gloss": "දාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:41:17.452246855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ක්හාම්ගේ පුත්‍රයෝ: කූෂ්, මිස්රයිම්, පූත් සහ කෙනාන්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ක්හාම්ගේ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "කූෂ්"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "මිස්රයිම්"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "පූත්"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "කෙනාන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:40.328555586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "අසා සහ ඉස්රායෙල් රජ බ්ආෂා අතර ඔවුන්ගේ සියලු දිනවල යුද්ධයක් විය.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "සහ යුද්ධයක්"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "අසා"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "බ්ආෂා"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්රායෙල්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ඔවුන්ගේ දිනවල"
+    }
+  ],
+  "timestamp": "2026-08-27T22:44:40.821900827Z",
+  "model": "glm-5.3"
+}

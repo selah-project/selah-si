@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ලෙවීගේ පුත්‍රයෝ: ගෙර්ෂොන්, කෙහාත් සහ මෙරාරී.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවීගේ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ගෙර්ෂොන්"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "කෙහාත්"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "සහ මෙරාරී"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:27.612908938Z",
+  "model": "glm-5.3"
+}

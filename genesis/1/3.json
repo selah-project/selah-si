@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "එලෝහීම් කීවේය: ආලෝකය වේවා; එවිට ආලෝකය විය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:03:33.553490286Z",
+  "model": "glm-5.3"
+}

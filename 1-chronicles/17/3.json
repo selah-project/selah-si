@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "එම රාත්‍රියේදී සිදුවූයේ, එලෝහීම්ගේ වචනය නාතන් වෙත පැමිණියේ — මෙසේ කියා ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදුවූයේ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "රාත්‍රියේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "පැමිණියේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:23.246758962Z",
+  "model": "glm-5.3"
+}

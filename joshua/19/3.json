@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "හට්සර්-ෂුඋල්, බාලා, අට්සෙම්.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "හට්සර්"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ෂුඋල්"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "බාලා"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "අට්සෙම්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:04.843758035Z",
+  "model": "glm-5.3"
+}

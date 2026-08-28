@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔවුන් එයිම්හි සිට පිටත්ව, උණ මුහුද ⟨අසල⟩ කඳවුරු ලෑවෝය.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "පිටත්ව ගියෝය"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "එයිම්හි සිට"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "කඳවුරු ලෑවෝය"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "උණ (otr)"
+    }
+  ],
+  "timestamp": "2026-08-27T20:53:01.173000845Z",
+  "model": "glm-5.3"
+}

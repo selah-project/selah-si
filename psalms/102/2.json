@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "යහ්වේ, මාගේ යාච්ඤාව අසන්න; මාගේ උදව් ඉල්ලීම ඔබ වෙත එව.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "මාගේ යාච්ඤාව"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "මාගේ උදව් ඉල්ලීම"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "එව"
+    }
+  ],
+  "timestamp": "2026-08-28T03:18:30.382643167Z",
+  "model": "glm-5.3"
+}

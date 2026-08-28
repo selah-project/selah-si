@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මන්ද, සියලු මාංසයෙන් කවරෙක් — ගින්න ⟨the⟩ මැදින් කථා කරන ජීවමාන එලෝහීම්ගේ හඬ, අපි මෙන් ඇහුම්කම් දී, දිවි ගෙවූයේ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවරෙක්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මාංසයෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ඇහුම්කම් දී"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවමාන"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "මැදින්"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ගින්න"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "අපි මෙන්"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "දිවි ගෙවූයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:41:38.453224804Z",
+  "model": "glm-5.3"
+}

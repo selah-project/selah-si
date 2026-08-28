@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 80,
+  "translation": "එය තම අතු මුහුද දක්වා යැව්වේය; තම පැළැබිඩි ගංගාව දක්වා යැව්වේය.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "යැව්වේය"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "තම අතු"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "ים",
+      "gloss": "මුහුද"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ... දක්වා"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ගංගාව"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "තම පැළැබිඩි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:26:21.529336381Z",
+  "model": "glm-5.3"
+}

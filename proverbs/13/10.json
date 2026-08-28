@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "උඩඟුකමෙන් පමණක් රණ්ඩුව පැමිණේ; උපදෙස් ලබන්නන් ⟨את⟩ ඥානය ලබා ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "උඩඟුකමෙන්"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "රණ්ඩුව"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "උපදෙස් ලබන්නන්"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "උපදෙස් ලබන්නන්"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:03:33.131547786Z",
+  "model": "glm-5.3"
+}

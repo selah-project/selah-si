@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "අබිමෙලෙක් ඊශ්‍රායෙල් මත අවුරුදු තුනක් පාලනය කළේය.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "පාලනය කළේය"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "අබිමෙලෙක්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:40:52.305035840Z",
+  "model": "glm-5.3"
+}

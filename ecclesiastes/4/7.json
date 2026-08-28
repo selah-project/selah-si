@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මම ආපසු හැරී, මම, ⟨the⟩ හේමන යට ⟨the⟩ හෙබෙල් දුටිමි.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "මම ආපසු හැරී"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "දුටිමි"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හෙබෙල්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හේමනය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:48:11.718049960Z",
+  "model": "glm-5.3"
+}

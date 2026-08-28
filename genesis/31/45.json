@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යාකොව් ගලක් ගෙන, එය ස්මාරක ස්තම්භයක් ලෙස ඔසවා තැබීය.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ගලක්"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "එය ඔසවා තැබීය"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ස්මාරක ස්තම්භයක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:23:47.175239016Z",
+  "model": "glm-5.3"
+}

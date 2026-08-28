@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "ගාද්ගේ පුත්‍රයෝ — සිප්යෝන්, හග්ගී, ෂූනී, එස්බෝන්, එරී, අරෝදී සහ අරෙලී.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්ගේ"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "සිප්යෝන්"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "හග්ගී"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "ෂූනී"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "එස්බෝන්"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "එරී"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "අරෝදී"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "අරෙලී"
+    }
+  ],
+  "timestamp": "2026-08-27T19:34:15.108315830Z",
+  "model": "glm-5.3"
+}

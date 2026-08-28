@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ඔබ ශක්තිමත්ව සිටින්න, ඔබේ අත් මැලවී නොයන්න; මන්ද ඔබේ ක්‍රියාවට වේතනයක් ඇත.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ශක්තිමත්ව සිටින්න"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "මැලවී යන්න"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ඔබේ අත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "වේතනයක්"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "ඔබේ ක්‍රියාවට"
+    }
+  ],
+  "timestamp": "2026-08-28T11:06:57.815966251Z",
+  "model": "glm-5.3"
+}

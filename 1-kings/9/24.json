@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "එහෙත් පර්ඕ දියණිය දාවීද් නගරයෙන් ඇයට ඔහු ගොඩනැගූ ගෙට නැගුණාය; එවිට ඔහු ⟨את⟩ මිලෝ ගොඩනැගුවේය.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "නැගුණාය"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "නගරයෙන්"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇගේ ගෙට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ගොඩනැගූ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ගොඩනැගුවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මිලෝ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "මිලෝ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:36:58.099528250Z",
+  "model": "glm-5.3"
+}

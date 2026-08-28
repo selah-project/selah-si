@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "පුත්‍රයෙනි, අවවාදය ඇසීම නවත්වව — දැනුම් වදන්වලින් නොමග යාමට ⟨ඒ නිසාය⟩.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "නවත්වව"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෙනි"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ඇසීම"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "අවවාදය"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "නොමග යාමට"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "වදන්වලින්"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:12:53.368806850Z",
+  "model": "glm-5.3"
+}

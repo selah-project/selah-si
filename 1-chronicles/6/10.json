@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එල්කනාගේ පුත්‍රයෝ: අමසයි සහ අහිමොත්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "සහ ...ගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "එල්කනාගේ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "අමසයි"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "සහ අහිමොත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:09.339521118Z",
+  "model": "glm-5.3"
+}

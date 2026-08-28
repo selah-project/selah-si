@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සහ මාගේ ආඥා රකින්න, ඒවා ⟨את⟩ කරන්න; මම යහ්වේ වෙමි.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "සහ ඔබ රකින්න"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "මාගේ ආඥා"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ඔබ කරන්න"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "මාගේ ආඥා"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:56.970182315Z",
+  "model": "glm-5.3"
+}

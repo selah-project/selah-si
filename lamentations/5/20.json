@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඇයි සදාකාලයට අප අමතක කරන්නේ, දින රැසක් තිස්සේ අප අත්හැර දමන්නේ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "සදාකාලයට"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "අප අමතක කරන්නේ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "අප අත්හැර දමන්නේ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "දින රැසක් තිස්සේ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    }
+  ],
+  "timestamp": "2026-08-28T10:46:35.470540380Z",
+  "model": "glm-5.3"
+}

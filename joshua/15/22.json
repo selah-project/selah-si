@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "කීනා, දිමොනා, අද්අදා,",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "කීනා"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "දිමොනා"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "අද්අදා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:16.933046068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔහු ⟨את⟩ තම මුහුණ බිත්තිය වෙත හරවා, යහ්වේ වෙත යාච්ඤා කළේය, කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "හරවා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම මුහුණ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "තම මුහුණ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "බිත්තිය"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "යාච්ඤා කළේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:05:23.173806094Z",
+  "model": "glm-5.3"
+}

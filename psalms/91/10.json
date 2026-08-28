@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 91,
+  "translation": "ඔබට අනතුරක් නොවැටේ; ව්‍යසනයක් ඔබ කූඩාරම අසලට නොපැමිණේ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "වැටේ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "අනතුරක්"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "සහ ව්‍යසනයක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "පැමිණේ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ඔබ කූඩාරම අසලට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:09:44.620650027Z",
+  "model": "glm-5.3"
+}

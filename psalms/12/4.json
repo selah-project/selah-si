@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "යහ්වේ කපා දමන්නා වේවා — සියලු සුමට තොල්, මහත් දේ කථා කරන දිව.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "කපා දමන්නා වේවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "සුමට"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "මහත් දේ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:20:26.002913749Z",
+  "model": "glm-5.3"
+}

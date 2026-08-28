@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "සහ යහ්වේ මොෂේට ⟨මෙසේ⟩ කථා කළේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "සහ කථා කළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:33:02.094332846Z",
+  "model": "glm-5.3"
+}

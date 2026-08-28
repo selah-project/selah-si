@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ජනයාගේ නිග්‍රහකරුවෝ සහ ඔවුන්ගේ ලේඛකයෝ පිටතට ගියහ; ජනයාට මෙසේ කීහ: මෙසේ කියයි පරාවෝ: මම ඔබට හීය නොදෙමි.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "පිටතට ගියහ"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "නිග්‍රහකරුවෝ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "ඔවුන්ගේ ලේඛකයෝ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීහ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "ඛה",
+      "gloss": "",
+      "hidden": true
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පරාවෝ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "මම නො"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙමි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "හීය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:41.542445151Z",
+  "model": "glm-5.3"
+}

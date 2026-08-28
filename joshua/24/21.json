@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ජනයා යෙහෝෂුආ අමතා කීහ: නැත; මුත් ⟨את⟩ යහ්වේ අපි සේවය කරමු.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ-කීහ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "අමතා"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මුත්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යහ්වේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "සේවය කරමු"
+    }
+  ],
+  "timestamp": "2026-08-27T21:34:13.333280644Z",
+  "model": "glm-5.3"
+}

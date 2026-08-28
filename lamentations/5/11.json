@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සියෝනයෙහි ස්ත්‍රීන් ⟨ඔවුහු⟩ පීඩා කළහ; යෙහූදාහී නගරවල කන්‍යාවන්.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "ස්ත්‍රීන්"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "සියෝනයෙහි"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "පීඩා කළහ"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "කන්‍යාවන්"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "නගරවල"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාහී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:16:25.029628134Z",
+  "model": "glm-5.3"
+}

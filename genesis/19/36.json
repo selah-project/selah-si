@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "මෙසේ ලොත්ගේ දියණියන් දෙදෙනා තම පියාගෙන් ගර්භණී වූහ.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "ගර්භණී වූහ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙදෙනා"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දියණියන්"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ලොත්ගේ"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "තම පියාගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:14:13.326401515Z",
+  "model": "glm-5.3"
+}

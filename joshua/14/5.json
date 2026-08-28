@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "යහ්වේ ⟨את⟩ මොෂේට අණ කළ පරිදි, ඉශ්‍රායෙල් පුත්‍රයෝ එසේ කළහ; ඔව්හු ⟨את⟩ දේශය බෙදූහ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රායෙල්"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "බෙදූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:14.232758579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මන්ද සිරකරුවන්ගේ ගෙයින් ඔහු රජ වීමට පිටත් විය; මන්ද ඔහුගේ රාජ්‍යය තුළද දුප්පතෙක් උපන්නේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ගෙයින්"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "සිරකරුවන්ගේ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "පිටත් විය"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජ වීමට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גם",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "ඔහුගේ රාජ්‍යය තුළ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "උපන්නේය"
+    },
+    {
+      "surface": "רש",
+      "gloss": "දුප්පතෙක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:02.569909096Z",
+  "model": "glm-5.3"
+}

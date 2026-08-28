@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සහ ෂිලෝනීගෙන් ⟨ය⟩ — අසයියා පළමුඋපන්තයා, සහ ඔහුගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "සහ ... ගෙන්"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "ෂිලෝනී"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "අසයියා"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "පළමුඋපන්තයා"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "සහ ඔහුගේ පුත්‍රයෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:45:00.779476669Z",
+  "model": "glm-5.3"
+}

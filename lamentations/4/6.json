@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මගේ ජනයාගේ දූවගේ අයුක්තිය සදොමගේ පාපයට වඩා මහත් විය — ඇය ක්ෂණයක් මෙන් පෙරලා දමන ලද්දී කිසිදු අත් ඇය මත සැලුණේ නැත.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "මහත් විය"
+    },
+    {
+      "surface": "עון",
+      "gloss": "අයුක්තිය"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දූවගේ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "මගේ ජනයාගේ"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "පාපයට වඩා"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "සදොමගේ"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "පෙරලා දමන ලද"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "මෙන්"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ක්ෂණයක්"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "සැලුණේ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ඇය මත"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "අත්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:46:18.641253481Z",
+  "model": "glm-5.3"
+}

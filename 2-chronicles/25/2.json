@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "යහ්වේගේ ඇස් ඉදිරියෙහි ⟨ඔහු⟩ යහපත් කළේය — එහෙත් සම්පූර්ණ හදවතකින් නොවේ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් ඉදිරියෙහි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "එහෙත් පමණක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "හදවතකින්"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "සම්පූර්ණ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:43:51.186098380Z",
+  "model": "glm-5.3"
+}

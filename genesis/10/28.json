@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ⟨את⟩ ඔවබාල් හා ⟨את⟩ අබීමාඑල් හා ⟨את⟩ ෂෙබා.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවබාල්"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ඔවබාල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "අබීමාඑල්"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "අබීමාඑල්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙබා"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ෂෙබා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:18.160104522Z",
+  "model": "glm-5.3"
+}

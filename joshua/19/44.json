@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "එල්තෙකේ, ගිබෙතෝන් සහ බාලාත්.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "එල්තෙකේ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ගිබෙතෝන්"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "බාලාත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:03.655261219Z",
+  "model": "glm-5.3"
+}

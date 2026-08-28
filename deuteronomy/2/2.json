@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යහ්වේ මට කථා කොට කිවේය:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කිවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:34.431490693Z",
+  "model": "glm-5.3"
+}

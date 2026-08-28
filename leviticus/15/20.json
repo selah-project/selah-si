@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සහ ඇය ඇගේ වෙන්කිරීමේදී ඒ මත හානවන සෑම දෙයක් අශුද්ධ වේ, සහ ඇය ඒ මත වාඩි වන සෑම දෙයක් අශුද්ධ වේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ සෑම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙයක්"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "හානවන"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඒ මත"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "ඇගේ වෙන්කිරීමේදී"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධ වේ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සහ සෑම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙයක්"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "වාඩි වන"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඒ මත"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "අශුද්ධ වේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:18:02.602472533Z",
+  "model": "glm-5.3"
+}

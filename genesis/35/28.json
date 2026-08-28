@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "යිට්ස්ඛාක්ගේ දින වූයේ අවුරුදු සියයක් සහ අසූවකි.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "යිට්ස්ඛාක්ගේ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "සහ අසූවක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:27:08.233400146Z",
+  "model": "glm-5.3"
+}

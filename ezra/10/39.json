@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ ෂෙලෙමියා, සහ නතන්, සහ අදායා",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "සහ ෂෙලෙමියා"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "සහ නතන්"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "සහ අදායා"
+    }
+  ],
+  "timestamp": "2026-08-28T10:57:13.776761379Z",
+  "model": "glm-5.3"
+}

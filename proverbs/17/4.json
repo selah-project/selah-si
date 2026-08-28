@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "දුසිරිත් කරන්නා අධර්ම තොල් කරා කන් යොමයි; බොරුකාරයා විනාශයේ දිව කරා සවන් දෙයි.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "දුසිරිත් කරන්නා"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "කන් යොමයි"
+    },
+    {
+      "surface": "על",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "און",
+      "gloss": "අධර්ම"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරුකාරයා"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "සවන් දෙයි"
+    },
+    {
+      "surface": "על",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "הות",
+      "gloss": "විනාශයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:40.210602104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "එහෙත් එය නුඹ සමඟ සාමයට එළඹ නොගොස් නුඹ සමඟ යුද්ධයක් කරන්නේ නම්, නුඹ එය වටලන්න.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "එහෙත් … නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "සාමයට එළඹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "නුඹ සමඟ"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "කරන්නේ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "නුඹ සමඟ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "යුද්ධයක්"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "වටලන්න"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:06.306640872Z",
+  "model": "glm-5.3"
+}

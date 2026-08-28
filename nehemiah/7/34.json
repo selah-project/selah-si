@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අන් එයාලාම්හි පුත්‍රයෝ — දහසක්, දෙසිය පනස් හතර දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "එයාලාම්"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "අන්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "හතර"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:25.402399080Z",
+  "model": "glm-5.3"
+}

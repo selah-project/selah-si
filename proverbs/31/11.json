@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "ඇගේ සැමියාගේ හදවත ඇය කෙරෙහි විශ්වාසයෙන් රඳන්නේය, ලාභය නොඅඩුව ⟨ඔහුට⟩ ලැබේ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "විශ්වාසයෙන් රඳන්නේය"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ඇය කෙරෙහි"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ඇගේ සැමියාගේ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ලාභය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "අඩුව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:23:57.562253954Z",
+  "model": "glm-5.3"
+}

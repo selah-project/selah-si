@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ලෙවීවරුද පිළිතුරු දෙමින් ඉශ්රායෙල් මිනිසුන් සියල්ලන්ට උස් හඬින් කියති.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "පිළිතුරු දෙමින්"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ලෙවීවරුද"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්ට"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    },
+    {
+      "surface": "קול",
+      "gloss": "හඬින්"
+    },
+    {
+      "surface": "רם",
+      "gloss": "උස්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:34.539593627Z",
+  "model": "glm-5.3"
+}

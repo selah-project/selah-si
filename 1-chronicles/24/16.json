@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "පෙතාකියාට ⟨දහනවයි⟩, යෙහෙස්කෙල්ට ⟨විසියයි⟩.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "පෙතාකියාට"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "නව"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය — දහනව"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "යෙහෙස්කෙල්ට"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "විසි"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:57.861291774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 72,
+  "translation": "කෙළවර විය දාවීද්ගේ, යිෂායිගේ පුත්‍රයාගේ, යාච්ඤා.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "කෙළවර විය"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "යාච්ඤා"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයාගේ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "යිෂායිගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:50:24.490441118Z",
+  "model": "glm-5.3"
+}

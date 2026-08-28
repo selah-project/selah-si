@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "මරකුසයෙන් මළවුන් දහස් සතරදහසක් සත්සියයක් විය, කොරක්ගේ කාරණය නිසා මළවුන් හැර.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "මරකුසයෙන්"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහස"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "හැර"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "මළවුන්"
+    },
+    {
+      "surface": "על",
+      "gloss": "නිසා"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කාරණය"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරක්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:39:11.467947839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අටවන දිනයේදී, මෙනාෂේගේ පුත්‍රයන්ට නායක — පෙදාෂූර්ගේ පුත් ගම්ලියෙල්:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "අටවන"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේගේ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ගම්ලියෙල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "පෙදා"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ෂූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:32:06.669379369Z",
+  "model": "glm-5.3"
+}

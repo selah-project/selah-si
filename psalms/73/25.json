@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 73,
+  "translation": "අහසෙහි ⟨මට⟩ කවුද? එහෙත් ඔබ සමඟ — පොළොවෙහි මම කිසිව඙ක් කැමතුනේ නැත.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "කවුද"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහසෙහි"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "මම කැමතුනේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:52:03.631073100Z",
+  "model": "glm-5.3"
+}

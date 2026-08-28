@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "එළවළු ආහාරයක් — ආදරයද ⟨එහි⟩ ඇත — හොඳය; වැද්දූ ගවයෙක් සහ ද්වේෂයද එහි ඇති එකට වඩා.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "හොඳය"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ආහාරයක්"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "එළවළු"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "සහ ආදරය"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ගවයෙක්"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "වැද්දූ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "සහ ද්වේෂය"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි ඇති"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:53.986343649Z",
+  "model": "glm-5.3"
+}

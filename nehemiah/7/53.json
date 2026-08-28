@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බක්බුක්ගේ පුත්‍රයෝ, හකුපාගේ පුත්‍රයෝ, හර්හුර්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "බක්බුක්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "හකුපාගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "හර්හුර්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:09.503520492Z",
+  "model": "glm-5.3"
+}

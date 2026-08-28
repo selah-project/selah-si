@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ආදාම්, ෂෙත්, එනොෂ්,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ආදාම්"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ෂෙත්"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "එනොෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:28:48.887416946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "යාකොව් තම පියාටද තම මෑණියටද කීකරු වූ බවද, පදන්-අරාම් බලා ගිය බවද ඒසව් දැනගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ඇසුම් කළේය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාගේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "හා වෙත"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "තම මෑණියගේ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "පදන්"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "අරාම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:20:33.521048280Z",
+  "model": "glm-5.3"
+}

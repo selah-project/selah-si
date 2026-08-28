@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "වර්ෂාව පොළොව මත සතළිස් දිනක් සහ සතළිස් රාත්‍රියක් විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "එවිට විය"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "වර්ෂාව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "සතළිස්"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනක්"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "සහ සතළිස්"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "රාත්‍රියක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:24.707390379Z",
+  "model": "glm-5.3"
+}

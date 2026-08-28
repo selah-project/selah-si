@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "හදද් මිය ගියේය; එදොමහි නායකයෝ වූහ: නායක තිම්නා, නායක අල්වා, නායක යෙතෙත්,",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "හදද්"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "වූහ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "නායකයෝ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "එදොමහි"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "තිම්නා"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "අල්වා"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "නායක"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "යෙතෙත්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:00:47.109128476Z",
+  "model": "glm-5.3"
+}

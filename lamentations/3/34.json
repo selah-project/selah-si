@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "තම පාද යට පොළොවෙහි සිරකරුවන් සියල්ලන් පාගා දැමීමට ⟨ඔහු නොකරයි⟩ —",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "පාගා දැමීමට"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "තම පාද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලන්"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "සිරකරුවන්"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:38.511727619Z",
+  "model": "glm-5.3"
+}

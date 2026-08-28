@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "පර්ඕ පැදගෙන ගියේය; තම ගෙට ඇතුළු විය; මේ දෙයටද තම හදවත නොලැබී ය.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "පැදගෙන ගියේය"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "පර්ඕ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ඇතුළු විය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "තම ගෙට"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ලැබී ය"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "තම හදවත"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "මේ දෙයට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:13:29.755910224Z",
+  "model": "glm-5.3"
+}

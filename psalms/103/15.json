@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 103,
+  "translation": "මනුෂ්‍යයාගේ දින තණ සේ; කෙතේ මලක් සේ එය මල් පිපෙයි.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "මනුෂ්‍යයා"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "තණ සේ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ඔහුගේ දින"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "මලක් සේ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙතේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "සේ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "මල් පිපෙයි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:16:49.298800854Z",
+  "model": "glm-5.3"
+}

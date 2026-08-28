@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔබ ⟨את⟩ යොර්දානය එතෙර කර ඔබේ දෙවි යහ්වේ ඔබට දෙන දේශයට යන දිනයේදී, ඔබට විශාල ගල් ඉදිකරගෙන ⟨את⟩ ඒවා බදාමයෙන් පුර්වයෙන් සාදන්න.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සිදු වන්නේ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "ඔබ එතෙර කර"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යොර්දානය"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "යොර්දානය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "ඉදිකරගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "විශාල"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "සාදන්න"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවා"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "බදාමයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:42.923616154Z",
+  "model": "glm-5.3"
+}

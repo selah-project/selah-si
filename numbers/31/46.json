@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සහ මිනිසුන් ප්‍රාණ සොළොස් දහසක් —",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "සහ ප්‍රාණ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසුන්"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "සොළොස්"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(දහය)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:41.933256641Z",
+  "model": "glm-5.3"
+}

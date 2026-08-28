@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "අන් නබෝවේ මිනිස්සු — පනස් දෙදෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "නබෝ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "අන්"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "පනස්"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙදෙනෙකි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:25.402225420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "ෂාඋල් මිය ගියේය, අක්බොර්ගේ පුත් බල්-කානන් ඔහු වෙනුවට රාජ්‍ය කළේය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඋල්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රාජ්‍ය කළේය"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "බල්-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "කානන්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "අක්බොර්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:07:27.582834633Z",
+  "model": "glm-5.3"
+}

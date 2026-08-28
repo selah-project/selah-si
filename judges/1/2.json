@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "යහ්වේ කීවේය: යෙහූදා නැඟී සිටීවා; බලු — මම ⟨את⟩ ⟨the⟩ දේශය ඔහුගේ අතට දී ඇත්තෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නැඟී සිටීවා"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "දී ඇත්තෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දේශය"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ඔහුගේ අතට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:35:16.803089025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "එවිට රජ ඒ කාන්තාවට කීවේය: ඔබේ ගෙට යන්න; මම ඔබ වෙනුවෙන් අණ කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ඒ කාන්තාවට"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "යන්න"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ඔබේ ගෙට"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "අණ කරන්නෙමි"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ වෙනුවෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:20:34.693071838Z",
+  "model": "glm-5.3"
+}

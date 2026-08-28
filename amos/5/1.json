@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මේ වචනය අසන්න — මම ඔබ මත යිස්රායෙල් ගේ ⟨the⟩ කුමනාවක් ඔසවන බව ⟨את⟩ මේ වචනය, යිස්රායෙල් ගේ ගෙට.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මේ වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ඔසවන"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "කුමනාව"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගේ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:24:12.850682871Z",
+  "model": "glm-5.3"
+}

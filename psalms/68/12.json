@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 68,
+  "translation": "අදෝනයි වචනය දෙයි; සුබකථිකාවෝ මහා සේනාවකි.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "සුබකථිකාවෝ"
+    },
+    {
+      "surface": "ඦבא",
+      "gloss": "සේනාවකි"
+    },
+    {
+      "surface": "רב",
+      "gloss": "මහා"
+    }
+  ],
+  "timestamp": "2026-08-28T02:47:18.873053872Z",
+  "model": "glm-5.3"
+}

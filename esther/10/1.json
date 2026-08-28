@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අඛෂ්වේරෝෂ් රජු ⟨මස-බදුවක්⟩ ⟨පොළොව මතද⟩ මුහුදේ දූපත් මතද පැනවීය.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "පැනවීය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "අඛෂ්වේරෝෂ්"
+    },
+    {
+      "surface": "מס",
+      "gloss": "මස-බදුවක්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "දූපත්"
+    },
+    {
+      "surface": "הים",
+      "gloss": "මුහුදේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:31:58.255728421Z",
+  "model": "glm-5.3"
+}

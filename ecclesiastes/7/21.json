@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මෙසේද, ඔවුන් කථා කරන සියලු වචනයන්ට සිත් නොදෙන්න — ඔබේ දාසයා ඔබට ශාප කරන ⟨את⟩ දෙය නුඹ නොඇසන පිණිස.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "මෙසේද"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු...ට"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "වචනයන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔවුන්...කරන"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නොදෙන්න"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "දෙව"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "සිත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "පිණිස"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ඇසන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබේ දාසයා"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ඔබේ දාසයා"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ඔබට ශාප කරන"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:21.777582623Z",
+  "model": "glm-5.3"
+}

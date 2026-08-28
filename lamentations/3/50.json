@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යහ්වේ අහසෙන් එබී බලා දක්නා තුරු ⟨මෙන්⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "එබී බලා"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "දක්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "අහසෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:48.459007469Z",
+  "model": "glm-5.3"
+}

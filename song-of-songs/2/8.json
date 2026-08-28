@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මගේ ප්‍රියයාගේ හඬ! බලු, මොහු ⟨යමින්⟩ සිටියි — කඳු මත පනිමින්, ගිරිකුලන් මත පැන පැන යමින්.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "මගේ ප්‍රියයාගේ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "בא",
+      "gloss": "එමින් සිටියි"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "පනිමින්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "පැන පැන යමින්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ගිරිකුලන්"
+    }
+  ],
+  "timestamp": "2026-08-28T12:07:21.181458508Z",
+  "model": "glm-5.3"
+}

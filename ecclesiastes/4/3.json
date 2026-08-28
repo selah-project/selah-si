@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔවුන් දෙදෙනාටම වඩා යහපත් ⟨නැත්තා⟩ ⟨את⟩ — ⟨ඒ⟩ තවම නොවීය; ⟨ඒ⟩ ඉර යට කරන ලද ⟨את⟩ නපුරු ක්‍රියාව නොදුටු නිසා.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "වඩා යහපත්"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ඔවුන් දෙදෙනාට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "තවම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දුටු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "නපුරු ක්‍රියාව"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ක්‍රියාව"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "නපුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "කරන ලද"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:20:35.395215958Z",
+  "model": "glm-5.3"
+}

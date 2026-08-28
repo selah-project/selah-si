@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඔහුට එසේ විය; ජනතාව ⟨את⟩ ඔහු දොරටුවෙහි පෑගූ අත් ඔහු මළේය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "පෑගූ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "දොරටුවෙහි"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ඔහු මළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:55:47.446283596Z",
+  "model": "glm-5.3"
+}

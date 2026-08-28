@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "අහස දෙස බලව, නුරන්න; වලාකුළු නරඹන්න — ⟨ඒවා⟩ ඔබට වඩා උස ය.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "නුරන්න"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "නරඹන්න"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "උස ය"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ඔබට වඩා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:53:53.040764628Z",
+  "model": "glm-5.3"
+}

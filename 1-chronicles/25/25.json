@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 25:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "දහ අටවැන්න ලෙස ලැබුණේ ලඛනනීට; ඔහුගේ පුත්‍රයෝ සහ ඔහුගේ සහෝදරයෝ — දොළොස් දෙනෙකි.",
+  "tokens": [
+    {
+      "surface": "לשמונה",
+      "gloss": "අටට"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "לחנני",
+      "gloss": "ලඛනනීට"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ඔහුගේ පුත්‍රයෝ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "සහ ඔහුගේ සහෝදරයෝ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:01:02.504449444Z",
+  "model": "glm-5.3"
+}

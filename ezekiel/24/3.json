@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "කැරැලිකාර ගෙය වෙත මූලිකාවක් මූලිකා කර, ඔවුන්ට කියව: මෙසේ කීය අදෝනයි යහ්වේ: බඳුන තබව, තබව, ද එහි ජලය නික්මවා.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "මූලිකා කර"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "කැරැලිකාර"
+    },
+    {
+      "surface": "משל",
+      "gloss": "මූලිකාවක්"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "කියව"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීය"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "තබව"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "බඳුන"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "තබව"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "නික්මවා"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:49.744060342Z",
+  "model": "glm-5.3"
+}

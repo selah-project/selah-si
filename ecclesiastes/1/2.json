@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "හබෙල්, හබලීම්, කෝහෙලෙත් කීවේය; හබෙල්, හබලීම් — සියල්ලම හබෙල් ⟨වේ⟩.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "හබෙල්"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "හබලීම්"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "කෝහෙලෙත්"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හබෙල්"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "හබලීම්"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "සියල්ලම"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "හබෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:18:46.334291970Z",
+  "model": "glm-5.3"
+}

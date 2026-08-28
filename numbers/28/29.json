@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "දශමයක්, දශමයක් — එක් කුරටුවාට, සත් කුරටුවන්ට.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "දශමයක්"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "දශමයක්"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "එක් කුරටුවාට"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "සත්"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "කුරටුවන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:44.090107658Z",
+  "model": "glm-5.3"
+}

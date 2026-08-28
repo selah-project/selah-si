@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ තම මුහුණ ඔබ කෙරෙහි ඔසවා, ඔබට සමාධානය තැබේවා.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ඔසවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "තම මුහුණ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ කෙරෙහි"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "තැබේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "සමාධානය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:26.451333502Z",
+  "model": "glm-5.3"
+}

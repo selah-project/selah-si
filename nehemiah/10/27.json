@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "සහ අහියා, හනන්, අනන්,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "සහ අහියා"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "හනන්"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "අනන්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:41.450579943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "හිරුද එළියද සඳද තරුද අඳුරු නොවන තුරුද, වලාකුළු වැසියෙන් පසු ආපසු නොහැරෙන තුරුද —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "අඳුරු වන"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "එළියද"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "සඳද"
+    },
+    {
+      "surface": "වהכוכבים",
+      "gloss": "තරුද"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ආපසු හැරෙන"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "වැසියෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:26:36.516196084Z",
+  "model": "glm-5.3"
+}

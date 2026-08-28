@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කෙතරම් රමණීය ද, කෙතරම් මිහිරි ද, ප්‍රේමයෙනි, ප්‍රියතම සැපතෙහි!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "කෙතරම්"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "රමණීය ද"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "සහ කෙතරම්"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "මිහිරි ද"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ප්‍රේමයෙනි"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ප්‍රියතම සැපතෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:05:36.153985660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මෝඩයාගේ මුව ඔහුට විනාශයකි, ඔහුගේ තොල් ඔහුගේ ජීවයට උගුලකි.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "මුව"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "මෝඩයාගේ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "විනාශයකි"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ඔහුගේ තොල්"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "උගුලකි"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ඔහුගේ ජීවයට"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:27.902269828Z",
+  "model": "glm-5.3"
+}

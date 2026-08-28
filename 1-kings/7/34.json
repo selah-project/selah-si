@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එක් ⟨the⟩ පාමුලක සතර කොනට සතර කර බම බද්ධ වී තිබුණි; ඒ කර බම පාමුලෙන්ම නිකුත් වූ ඒවා විය.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "එසේම සතර"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "කර බම"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සතර"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "කොන"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "පාමුල"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ඉඳින්"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "පාමුල"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "ඒ කර බම"
+    }
+  ],
+  "timestamp": "2026-08-28T09:18:07.466237895Z",
+  "model": "glm-5.3"
+}

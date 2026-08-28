@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "යහ්වේ කීවේය: මම කරන දේ අව්රාහම්ගෙන් සඟවන්නද?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "සඟවන්නද"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "අව්රාහම්ගෙන්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන දේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:12:54.948498773Z",
+  "model": "glm-5.3"
+}

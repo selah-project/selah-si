@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කිසිදු ලේ අනුභව කරන සෑම ප්‍රාණයක්ම — ඒ ප්‍රාණය තම ජනයා අතරින් නෙරපෙනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණයක්ම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "අනුභව කරන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිදු"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "නෙරපෙනු ලැබේ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ඒ ප්‍රාණය"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "තම ජනයා අතරින්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:09:16.338860626Z",
+  "model": "glm-5.3"
+}

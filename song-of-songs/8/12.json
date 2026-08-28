@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "මගේ මිදි වත්ත — මගේම — මට ඉදිරියේ ⟨ඉස්⟩; දහස ඔබට, ෂෙලෝමෝ, සහ ඵලය රකින්නන්ට දෙසියය.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "මගේ මිදි වත්ත"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "මගේම"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "දහස"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂෙලෝමෝ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "සහ දෙසියය"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "රකින්නන්ට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඵලය"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ඵලය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:05:24.000241814Z",
+  "model": "glm-5.3"
+}

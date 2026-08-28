@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "සහ එක් බැටළුවාට දශක කොටසක් — බැටළුවන් හතට.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "සහ දශක කොටසක්"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "බැටළුවාට"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "හතට"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "බැටළුවන්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:50:11.276033303Z",
+  "model": "glm-5.3"
+}

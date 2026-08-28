@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ෂෙම්ගේ පුත්‍රයෝ: එලාම්, අෂූර්, අර්පක්ෂද්, ලූද් සහ අරාම්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ෂෙම්ගේ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "එලාම්"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "අෂූර්"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ලූද්"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "අරාම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:22.028125615Z",
+  "model": "glm-5.3"
+}

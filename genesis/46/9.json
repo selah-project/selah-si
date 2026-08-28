@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "රෙඋබෙන්ගේ පුත්‍රයෝ — හනොක්, පල්ලු, හෙස්රොන් සහ කර්මි.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "රෙඋබෙන්ගේ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "හනොක්"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "පල්ලු"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "හෙස්රොන්"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "කර්මි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:48.027096422Z",
+  "model": "glm-5.3"
+}

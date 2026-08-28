@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "තලා මවන ලද රන් පලිහ 300ක්; රන් 300ක් එක් පලිහක් මතට නගින්නේය; රජ ඒවා ලබනෝන් වනයේ ගෙයි තැබීය.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "සහ තුන් සියයක්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "පලිහෝ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "තලා මවන ලද"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නගින්නේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "⟨the⟩ පලිහ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "තැබීය ඒවා"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "יער",
+      "gloss": "වනයේ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ලබනෝන්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:20:09.639301964Z",
+  "model": "glm-5.3"
+}

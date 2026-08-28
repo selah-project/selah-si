@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "දුෂ්ටයාගේ දූතයා අයහපතට වැටෙයි, නමුත් විශ්වාසවන්ත දූතයා ⟨වේ⟩ සුවය.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "දූතයා"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "දුෂ්ටයාගේ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටෙයි"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "අයහපතට"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "නමුත් දූතයා"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "විශ්වාසවන්ත"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "සුවය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:05:16.090749687Z",
+  "model": "glm-5.3"
+}

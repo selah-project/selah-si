@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "චිදෝනිවරු හෙර්මොන් හට සිර්යොන් යැයි කියති; අමෝරිවරු එයට සෙනීර් යැයි කියති.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "චිදෝනිවරු"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "හෙර්මොන් හට"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "සිර්යොන්"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "අමෝරිවරු"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "කියති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "සෙනීර්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:19.703915693Z",
+  "model": "glm-5.3"
+}

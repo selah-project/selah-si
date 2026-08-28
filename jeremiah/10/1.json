@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අසන්න, ⟨את⟩ ⟨the⟩ වචනය යහ්වේ ඔබ කෙරෙහි කථා කළ දෙය, ඉශ්රායෙල් ගේ ගෙයිනිවුනි.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ වචනය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දෙය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කථා කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ඔබ කෙරෙහි"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙයිනිවුනි"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:51:02.612595001Z",
+  "model": "glm-5.3"
+}

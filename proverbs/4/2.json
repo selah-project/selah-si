@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මන්ද මම ඔබට හොඳ ලක්ඛයක් දී ඇත්තෙමි; මාගේ තෝරා අත නොහරිව්.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ලක්ඛයක්"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "දී ඇත්තෙමි"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "මාගේ තෝරා"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "අත නොහරිව්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:56:20.033096721Z",
+  "model": "glm-5.3"
+}

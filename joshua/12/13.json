@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "දෙබීර්හි රජ — එකක්; ගෙදෙර්හි රජ — එකක්;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙබීර්හි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ගෙදෙර්හි"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:26:29.997122755Z",
+  "model": "glm-5.3"
+}

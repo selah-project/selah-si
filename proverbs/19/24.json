@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "කම්මැලියා ⟨තම⟩ අත බාජනය තුළ සැඟවූයේය; තම මුඛය වෙතද එය ආපසු නොහරවයි.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "සැඟවූයේය"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "කම්මැලියා"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "අත"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "බාජනය තුළ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ද ..."
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "තම මුඛය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ආපසු නොහරවයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:11:42.791678028Z",
+  "model": "glm-5.3"
+}

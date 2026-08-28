@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "එවිට එලීහූ උත්තර දී කීයේය:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "උත්තර දී"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "එලීහූ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:52:49.720162587Z",
+  "model": "glm-5.3"
+}

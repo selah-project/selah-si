@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "රජුද හමාන්ද එස්තෙර් රැජින් සමඟ පානය කිරීමට පැමිණියහ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "පැමිණියහ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "හමාන්ද"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "පානය කිරීමට"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "රැජින්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:32:41.192021218Z",
+  "model": "glm-5.3"
+}

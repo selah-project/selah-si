@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "එසේ වූ විට, මගේ නාමයෙන් ඔහු කථා කරන මගේ වචන වෙත නොසිනින මිනිසාට විරුද්ධව මම ම විමසා ගන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "එසේ වූ විට"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දුන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "සිනින"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "මගේ වචන"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ඔහු කථා කරන"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "මගේ නාමයෙන්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම ම"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "විමසා ගන්නෙමි"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ඔහුගෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:37.258173988Z",
+  "model": "glm-5.3"
+}

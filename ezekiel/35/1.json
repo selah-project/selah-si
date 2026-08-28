@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "සමිටි වූ වචනය මට පැමිණි, මෙසේ කියමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සමිටි වූ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:49:53.760396976Z",
+  "model": "glm-5.3"
+}

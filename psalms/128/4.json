@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 128,
+  "translation": "බල — යහ්වේ කෙරෙහි බිය භක්තිය ඇති මිනිසා මෙසේ ම ⟨ආශීර්වාද ලබන්නේය⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මෙසේ ම"
+    },
+    {
+      "surface": "כן",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ආශීර්වාද ලබන්නේය"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "බිය භක්තිය ඇති"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:39:41.651447418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "දකුණට හෝ වමට නොනමා වෙන්න, ඔබේ පාදය නපුරෙන් ඈත කරගන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תט",
+      "gloss": "නමා වෙන්න"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "දකුණට"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "වමට"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ඈත කරගන්න"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ඔබේ පාදය"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "නපුරෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:08.633488801Z",
+  "model": "glm-5.3"
+}

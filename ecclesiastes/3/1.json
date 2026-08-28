@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සියල්ලට ⟨ඇත⟩ කාලයක්, සහ අහස යට සියලු චන්චලයකට වේලාවක්.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "සියල්ලට"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "කාලයක්"
+    },
+    {
+      "surface": "ו",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "වේලාවක්"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "සියලු...ට"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "චන්චලයකට"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "අහස"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:10.770877670Z",
+  "model": "glm-5.3"
+}

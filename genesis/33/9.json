@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඒසාව කීවේය: මට බොහෝ ඇත, මගේ සහෝදරය, තාගේ දේ තට වේවා.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඒසාව"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "මගේ සහෝදරය"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "තාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:24:01.948650402Z",
+  "model": "glm-5.3"
+}

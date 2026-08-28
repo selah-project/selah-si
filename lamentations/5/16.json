@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අප හිසේ කිරුළ වැටුණි; අහෝ, දැන් අපට වේවා, මන්ද ⟨අප⟩ පාපය කළෙමු.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "වැටුණි"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "කිරුළ"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "අප හිසේ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "අහෝ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට වේවා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "පාපය කළෙමු"
+    }
+  ],
+  "timestamp": "2026-08-28T05:15:59.045095226Z",
+  "model": "glm-5.3"
+}

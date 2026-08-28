@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ලෙවී ගේ පවුලෙන් මිනිසෙක් ගියේය, ලෙවී ගේ දියණියක් ⟨את⟩ ඔහු ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "පවුලෙන්"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවී ගේ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ලෙවී ගේ දියණියක්"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණියක්"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ලෙවී ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:14:53.400620007Z",
+  "model": "glm-5.3"
+}

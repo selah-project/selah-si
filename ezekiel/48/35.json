@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "කොටුව වටා දහඅටදහසකි; එදා සිට නගරයේ නාමය — යහ්වේ ෂම්මා (යහ්වේ එහි සිටී).",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "වටා"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "දහඅට"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසකි"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "නාමය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "එදා සිට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ෂම්මා"
+    }
+  ],
+  "timestamp": "2026-08-28T01:04:42.301508269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 26:13",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මම ඔබේ ගීවල ඝෝෂාව නවත්වා දමන්නෙමි; ඔබේ වීණාවන්ගේ හඬ තව නොඇසෙනු ඇත.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "මම නවත්වා දමන්නෙමි"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ඝෝෂාව"
+    },
+    {
+      "surface": "שיריך",
+      "gloss": "ඔබේ ගී"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "සහ හඬ"
+    },
+    {
+      "surface": "כנוריך",
+      "gloss": "ඔබේ වීණාවන්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ඇසෙනු ඇත"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තව"
+    }
+  ],
+  "timestamp": "2026-08-28T00:42:35.868115241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මිඛ්මාස් මිනිස්සු — සියයක් විසි දෙකක්.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිස්සු"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "මිඛ්මාස්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:16.679091280Z",
+  "model": "glm-5.3"
+}

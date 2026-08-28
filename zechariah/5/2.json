@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඔහු මට කීවේය: ඔබ මොකක්ද දක්නේ? මම කීවෙමි: මම පියාඹන ලියවිල්ලක් දකිමි; එහි දිග අඟල් විස්සකි, එහි පළල අඟල් දහයකි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "මොකක්ද"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දක්නේ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "මම කීවෙමි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "දකිමි"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ලියවිල්ලක්"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "පියාඹන"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "එහි දිග"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විස්සකි"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "එහි පළල"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහයකි"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "අඟල්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:49:28.789525714Z",
+  "model": "glm-5.3"
+}

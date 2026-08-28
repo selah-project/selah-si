@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "යහ්වේ මොෂාට කතා කොට කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂා"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:57:43.673377576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "තම පියාට හෝ තම මවට ශාප කරන තැනැත්තා මරණයෙන් මරණු ඇත.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ශාප කරන"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "තම පියාට"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "තම මවට"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයෙන්"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "මරණු ඇත"
+    }
+  ],
+  "timestamp": "2026-08-28T08:16:36.804395831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔබට උරුමයක් ලෙස යහ්වේ ඔබේ එලෝහීම් දෙන ඔබේ දේශය තුළ නිර්දෝෂ ලේ වත් නොවේ ය — සහ ඔබ මත ලේ ⟨කියා⟩ වන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "වත් වන්නේ නොවේ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ලේ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "නිර්දෝෂ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "තුළ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ඔබේ දේශය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "උරුමයක් ලෙස"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "සහ වන්නේ ය"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ මත"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ලේ ⟨කියා⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:57.594216047Z",
+  "model": "glm-5.3"
+}

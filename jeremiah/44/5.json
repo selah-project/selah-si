@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "ඔවුහු නොඇසූහ; තමන්ගේ දුෂ්ටකමෙන් හැරී යාමට, අන්‍ය දෙවිවරුන්ට ධූප නොදැමී, ⟨את⟩ කන නොනැමූහ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ඇසූහ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "නැමූහ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කන"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "කන"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "හැරී යාමට"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "තමන්ගේ දුෂ්ටකමෙන්"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "නොදැමී"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "ධූප"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "දෙවිවරුන්ට"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "අන්‍ය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:15:04.110964016Z",
+  "model": "glm-5.3"
+}

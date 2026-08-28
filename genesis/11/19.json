@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "පේලග් රෙඌට පියකු වූ පසු වසර දෙසිය නවයක් සිටිවිට, පුතුන් දුවරුන් ලැබීය.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "සිටිවිට"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "පේලග්"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසු"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "පියකු වූ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රෙඌ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "රෙඌ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "නවයක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "දෙසිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුතුන්"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "දුවරුන්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:01.593359427Z",
+  "model": "glm-5.3"
+}

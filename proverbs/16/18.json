@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "බිඳවැටීමට පෙර ⟨ඇත්තේ⟩ උඩඟු බවයි, ඇද වැටීමට පෙර ⟨ඇත්තේ⟩ ඉහළ ගිය රූආඛ්යි.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "බිඳවැටීමට"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "උඩඟු බව"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "සහ පෙර"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ඇද වැටීමට"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ඉහළ ගිය"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "රූආඛ්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:09:28.940304617Z",
+  "model": "glm-5.3"
+}

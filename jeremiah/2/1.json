@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "යහ්වේගේ වචනය මා වෙත ⟨අවුත්⟩ මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:58:33.621323707Z",
+  "model": "glm-5.3"
+}

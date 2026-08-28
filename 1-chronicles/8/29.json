@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ගිබ්ඕන්හි ⟨ගිබ්ඕන්හි⟩ පියා වාසය කළේය; ඔහුගේ බිරිඳගේ නම මආඛා විය.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "ගිබ්ඕන්හි"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ගිබ්ඕන්හි"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "නම"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ඔහුගේ බිරිඳගේ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "මආඛා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:18.416000592Z",
+  "model": "glm-5.3"
+}

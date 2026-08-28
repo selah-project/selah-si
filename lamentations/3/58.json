@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "අදෝනයි, මාගේ ප්‍රාණයේ නඩු ඔබ පවත්වා ඇත; මාගේ ජීවිතය ඔබ මිලදී ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ඔබ නඩු පවත්වා ඇත"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "නඩු"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මාගේ ප්‍රාණයේ"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "ඔබ මිලදී ගත්තේය"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "මාගේ ජීවිතය"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:27.270022530Z",
+  "model": "glm-5.3"
+}

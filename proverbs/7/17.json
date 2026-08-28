@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මම මගේ ඇඳට මොර සුවඳින් ඉස්සව්වෙමි — අහලිම් කූරු සහ කුරඳු.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ඉස්සව්වෙමි"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "මගේ ඇඳ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "මොර"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "අහලිම් කූරු"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "සහ කුරඳු"
+    }
+  ],
+  "timestamp": "2026-08-28T04:00:04.664366730Z",
+  "model": "glm-5.3"
+}

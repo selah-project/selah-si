@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "තකාත්ගේ පුත්, අසීර්ගේ පුත්, එබ්යසාප්ගේ පුත්, කොරක්ගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "තකාත්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "අසීර්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "එබ්යසාප්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "කොරක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:43.019228221Z",
+  "model": "glm-5.3"
+}

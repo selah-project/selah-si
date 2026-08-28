@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "විය — යහ්වේගේ වචනය මට ⟨මෙසේ⟩ පැමිණි:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ ⟨කියමින්⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T00:48:48.897352565Z",
+  "model": "glm-5.3"
+}

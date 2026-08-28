@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සහ පූජකයා තෙලෙන් ටිකක් තම වම් අත්පතුව මතට වත් කරන්නේය.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "සහ ඉන් ටිකක්"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "තෙලෙන්"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "වත් කරන්නේය"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "כף",
+      "gloss": "අත්පතුව"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයාගේ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "වම්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:27:01.891548410Z",
+  "model": "glm-5.3"
+}

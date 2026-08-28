@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මන්ද ඔබේ දෙවි යහ්වේ භක්ෂණ කරන ගිනි වේ; ⟨he⟩ ඊර්ෂ්‍යා කරන එල් වේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ගිනි"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "භක්ෂණ කරන"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ඊර්ෂ්‍යා කරන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:23.173505893Z",
+  "model": "glm-5.3"
+}

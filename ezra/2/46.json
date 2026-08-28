@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "චගාබ්ගේ පුත්‍රයෝ, ෂම්ලයිගේ පුත්‍රයෝ, චනන්ගේ පුත්‍රයෝ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "චගාබ්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "ෂම්ලයි"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "චනන්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:57:12.082527672Z",
+  "model": "glm-5.3"
+}

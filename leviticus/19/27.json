@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "ඔබේ හිසේ කෙළවරවල් කපා නොදෙන්න, ඔබේ රැවුලේ කෙළවර ⟨את⟩ විනාශ නොකරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "කපා දෙන්න"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ඔබේ හිසේ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "විනාස කරන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "රැවුලේ කෙළවර"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "කෙළවර"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ඔබේ රැවුලේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:26:33.405392694Z",
+  "model": "glm-5.3"
+}

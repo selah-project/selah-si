@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ජලය බලසම්පන්න වී පොළොව මත ඉතා ඉතා වැඩි විය; බෝට්ටුව ජලයේ මුහුණ මත ගමන් කළාය.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "බලසම්පන්න වී"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "වැඩි වී"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා ඉතා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ගමන් කළාය"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "බෝට්ටුව"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජලයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:07:09.853459167Z",
+  "model": "glm-5.3"
+}

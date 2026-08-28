@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "ගිම්හානයේ හිම මෙන්ද, අස්වැන්නේ වැසි මෙන්ද — එසේ ම තේජස මෝඩයාට ගැළපෙන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "හිම මෙන්"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ගිම්හානයේ"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "වැසි මෙන්"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "අස්වැන්නේ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ ම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ගැළපෙන්නේ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "මෝඩයාට"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජස"
+    }
+  ],
+  "timestamp": "2026-08-28T04:19:25.835304197Z",
+  "model": "glm-5.3"
+}

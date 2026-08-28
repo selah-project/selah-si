@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "වියළි කෑම් කැබැල්ලක් සහ එහි සන්සුන්කම යහපත්, රැගත් බැවින් පිරි ⟨the⟩ ගෙයකට වඩා.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "פת",
+      "gloss": "කෑම් කැබැල්ල"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "වියළි"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "සහ සන්සුන්කම"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ගෙයකට වඩා"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "පිරි"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "රැගත්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:40.209965525Z",
+  "model": "glm-5.3"
+}

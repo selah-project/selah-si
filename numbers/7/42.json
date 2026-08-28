@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "හයවන දිනයේදී, ගාද් පුත්‍රයන්ගේ නායකයා — දෙයුඑල්ගේ පුත් එල්යාසාප්.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "දිනයේදී"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "හයවන"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "නායකයා"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "එල්යාසාප්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "දෙයුඑල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:31:23.861270806Z",
+  "model": "glm-5.3"
+}

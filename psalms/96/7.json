@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 96,
+  "translation": "ජනයන්ගේ පවුල්වලින්, යහ්වේට දෙන්න; යහ්වේට තේජසුත් බලයුත් දෙන්න.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "පවුල්වලින්"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනයන්ගේ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "තේජසුත්"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "බලයුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:27:39.843733587Z",
+  "model": "glm-5.3"
+}

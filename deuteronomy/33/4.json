@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "තෝරාවක් අපට මොෂේ විධාන කළේය — යාකොව්ගේ සභාවේ උරුමයකි.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "තෝරාවක්"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "විධාන කළේය"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "උරුමයකි"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "සභාවේ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:22.446236305Z",
+  "model": "glm-5.3"
+}

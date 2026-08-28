@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "යහ්වේ මොෂාට වදාළේය, මෙසේ කියා:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "වදාළේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ද"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂාට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:31:14.362700993Z",
+  "model": "glm-5.3"
+}

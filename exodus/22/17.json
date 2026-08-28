@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මන්ත්‍රකාරියක් ඔබ ජීවත් නොතබනු.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "මන්ත්‍රකාරියක්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ජීවත් තබනු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:44.200634442Z",
+  "model": "glm-5.3"
+}

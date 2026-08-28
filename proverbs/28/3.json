@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "දුගී මිනිසෙක් ⟨את⟩ දුගීන් පීඩා කරන්නේ ⟨is⟩ ගසාගෙන යන වැසික් වැනි — සහ ආහාරය නැත.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "මිනිසෙක්"
+    },
+    {
+      "surface": "רש",
+      "gloss": "දුගී"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "පීඩා කරන්නේ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "දුගීන්"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "වැසික්"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "ගසාගෙන යන"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ආහාරය"
+    }
+  ],
+  "timestamp": "2026-08-28T12:05:44.196961224Z",
+  "model": "glm-5.3"
+}

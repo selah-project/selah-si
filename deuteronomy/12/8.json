@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අප මෙහි අද කරන සියල්ල පරිදි ඔබ කරන්නේ නැත — එක් එක් මිනිසා ⟨the⟩ තම ඇස් ඉදිරේ යහපත් වන සියල්ල.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ඔබ කරන්නේ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ල පරිදි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "අප"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "කරන"
+    },
+    {
+      "surface": "פה",
+      "gloss": "මෙහි"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "איש",
+      "gloss": "එක් එක් මිනිසා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත් වන"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "තම ඇස් ඉදිරේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:07.978859065Z",
+  "model": "glm-5.3"
+}

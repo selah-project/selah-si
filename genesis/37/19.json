@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 37,
+  "translation": "ඔව්හු එක් අයෙක් තම සහෝදරයාට කීවෝය: බලවා, ඒ සිහින බලා ගත් තැනැත්තා එමින් සිටීය.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "කීවෝය"
+    },
+    {
+      "surface": "איש",
+      "gloss": "එක් අයෙක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "තම සහෝදරයා"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලවා"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "බලා ගත්"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "සිහින"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "එමින් සිටීය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:27:25.769419795Z",
+  "model": "glm-5.3"
+}

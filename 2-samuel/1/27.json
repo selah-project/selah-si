@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කෙසේද වැටුණේ බලවත්හු, සටන් ආයුධද නැති වූයේ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "කෙසේද"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "වැටුණේ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "බලවත්හු"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "නැති වූයේ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ආයුධ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටන්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:12:21.616345631Z",
+  "model": "glm-5.3"
+}

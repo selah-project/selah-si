@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "මම තනන ගෙය මහත් වන්නේ ය; මන්ද, අපගේ එලෝහීම් සියලු දෙවිවරුන්ට වඩා මහත් වන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ගෙය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "මම"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "තනන"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහත්"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "අපගේ එලෝහීම්"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "සියලු…ට වඩා"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "දෙවිවරුන්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:14:04.279139277Z",
+  "model": "glm-5.3"
+}

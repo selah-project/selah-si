@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මක්ද ඔවුන්ගේ විපත හදිසියේ නැඟී එයි; ඔවුන් දෙදෙනාගේ විනාශය කවුද දන්නේ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්ද"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "හදිසියේ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "නැඟී එයි"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ඔවුන්ගේ විපත"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "සහ විනාශය"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ඔවුන් දෙදෙනාගේ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුද"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "දන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:16:58.516175945Z",
+  "model": "glm-5.3"
+}

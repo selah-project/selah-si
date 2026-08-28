@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මෙය මම මගේ හදවතට ආපසු හරවමි; එබැවින් මම බලාපොරොත්තු වෙමි.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "මම … ආපසු හරවමි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "මගේ හදවත"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "බලාපොරොත්තු වෙමි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:52.903258848Z",
+  "model": "glm-5.3"
+}

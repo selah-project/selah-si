@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "නිවාස ඉදිකර වාසය කරන්න; උද්‍යාන සිටුවා ⟨את⟩ ඒවායේ ඵල කාලන්න.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ඉදිකරන්න"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "නිවාස"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "වාසය කරන්න"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "සිටුවා"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "උද්‍යාන"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "කාලන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවායේ ඵල"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ඒවායේ ඵල"
+    }
+  ],
+  "timestamp": "2026-08-28T09:51:47.175265152Z",
+  "model": "glm-5.3"
+}

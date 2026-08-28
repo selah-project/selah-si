@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "එවිට ෂලෝමෝ පැවසුවේය: ඝන අන්ධකාරයෙහි වැඩ විසීමට යහ්වේ කීවේය.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "පැවසුවේය"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "වැඩ විසීමට"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ඝන අන්ධකාරයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T07:15:57.464952033Z",
+  "model": "glm-5.3"
+}

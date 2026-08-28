@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "සහ සෑම මිනිසෙක් අනුභව කරමින් පානය කරමින් තම සියලු වෙහෙසෙහි යහපත දැකීම — එය එලෝහීම්ගේ දීමනාවයි.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "සහ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "අනුභව කරමින්"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "පානය කරමින්"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "දැකීම"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු...හි"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "තම වෙහෙස"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "දීමනාව"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එයයි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:19:11.505522951Z",
+  "model": "glm-5.3"
+}

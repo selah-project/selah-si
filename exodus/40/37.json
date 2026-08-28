@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "නමුත් වලාකුළ නොනැඟී නම්, එය නැඟෙන දිනය දක්වා ඔව්හු ගමන් නොකළහ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "නමුත්...නම්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "වලාකුළ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ගමන් නොකළහ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "එය නැඟෙන"
+    }
+  ],
+  "timestamp": "2026-08-27T20:04:45.550619881Z",
+  "model": "glm-5.3"
+}

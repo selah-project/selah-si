@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඔව්හූ හා නිදාගන්නට පෙර, ඇය වහලට ඔවුන් වෙත නැඟී ගියාය.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ඔව්හූ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "නිදාගන්නට"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "නැඟී ගියාය"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ඔවුන් වෙත"
+    },
+    {
+      "surface": "על",
+      "gloss": "වහලට"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "වහල"
+    }
+  ],
+  "timestamp": "2026-08-28T08:47:03.800052891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 9:9",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඔබ ආදරය කළ ස්ත්‍රිය සමඟ ජීවිතය දකින්න, ඔබේ හෙබෙල් ජීවිතයේ සියලු දින — ඉර යට ඔබට දෙන ලද ඔබේ හෙබෙල් දිනවල; මන්ද ඒ ජීවිතයෙහි ඔබේ කොටසයි, ඉර යට ඔබ වෙහෙසෙන ඔබේ වෙහෙසෙහිද ය.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "දකින්න"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවිතය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ස්ත්‍රිය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ආදරය කළ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දින"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ජීවිතයේ"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "ඔබේ හෙබෙල්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දෙන ලද"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "ඔබේ හෙබෙල්"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ඔබේ කොටස"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ජීවිතයෙහි"
+    },
+    {
+      "surface": "ובעמלך",
+      "gloss": "ඔබේ වෙහෙසෙහිද"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "වෙහෙසෙන"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ඉර"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:29.664907620Z",
+  "model": "glm-5.3"
+}

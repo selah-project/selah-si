@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ඇතිරිලි ගල් හෝ එහි උඩුගල සුරැස්සට ⟨නොගනී⟩; මන්ද ඒ ⟨ඔහුගේ⟩ ජීවයම සුරැස්සන්නේ වන්නේය.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "සුරැස්සට ගනී"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ඇතිරිලි ගල්"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "සහ උඩුගල"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ජීවය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "සුරැස්සන්නේ වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:40.735248921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එක් කැබ්සෙකු ⟨את⟩ උදෑසන කරන්න, දෙවැනි කැබ්සා ⟨את⟩ සවස් යාමයේදී කරන්න.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එක් කැබ්සෙකු"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "කැබ්සා"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "දෙවැනි කැබ්සා"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "කැබ්සා"
+    },
+    {
+      "surface": "השני",
+      "gloss": "දෙවැනි"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "בין",
+      "gloss": "...යාමයේදී"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "සවස්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:49.388742129Z",
+  "model": "glm-5.3"
+}

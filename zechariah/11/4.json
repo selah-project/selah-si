@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "මෙසේ කීවේය යහ්වේ මාගේ එලෝහීම්: ⟨את⟩ ඝාතනයට නියමිත රැළ රැකබලා ගන්න.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "මාගේ එලෝහීම්"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "රැකබලා ගන්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඝාතනයට නියමිත රැළ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "රැළ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ඝාතනයට නියමිත"
+    }
+  ],
+  "timestamp": "2026-08-28T01:51:44.130875768Z",
+  "model": "glm-5.3"
+}

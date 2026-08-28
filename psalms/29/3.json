@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 29,
+  "translation": "යහ්වේගේ හඬ ⟨ජලයන්⟩ මත ⟨ය⟩; තේජසන්ත ⟨එල්⟩ ගිගුරුවීය; යහ්වේ බොහෝ ජලයන් මත ⟨ය⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "හඬ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨ජලයන්⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "තේජසන්ත"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ගිගුරුවීය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයන්"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:18:25.061926876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඇය ⟨ඇයට⟩ කීවාය: “ඔබ කියන සියල්ල මම කරමි.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "කරමි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:05:49.151721395Z",
+  "model": "glm-5.3"
+}

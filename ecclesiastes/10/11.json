@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මන්ත්‍ර නොකළ විට සර්පයා දෂ්ට කරයි; එවිට මන්ත්‍රකරුට — දිව හිමිකරුට — වාසියක් නැත.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "දෂ්ට කරයි"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "සර්පයා"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "නොකළ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "මන්ත්‍ර"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "වාසිය"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "හිමිකරුට"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "දිව"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:15.858842709Z",
+  "model": "glm-5.3"
+}

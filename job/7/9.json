@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "වලාකුළ නිමා වී ගියේය; එසේම ෂෙයෝල් වෙත බසින්නා ⟨ඔහු⟩ නැවත නොනැඟේ.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "නිමා වී"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "වලාකුළ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "බසින්නා"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂෙයෝල්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නැඟේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:14:54.157546431Z",
+  "model": "glm-5.3"
+}

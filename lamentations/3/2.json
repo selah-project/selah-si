@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මා ⟨את⟩ ඔහු මෙහෙයවා, අඳුරෙහි ඇවිද යවායි — ආලෝකයෙහි නොවේ.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "මා"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "මෙහෙයවා"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ඇවිද යවායි"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "අඳුරෙහි"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-28T05:11:46.705287284Z",
+  "model": "glm-5.3"
+}

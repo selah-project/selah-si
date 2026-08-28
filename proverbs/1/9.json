@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මන්ද ඒවා ඔබේ හිසට අනුග්‍රහයේ මල්කිනිත්තක් වන අතර ඔබේ ගෙලට අගල් වේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "මල්කිනිත්ත"
+    },
+    {
+      "surface": "חן",
+      "gloss": "අනුග්‍රහය"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ඔබේ හිසට"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "අගල්"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ඔබේ ගෙලට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:51:12.422635060Z",
+  "model": "glm-5.3"
+}

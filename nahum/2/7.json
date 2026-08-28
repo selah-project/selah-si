@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ගංඟාවන්ගේ දොරටු විවෘත විය, මාලිගාව දිය වී ගියාය.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "දොරටු"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ගංඟාවන්ගේ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "විවෘත විය"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "මාලිගාව"
+    },
+    {
+      "surface": "נמි",
+      "gloss": "දිය වී ගියාය"
+    }
+  ],
+  "timestamp": "2026-08-28T01:34:25.555127651Z",
+  "model": "glm-5.3"
+}

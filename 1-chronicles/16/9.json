@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔහුට ගයන්න, ඔහුට වීණා ගාන්න, ඔහුගේ සියලු අද්භූත ක්‍රියා ගැන කථා කරන්න.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ගයන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "වීණා ගාන්න"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "කථා කරන්න"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "සියලු ... ගැන"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ඔහුගේ අද්භූත ක්‍රියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:47:51.718407713Z",
+  "model": "glm-5.3"
+}

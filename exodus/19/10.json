@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "යහ්වේ මොෂේට කී ය: ජනතාව වෙත යව, ඔවුන්ව අදද හෙටද පවින්නව, ඔවුන් තම ඇඳුම් සෝදා ගන්නා ලෙස.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කී ය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "පවින්නව"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "හෙට"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "සෝදා ගන්නා ලෙස"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "තම ඇඳුම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:48:52.765105761Z",
+  "model": "glm-5.3"
+}

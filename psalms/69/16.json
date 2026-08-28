@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 69,
+  "translation": "දිය පහරක් මා යට නොකරන්න; ගැඹුර මා ගිල නොදමන්න; වළ තම කට මතින් වසා නොදමන්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "මා යට කරන්න"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "පහරක්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "දිය"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "මා ගිල දමන්න"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ගැඹුර"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "සහ නො"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "වසා දමන්න"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මතින්"
+    },
+    {
+      "surface": "באר",
+      "gloss": "වළ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "තම කට"
+    }
+  ],
+  "timestamp": "2026-08-28T12:04:07.321880800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "වස්ත්‍රයක ලාදුරු පීඩාවක් වන්නේ නම් — ලොම් වස්ත්‍රයක හෝ පලු වස්ත්‍රයක —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "සහ වස්ත්‍රය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "පීඩාවක්"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ලාදුරු"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "වස්ත්‍රයක"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ලොම්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "වස්ත්‍රයක"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "පලු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:28.058210396Z",
+  "model": "glm-5.3"
+}

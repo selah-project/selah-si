@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු කීවේය: උයනේදී ⟨את⟩ ඔබ හඬ මම ඇසූයෙමි, මම නිරුවත් බැවින් බිය වී සැඟවුණෙමි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔබ හඬ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ඔබ හඬ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ඇසූයෙමි"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "උයනේදී"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "බිය වී"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බැවින්"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "නිරුවත්"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "සැඟවුණෙමි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:07.946087738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "වරක් සහ කොරපොතු නැති ඕනෑම දෙයක් ඔබ නොකවයි; එය ඔබට අපවිත්‍රයි.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ ඕනෑම දෙයක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එයට"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "වරක්"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "සහ කොරපොතු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ඔබ කවයි"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අපවිත්‍රයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:04.786257818Z",
+  "model": "glm-5.3"
+}

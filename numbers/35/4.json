@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 35:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 35,
+  "translation": "ඔබ ලෙවීවරුන්ට දෙන නගරවල තෘණභූමි — නගරයේ බැම්මේ සිට පිටතට වටේට අඟල් දහසක් ⟨වේවා⟩.",
+  "tokens": [
+    {
+      "surface": "ומגרשי",
+      "gloss": "තෘණභූමි"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "නගරවල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ඔබ දෙන"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ලෙවීවරුන්ට"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "බැම්මේ සිට"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "וחוצה",
+      "gloss": "පිටතට"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:54:14.381027828Z",
+  "model": "glm-5.3"
+}

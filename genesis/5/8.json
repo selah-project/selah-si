@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ංෙශත්ගේ සියලු දිනවල් අවුරුදු නවසිය දොළහක් විය; ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල්"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ෂෙත්ගේ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දොළහක්"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "නව"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:05:01.273917947Z",
+  "model": "glm-5.3"
+}

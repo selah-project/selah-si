@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔහුගේ වෙන්වීමේ සියලු දිනවල, වයින් මිදි වැලෙන් නිපදවන ලද කිසිවක් — ඇට සිට සම දක්වා — නොකන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ඔහුගේ වෙන්වීමේ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "නිපදවන ලද"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "වැලෙන්"
+    },
+    {
+      "surface": "היין",
+      "gloss": "වයින්"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "ඇට සිට"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "זג",
+      "gloss": "සම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:32:34.037529600Z",
+  "model": "glm-5.3"
+}

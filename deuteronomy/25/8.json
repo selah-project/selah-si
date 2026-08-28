@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "එවිට ඔහුගේ නගරයේ මහලුහු ඔහුව කැඳවා ඔහු වෙත කථා කරති; ඔහු සිටගෙන 'මම ඇයව ගැනීමට කැමති නැතැ'යි කියයි.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "කැඳවති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුව"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "මහලුහු"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ඔහුගේ නගරයේ"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "කථා කරති"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහු වෙත"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "සිටගෙන"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "කැමති"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ඇයව ගැනීමට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:12:35.679704217Z",
+  "model": "glm-5.3"
+}

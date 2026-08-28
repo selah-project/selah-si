@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "ඔබ තැනුවර නො රෝපණය කරන්න — යහ්වේ ඔබේ එලෝහීම්ගේ පූජාසනා අසල, ඕනෑම වෘක්ෂයක් වූ අෂේරාවක්, ඔබ ඔබට සාදන තැන.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "රෝපණය කරන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "අෂේරාවක්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ඕනෑම"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "වෘක්ෂයක්"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "පූජාසනා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ඔබේ එලෝහීම්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "සාදන"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:14.634617328Z",
+  "model": "glm-5.3"
+}

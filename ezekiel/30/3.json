@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "මන්නම, දවස කිට්ටු ය; යහ්වේ හට දවස කිට්ටු ය — වලාකුළු දවසක්; ජාතීන්ගේ කාලය වන්නේ ය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්නම"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "කිට්ටු ය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "කිට්ටු ය"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවස"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේ හට"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දවසක්"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "වලාකුළු"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලය"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ජාතීන්ගේ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේ ය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:44:24.644767819Z",
+  "model": "glm-5.3"
+}

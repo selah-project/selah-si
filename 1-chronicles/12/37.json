@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "අශේර් වෙතින් සටනට පිටත්ව යන්නෝ, සටන පෙළගැස්වීමට ⟨සමත්⟩ හතළිස් දහසකි.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "අශේර් වෙතින්"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "පිටත්ව යන්නෝ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සටනට"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "පෙළගැස්වීමට"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "සටන"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසකි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:50:51.560419103Z",
+  "model": "glm-5.3"
+}

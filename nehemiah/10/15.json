@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "ජනතාවගේ ප්‍රධානීෝ: පරෝෂ්, පඛත්-මෝආබ්, ඒලාම්, සත්තූ, බානි,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ප්‍රධානීෝ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාවගේ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "පරෝෂ්"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "පඛත්"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ඒලාම්"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "සත්තූ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "බානි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:23:24.967307100Z",
+  "model": "glm-5.3"
+}

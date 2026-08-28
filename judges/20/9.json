@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "දැන්, ගිබෙයාහට අපි කරන දේ මෙයයි — එයට එරෙහිව ගෝරාලයෙන් ⟨අපි⟩ නගිමු.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "අපි කරමු"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "ගිබෙයාහට"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එයට එරෙහිව"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ගෝරාලයෙන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:48:53.068136414Z",
+  "model": "glm-5.3"
+}

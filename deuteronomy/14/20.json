@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සියලු පවිත්‍ර කුරුල්ලන් ⟨ඔබට⟩ කඑ හැක.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "කුරුල්ලන්"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පවිත්‍ර"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කඑ හැක"
+    }
+  ],
+  "timestamp": "2026-08-27T21:04:08.423699227Z",
+  "model": "glm-5.3"
+}

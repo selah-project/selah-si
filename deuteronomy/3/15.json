@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මාඛීර්ට ද ⟨את⟩ ගිල්ඒද් මම දුන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "මාඛීර්ට ද"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "මම දුන්නෙමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගිල්ඒද්"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ගිල්ඒද්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:56:55.991145563Z",
+  "model": "glm-5.3"
+}

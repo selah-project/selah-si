@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "පාෂ්ඛූර්, අමරියා, මල්කියා.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "පාෂ්ඛූර්"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "අමරියා"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "මල්කියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:07.897871695Z",
+  "model": "glm-5.3"
+}

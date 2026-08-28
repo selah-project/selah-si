@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සූරලිහීණියාද, ⟨את⟩ උකුස්සාද, උකුස්සාද ⟨එහි⟩ වර්ගය අනුව නොකන්න.",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "සූරලිහීණියාද"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "උකුස්සා"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "උකුස්සා"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "උකුස්සාද"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "⟨එහි⟩ වර්ගය අනුව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:03:52.239045588Z",
+  "model": "glm-5.3"
+}

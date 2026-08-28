@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යිට්ස්හරීන්ට — ෂෙලෝමොත්; ෂෙලෝමොත්ගේ පුත්‍රයන්ට — යඛත්.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "යිට්ස්හරීන්ට"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ෂෙලෝමොත්"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුත්‍රයන්ට"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ෂෙලෝමොත්ගේ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "යඛත්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:00:07.101046072Z",
+  "model": "glm-5.3"
+}

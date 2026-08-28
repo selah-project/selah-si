@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "⟨את⟩ ඔබේ සහෝදරයා ද ගෙන, නැඟී සිට, ඒ ⟨the⟩ මිනිසා වෙත නැවත හැරෙන්න.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "සහෝදරයා"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "සහෝදරයා"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "නැඟී සිට"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "නැවත හැරෙන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "මිනිසා"
+    }
+  ],
+  "timestamp": "2026-08-28T08:12:26.162012641Z",
+  "model": "glm-5.3"
+}

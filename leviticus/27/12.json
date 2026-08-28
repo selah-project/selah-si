@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ද පූජකයා එය ⟨את⟩ තක්සේරු කරයි — හොඳ ද, නරක ද අතර; පූජකයෙනි, ඔබේ තක්සේරුව අනුව එසේ වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ද තක්සේරු කරයි"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයා"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "בין",
+      "gloss": "අතර"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ද"
+    },
+    {
+      "surface": "רע",
+      "gloss": "නරක"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "ඔබේ තක්සේරුව අනුව"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයෙනි"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:26:44.974944531Z",
+  "model": "glm-5.3"
+}

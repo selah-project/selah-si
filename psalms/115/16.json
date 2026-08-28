@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 115,
+  "translation": "අහස — අහස යහ්වේට අයිතිය; පොළොව මිනිස් පුතුන්ට දී ඇත.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "අහස —"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට අයිතිය"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දී ඇත"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පුතුන්ට"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිස්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:29:16.260973551Z",
+  "model": "glm-5.3"
+}

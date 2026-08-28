@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "දිබොන් මතට සහ නෙබෝ මතට සහ බෙත්-දිබ්ලතායිම් මතටය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "දිබොන්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "නෙබෝ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙත්-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "දිබ්ලතායිම්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:15:41.266092147Z",
+  "model": "glm-5.3"
+}

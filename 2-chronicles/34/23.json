@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ඇය ඔවුන්ට කීවා: ඉශ්‍රාඑල්හි එලෝහීම් වන යහ්වේ මෙසේ කියන සේක — මා වෙත ⟨את⟩ ඔබව එවූ ⟨the⟩ මිනිසාට කියන්න.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ඇය කීවා"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියන සේක"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "එලෝහීම් වන"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රාඑල්හි"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "කියන්න"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "එවූ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ඔබව",
+      "marks": "මා වෙත"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    }
+  ],
+  "timestamp": "2026-08-28T07:57:00.516328866Z",
+  "model": "glm-5.3"
+}

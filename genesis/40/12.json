@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "යොසෙප් ඔහුට කීවේය: මෙය එහි විග්‍රහයයි — අතු තුන, දින තුනක් ඒවා වේ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යොසෙප්"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "විග්‍රහය"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "අතු"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "දින"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ඒවා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:29:42.547555872Z",
+  "model": "glm-5.3"
+}

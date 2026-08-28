@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "පළිගැනීම් මට දෙන, ජනතාව මා යටතට පත් කරන එල් ⟨the⟩ ඔහු වේ.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "ඔහු",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "දෙන"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "පළිගැනීම්"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "පත් කරන"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "මා යටතට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:27:51.610298768Z",
+  "model": "glm-5.3"
+}

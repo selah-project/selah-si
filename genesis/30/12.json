@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ලෙයාගේ දාසිය වන සිල්පා යාකොව්ට දෙවන පුතෙකු පුත් රතු කළාය.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "පුත් රතු කළාය"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "සිල්පා"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "දාසිය"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ලෙයාගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතෙකු"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙවන"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "යාකොව්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:19:56.333253564Z",
+  "model": "glm-5.3"
+}

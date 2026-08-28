@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔවුහු දොප්කාහෙන් පිටත්ව අලූෂ්හි පුෂ්පය ගසාගත්තෝය.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "පිටත්ව"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "දොප්කාහෙන්"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "පුෂ්පය ගසාගත්තෝය"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "අලූෂ්හි"
+    }
+  ],
+  "timestamp": "2026-08-28T11:50:32.557730623Z",
+  "model": "glm-5.3"
+}

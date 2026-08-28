@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "දාවීද් බලකොටුවේ වාසය කළේය; එබැවින් ⟨ඔවුන්⟩ එය „දාවීද්ගේ නගරය‟ ලෙස නම් කළෝය.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "වාසය කළේය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "බලකොටුවේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "එබැවින්"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "නම් කළෝය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "එය"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:43:39.431160882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සහ දාවීද්, යහ්වේගේ නාමයෙන් කී ගාද්ගේ වචනය පරිදි, නැගියේය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "සහ-නැගියේය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "වචනය-පරිදි"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ගාද්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "නාමයෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:58:37.126455129Z",
+  "model": "glm-5.3"
+}

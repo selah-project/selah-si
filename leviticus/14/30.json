@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඔහුගේ අත ළඟා වන දෙයින් — තැරැටියන්ගෙන් එකක් හෝ පරවි පැටවුන්ගෙන් ⟨את⟩ එකක් ඔහු කරයි.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ඔහු කරයි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එකක්"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එකක්"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "තැරැටියන්ගෙන්"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පැටවුන්"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "පරවි"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "දෙයින්"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ළඟා වන"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ඔහුගේ අත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:14:14.411243321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 108,
+  "translation": "අවදි වව්, නෙබෙලය සහ කින්නරය; මම අලුයම අවදි කරන්නෙමි.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "අවදි වව්"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "නෙබෙලය"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "සහ කින්නරය"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "මම අවදි කරන්නෙමි"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "අලුයම"
+    }
+  ],
+  "timestamp": "2026-08-28T03:25:17.766111413Z",
+  "model": "glm-5.3"
+}

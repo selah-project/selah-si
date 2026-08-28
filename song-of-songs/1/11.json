@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "රන් පළඳනා රැස් අපි ඔබට කරමු, රිදී බින්දු සමඟ.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "පළඳනා රැස්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "අපි කරමු"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "බින්දු"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "රිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T04:59:54.590943183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "බලු — මේ සියල්ල එල් කරයි, දෙවරක්, තෙවරක්, මිනිසා සමඟ",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "කරයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "එල්"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "දෙවරක්"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "තෙවරක්"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "මිනිසා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:51:41.517572967Z",
+  "model": "glm-5.3"
+}

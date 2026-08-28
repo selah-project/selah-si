@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 69,
+  "translation": "මන්ද ඔබ නිසා මම නින්දාව දැරුවෙමි; අවමානය මගේ මුහුණ වැසී ඇත।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ඔබ නිසා"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "මම දැරුවෙමි"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "නින්දාව"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "වැසී ඇත"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "අවමානය"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මගේ මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:24:59.653724957Z",
+  "model": "glm-5.3"
+}

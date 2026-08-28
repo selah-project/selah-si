@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "ඔබ ඔබගේ දකුණත දිගු කළහු — පොළොව ඔවුන්ව ගිලගත්තාය.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "ඔබ දිගු කළහු"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ඔබගේ දකුණත"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "ගිලගත්තාය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    }
+  ],
+  "timestamp": "2026-08-27T19:44:44.191332206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔබේ නැව් පදවන්නන්ගේ කෑගසන හඬට පිටත තැන් සැලෙති.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "හඬට"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "කෑගසීම"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ඔබේ නැව් පදවන්නන්ගේ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "සැලෙති"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "පිටත තැන්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:42:46.604454379Z",
+  "model": "glm-5.3"
+}

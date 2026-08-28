@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ෂෙෆටියාගේ පුත්‍රයෝ — තුන්සියයක්, හැත්තෑ දෙකක්.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ෂෙෆටියාගේ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "හැත්තෑ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "දෙකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:56:08.875362945Z",
+  "model": "glm-5.3"
+}

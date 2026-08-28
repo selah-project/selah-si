@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සහ සෙබද්යා, අරද්, සහ එදෙර්.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "සහ සෙබද්යා"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "අරද්"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "සහ එදෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:42:11.305983585Z",
+  "model": "glm-5.3"
+}

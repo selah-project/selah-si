@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "හෝ කකුලෙහි කැඩීමක් හෝ අතෙහි කැඩීමක් ඇති පුරුෂයෙක්.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "පුරුෂයෙක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ඇති වේ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ඔහු තුළ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කැඩීමක්"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "කකුලෙහි"
+    },
+    {
+      "surface": "או",
+      "gloss": "හෝ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කැඩීමක්"
+    },
+    {
+      "surface": "יד",
+      "gloss": "අතෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:20:28.732421890Z",
+  "model": "glm-5.3"
+}

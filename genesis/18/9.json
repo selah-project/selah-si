@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඔවුහු ඔහුට කීවෝය: සාරා ඔබේ බිරිඳ කොහි ද? ඔහු කීවේය: බලු, මඩුවෙහි ⟨ඇය⟩ ය.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ඔවුහු කීවෝය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "איה",
+      "gloss": "කොහි ද"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "සාරා"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ඔබේ බිරිඳ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "මඩුවෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T19:11:27.637127787Z",
+  "model": "glm-5.3"
+}

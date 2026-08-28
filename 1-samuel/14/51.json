@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "කිෂ් ෂාඌල්ගේ පියා විය; නේර් අබ්නේර්ගේ පියා — අබියේල්ගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "කිෂ්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාඌල්ගේ"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "නේර්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "අබ්නේර්ගේ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "අබියේල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:59:12.673237553Z",
+  "model": "glm-5.3"
+}

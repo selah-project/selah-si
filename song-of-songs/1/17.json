@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අපගේ ගෙයි හරස් කුරයන් දේදුම් ගස් වේ; අපගේ පුවරු බරෝත් ගස් වේ.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "හරස් කුරයන්"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "අපගේ ගෙයි"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "දේදුම් ගස්"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "අපගේ පුවරු"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "බරෝත් ගස්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:58:50.359890869Z",
+  "model": "glm-5.3"
+}

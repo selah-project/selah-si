@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "සොරා හමු නොවූයේ නම්, ගෙයි හිමියා එලෝහීම් වෙත ලං වන්නේය — තම යාබදාගේ දෙයට අත නොදැමූ බව තහවුරු කරන්නට.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "විට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "හමු වූයේ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "සොරා"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "ලං වන්නේය"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "හිමියා"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෙයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אם",
+      "gloss": "විට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "දැමූ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "තම අත"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "දෙයට"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "තම යාබදාගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:52:50.582554556Z",
+  "model": "glm-5.3"
+}

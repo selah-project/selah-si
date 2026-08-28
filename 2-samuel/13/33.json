@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "දැන් එසේ නම්, මගේ ස්වාමි රජු 'රජුගේ පුත්‍රයෝ සියල්ල මළහ' යන වචනය සිය සිත්හි නොතබේවා; අම්නොන් පමණක් මළේය.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන් එසේ නම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "තබේවා"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "මගේ ස්වාමි"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "සිත්හි"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "මළහ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אם",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "අම්නොන්"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "පමණක්"
+    },
+    {
+      "surface": "מת",
+      "gloss": "මළේය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:19:53.898985869Z",
+  "model": "glm-5.3"
+}

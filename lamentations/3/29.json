@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු තම මුඛය පොළොවේ දූලිස්හි තබන්නේය; සමහරවිට බලාපොරොත්තුවක් ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "තබන්නේය"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "දූලිස්හි"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ඔහුගේ මුඛය"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "සමහරවිට"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ඇත⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "බලාපොරොත්තුවක්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:20.821078402Z",
+  "model": "glm-5.3"
+}

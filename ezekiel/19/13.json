@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "දැන් ඇය මහා කාන්තාරයේ, වියළි හා පිපාසිත ⟨the⟩ දේශයේ රෝපණය කර ඇත.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "රෝපණය කර ඇත"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "මහා කාන්තාරයේ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "වියළි"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "හා පිපාසිත"
+    }
+  ],
+  "timestamp": "2026-08-28T00:33:05.765948873Z",
+  "model": "glm-5.3"
+}

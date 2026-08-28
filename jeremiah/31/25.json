@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මම මහිත වූ ප්‍රාණය තෘප්ත කළෙමි, සියලු දිගු වූ ප්‍රාණය මම පිරවීමි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "තෘප්ත කළෙමි"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "මහිත වූ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ප්‍රාණය"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "දිගු වූ"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "පිරවීමි"
+    }
+  ],
+  "timestamp": "2026-08-28T00:04:37.446139040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "උරියා පූජක, රජ අහාස් නියෝග කළ සියල්ලටම අනුව කෙරුවේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කෙරුවේය"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "උරියා"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජක"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලටම අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "නියෝග කළ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "අහාස්"
+    }
+  ],
+  "timestamp": "2026-08-27T23:01:57.161768167Z",
+  "model": "glm-5.3"
+}

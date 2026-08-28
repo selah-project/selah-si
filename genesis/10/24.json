@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අර්පක්ෂද් ⟨את⟩ ෂෙලා (ශෙලක්) බිහි කළේය; ෂෙලා ⟨את⟩ ඒවර් බිහි කළේය.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "බිහි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙලා (ශෙලක්)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ෂෙලා (ශෙලක්)"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ෂෙලා"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "බිහි කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඒවර්"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ඒවර්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:08:22.028356928Z",
+  "model": "glm-5.3"
+}

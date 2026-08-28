@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 108,
+  "translation": "ගීතයක් — මිස්මෝරයක් — දාවීද් සඳහා.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "මිස්මෝරයක්"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද් සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-28T03:25:17.765769444Z",
+  "model": "glm-5.3"
+}

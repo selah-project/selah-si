@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 72,
+  "translation": "හා සියලු රජුහු ඔහුට වැඳ වතිති; සියලු ජාතීහු ඔහුට සේවය කරති.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "හා වැඳ වතිති"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "රජුහු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ජාතීහු"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "සේවය කරති"
+    }
+  ],
+  "timestamp": "2026-08-28T02:48:59.401005543Z",
+  "model": "glm-5.3"
+}

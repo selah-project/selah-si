@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබ කෝපයෙන් ඔවුන් පසාරම් කර, යහ්වේගේ අහස යටින් ඔවුන් විනාශ කරව්.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "ඔබ පසාරම් කර"
+    },
+    {
+      "surface": "באף",
+      "gloss": "කෝපයෙන්"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "සහ ඔවුන් විනාශ කරව්"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "යටින්"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:10:21.229206575Z",
+  "model": "glm-5.3"
+}

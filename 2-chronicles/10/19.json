@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "දාවීද්ගේ පවුලට එරෙහිව යිස්රායෙල් මේ දින දක්වා කැරළි ගැසී සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "කැරළි ගැසී සිටියේය"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල්"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "පවුලට"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්ගේ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "היום",
+      "gloss": "මේ දින"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:18:40.950646792Z",
+  "model": "glm-5.3"
+}

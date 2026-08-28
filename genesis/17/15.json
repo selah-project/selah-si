@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "එලෝහීම් අව්රාහම්ට කීවේය: ෂරයි ඔබේ බිරිඳ — ඇගේ නම ⟨את⟩ ෂරයි කියා නොකථම්න; මන්ද ෂාරා ඇගේ නමය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "සහ කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ෂරයි"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ඔබේ බිරිඳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "කියා කථම්න"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඇගේ නම"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ඇගේ නම"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ෂරයි"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ෂාරා"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ඇගේ නමය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:12:35.250697895Z",
+  "model": "glm-5.3"
+}

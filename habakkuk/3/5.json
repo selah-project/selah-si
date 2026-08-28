@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහුට පෙර වසංගතය ගමන් කරයි, ඔහුගේ පාද ළඟට ජ්වල දැල්ල පිටත් වේ.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ඔහුට පෙර"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ගමන් කරයි"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වසංගතය"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත් වේ"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ජ්වල දැල්ල"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ඔහුගේ පාද ළඟට"
+    }
+  ],
+  "timestamp": "2026-08-28T01:43:53.569432367Z",
+  "model": "glm-5.3"
+}

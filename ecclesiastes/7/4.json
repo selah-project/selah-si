@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ප්‍රඥාවන්ගේ හදවත වැලපෙන ගෙදර ⟨තුළ⟩ ⟨සිටී⟩, නුඹලුන්ගේ හදවත සත්කාර ගෙදර ⟨තුළ⟩ ⟨සිටී⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "හදවත"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ප්‍රඥාවන්ගේ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙදර තුළ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "වැලපෙන"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "සහ හදවත"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "නුඹලුන්ගේ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ගෙදර තුළ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "සත්කාර\/සත්කාරයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:22:54.997419407Z",
+  "model": "glm-5.3"
+}

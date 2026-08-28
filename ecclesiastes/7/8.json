@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "දෙයක ⟨the⟩ අවසානය එහි ආරම්භයට වඩා යහපත්ය; උස් මඩමේ ආත්මයට වඩා ඉවසිලිමත් ආත්මය යහපත්ය.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "අවසානය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "දෙයක"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "එහි ආරම්භයට වඩා"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්ය"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ඉවසිලිමත්"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ආත්මය"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "උස් මඩමේ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ආත්මය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:47:24.588530252Z",
+  "model": "glm-5.3"
+}

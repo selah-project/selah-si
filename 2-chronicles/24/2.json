@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යොආෂ් යහ්වේගේ ඇස් වල යහපත් දේ කළේය, යෙහෝයාදා පූජකයාගේ දවස් සියල්ලෙහිම.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "යොආෂ්"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "යහපත් දේ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් වල"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ලෙහිම"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දවස්"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "යෙහෝයාදා"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජකයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T07:36:32.689651175Z",
+  "model": "glm-5.3"
+}

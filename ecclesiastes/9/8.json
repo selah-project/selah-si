@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "සියලු කාලයෙහි ඔබේ වස්ත්‍ර සුදු වේවා; ඔබේ හිස මත තෙල් නොමඟහින් වේවා.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "עת",
+      "gloss": "කාලයෙහි"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "වේවා"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ඔබේ වස්ත්‍ර"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "සුදු"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "තෙල්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ඔබේ හිස"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "මඟහින් වේවා"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:52.230521966Z",
+  "model": "glm-5.3"
+}

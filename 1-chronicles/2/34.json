@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ෂෙෂන්ට පුත්‍රයෝ සිටියේ නැත, මිස දූවරුන් ම ය. ෂෙෂන්ට ඊජිප්තු ජාතික වහලෙක් සිටියේය; ඔහුගේ නම යර්කා ය.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "සිටියේ"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "ෂෙෂන්ට"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මිස"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ම"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරුන්"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "ෂෙෂන්ට"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "වහලෙක්"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ඊජිප්තු ජාතික"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ඔහුගේ නම"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "යර්කා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:31:14.370499218Z",
+  "model": "glm-5.3"
+}

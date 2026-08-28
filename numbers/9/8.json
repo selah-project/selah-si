@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මොෂේ ඔවුන්ට කථා කොට, සිටගෙන සිටුව; යහ්වේ ඔබට අණ කරන දේ මම අසන්නෙමි කීවේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කථා කොට කීවේය"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "සිටගෙන සිටුව"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "අසන්නෙමි"
+    },
+    {
+      "surface": "מה",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "අණ කරන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:34:29.601224717Z",
+  "model": "glm-5.3"
+}

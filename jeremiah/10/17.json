@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "භූමියෙන් ඔබේ බඩුපොදිය එකතු කරගනිව, බළකොටුවේ ⟨වැසියා⟩ ඔබ.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "එකතු කරගනිව"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "භූමියෙන්"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "ඔබේ බඩුපොදිය"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "වැසියා"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "බළකොටුවේ"
+    }
+  ],
+  "timestamp": "2026-08-27T23:49:23.952692575Z",
+  "model": "glm-5.3"
+}

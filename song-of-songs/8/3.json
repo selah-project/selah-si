@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහුගේ වම් අත මගේ හිස යට ⟨ඇත⟩, ඔහුගේ දකුණු අත මා වැළඳගනී.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ඔහුගේ වම් අත"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "මගේ හිස"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ඔහුගේ දකුණු අත"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "මා වැළඳගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:06:18.467419102Z",
+  "model": "glm-5.3"
+}

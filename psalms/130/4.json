@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 130,
+  "translation": "මන්ද ඔබ සමඟ ⟨යි⟩ සමාව — ඔබ ගෞරවයෙන් සලකනු ලැබීම පිණිසයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "සමාව"
+    },
+    {
+      "surface": "למען",
+      "gloss": "පිණිසයි"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ගෞරවයෙන් සලකනු ලැබීම"
+    }
+  ],
+  "timestamp": "2026-08-28T10:32:16.685089996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "පොළොවෙහි සිටින සෑම සතෙකුගේම ස්වරූපය, අහසෙහි පියාඹන සෑම පියාපත් පක්ෂියෙකුගේම ස්වරූපය",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ස්වරූපය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "සතෙකුගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "පොළොවෙහි සිටින"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ස්වරූපය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "පක්ෂියෙකුගේ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "පියාපත්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "පියාඹන"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "අහසෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:59:28.857668219Z",
+  "model": "glm-5.3"
+}

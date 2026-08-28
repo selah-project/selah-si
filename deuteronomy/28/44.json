@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "ඔහු ඔබට ණය දෙන්නේය, නමුත් ඔබ ඔහුට ණය නොදෙන්නෙහිය; ඔහු හිස වන්නේය, නමුත් ඔබ වලිගය වන්නෙහිය.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "ඔබට ණය දෙන්නේය"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "නමුත් ඔබ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ඔහුට ණය දෙන්නෙහිය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේය"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "හිස"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "නමුත් ඔබ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "වන්නෙහිය"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "වලිගය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:13:18.912731294Z",
+  "model": "glm-5.3"
+}

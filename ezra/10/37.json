@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මත්තන්යා, මත්තෙනයි, යාසාව්.",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "මත්තන්යා"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "මත්තෙනයි"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "යාසාව්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:57:30.731354346Z",
+  "model": "glm-5.3"
+}

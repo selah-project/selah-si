@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 119,
+  "translation": "අහෝ, ඔබේ විධි රැකීමට මගේ මාර්ග ස්ථිර වෙත්වා!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "අහෝ, ඉඳින්නට"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ස්ථිර වෙත්වා"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "මගේ මාර්ග"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "රැකීමට"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ඔබේ විධි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:31:17.129949717Z",
+  "model": "glm-5.3"
+}

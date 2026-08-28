@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "බෙත්-ලෙබාඕත් සහ ෂරූහෙන් — නගර දහතුනක් සහ ඒවායේ ගම්මාන",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "බෙත්"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "ලෙබාඕත්"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "ෂරූහෙන්"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුන"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ඒවායේ ගම්මාන"
+    }
+  ],
+  "timestamp": "2026-08-27T21:30:02.599593273Z",
+  "model": "glm-5.3"
+}

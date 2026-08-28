@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "පොළොවේ මුහුණ මත වැසි දෙන්නා, එළිමිටියන්ගේ මුහුණ මත ජලය යවන්නා —",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "දෙන්නා"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "වැසි"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "සහ යවන්නා"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "פני",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "එළිමිටියන්"
+    }
+  ],
+  "timestamp": "2026-08-28T04:28:38.586249399Z",
+  "model": "glm-5.3"
+}

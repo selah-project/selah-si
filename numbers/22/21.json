@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "උදෑසන බිලාම් නැඟී සිට, ⟨את⟩ තම බූරුවිය සදාගෙන, මෝවාබ් නායකයන් සමඟ ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "නැඟී සිට"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිලාම්"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "උදෑසන"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "සදාගෙන"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම බූරුවිය"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "තම බූරුවිය"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "עם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "නායකයන්"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝවාබ්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:59.834627461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මාගේ හඬ ඔබ ඇසූ සේක; මාගේ හුස්මයට, මාගේ ඇරයුමට ඔබගේ කන නොසඟවන සේක.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "මාගේ හඬ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ඔබ ඇසූ සේක"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "සඟවන සේක"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ඔබගේ කන"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "මාගේ හුස්මයට"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "මාගේ ඇරයුමට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:10.526288608Z",
+  "model": "glm-5.3"
+}

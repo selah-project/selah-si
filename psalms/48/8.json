@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "නැගෙනහිර සුළියකින් තීර්ෂීෂ් නෞකා ඔබ කැඩී දැම්මේය.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "සුළියකින්"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "නැගෙනහිර"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ඔබ කැඩී දැම්මේය"
+    },
+    {
+      "surface": "אני෪",
+      "gloss": "නෞකා"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "තීර්ෂීෂ්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:32:51.122704353Z",
+  "model": "glm-5.3"
+}

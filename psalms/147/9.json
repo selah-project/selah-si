@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 147,
+  "translation": "ඔහු සතාට එහි ආහාරය දෙයි, කැඳවන කාකයන්ගේ පැටවුන්ටද ය.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "දෙයි"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "සතාට"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "එහි ආහාරය"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "පැටවුන්ට"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "කාකයන්ගේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "කැඳවන"
+    }
+  ],
+  "timestamp": "2026-08-28T03:49:38.409308967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "කුලුමට ⟨את⟩ ගෝරලය විසි කරනු ලැබේ, එහෙත් යහ්වේ සිට එහි සියලු තීන්දුව ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "කුලුමට"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "විසි කරනු ලැබේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෝරලය"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ගෝරලය"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "එහෙත් යහ්වේ සිට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "එහි තීන්දුව"
+    }
+  ],
+  "timestamp": "2026-08-28T04:06:42.983035586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඔවුන්ට පසුව හෝෂායා සහ යෙහූදාහුවේ නායකයන්ගෙන් අඩක් ගියහ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ගියහ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ඔවුන්ට පසුව"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "හෝෂායා"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "අඩක්"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "නායකයන්ගෙන්"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාහුවේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:26:17.671761300Z",
+  "model": "glm-5.3"
+}

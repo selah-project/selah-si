@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මන්ද යහ්වේගේ අංශය ⟨ය⟩ ඔහුගේ ජනයෝ ය; යාකොව් ⟨ය⟩ ඔහුගේ උරුමයේ බෙදුමයි.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "අංශය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ඔහුගේ ජනයෝ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "බෙදුම"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ඔහුගේ උරුමයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:17:48.613805188Z",
+  "model": "glm-5.3"
+}

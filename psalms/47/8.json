@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 47,
+  "translation": "මන්ද ⟨මහිය⟩ සියලු පොළොවේ රජු එලෝහීම් ⟨යි⟩; ඥානවන්තව ගායනා කරන්න.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ගායනා කරන්න"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ඥානවන්තව"
+    }
+  ],
+  "timestamp": "2026-08-28T02:33:16.777164518Z",
+  "model": "glm-5.3"
+}

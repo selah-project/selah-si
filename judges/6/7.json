@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඊශ්‍රායෙල් වැසියන් මිදියාන් ගැන යහ්වේ වෙත කෑගැසූ විට, මෙසේ විය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כי",
+      "gloss": "විට"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "කෑගැසූ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "වැසියන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "හේතුවෙන්"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "මිදියාන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:38:30.920134728Z",
+  "model": "glm-5.3"
+}

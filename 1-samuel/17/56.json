@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "රජු කීවේය: ඔබ විමසන්න — මේ තරුණයා කවුරුන්ගේ පුතාද.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "විමසන්න"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුතා"
+    },
+    {
+      "surface": "מי",
+      "gloss": "කවුරුන්ගේද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "තරුණයා"
+    }
+  ],
+  "timestamp": "2026-08-28T09:06:30.403522308Z",
+  "model": "glm-5.3"
+}

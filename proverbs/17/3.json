@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "පිරිපහටි බඳුන රිදී සඳහා, උදුන රන් සඳහා; ලබ පරීක්ෂා කරන්නේ යහ්වේ ය.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "පිරිපහටි බඳුන"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "රිදී සඳහා"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "සහ උදුන"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "රන් සඳහා"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "සහ පරීක්ෂා කරන"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ලබ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:10:40.210459404Z",
+  "model": "glm-5.3"
+}

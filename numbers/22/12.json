@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "එලෝහීම් බිල්ආම්ට කීවේය: ඔවුන් සමඟ නොයව; ⟨את⟩ ජනයා ශාප නොකරව; මන්ද ඔහු ආශීර්වාද ලත් බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "බිල්ආම්ට"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ඔවුන් සමඟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ශාප කරව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ආශීර්වාද ලත්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:44:25.989458158Z",
+  "model": "glm-5.3"
+}

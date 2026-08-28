@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "සෙබල ජනයා කොල්ලකෑ ලුට් අතිරික්තය මෙය විය: බැටළුවන් — හයස් දහසක් සහ හැත්තෑ දහසක් සහ පන් දහසක්.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ලුට්"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "අතිරික්තය"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "කොල්ලකෑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යම"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "කොල්ලකෑවා"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "සෙබල"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "බැටළුවන්"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හයස්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියය"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "සහ හැත්තෑ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "සහ පන්"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "දහසක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:40.333911002Z",
+  "model": "glm-5.3"
+}

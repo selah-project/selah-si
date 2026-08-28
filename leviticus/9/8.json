@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "අහරෝන් යකඩය වෙත ලං වී, ⟨את⟩ තමාට අයත් පාප පූජා පොරෝටුවා විජිත්‍ර කළේය.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ලං වී"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "අහරෝන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "යකඩය"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "විජිත්‍ර කළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "පාප පූජා පොරෝටුවා"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "පොරෝටුවා"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "පාප පූජා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උන්"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමාට අයත්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:12:02.721331369Z",
+  "model": "glm-5.3"
+}

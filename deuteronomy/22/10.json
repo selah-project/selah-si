@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ගවයකු සමඟද කොටළුවකු සමඟද එක්ව නොගොවිතැන් කරන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ගොවිතැන් කරන්න"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ගවයකු සමඟද"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "කොටළුවකු සමඟද"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එක්ව"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:19.159172850Z",
+  "model": "glm-5.3"
+}

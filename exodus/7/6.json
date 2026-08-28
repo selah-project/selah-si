@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මොෂේ සහ අහරොන් යහ්වේ ඔවුන්ට ⟨את⟩ අණ කළ පරිදි කළහ; එසේම කළහ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "සහ අහරොන්"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවුන්ට"
+    },
+    {
+      "surface": "כן",
+      "gloss": "එසේම"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "කළහ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:39:14.263162074Z",
+  "model": "glm-5.3"
+}

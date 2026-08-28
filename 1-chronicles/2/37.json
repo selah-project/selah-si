@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "සබාද් ⟨את⟩ එප්ලාල්ව ලැබීය, එප්ලාල් ⟨את⟩ ඔවේද්ව ලැබීය.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "සබාද්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එප්ලාල්"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "එප්ලාල්"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "එප්ලාල්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ලැබීය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔවේද්"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ඔවේද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:29:51.565246900Z",
+  "model": "glm-5.3"
+}

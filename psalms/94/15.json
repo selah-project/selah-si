@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 94,
+  "translation": "මන්ද ධර්මය වෙත ආපසු හැරෙනු ඇත අධිකරණය, ඊට පසු සියලු සෘජු හද ඇත්තෝ ⟨එය පසුපත් යනු ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨වෙත⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ධර්මය"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ආපසු හැරෙනු ඇත"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "අධිකරණය"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ඊට පසු"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "සෘජු"
+    },
+    {
+      "surface": "לב",
+      "gloss": "හද"
+    }
+  ],
+  "timestamp": "2026-08-28T03:12:39.567840157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "කෙරොස්ගේ පුත්‍රයෝ, සීආගේ පුත්‍රයෝ, පදොන්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "කෙරොස්ගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "සීආගේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "පදොන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:04.039415064Z",
+  "model": "glm-5.3"
+}

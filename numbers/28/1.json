@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "යහ්වේ මොෂේට කතා කොට කිවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කිවේය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:49:49.388108711Z",
+  "model": "glm-5.3"
+}

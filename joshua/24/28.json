@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "යෙහෝෂුආ ⟨את⟩ ජනයා, එක්කෙනෙකු තම උරුමයට, යවා පිටත් කෙලේය.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යවා පිටත් කෙලේය"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ජනයා"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයා"
+    },
+    {
+      "surface": "איש",
+      "gloss": "එක්කෙනෙකු"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "තම උරුමයට"
+    }
+  ],
+  "timestamp": "2026-08-27T21:34:12.411099673Z",
+  "model": "glm-5.3"
+}

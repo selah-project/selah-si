@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "අහිටූබ් ⟨את⟩ සාදොක්ව බිහිකළේය, සාදොක් ⟨את⟩ ෂල්ලූම්ව බිහිකළේය.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "අහිටූබ්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සාදොක්"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "සාදොක්"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "සාදොක්"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "බිහිකළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂල්ලූම්"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ෂල්ලූම්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:20.673447882Z",
+  "model": "glm-5.3"
+}

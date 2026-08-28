@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ ඔහුට පැවසුවේය: ඔබට ශාන්තිය වේවා; බිය නොවන්න, ඔබ මිය නොයන්නෙහි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "පැවසුවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ශාන්තිය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "මිය යන්නෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:38:57.400124881Z",
+  "model": "glm-5.3"
+}

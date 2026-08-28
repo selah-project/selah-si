@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "අර්පක්ෂද් ⟨את⟩ ෂෙලක් ලබාගත්තේය; ෂෙලක් ⟨את⟩ එබර් ලබාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "අර්පක්ෂද්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ෂෙලක්"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ෂෙලක්"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ෂෙලක්"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ලබාගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "එබර්"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "එබර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:30:33.775945229Z",
+  "model": "glm-5.3"
+}

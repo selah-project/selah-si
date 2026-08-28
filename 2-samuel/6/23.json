@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මිඛාල්ට — ෂාවුල්ගේ දියණියට — ඇගේ මරණයේ දිනය දක්වා දරුවෙක් ⟨නොවීය⟩.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "මිඛාල්ට"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දියණිය"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂාවුල්ගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වූයේ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඇයට"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "දරුවෙක්"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "יום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "ඇගේ මරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:08:59.281200274Z",
+  "model": "glm-5.3"
+}

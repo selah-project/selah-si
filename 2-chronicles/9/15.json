@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "රජ ෂලෝමො තලා මවන ලද රන් මහපලිහ 200ක් කළේය; තලා මවන ලද රන් ශේකල 600ක් එක් මහපලිහක් මතට නගින්නේය.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමො"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "සියය 200"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "මහපලිහ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "තලා මවන ලද"
+    },
+    {
+      "surface": "שש",
+      "gloss": "සයක්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "තලා මවන ලද"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "නගින්නේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "⟨the⟩ මහපලිහ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එකක්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:20:09.639169425Z",
+  "model": "glm-5.3"
+}

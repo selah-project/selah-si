@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "එහෙත් මම ඔබේ කන්වලද, සියලු ජනයාගේ කන්වලද කියන මෙම වචනය කරුණාකර අසන්න.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "එහෙත්"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ය"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ඔබේ කන්වලද"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "...කන්වලද"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනයාගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:04:29.162768770Z",
+  "model": "glm-5.3"
+}

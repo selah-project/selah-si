@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "හුරායි ගාආෂ් නහලීවරයා, අබියෙල් අර්බාතිවරයා,",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "හුරායි"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "නහලීවරයා"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "ගාආෂ්"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "අබියෙල්"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "අර්බාතිවරයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:44:39.068957754Z",
+  "model": "glm-5.3"
+}

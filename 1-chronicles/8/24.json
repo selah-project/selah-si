@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "වජනන්යියා, වජේලාම් සහ වජනතොතියියා.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "සහ හනන්යියා"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "සහ ජේලාම්"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "සහ අනතොතියියා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:31.899164946Z",
+  "model": "glm-5.3"
+}

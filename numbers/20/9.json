@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "මොෂේ යහ්වේ ඉදිරියෙන් ⟨את⟩ බාරය ගත්තේය, ඔහුට අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බාරය"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "බාරය"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ඉදිරියෙන්"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ඔහුට අණ කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:43:04.803690187Z",
+  "model": "glm-5.3"
+}

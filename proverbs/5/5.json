@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "ඇගේ පාද මරණයට බසිති; ෂෙයෝල් — ඇගේ පියවර එය ග්‍රහණය කරති.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "ඇගේ පාද"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "බසිති"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයට"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂෙයෝල්"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "ඇගේ පියවර"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ග්‍රහණය කරති"
+    }
+  ],
+  "timestamp": "2026-08-28T12:15:09.962463615Z",
+  "model": "glm-5.3"
+}

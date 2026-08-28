@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "සීප්, තෙලෙම්, බෙඑලොත්;",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "සීප්"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "තෙලෙම්"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "බෙඑලොත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:16.933306577Z",
+  "model": "glm-5.3"
+}

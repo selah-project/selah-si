@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "යෙකොන්යා (අසීර්) ගේ පුත්‍රයෝ — මොහුගේ පුත් ෂෙයාල්ටීයෙල්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "යෙකොන්යා"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "අසීර්"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ෂෙයාල්ටීයෙල්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "මොහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:35:57.092776272Z",
+  "model": "glm-5.3"
+}

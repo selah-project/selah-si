@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "බොහෝ බීජ ඔබ කෙතට පිටත් කරනු ඇත, මඳක් ඔබ එකතු කරනු ඇත — මන්ද අඟුල්ලන් එය අනුභව කරන්නේය.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "බීජ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ඔබ පිටත් කරනු ඇත"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කෙතට"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "මඳක්"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ඔබ එකතු කරනු ඇත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "අනුභව කරන්නේය"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "අඟුල්ලන්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:14:04.102330950Z",
+  "model": "glm-5.3"
+}

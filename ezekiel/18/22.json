@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "තමා කළ සියලු කැරැලි ඔහුට සිහි නොකෙරේ; තමා කළ ධර්මිෂ්ඨකම තුළ ඔහු ජීවත් වේ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "තමා කළ කැරැලි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "සිහි කෙරේ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "තමා කළ ධර්මිෂ්ඨකම තුළ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…කළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ජීවත් වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:34:02.442650603Z",
+  "model": "glm-5.3"
+}

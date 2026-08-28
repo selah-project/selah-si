@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මෙය යහ්වේ ඉතා පෙර සිට මෝආබ් ගැන කී වචනය ය.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "මෙය"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "කී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ඉතා පෙර සිට"
+    }
+  ],
+  "timestamp": "2026-08-27T23:16:13.513509501Z",
+  "model": "glm-5.3"
+}

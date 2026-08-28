@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂෙයෝල්ට යන මාර්ග — ඇගේ ගෙය; මරණයේ කුටි කරා බසින ඒවාය.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "මාර්ග"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ෂෙයෝල්"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ඇගේ ගෙය"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "බසින ඒවාය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "කුටි"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:42.969876065Z",
+  "model": "glm-5.3"
+}

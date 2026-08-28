@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 34,
+  "translation": "ඊශ්‍රායෙල් තුළ මොෂේ වැනි තවත් නබියෙක් නොනැඟී සිටියේය — යහ්වේ මුහුණ මුහුණට හඳුනන ලද්දාවූ",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "קם",
+      "gloss": "නැඟී සිටියේය"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "නබියෙක්"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "තවත්"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ඊශ්‍රායෙල් තුළ"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "මොෂේ වැනි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "හඳුනන ලද්දාවූ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "මුහුණට"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:20:28.441206361Z",
+  "model": "glm-5.3"
+}

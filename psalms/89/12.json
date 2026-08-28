@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 89,
+  "translation": "අහස ඔබේය; පොළොවද ඔබේය; ලෝකය හා එහි පිර්මාව — ඔබ ⟨ඒවා⟩ මුල් බැස්සවූ සේය.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ඔබේය"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "අහස"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ද මෙන්ම"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබේය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ලෝකය"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "හා එහි පිර්මාව"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "මුල් බැස්සවූ සේය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:07:00.172533830Z",
+  "model": "glm-5.3"
+}

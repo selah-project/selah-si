@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "මුහුණු හඳුනා ගැනීම යහපත් නොවේ; රොටි කැබැල්ලක් වෙනුවෙන් මිනිසා අපරාධ කරයි.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "හඳුනා ගැනීම"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "මුහුණු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "වෙනුවෙන්"
+    },
+    {
+      "surface": "פת",
+      "gloss": "කැබැල්ලක්"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "රොටි"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "අපරාධ කරයි"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "මිනිසා"
+    }
+  ],
+  "timestamp": "2026-08-28T04:21:54.269838339Z",
+  "model": "glm-5.3"
+}

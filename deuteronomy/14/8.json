@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සහ ⟨את⟩ ඌරා; මන්ද පා පල ඇති නමුත් පෙති නොගසන — ඔහු ඔබට අශුද්ධය; ඔවුන්ගේ මස් නොකන්න, ඔවුන්ගේ මළ සිරුරුවලට අත නොතබන්න.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ඌරා"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ඌරා"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "පා බෙදන"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "පා පල"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "නමුත් නො"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "පෙති"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබට"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ඔවුන්ගේ මස්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "සහ ඔවුන්ගේ මළ සිරුරු"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "අත තබන්න"
+    }
+  ],
+  "timestamp": "2026-08-27T21:06:24.433127892Z",
+  "model": "glm-5.3"
+}

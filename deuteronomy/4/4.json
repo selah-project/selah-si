@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "සහ යහ්වේ ඔබගේ එලෝහීම් සමඟ බැඳී සිටි ඔබ — සියල්ලන්ම අද ජීවත් වේ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "සහ ඔබ"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "බැඳී සිටි"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "යහ්වේ සමඟ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ඔබගේ එලෝහීම්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවත්"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "සියල්ලන්ම"
+    },
+    {
+      "surface": "היום",
+      "gloss": "අද"
+    }
+  ],
+  "timestamp": "2026-08-27T20:58:15.187346538Z",
+  "model": "glm-5.3"
+}

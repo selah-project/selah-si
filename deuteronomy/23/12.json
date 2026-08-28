@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "සන්ධ්‍යාව ළඟා වන විට ඔහු ජලයෙන් සෝදා හරින්නේය; හිරු බැස යන විට ඔහු කඳවුර මැදට ඇතුල් වන්නේය.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "විට"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ළඟා වන"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "සන්ධ්‍යාව"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "සෝදා හරින්නේය"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ජලයෙන්"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "බැස යන විට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ඇතුල් වන්නේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "මැදට"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "කඳවුර"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:33.408654171Z",
+  "model": "glm-5.3"
+}

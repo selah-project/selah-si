@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "හොඳ කෙතක, බොහෝ ජලය අසබැවි එය රෝපණය කර තිබුණේ අතු දමා, ඵල දරා, උසස් මිදි වැලක් වනු පිණිස ය.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "කෙතක"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "දෙසට"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "රෝපණය කර තිබුණේ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "දමනු පිණිස"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "අතු"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "දරා"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ඵල"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "වනු පිණිස"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "මිදි වැලක්"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "උසස් මහිමාන්විත"
+    }
+  ],
+  "timestamp": "2026-08-28T00:32:04.078359069Z",
+  "model": "glm-5.3"
+}

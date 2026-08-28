@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "ජනතාව මට කතා කගෙන්නේ, 'ඔබ මෙසේ කරන්නේ මේවා අපට යනු කුමක්දැයි අපට නොකියන්නේ ඇයිද?'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ඔවුන් කතා කළහ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතාව"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ඇයිද නො"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ඔබ කියන්නේ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "මේවා"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "අපට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "යනුවෙන්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්නේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:11.878101537Z",
+  "model": "glm-5.3"
+}

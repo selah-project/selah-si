@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 107,
+  "translation": "මන්ද තඹ දොරටු ඔහු කඩා දැමූ බැවින්, යකඩ බැමි ද ඔහු කපා දැමීය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "කඩා දැමීය"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "දොරටු"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "සහ බැමි"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "කපා දැමීය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:24:21.508920073Z",
+  "model": "glm-5.3"
+}

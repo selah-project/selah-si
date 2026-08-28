@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ෂුපිම් හා හුපිම් — ජිර්ගේ පුත්‍රයෝ; හුෂිම් — අහෙර්ගේ පුත්‍රයෝ.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ෂුපිම්"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "හා හුපිම්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ජිර්ගේ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "හුෂිම්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "අහෙර්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:41:28.963862573Z",
+  "model": "glm-5.3"
+}

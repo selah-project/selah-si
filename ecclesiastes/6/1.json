@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "පවක් ⟨මෙහි⟩ඇත, සූර්යයා යට ⟨මම⟩ දුටුමි; එය මිනිසාට මත බර වූ දෙයකි.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ඇත"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "පවක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨මෙහි⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටුමි"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "සූර්යයා"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "එය බර වූ දෙයකි"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "මිනිසාට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:33.837337637Z",
+  "model": "glm-5.3"
+}

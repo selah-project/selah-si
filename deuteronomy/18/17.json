@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "එවිට යහ්වේ මට කතා කර කීවේය: ඔවුන් කී දේ යහපති; ඔවුන් ම එය කථා කළහ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "එවිට කතා කර කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "යහපති"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ඔවුන් කථා කළහ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:07:37.257790245Z",
+  "model": "glm-5.3"
+}

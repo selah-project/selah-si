@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "දාවීද් අරනනට ඒ ස්ථානය වෙනුවෙන් බර අනුව රන් ෂෙකල් හයසියයක් දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "අරනනට"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ඒ ස්ථානය වෙනුවෙන්"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "ෂෙකල්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "බර අනුව"
+    },
+    {
+      "surface": "שש",
+      "gloss": "හය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:54:41.964562757Z",
+  "model": "glm-5.3"
+}

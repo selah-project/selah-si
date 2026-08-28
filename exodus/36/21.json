@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "පුවරුවේ දිග අඟල් දහයකි; එක් පුවරුවක පළල අඟලක් හා ⟨අඟලේ⟩ අඩකි.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "දහයක්"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "පුවරුවේ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "හා අඟලක්"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "අඩක්"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "⟨අඟලේ⟩"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "පුවරුවක"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "එක්"
+    }
+  ],
+  "timestamp": "2026-08-27T20:03:16.795661881Z",
+  "model": "glm-5.3"
+}

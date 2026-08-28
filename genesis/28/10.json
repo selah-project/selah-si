@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 28,
+  "translation": "යාකොව් බීර්-ෂෙබායෙන් පිටත් වී, හාරාන් දෙසට ගමන් කළේය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත් වී"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "බීර්-… සිට"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "…ෂෙබායෙන්"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ගමන් කළේය"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "හාරාන් දෙසට"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:07.802321848Z",
+  "model": "glm-5.3"
+}

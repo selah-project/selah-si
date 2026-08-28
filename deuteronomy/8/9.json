@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "දේශයක්, එහි ඔබ අඩුපාඩුවෙන් තොරව පාන් කන්නේ, එහි ඔබට කිසිවක් හිඟ නොවන්නේය; දේශයක්, එහි ගල් යකඩ වන අතර එහි කඳුවලින් ඔබ තඹ කපා ගන්නේය.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "අඩුපාඩුවෙන්"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "කන්නේ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "පාන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "හිඟ වන"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයක්"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "යකඩ"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "කඳුවලින්"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "කපා ගන්නේය"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:00:48.972986836Z",
+  "model": "glm-5.3"
+}

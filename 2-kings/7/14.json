@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 7:14",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එවිට අශ්ව රථ දෙකක් ගත්හ; රජු ආරාම් හමුදාව පසුපස යවා කීවේය: යව, බලව.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ගත්හ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "රථ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "අශ්ව"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "යවා"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "පසුපස"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "හමුදාව"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ආරාම්"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "යව"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "බලව"
+    }
+  ],
+  "timestamp": "2026-08-27T22:56:18.839108631Z",
+  "model": "glm-5.3"
+}

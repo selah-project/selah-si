@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යෙහෝනාතන් ⟨את⟩ තම උපකරණ තමන්ට තිබූ ළමයාට දුන්නේය, ඔහුට කීවේය: යා, නගරයට ගෙන යා.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "යෙහෝනාතන්"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම උපකරණ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "තම උපකරණ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ළමයාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමන්ට තිබූ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ගෙන යා"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:05:27.406068132Z",
+  "model": "glm-5.3"
+}

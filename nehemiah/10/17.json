@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "අදෝනියා, බිග්වයි, ආදින්,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "අදෝනියා"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "බිග්වයි"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ආදින්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:22:40.517520142Z",
+  "model": "glm-5.3"
+}

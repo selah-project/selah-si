@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 96,
+  "translation": "යහ්වේට නව ගීතයක් ගයන්න; යහ්වේට ගයන්න, මුළු පොළොවම ය.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ගයන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ගීතයක්"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "නව"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ගයන්න"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "යහ්වේට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "මුළු"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "පොළොවම"
+    }
+  ],
+  "timestamp": "2026-08-28T03:09:57.256518686Z",
+  "model": "glm-5.3"
+}

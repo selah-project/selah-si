@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔහු කෙරුබ්වරුන් ⟨את⟩ රනින් ආස්තරණය කෙළේය.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ආස්තරණය කෙළේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කෙරුබ්වරුන්"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "කෙරුබ්වරුන්"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රනින්"
+    }
+  ],
+  "timestamp": "2026-08-27T22:34:35.847374997Z",
+  "model": "glm-5.3"
+}

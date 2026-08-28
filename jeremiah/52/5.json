@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 52,
+  "translation": "නගරය ⟨වටලනු⟩ ලැබීය, චිද්කියාහු රජුගේ එකොළොස්වන වසර දක්වා.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ඇතුළත් වූවාය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "වටලෑමට"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "එකොළොස්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "වන"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "වසර"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "චිද්කියාහු"
+    }
+  ],
+  "timestamp": "2026-08-28T00:20:21.052703365Z",
+  "model": "glm-5.3"
+}

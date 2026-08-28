@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "යහ්වේ වදන දෙවියන්ගේ මිනිසා වූ ෂෙමයාහු වෙත ⟨මෙසේ⟩ වූයේය:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූයේය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වදන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "ෂෙමයාහු"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "දෙවියන්ගේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:24:23.306753455Z",
+  "model": "glm-5.3"
+}

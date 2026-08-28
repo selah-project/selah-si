@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මම ⟨මමම⟩ ඔයා දන්නෙමි, ජනකාන්තයේදී, වියළි දේශයේදී.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ඔයා දන්නෙමි"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ජනකාන්තයේදී"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයේදී"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "වියළි"
+    }
+  ],
+  "timestamp": "2026-08-28T01:12:48.536329312Z",
+  "model": "glm-5.3"
+}

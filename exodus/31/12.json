@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "යහ්වේ මෝෂෙට වදාළේ: 'මෙසේ කියව,'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "වදාළේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මෝෂෙ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියව"
+    }
+  ],
+  "timestamp": "2026-08-28T11:49:42.220904769Z",
+  "model": "glm-5.3"
+}

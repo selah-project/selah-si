@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "නොහ් — පොළොවේ මිනිසා — ⟨පටන් ගත්තේය⟩, මිදි වත්තක් සිටුවාගත්තේය.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "පටන් ගත්තේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නොහ්"
+    },
+    {
+      "surface": "איש",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "සිටුවාගත්තේය"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "මිදි වත්ත"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:56.594319091Z",
+  "model": "glm-5.3"
+}

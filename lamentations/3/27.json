@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "තරුණ වියේදී යුගලයක් දරාගන්නේ නම් ඒ මිනිසාට යහපති.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "යහපත්"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "නම්"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "දරාගනී"
+    },
+    {
+      "surface": "על",
+      "gloss": "යුගලයක්"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "තරුණ වියේදී"
+    }
+  ],
+  "timestamp": "2026-08-28T05:12:00.183403898Z",
+  "model": "glm-5.3"
+}

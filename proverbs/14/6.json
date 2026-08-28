@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "උපහාසකරු ප්‍රඥාව සොයයි නමුත් ⟨එය⟩ නැත; හා නුවණැත්තාට දැනුම පහසුය.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "සොයයි"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "උපහාසකරු"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ප්‍රඥාව"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "නමුත් නැත"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "හා දැනුම"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "නුවණැත්තාට"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "පහසුය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:06:31.325888083Z",
+  "model": "glm-5.3"
+}

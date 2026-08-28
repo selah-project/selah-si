@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "මිනිසෙකු තුළ මාරාත්ත පීඩාවක් ඇති වූ විට, ⟨ඔහු⟩ කොහෙන් වෙත ගෙන එනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "පීඩාව"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "මාරාත්ත"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…විට"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ඇති වූ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "මිනිසෙකු තුළ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ගෙන එනු ලැබේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "කොහෙන්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:26:33.482496583Z",
+  "model": "glm-5.3"
+}

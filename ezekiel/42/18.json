@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 42,
+  "translation": "දකුණු දෙස ⟨את⟩ මැන්නේය — මිනුම් බට බැවින් බට පන්සියයක්.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "දකුණු දෙස"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "දෙස"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "දකුණු"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "මැන්නේය"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පන්"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "බට"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "බට බැවින්"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "මිනුම්"
+    }
+  ],
+  "timestamp": "2026-08-28T10:06:40.196179567Z",
+  "model": "glm-5.3"
+}

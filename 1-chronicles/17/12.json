@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ඔහු ⟨is⟩ මට ගෘහයක් තැනුවේය, සහ මම ස්ථිර කරමි ⟨את⟩ ඔහුගේ සිහසුන යුග යුග දක්වා.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "තැනුවේය"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෘහයක්"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "සහ මම ස්ථිර කරමි"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ සිහසුන"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ඔහුගේ සිහසුන"
+    },
+    {
+      "surface": "עד",
+      "gloss": "දක්වා"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "යුග යුග"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:46.361967099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "ඉද්දෝ, ගිනෙතෝන්, අබීයා.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ඉද්දෝ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "ගිනෙතෝන්"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "අබීයා"
+    }
+  ],
+  "timestamp": "2026-08-28T06:25:11.978223531Z",
+  "model": "glm-5.3"
+}

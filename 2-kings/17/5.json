@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "අෂූර් රජු මුළු දේශය පුරාම නැඟී සැමරියාවට නැඟී, එය වටලෑවේ වසර තුනක් ය.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "අෂූර්"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "මුළු...පුරාම"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "දේශය"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟී"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "සැමරියාවට"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "වටලෑවේ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "එය"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "තුනක්"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "වසර"
+    }
+  ],
+  "timestamp": "2026-08-27T23:02:25.107884155Z",
+  "model": "glm-5.3"
+}

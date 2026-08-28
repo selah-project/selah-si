@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 109,
+  "translation": "මන්ද මම දුගී සහ අසරණ වූවෙකි, මාගේ හදවත මා තුළ වෙදී ඇත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "עני",
+      "gloss": "දුගී"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "සහ අසරණ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම... වූවෙකි"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "මාගේ හදවත"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "වෙදී ඇත"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "මා තුළ"
+    }
+  ],
+  "timestamp": "2026-08-28T10:29:49.859281767Z",
+  "model": "glm-5.3"
+}

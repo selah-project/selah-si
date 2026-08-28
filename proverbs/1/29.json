@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඒ වෙනුවට මන්ද, ඔවුහු දැනුමට වෛර කළහ, සහ යහ්වේගේ භීතිය ⟨ඔවුහු⟩ තෝරා නොගත්හ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ඒ වෙනුවට"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "වෛර කළහ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "දැනුමට"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "සහ භීතිය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "තෝරා ගත්හ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:53:25.275851552Z",
+  "model": "glm-5.3"
+}

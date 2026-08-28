@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "සෙබද්‍යා, මෙෂුල්ලම්, හිස්කි සහ හාබෙර්.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "සෙබද්‍යා"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "මෙෂුල්ලම්"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "හිස්කි"
+    },
+    {
+      "surface": "වחבר",
+      "gloss": "සහ හාබෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:40:51.194189240Z",
+  "model": "glm-5.3"
+}

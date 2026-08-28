@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "සම්ප්‍රදායට අනුව යහ්වේගේ වචනය මට අත්වූයේ, මෙසේ පවසමින්:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "සිදුවූයේ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "පවසමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:27:38.958978640Z",
+  "model": "glm-5.3"
+}

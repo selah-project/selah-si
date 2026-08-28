@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඥානවන්තයා ⟨අසන්න⟩, ඉගෙනීම වර්ධනය කරයි; බුද්ධිමතා උපක්‍රම ලබාගනී.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "අසන්න"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ඥානවන්තයා"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "වර්ධනය කරයි"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ඉගෙනීම"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "බුද්ධිමතා"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "උපක්‍රම"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ලබාගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T03:52:02.813369600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ඇගේ මාර්ග කරා ඔබේ හදවත නොනැඹුරු වන්න; ඇගේ පථවල ⟨ඔබ⟩ නොඇවිදින්න.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "නැඹුරු වන්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරා"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ඇගේ මාර්ග"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ඔබේ හදවත"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ඇවිදින්න"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "ඇගේ පථවල"
+    }
+  ],
+  "timestamp": "2026-08-28T03:58:42.968956686Z",
+  "model": "glm-5.3"
+}

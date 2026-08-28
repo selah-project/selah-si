@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "යහ්වේ ⟨את⟩ මොෂේට කථා කොට කීවේය:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කොට කීවේය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ට"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියමින්"
+    }
+  ],
+  "timestamp": "2026-08-28T11:51:20.118180204Z",
+  "model": "glm-5.3"
+}

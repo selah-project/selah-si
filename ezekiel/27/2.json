@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔබ, මනුෂ්‍ය පුත්‍රය, සෝර් මත වූ විලාපයක් ඔසවා ගනු.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ඔබ...ද"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍යයාගේ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ඔසවා-ගනු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צר",
+      "gloss": "සෝර්"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "විලාපයක්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:42:05.596808602Z",
+  "model": "glm-5.3"
+}

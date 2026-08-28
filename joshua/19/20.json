@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "රබ්බිත්, කිෂ්යොන් සහ අබෙස්.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "රබ්බිත්"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "කිෂ්යොන්"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "සහ අබෙස්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:31:04.222792270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 118,
+  "translation": "යහ්වේ මවන ලද මේ දිනය ⟨යි⟩ — අපි එහි සතුටින් ඉන්දමු සහ ප්‍රීති වෙමු.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "දිනය"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "මවන ලදී"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "සතුටින් ඉන්දමු"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "සහ ප්‍රීති වෙමු"
+    },
+    {
+      "surface": "בו",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-28T03:30:10.764334620Z",
+  "model": "glm-5.3"
+}

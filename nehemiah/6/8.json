@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "මම ඔහුට යවා කීවෙමි: ඔබ කියන මෙම වචන පරිදි ⟨is⟩ වූ දෙයක් නොවීය, මන්ද ඔබ ඒවා ඔබගේම සිතින් නිපදවන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "මම යවා"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීවෙමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "වූ දෙයක් නොවීය"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "වචන පරිදි"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ කියන"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ඔබගේම සිතින්"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "නිපදවන බැවිනි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:59:17.860963251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එම රටේ රන් හොඳයි; එහි බදෝලච් හා ෂෝහාම් ගල් ⟨ඇත⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "රන්ද"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "රටේ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "එම"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "හොඳයි"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "බදෝලච්"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ගල්ද"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ෂෝහාම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:00.372157225Z",
+  "model": "glm-5.3"
+}

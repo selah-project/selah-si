@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "මරණයේ රළ කැල මා වට කළහ; බෙලියාල්ගේ දොල මා බිය ගැන්වූහ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මරණයේ"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "මා වට කළහ"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "රළ කැල"
+    },
+    {
+      "surface": "מות",
+      "gloss": "මරණයේ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "දොල"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "බෙලියාල්ගේ"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "මා බිය ගැන්වූහ"
+    }
+  ],
+  "timestamp": "2026-08-28T09:14:13.477318131Z",
+  "model": "glm-5.3"
+}

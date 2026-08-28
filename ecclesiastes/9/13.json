@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මේ දෙය ද මම දුටිමි — හිරු යට ⟨the⟩ ඥානය, සහ එය මට විශාල වූවකි.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ද"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ දෙය"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "මම දුටිමි"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "යට"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "හිරු"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "සහ විශාල"
+    },
+    {
+      "surface": "היא",
+      "gloss": "එය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:23:01.908267851Z",
+  "model": "glm-5.3"
+}

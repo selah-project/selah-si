@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මත කථා කරන මලාක්වරයා පිටතට ගියේය, ඔහු මට කිවේය: කරුණාකර ඔබේ ඇස් ඔසවා බලව් — පිටතට එන මේ දෙය කුමක්ද.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටතට ගියේය"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "මලාක්වරයා"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "කථා කරන"
+    },
+    {
+      "surface": "בי",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කිවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ඔසවව්"
+    },
+    {
+      "surface": "נא",
+      "gloss": "කරුණාකර"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "බලව්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "පිටතට එන"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "මේ"
+    }
+  ],
+  "timestamp": "2026-08-28T01:47:30.780359345Z",
+  "model": "glm-5.3"
+}

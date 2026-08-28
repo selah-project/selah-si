@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "බිම මත රැළෙන සියලු රැළෙන-දේ අපවිත්‍රයකි ⟨එයයි⟩; එය නොකනු ලැබේ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "සහ-සියලු"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "රැළෙන-දේ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "රැළෙන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "බිම"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "අපවිත්‍රය"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එයයි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "කනු-ලැබේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:25:48.887766298Z",
+  "model": "glm-5.3"
+}

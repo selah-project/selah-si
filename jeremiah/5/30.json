@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "භයානක නොසන්සුන්කරු දෙයක් ⟨ම⟩ දේශයෙහි විය",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "නොසන්සුන්කරු දෙයක්"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "භයානක"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "දේශයෙහි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:46:53.442757042Z",
+  "model": "glm-5.3"
+}

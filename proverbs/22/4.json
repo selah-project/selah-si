@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "අවංකභාවයේ ප්‍රතිඵලය ⟨යහ්වේ කෙරෙහි⟩ භය — සම්පත්, තේජස සහ ජීවිතය.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ප්‍රතිඵලය"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "අවංකභාවයේ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "භය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "සම්පත්"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "තේජස"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ජීවිතය"
+    }
+  ],
+  "timestamp": "2026-08-28T10:37:43.587870989Z",
+  "model": "glm-5.3"
+}

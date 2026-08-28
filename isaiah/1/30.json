@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "මක්නිසාද කොළ හෙලන දුර්ග ගසක් වැනි ඔබ ⟨වන්නේ⟩ ය, ජලය නැති උද්‍යානයක් වැනි ද වේ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ඔබ වන්නේ"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "දුර්ග ගසක් වැනි"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "හෙලන"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "කොළ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "උද්‍යානයක් වැනි ද"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "לה",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T23:08:04.524920396Z",
+  "model": "glm-5.3"
+}

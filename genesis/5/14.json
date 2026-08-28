@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "කේනාන්ගේ සියලු දිනවල් අවුරුදු නවසිය දහයක් විය; ඔහු මිය ගියේය.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "විය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "දිනවල්"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "කේනාන්ගේ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "දහය"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "නවසිය"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "සිය"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "අවුරුදු"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "මිය ගියේය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:04:56.643648356Z",
+  "model": "glm-5.3"
+}

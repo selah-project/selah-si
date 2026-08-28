@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඔවුහු රත්‍රංග් වළලු දෙක ⟨the⟩ කුසයේ කෙළවරවල ⟨the⟩ මුදු දෙක මත තැබූහ.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "තැබූහ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "වළලු"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රත්‍රංග්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "මුදු"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "කෙළවරවල"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "කුසය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:09.488720532Z",
+  "model": "glm-5.3"
+}

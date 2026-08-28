@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 50,
+  "translation": "යෝසෙප් ඔවුන්ට කථා කොට: බිය නොවන්න, මන්ද ⟨මම⟩ එලෝහීම්ගේ ස්ථානයේ සිටින්නෙක් ද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කථා කොට"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ඔවුන්ට"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "යෝසෙප්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "බිය වන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ස්ථානයේ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "එලෝහීම්ගේ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    }
+  ],
+  "timestamp": "2026-08-27T19:38:02.480208068Z",
+  "model": "glm-5.3"
+}

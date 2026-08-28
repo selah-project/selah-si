@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "මෝආබ්ගේ අං කපා හෙළන ලදී, ඔහුගේ බාහුවද කැඩී ගියේය — යහ්වේගේ කියමනයි.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "කපා හෙළන ලදී"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "අං"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මෝආබ්ගේ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ඔහුගේ බාහුවද"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "කැඩී ගියේය"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "කියමන"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:16:17.576829624Z",
+  "model": "glm-5.3"
+}

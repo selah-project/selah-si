@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෝඩයන්ගේ වෙහෙස ⟨ඔවුන්ට⟩ මහන්සිය දෙයි — නගරයට යාම ද ඔවුන් නොදන්නා බැවිනි.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "වෙහෙස"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "මෝඩයන්ගේ"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "මහන්සිය දෙයි"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "බැවිනි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "දන්නා"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "යාම"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "නගරයට"
+    }
+  ],
+  "timestamp": "2026-08-28T05:21:43.950797255Z",
+  "model": "glm-5.3"
+}

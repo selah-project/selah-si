@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 9:24",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "හිමද, හිම මධ්‍යයේ දැල්වෙමින් ගිනිද විය — ඉතා ම බර එකක්; මිස්රායිම් රට පුරා, එය ජාතියක් වූ දා සිට මෙ තරම් එකක් නොවීය.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "හිම"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "හා ගිනි"
+    },
+    {
+      "surface": "מתלקחת",
+      "gloss": "දැල්වෙමින්"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "මධ්‍යයේ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "හිම"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බර"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ඉතා ම"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එවැනි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වීය"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "මෙ තරම්"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "පුරා"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "රට"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "මිස්රායිම්"
+    },
+    {
+      "surface": "ඝ",
+      "gloss": ""
+    },
+    {
+      "surface": "מאז",
+      "gloss": "දා සිට"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "වූ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ජාතියක්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:43:14.803269332Z",
+  "model": "glm-5.3"
+}

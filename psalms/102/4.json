@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 102,
+  "translation": "මගේ දින දුම සේ කෙළවර වී ඇත; මගේ ඇට ද දවන දර සේ පිච්චෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "කෙළවර වී ඇත"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "දුම සේ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "මගේ දින"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "මගේ ඇට"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "සේ"
+    },
+    {
+      "surface": "קד",
+      "gloss": "දවන දර"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "පිච්චෙන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T03:18:30.382934597Z",
+  "model": "glm-5.3"
+}

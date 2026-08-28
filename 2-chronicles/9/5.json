@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ඇය රජුට කීවාය: මම මගේ රට තුළ ඔබේ කථාව ගැනද ඔබේ ඥානය ගැනද අසන ලද වචනය සත්‍යයි.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ඇය කීවාය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කෙරෙහි"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුට"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "සත්‍යයි"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "උනේ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "මම අසන ලද"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "මගේ රට තුළ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ගැන"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ඔබේ කථාව"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ද ගැන"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ඔබේ ඥානය"
+    }
+  ],
+  "timestamp": "2026-08-28T07:24:40.866881995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "ඔබේ ඥාතියාට එරෙහිව බොරු සාක්ෂියක් නොදෙන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "පිළිතුරු දෙන්න"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ඔබේ ඥාතියාට එරෙහිව"
+    },
+    {
+      "surface": "עד",
+      "gloss": "සාක්ෂිය"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "බොරු"
+    }
+  ],
+  "timestamp": "2026-08-27T19:47:48.945216257Z",
+  "model": "glm-5.3"
+}

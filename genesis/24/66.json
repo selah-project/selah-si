@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "සේවකයා තමා කළ සියලු කාරණා යිට්ස්ඛාක්ට ⟨את⟩ විස්තර කොට කීය.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "විස්තර කොට කීය"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "සේවකයා"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "යිට්ස්ඛාක්ට"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සියලු කාරණා"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "කාරණා"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "තමා"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:17:34.067345690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 20,
+  "translation": "යහ්වේ යෙහෝෂුආට කතා කොට කීයේ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "යෙහෝෂුආ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කීයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:32:16.019066976Z",
+  "model": "glm-5.3"
+}

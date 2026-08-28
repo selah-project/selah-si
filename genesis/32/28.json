@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "ඔහු ඔහුට කීය: ඔබේ නම කුමක්ද? ඔහු කීය: යාකොව්.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්ද"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ඔබේ නම"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීය"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "යාකොව්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:22:50.382797703Z",
+  "model": "glm-5.3"
+}

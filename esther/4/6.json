@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "හතක්, රජුගේ දොරටුවට ඉදිරිපිට ඇති නගරයේ ප්‍රධාන වීදිය වෙත, මොර්දඛයි වෙත පිටත් විය.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටත් විය"
+    },
+    {
+      "surface": "התך",
+      "gloss": "හතක්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "මොර්දඛයි"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ප්‍රධාන වීදිය"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ය"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "שער",
+      "gloss": "දොරටුවට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T05:30:42.390708660Z",
+  "model": "glm-5.3"
+}

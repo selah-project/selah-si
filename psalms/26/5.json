@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 26,
+  "translation": "මම ද්වේෂ කළෙමි ඔරනන්ගේ රැස්වීම — දුෂ්ටයන් සමඟ නොඉඳිමි.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ද්වේෂ කළෙමි"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "රැස්වීම"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ඔරනන්ගේ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "සමඟ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "දුෂ්ටයන්"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ඉඳිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:18:05.901974888Z",
+  "model": "glm-5.3"
+}

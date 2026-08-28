@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "නාතන් දාවීද්ට කීයේ — ඔබේ හදවත තුළ ඇති සියල්ල කරන්න, මන්ද එලෝහීම් ඔබ සමඟ වන බැවිනි.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "නාතන්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "දාවීද්"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියල්ල"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඇති"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ඔබේ හදවත තුළ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්න"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "එලෝහීම්"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ඔබ සමඟ"
+    }
+  ],
+  "timestamp": "2026-08-28T06:56:23.246647514Z",
+  "model": "glm-5.3"
+}

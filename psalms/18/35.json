@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "මගේ අත් යුද්ධයට උගන්වන, තඹ යැව්මක් මගේ බාහුවලින් නැමෙයි.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "උගන්වන"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මගේ අත්"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "යුද්ධයට"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "නැමෙයි"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "යැව්ම"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "මගේ බාහුවලින්"
+    }
+  ],
+  "timestamp": "2026-08-28T02:10:37.698442887Z",
+  "model": "glm-5.3"
+}

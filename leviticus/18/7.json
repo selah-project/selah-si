@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "තාගේ පියාගේ නිරුවතද, තාගේ මවගේ නිරුවතද නොහෙළන්න; ඇය තාගේ මව ය — ඇගේ නිරුවත නොහෙළන්න.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "නිරුවත"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "තාගේ පියාගේ"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "නිරුවතද"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "තාගේ මවගේ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "හෙළන්න"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "තාගේ මව"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඇය ය"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "හෙළන්න"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ඇගේ නිරුවත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:16:40.536048990Z",
+  "model": "glm-5.3"
+}

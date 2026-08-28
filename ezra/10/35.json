@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "බෙනයා, බෙදෙයා, කෙලුහයි.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "බෙනයා"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "බෙදෙයා"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "කෙලුහයි"
+    }
+  ],
+  "timestamp": "2026-08-28T06:06:34.841781777Z",
+  "model": "glm-5.3"
+}

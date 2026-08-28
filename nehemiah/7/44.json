@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "ගායකයෝ — ආසාප්ගේ පුත්‍රයෝ — සියයක්, හතළිස් අටක්.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ගායකයෝ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ආසාප්ගේ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "සියයක්"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "හතළිස්"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "අටක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:18:40.394872909Z",
+  "model": "glm-5.3"
+}

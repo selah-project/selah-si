@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "මක්නිසාද නුඹ යවන ලද්දේ ගැඹුරු තොල් ඇති හා බර දිව ඇති ජනයෙකු වෙත නොව, ඊශ්‍රායෙල් ගෙටය.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙකු"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ගැඹුරු"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "තොල්"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "හා බර"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "දිව"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "නුඹ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "යවන ලද්දේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඊශ්‍රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T00:24:26.278363483Z",
+  "model": "glm-5.3"
+}

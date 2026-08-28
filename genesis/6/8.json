@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "නොවා නම් යහ්වේගේ ඇස් වල කරුණාව ලද්දේය.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "නොවා නම්"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ලද්දේය"
+    },
+    {
+      "surface": "חן",
+      "gloss": "කරුණාව"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ඇස් වල"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:18.404967335Z",
+  "model": "glm-5.3"
+}

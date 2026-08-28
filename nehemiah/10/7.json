@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "දනියෙල්, ගිනෙතොන්, බරූක් —",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "දනියෙල්"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ගිනෙතොන්"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "බරූක්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:19:24.086447261Z",
+  "model": "glm-5.3"
+}

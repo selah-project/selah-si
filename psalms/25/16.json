@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "මා වෙත නුවණ හරවා මට කරුණා කරව, මන්ද මම තනි වූ දුක්පැමිණි කෙනෙක්මි.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "නුවණ හරවා"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මා වෙත"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "කරුණා කරව"
+    },
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "තනි වූ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "දුක්පැමිණි"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම...මි"
+    }
+  ],
+  "timestamp": "2026-08-28T02:16:37.589962107Z",
+  "model": "glm-5.3"
+}

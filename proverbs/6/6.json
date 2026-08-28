@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යව — කූඹියා වෙත, අලසයා; බල — එහි මාර්ග, සහ ප්‍රඥාවන්ත වව්.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "යව"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "කූඹියා"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "අලසයා"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "බල"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "එහි මාර්ග"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "සහ ප්‍රඥාවන්ත වව්"
+    }
+  ],
+  "timestamp": "2026-08-28T03:57:49.058445857Z",
+  "model": "glm-5.3"
+}

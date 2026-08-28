@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "කරඬුවට ⟨את⟩ සාක්ෂිය ද තබන්නේ ය — මම ඔබට දෙන දේ එය ය.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "තබන්නේ ය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "කරඬුවට…ද"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨the⟩ කරඬුව"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "සාක්ෂිය"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "සාඕක්ෂිය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "දේ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "මම දෙන"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබට"
+    }
+  ],
+  "timestamp": "2026-08-28T08:18:16.158870845Z",
+  "model": "glm-5.3"
+}

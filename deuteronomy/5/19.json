@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "සහ නොකරුණා, සොරකම් නොකරන්නේ නැත.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "සහ නොකරුණා"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "සොරකම් නොකරන්නේ නැත"
+    }
+  ],
+  "timestamp": "2026-08-27T20:57:19.058982772Z",
+  "model": "glm-5.3"
+}

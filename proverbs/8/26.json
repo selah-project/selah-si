@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 8,
+  "translation": "ඔහු පොළොව නොමවා තවම, බාහිර ප්‍රදේශද නැති කල, ලෝකයේ දූලිලිවල මුලද නොවූ කලැයි.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "තවම"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොමවා"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "මවා"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "බාහිර ප්‍රදේශද"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "මුලද"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "දූලිලිවල"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ලෝකයේ"
+    }
+  ],
+  "timestamp": "2026-08-28T12:04:19.531461297Z",
+  "model": "glm-5.3"
+}

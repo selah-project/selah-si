@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "රජු ෂිමිට කීවේ, “ඔබ නොමැරේ” ය; රජු ඔහුට දිවුරා සිටියේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ට"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ෂිමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "මැරේ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "දිවුරා සිටියේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    }
+  ],
+  "timestamp": "2026-08-27T22:26:19.032010347Z",
+  "model": "glm-5.3"
+}

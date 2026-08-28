@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "si",
+  "chapter": 12,
+  "translation": "රිදී බැමි ඉවත් නොකරන, රන් බඳුන බිඳ නොදමන, උල්පත අසල කළය නොකැඩෙන, එළිය කුඩය තොට වෙත නොකැඳවන තුරුය.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "තුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨යන තැන⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ඉවත් කරන"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "බැමි"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "රිදී"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "බිඳ දමන"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "බඳුන"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "නොකැඩෙන"
+    },
+    {
+      "surface": "כד",
+      "gloss": "කළය"
+    },
+    {
+      "surface": "על",
+      "gloss": "අසල"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "උල්පත"
+    },
+    {
+      "surface": "වנרץ",
+      "gloss": "නොකැඳවන"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "එළිය කුඩය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "තොට"
+    }
+  ],
+  "timestamp": "2026-08-28T10:49:06.693196576Z",
+  "model": "glm-5.3"
+}

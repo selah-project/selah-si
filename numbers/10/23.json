@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මෙනාෂේ පුත්‍රයන්ගේ ගෝත්‍රයේ සේනාව මත ⟨යි⟩ පධාට්සූර් පුත් ගම්ලියෙල් ⟨යි⟩ විය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "මත"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "සේනාව"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ගෝත්‍රයේ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුත්‍රයන්ගේ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "මෙනාෂේ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ගම්ලියෙල්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "පධා"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ට්සූර්"
+    }
+  ],
+  "timestamp": "2026-08-28T08:32:08.084181724Z",
+  "model": "glm-5.3"
+}

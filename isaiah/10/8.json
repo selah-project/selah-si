@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "si",
+  "chapter": 10,
+  "translation": "මන්ද ⟨ඔහු⟩ මෙසේ කියයි: 'මාගේ ප්‍රධානීහු එක්ව රජවරු නොවේ ද?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "඙אמר",
+      "gloss": "ඔහු කියයි"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "නොවේ ද"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "මාගේ ප්‍රධානීහු"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "එක්ව"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "රජවරු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:13:37.040264476Z",
+  "model": "glm-5.3"
+}

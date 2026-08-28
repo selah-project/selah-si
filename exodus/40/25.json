@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "ඔහු යහ්වේ ඉදිරියේ පහන් දැල්වූයේය; යහ්වේ මොෂේට ⟨את⟩ අණ කළ පරිදි.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "දැල්වූයේය"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "පහන්"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරියේ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:04:50.854415230Z",
+  "model": "glm-5.3"
+}

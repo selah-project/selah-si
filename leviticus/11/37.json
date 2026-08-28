@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "si",
+  "chapter": 11,
+  "translation": "සහ ඔවුන්ගේ මළ සිරුරුවලින් වැටෙන්නේ නම්, වැපිරෙන වැපිරූ බීජයක මතට, එය පවිත්‍රයි.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "සහ-නම්"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "වැටෙන්නේ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ඔවුන්ගේ මළ සිරුරුවලින්"
+    },
+    {
+      "surface": "על",
+      "gloss": "මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසි"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "බීජ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "වැපිරූ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "එය"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "වැපිරෙන"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "පවිත්‍රයි"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "එයයි"
+    }
+  ],
+  "timestamp": "2026-08-27T20:11:24.104185732Z",
+  "model": "glm-5.3"
+}

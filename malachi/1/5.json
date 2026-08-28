@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "ඔබේ ඇස් දැක්ක, ඔබ මෙසේ කියනු ඇත — ඉශ්රායෙල්ගේ සීමාව ඉක්ම යහ්වේ මහත් වේවා.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "ඔබේ ඇස්"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "දැක්ක"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "කියනු ඇත"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "මහත් වේවා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ඉක්ම"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "සීමාව මත"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්රායෙල්"
+    }
+  ],
+  "timestamp": "2026-08-28T01:56:45.252997606Z",
+  "model": "glm-5.3"
+}

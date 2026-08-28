@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "රිදී කකර සියයකින් ඊශ්‍රායෙල් වෙතින් ධෛර්යමත් යෝධයන් දහසක් කුලීට ගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "කුලීට ගත්තේය"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ඊශ්‍රායෙල් වෙතින්"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "දහසක්"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "යෝධයන්"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ධෛර්යමත්"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "යෝධ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "සියයකින්"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "රිදී කකර"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "රිදී"
+    }
+  ],
+  "timestamp": "2026-08-28T07:43:19.515213445Z",
+  "model": "glm-5.3"
+}

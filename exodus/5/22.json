@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 5,
+  "translation": "මොෂේ යහ්වේ වෙත හැරී කීයේ: අදෝනයි, මේ ජනයාට අයහපත් කළේ ඇයි? මා එවූයේ ඇයි?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "හැරී"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "අදෝනයි"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "අයහපත් කළේ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ජනයාට"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මේ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ඇයි"
+    },
+    {
+      "surface": "זה",
+      "gloss": "මේ නිසා"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "මා එවූයේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:39:04.094261753Z",
+  "model": "glm-5.3"
+}

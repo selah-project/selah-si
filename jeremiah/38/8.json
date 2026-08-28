@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 38,
+  "translation": "එවිට එබෙද්-මෙලෙක් රජුගේ ගෘහයෙන් පිටතට ගොස් රජු හා කථා කොට මෙසේ කීවේය:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "පිටතට ගියේය"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "එබෙද්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "මෙලෙක්"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ගෘහයෙන්"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජුගේ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "කථා කළේය"
+    },
+    {
+      "surface": "אל",
+      "gloss": "හා"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කීමට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:10:55.796266365Z",
+  "model": "glm-5.3"
+}

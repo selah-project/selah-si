@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "මිනිසා තමන් වෙනුවෙන් දෙවිවරු කරගන්නේද, සහ ඒවා දෙවිවරු නොවන්නේද?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "කරගන්නේද"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමන් වෙනුවෙන්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මිනිසා"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරු"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "සහ ඒවා"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවන්නේද"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "දෙවිවරු"
+    }
+  ],
+  "timestamp": "2026-08-27T23:53:51.247824192Z",
+  "model": "glm-5.3"
+}

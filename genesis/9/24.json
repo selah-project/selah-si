@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "නෝආඛ් තම වයින් මතින් අවදි වූයේය, තම බාල පුත් තමට කළ දේ ⟨את⟩ දැනගත්තේය.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "අවදි වූයේය"
+    },
+    {
+      "surface": "נח",
+      "gloss": "නෝආඛ්"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "තම වයින් මතින්"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "දැනගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "තම බාල පුත් තමට කළ දේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "යන"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කළ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "තමට"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "තම පුත්"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "බාල"
+    }
+  ],
+  "timestamp": "2026-08-27T19:06:42.396252505Z",
+  "model": "glm-5.3"
+}

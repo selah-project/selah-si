@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 21,
+  "translation": "සියලු මසුරු දැක්කේ ය — මම යහ්වේ එය දලවා ඇත්තෙමි බව; එය නිවී නොයන්නේය.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "දැක්කේ ය"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "මසුරු"
+    },
+    {
+      "surface": "כי",
+      "gloss": "බව"
+    },
+    {
+      "surface": "אני",
+      "gloss": "මම"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "දලවා ඇත්තෙමි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "නිවී යන්නේය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:35:00.813145468Z",
+  "model": "glm-5.3"
+}

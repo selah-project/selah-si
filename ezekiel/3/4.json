@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔහු මට කීවේය: මනුෂ්‍ය පුත්, යා — යිස්රායෙල් ගේ ගෙට වදින්න, ඔබ මගේ වචන ඔවුන් හට කථා කරව්.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ඔහු කීවේය"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍ය"
+    },
+    {
+      "surface": "לך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "בא",
+      "gloss": "වදින්න"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ගෙට"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රායෙල් ගේ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ඔබ කථා කරව්"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "මගේ වචන"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ඔවුන් හට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:23:58.517865552Z",
+  "model": "glm-5.3"
+}

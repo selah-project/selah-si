@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "මෙසේ කියයි යහ්වේ, ⟨את⟩එය කරන්නා, යහ්වේ, එය වඩන්නා, එය ස්ථිර කරන්නා — යහ්වේ ⟨is⟩ ඔහුගේ නාමයයි.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "කියයි"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "කරන්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "වඩන්නා"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "එය"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "එය ස්ථිර කරන්නා"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ඔහුගේ නාමය"
+    }
+  ],
+  "timestamp": "2026-08-28T00:08:08.253755584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 95,
+  "translation": "මොහුගේ අත තුළ ⟨වේ⟩ පොළොවේ ගැඹුරු ස්ථාන, පර්වතවල උසයන්ද ඔහුටය.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "මොහු"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "මොහුගේ අත තුළ"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ගැඹුරු ස්ථාන"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොවේ"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "සහ උසයන්"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "පර්වතවල"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    }
+  ],
+  "timestamp": "2026-08-28T03:11:46.859066723Z",
+  "model": "glm-5.3"
+}

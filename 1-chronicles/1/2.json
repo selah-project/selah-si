@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 1,
+  "translation": "කෙයිනාන්, මහලලෙල්, යෙරෙද්,",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "කෙයිනාන්"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "මහලලෙල්"
+    },
+    {
+      "surface": "඙וירד",
+      "gloss": "යෙරෙද්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:28:48.887805707Z",
+  "model": "glm-5.3"
+}

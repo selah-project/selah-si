@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "si",
+  "chapter": 23,
+  "translation": "මනුෂ්‍ය පුත්‍රයා, එක ⟨මවකගේ⟩ දූවරු ස්ත්‍රීහු දෙදෙනෙක් ⟨වූහ⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "පුත්‍රයා"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "මනුෂ්‍ය"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "දෙදෙනෙක්"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ස්ත්‍රීහු"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "දූවරු"
+    },
+    {
+      "surface": "אם",
+      "gloss": "මවකගේ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එක"
+    },
+    {
+      "surface": "היו",
+      "gloss": "වූහ"
+    }
+  ],
+  "timestamp": "2026-08-28T00:38:26.835931190Z",
+  "model": "glm-5.3"
+}

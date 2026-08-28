@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යෝආඛ් ඔහුගේ පුත්, ඉද්දෝ ඔහුගේ පුත්, සෙරඛ් ඔහුගේ පුත්, යෙආතරයි ඔහුගේ පුත්.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "යෝආඛ්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ඉද්දෝ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "සෙරඛ්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "යෙආතරයි"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ පුත්"
+    }
+  ],
+  "timestamp": "2026-08-28T06:38:06.880547730Z",
+  "model": "glm-5.3"
+}

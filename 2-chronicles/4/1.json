@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ඔහු තඹ මඬුවක් කළේය — අතුරුදන්ත රිදීය, අඟල් විසියක් එහි දිග, අඟල් විසියක් එහි පළල, අඟල් දහයක් එහි උස.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ඔහු කළේය"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "මඬුව"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "තඹ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "විසි"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "එහි දිග"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "සහ විසි"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "එහි පළල"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "සහ දහය"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඟල්"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "එහි උස"
+    }
+  ],
+  "timestamp": "2026-08-28T07:17:11.772005863Z",
+  "model": "glm-5.3"
+}

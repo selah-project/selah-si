@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "ඉශ්‍රායෙල් රජුද යෙහූදාහී රජු වන යෙහෝෂාෆාට්ද රමොත්-ගිල්උද් වෙත නැඟී ගියහ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "නැඟී ගියහ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉශ්‍රායෙල්"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "යෙහෝෂාෆාට්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදාහී"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "රමොත්"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ගිල්උද්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:30:12.567112309Z",
+  "model": "glm-5.3"
+}

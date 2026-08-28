@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "හසාඑල්, අරාම් රජු, මළේය; ඔහුගේ පුත් බෙන්-හදද් ඔහු වෙනුවට රජ විය.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "මළේය"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "හසාඑල්"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජු"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "අරාම්"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "රජ විය"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "බෙන්-හදද්"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ඔහුගේ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ඔහු වෙනුවට"
+    }
+  ],
+  "timestamp": "2026-08-27T22:58:22.365679356Z",
+  "model": "glm-5.3"
+}

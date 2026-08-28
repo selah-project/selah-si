@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "උස් දේ ඥානය අඥානයාට; දොරටුවේදී ඔහු තම මුඛය නොවිවරයි.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "උස් දේ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "අඥානයාට"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ඥානය"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "දොරටුවේදී"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "විවරයි"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ඔහුගේ මුඛය"
+    }
+  ],
+  "timestamp": "2026-08-28T04:15:44.530169985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "si",
+  "chapter": 15,
+  "translation": "අමාම්, ෂෙමා, මොලදා;",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "අමාම්"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "සහ ෂෙමා"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "සහ මොලදා"
+    }
+  ],
+  "timestamp": "2026-08-27T21:29:18.501818399Z",
+  "model": "glm-5.3"
+}

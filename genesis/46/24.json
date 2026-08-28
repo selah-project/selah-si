@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "නෆ්තාලිගේ පුත්‍රයෝ: යහ්ට්සෙඑල්, ගුනි, යෙට්සර් සහ ෂිලෙම්.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "පුත්‍රයෝ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "නෆ්තාලිගේ"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "යහ්ට්සෙඑල්"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ගුනි"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "යෙට්සර්"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ෂිලෙම්"
+    }
+  ],
+  "timestamp": "2026-08-27T19:33:20.693886909Z",
+  "model": "glm-5.3"
+}

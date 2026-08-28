@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "සහ ඔහුට දූවක් නැත්නම්, ඔහුගේ සහෝදරයන්ට ⟨את⟩ ඔහුගේ උරුමය දෙන්නහු.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "සහ නැත්නම්"
+    },
+    {
+      "surface": "אין",
+      "gloss": "නැත"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "בת",
+      "gloss": "දූවක්"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "දෙන්නහු"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ඔහුගේ උරුමය"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ඔහුගේ උරුමය"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ඔහුගේ සහෝදරයන්ට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:48:42.986120886Z",
+  "model": "glm-5.3"
+}

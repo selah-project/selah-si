@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "මොෂේ ⟨את⟩ කරත්ත සහ ⟨את⟩ ගවයන් ගෙන, ඒවා ලෙවීවරුන්ට දුන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගෙන"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කරත්ත"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "කරත්ත"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "සහ ⟨את⟩",
+      "marks": "ගවයන්"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ගවයන්"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ඒවා",
+      "marks": "ලෙවීවරුන්ට"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "වלוים",
+      "gloss": "ලෙවීවරු"
+    }
+  ],
+  "timestamp": "2026-08-27T20:30:59.949448525Z",
+  "model": "glm-5.3"
+}

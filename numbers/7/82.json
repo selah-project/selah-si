@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "එළුවරුන්ගේ එක් එළුවෙක්, පාප පූජාවට.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "එළුවෙක්"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "එළුවරුන්ගේ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "පාප පූජාවට"
+    }
+  ],
+  "timestamp": "2026-08-27T20:34:15.572000333Z",
+  "model": "glm-5.3"
+}

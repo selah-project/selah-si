@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 44,
+  "translation": "මක්නිසාද මගේ දුන්නෙහි මම භරසා නොකරමි, මගේ කඩුවද මා බේරා නොගනී.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මක්නිසාද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "මගේ දුන්නෙහි"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "භරසා කරමි"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "මගේ කඩුවද"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "මා බේරා ගනී"
+    }
+  ],
+  "timestamp": "2026-08-28T02:29:54.602198357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 40,
+  "translation": "බැසිනය ⟨את⟩ අභිෂේක කර, ⟨את⟩ එහි පතුලද, එය පූජනීය කරන්නහ.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "අභිෂේක කර"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "බැසිනය"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "බැසිනය"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "පතුල"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "පතුල"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "පූජනීය කර"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ එය"
+    }
+  ],
+  "timestamp": "2026-08-27T20:05:25.315043536Z",
+  "model": "glm-5.3"
+}

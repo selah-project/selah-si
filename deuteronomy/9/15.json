@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "මම හැරී පර්වතයෙන් බැස ගියෙමි — පර්වතය ගිනියෙන් දැවෙමින් සිටියේය; ගිවිසුමේ ඵලක දෙක මගේ දෑත් දෙක මත විය.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "මම හැරී"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "බැස ගියෙමි"
+    },
+    {
+      "surface": "מן",
+      "gloss": "යෙන්"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "පර්වතය"
+    },
+    {
+      "surface": "בער",
+      "gloss": "දැවෙමින් සිටියේය"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ගිනියෙන්"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ඵලක"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ගිවිසුමේ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "මගේ දෑත්"
+    }
+  ],
+  "timestamp": "2026-08-27T21:02:30.932460537Z",
+  "model": "glm-5.3"
+}

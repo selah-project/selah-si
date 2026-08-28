@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 19,
+  "translation": "සම්පත් බොහෝ මිතුරන් එකතු කරයි; දුප්පතා තම මිතුරාගෙන් වෙන් වේ.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "සම්පත්"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "එකතු කරයි"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "මිතුරන්"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "බොහෝ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "සහ දුප්පතා"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "තම මිතුරාගෙන්"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "වෙන් වේ"
+    }
+  ],
+  "timestamp": "2026-08-28T04:13:49.235926209Z",
+  "model": "glm-5.3"
+}

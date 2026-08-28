@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "යෙහූදා ගෝත්‍රයට — කාලෙබ්, යෙෆුනේගේ පුත්।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ගෝත්‍රයට"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "යෙහූදා"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "කාලෙබ්"
+    },
+    {
+      "surface": "בן",
+      "gloss": "පුත්"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "යෙෆුනේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:35:56.725887714Z",
+  "model": "glm-5.3"
+}

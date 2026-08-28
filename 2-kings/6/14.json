@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 6:14",
+  "book": "2-kings",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "ඔහු එහි අශ්වයන් ද රථ ද බර හමුදාවක් ද යවා ය; ඔවුහු රාත්‍රියේ පැමිණ, නගරය වට කළහ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "යවා-ය"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "අශ්වයන්"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "රථ"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "හමුදාවක්"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "බර"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "පැමිණ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "රාත්‍රියේ"
+    },
+    {
+      "surface": "ויקפו",
+      "gloss": "වට-කළහ"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරය"
+    }
+  ],
+  "timestamp": "2026-08-27T22:53:49.470164622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 32,
+  "translation": "මන්ද ඔවුන් උපදේසය නැති ජාතියකි, ඔවුන් තුළ අවබෝධයක් නැත.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "මන්ද"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ජාතියක්"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "නැති"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "උපදේසය"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ඔවුන්"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "සහ නැත"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ඔවුන් තුළ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "අවබෝධය"
+    }
+  ],
+  "timestamp": "2026-08-27T21:16:00.169188622Z",
+  "model": "glm-5.3"
+}

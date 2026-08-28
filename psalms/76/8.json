@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 76,
+  "translation": "ඔබ, ඔබම භයජනකය; ඔබ කෝප වූ කල් පටන් ඔබ ඉදිරියේ සිටගන්නේ කවරෙක් ද?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "භයජනකය"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ඔබම"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "කවරෙක් ද"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "සිටගන්නේ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ඔබ ඉදිරියේ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "කල් පටන්"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ඔබ කෝප වූ"
+    }
+  ],
+  "timestamp": "2026-08-28T02:55:00.706613748Z",
+  "model": "glm-5.3"
+}

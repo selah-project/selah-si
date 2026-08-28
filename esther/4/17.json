@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "මොරදකයි ගියේය, එස්තෙර් ⟨ඔහුට⟩ අණ කළ සියල්ලට අනුව කළේය.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ගියේය"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "මොරදකයි"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "සියල්ලට අනුව"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ම"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "එස්තෙර්"
+    }
+  ],
+  "timestamp": "2026-08-28T05:25:15.877374813Z",
+  "model": "glm-5.3"
+}

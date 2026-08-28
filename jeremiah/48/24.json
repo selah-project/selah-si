@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 48,
+  "translation": "කෙරියොත් මතට සහ බොට්ස්රා මතට සහ මූවාබ් දේශයේ ඈත සහ ලඟ ඇති සියලු නගර මතටය.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "කෙරියොත්"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "බොට්ස්රා"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "සහ මතට"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සියලු"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "නගර"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "දේශයේ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "මූවාබ්"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "ඈත ඇති"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "සහ ලඟ ඇති"
+    }
+  ],
+  "timestamp": "2026-08-28T00:15:41.266332178Z",
+  "model": "glm-5.3"
+}

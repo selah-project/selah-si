@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "කොහොමද රන් අඳුරු වීද, හොඳ ස්වර්ණය වෙනස් වීද! පූජනීය ගල් සෑම වීදියකම මුලදොරක විසිරී ගියේය.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "කොහොමද"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "අඳුරු වීද"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "රන්"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "වෙනස් වීද"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "ස්වර්ණය"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "හොඳ"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "විසිරී ගියේය"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ගල්"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "පූජනීය"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "මුලදොරක"
+    },
+    {
+      "surface": "כל",
+      "gloss": "සෑම"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "වීදියක"
+    }
+  ],
+  "timestamp": "2026-08-28T05:13:31.553809531Z",
+  "model": "glm-5.3"
+}

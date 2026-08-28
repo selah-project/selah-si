@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 7,
+  "translation": "බලව, ඔබ දෙවැනි නොවන වචනවලට භර්සා කරන්නේ, ඵලක් නොලැබෙනු පිණිසය.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බලව"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ඔබ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "භර්සා කරන්නේ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබටම"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "වචනවලට"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "දෙවැනි නොවන"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "නො"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ඵලක් ලැබෙනු පිණිස"
+    }
+  ],
+  "timestamp": "2026-08-28T09:46:23.546743501Z",
+  "model": "glm-5.3"
+}

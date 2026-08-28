@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "දාවීද් සඳහා. ඔබ වෙත, යහ්වේ, මාගේ නෙෆෙෂ් ඔසවා දකිමි.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "දාවීද් සඳහා"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ඔබ වෙත"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "මාගේ නෙෆෙෂ්"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ඔසවා දකිමි"
+    }
+  ],
+  "timestamp": "2026-08-28T10:21:22.726718706Z",
+  "model": "glm-5.3"
+}

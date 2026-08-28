@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 46,
+  "translation": "කුඩා ලෑලි සරසා, විශාල ලෑලිද, සටනට ළං වෙන්න.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "සරසා"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "කුඩා ලෑලි"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "විශාල ලෑලිද"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "ළං වෙන්න"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "සටනට"
+    }
+  ],
+  "timestamp": "2026-08-28T00:13:56.787640012Z",
+  "model": "glm-5.3"
+}

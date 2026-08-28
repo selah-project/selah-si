@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "si",
+  "chapter": 13,
+  "translation": "දැන් මෙසේ, රැක සිටින්න; මිදි මධුපානය හෝ සුරාව නොබොන්න, අශුද්ධ කිසිවක් නොකන්න.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "දැන්"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "රැක සිටින්න"
+    },
+    {
+      "surface": "נא",
+      "gloss": "මෙසේ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "බොන්න"
+    },
+    {
+      "surface": "יין",
+      "gloss": "මිදි මධුපානය"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "සුරාව"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "කන්න"
+    },
+    {
+      "surface": "כל",
+      "gloss": "කිසිවක්"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "අශුද්ධ"
+    }
+  ],
+  "timestamp": "2026-08-27T21:45:39.520076411Z",
+  "model": "glm-5.3"
+}

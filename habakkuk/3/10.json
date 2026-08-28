@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඔබව දැක කඳු ගැස්සෙන්නේය; ජලධාරාවක් ගලා ගියේය; අගාධය තම හඬ දුන්නේය; උසට තම අත් ඔසවන ලදී.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "ඔබව දැක"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ගැස්සෙන්නේය"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "කඳු"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "ජලධාරාවක්"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ගලා ගියේය"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "දුන්නේය"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "අගාධය"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "තම හඬ"
+    },
+    {
+      "surface": "רום",
+      "gloss": "උසට"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "තම අත්"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ඔසවන ලදී"
+    }
+  ],
+  "timestamp": "2026-08-28T10:15:38.422916119Z",
+  "model": "glm-5.3"
+}

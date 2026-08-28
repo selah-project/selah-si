@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 18,
+  "translation": "රථ සේනාංශිකයෝ ඔහු ඉස්රායෙල් රජ නොවන බව දුටු කල, ඔහු පසුපසින් ආපසු හැරුණහ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "වූ කල"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "දුටු කල"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "සේනාංශිකයෝ"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "රථ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...බව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "היה",
+      "gloss": "වන"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ඉස්රායෙල්"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ආපසු හැරුණහ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ඔහු පසුපසින්"
+    }
+  ],
+  "timestamp": "2026-08-28T07:34:18.134071695Z",
+  "model": "glm-5.3"
+}

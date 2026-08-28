@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 31,
+  "translation": "මොෂේ සහ පූජක එල්ආසාර් යහ්වේ ⟨את⟩ මොෂේට අණ කළ සියල්ල පරිදි කළහ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළහ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "සහ එල්ආසාර්"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "පූජක"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "පරිදි"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "අණ කළ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "මොෂේ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    }
+  ],
+  "timestamp": "2026-08-27T20:51:40.333759754Z",
+  "model": "glm-5.3"
+}

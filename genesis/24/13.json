@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "බලු, මම ජල උල්පින අස සිටගෙන සිටිමි; නගරයේ මිනිසුන්ගේ දූවරු ජලය අදින්න පිටතට එති.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බලු"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "මම"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "සිටගෙන සිටිමි"
+    },
+    {
+      "surface": "על",
+      "gloss": "අස"
+    },
+    {
+      "surface": "עין",
+      "gloss": "උල්පින"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ජල"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "දූවරු"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "මිනිසුන්ගේ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "නගරයේ"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "පිටතට එති"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "අදින්න"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලය"
+    }
+  ],
+  "timestamp": "2026-08-27T19:16:49.523705951Z",
+  "model": "glm-5.3"
+}

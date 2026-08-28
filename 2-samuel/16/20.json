@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "si",
+  "chapter": 16,
+  "translation": "අව්ෂලෝම් අහීතෝපෙල්ට කීවේය: ඔබ ම උපදෙසක් දෙන්න — අපි කුමක් කරමුද?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "අව්ෂලෝම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "අහීතෝපෙල්ට"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ඔබ ම"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "උපදෙසක්"
+    },
+    {
+      "surface": "מה",
+      "gloss": "කුමක්"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "කරමුද"
+    }
+  ],
+  "timestamp": "2026-08-28T09:12:34.749481447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ඇය ඇගැලූවන්ට ජීවන වෘක්ෂයකි; ඇයව රඳවා ගන්නෝ මෙහෙණ ලද්දෝ වෙති.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "වෘක්ෂයක්"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ජීවන"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ඇය"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "ඇගැලූවන්ට"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ඇයව"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "රඳවා ගන්නෝ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "මෙහෙණ ලද්දෝ"
+    }
+  ],
+  "timestamp": "2026-08-28T03:54:11.790632536Z",
+  "model": "glm-5.3"
+}

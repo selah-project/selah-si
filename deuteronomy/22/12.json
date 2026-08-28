@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 22,
+  "translation": "ඔබ ඇඳ සිටින ආවරණයේ සිව් කොන්වල ගෙතුම් පැලැලි හතරක් ඔබ සඳහා තනාගන්න.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ගෙතුම් පැලැලි"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "තනාගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ සඳහා"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "සිව්"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "කොන්වල"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "ඔබේ ආවරණයේ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔබ ඇඳ සිටින"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ඇඳ සිටින"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    }
+  ],
+  "timestamp": "2026-08-27T21:08:19.159474051Z",
+  "model": "glm-5.3"
+}

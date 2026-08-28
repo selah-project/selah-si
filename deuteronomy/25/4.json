@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 25,
+  "translation": "ධාන්‍ය මඩන ගවයාගේ මුව නොවසන්න.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "වසන්න"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ගවයා"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ධාන්‍ය මඩන අතරතුර"
+    }
+  ],
+  "timestamp": "2026-08-27T21:10:44.439750965Z",
+  "model": "glm-5.3"
+}

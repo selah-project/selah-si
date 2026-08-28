@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "ඒමීම් පෙර එහි වාසය කළහ; මහා ජනයෙක් — බොහෝ සෙයින් වූ, උස් වූ — අනාකීම් සේ ය.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ඒමීම්"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "පෙර"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "වාසය කළහ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ජනයෙක්"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "මහා"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "සහ බොහෝ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "සහ උස්"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "අනාකීම් සේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:39:24.462408198Z",
+  "model": "glm-5.3"
+}

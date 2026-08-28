@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "si",
+  "chapter": 9,
+  "translation": "ෂලෝමෝ ⟨את⟩ ගෙසර්ද, ⟨את⟩ බෙයිත්-හොරොන් පහළද ඉදිකළේය.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ඉදිකළේය"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ෂලෝමෝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ගෙසර්"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ගෙසර්"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "බෙයිත්-හොරොන්"
+    },
+    {
+      "surface": "בית",
+      "gloss": "බෙයිත්"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "හොරොන්"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "පහළ"
+    }
+  ],
+  "timestamp": "2026-08-27T22:36:38.406485181Z",
+  "model": "glm-5.3"
+}

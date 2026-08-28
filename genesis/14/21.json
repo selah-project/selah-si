@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "සෙදොම් රජ අව්රාහම්ට කතා කොට කීවේය: \"මට පුද්ගලයන් ⟨දෙන්න⟩, දේපළ ඔබ සඳහා ගන්න.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කතා කොට කීවේය"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "රජ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "සෙදොම්"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "අව්රාහම්"
+    },
+    {
+      "surface": "תן",
+      "gloss": "දෙන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "පුද්ගලයන්"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "දේපළ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගන්න"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ඔබ සඳහා"
+    }
+  ],
+  "timestamp": "2026-08-27T19:09:55.919820901Z",
+  "model": "glm-5.3"
+}

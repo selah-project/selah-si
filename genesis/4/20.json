@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 4,
+  "translation": "ආදා ⟨את⟩ යබල් බිහි කළාය; ඔහු තවාන් වසන්නන්ගේ හා ගවමුගුන් ඇති කරන්නන්ගේ පියා විය.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "බිහි කළාය"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ආදා"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "යබල්"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "යබල්"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "היה",
+      "gloss": "විය"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "වසන්නන්ගේ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "තවාන්"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "හා ගවමුගුන් ඇති කරන්නන්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T08:02:55.326890307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "si",
+  "chapter": 6,
+  "translation": "යහ්වේ මොෂේට කතා කොට ⟨කියන ලදි⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "කතා කොට"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨කියන ලදි⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T20:32:34.036937783Z",
+  "model": "glm-5.3"
+}

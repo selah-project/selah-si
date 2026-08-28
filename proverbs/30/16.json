@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "si",
+  "chapter": 30,
+  "translation": "ෂෙයෝල්, සහ වැසූ ගර්භාෂය, ජලයෙන් තෘප්ත නොවන පොළොව, සහ 'ප්‍රමාණයයි' නොකියන ගිනි.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ෂෙයෝල්"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "සහ වැසූ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ගර්භාෂය"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "පොළොව"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "තෘප්ත වන"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ජලයෙන්"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "සහ ගිනි"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නො"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "කියන"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ප්‍රමාණයයි"
+    }
+  ],
+  "timestamp": "2026-08-28T04:22:58.672763509Z",
+  "model": "glm-5.3"
+}

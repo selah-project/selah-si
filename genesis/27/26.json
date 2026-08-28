@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහුගේ පියා වන යිට්ස්ඛාක් ඔහුට කීයේය: දැන් මැනව, මගේ පුතේ, ළඟට ව් මට හිඳගන්න.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීයේය"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "යිට්ස්ඛාක්"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ඔහුගේ පියා"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "ළඟට ව්"
+    },
+    {
+      "surface": "נא",
+      "gloss": "දැන් මැනව"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "හිඳගන්න"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුතේ"
+    }
+  ],
+  "timestamp": "2026-08-27T19:21:49.550904633Z",
+  "model": "glm-5.3"
+}
