@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":8,"ref":"jeremiah 43:8","book":"jeremiah","lang":"si","chapter":43,"translation":"එවිට තක්පන්හෙස්හිදී නිමිසියාට යහ්වේගේ වචනය වූයේ ⟨is⟩, මෙසේ සිරිල් කියමින්:","tokens":[{"surface":"ויהי","gloss":"එවිට වූයේ"},{"surface":"דבר","gloss":"වචනය"},{"surface":"יהוה","gloss":"යහ්වේගේ"},{"surface":"אל","gloss":"...ට"},{"surface":"ירמיהו","gloss":"නිමිසියා"},{"surface":"בתחפנחס","gloss":"තක්පන්හෙස්හිදී"},{"surface":"לאמר","gloss":"මෙසේ සිරිල් කියමින්"}],"timestamp":"2026-08-28T00:13:43.065375595Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "si",
+  "chapter": 43,
+  "translation": "තන්හ෴පන්ඛෙස්හිදී යිර්මෙයාහු වෙත යහ්වේගේ වචනය විය, මෙසේ කියාම:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "විය"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "වචනය"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "යහ්වේගේ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "වෙත"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "යිර්මෙයාහු"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "තන්හ෴පන්ඛෙස්හිදී"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "මෙසේ කියාම"
+    }
+  ],
+  "timestamp": "2026-08-28T15:57:03.523797992Z",
+  "model": "glm-5.3"
+}

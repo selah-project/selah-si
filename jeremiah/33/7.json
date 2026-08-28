@@ -5,47 +5,47 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 33,
-  "translation": "And I will restore ⟨את⟩ the fortune of Judah and ⟨את⟩ the fortune of Israel, and I will rebuild them as at the first.",
+  "translation": "මම යිජුදාගේ සිරක්කාරය ⟨את⟩ ආපසු පිහිටුවා, යිස්රාඑල්ගේ සිරක්කාරය ⟨את⟩ද ආපසු පිහිටුවා, ඔවුන් මුල් අවධියේ මෙන් නැවත ගොඩනඟන්නෙමි.",
   "tokens": [
     {
       "surface": "והשבתי",
-      "gloss": "And I will restore"
+      "gloss": "ආපසු පිහිටුවන්නෙමි"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the fortune of Judah"
+      "marks": "සිරක්කාරය"
     },
     {
       "surface": "שבות",
-      "gloss": "the fortune of"
+      "gloss": "සිරක්කාරය"
     },
     {
       "surface": "יהודה",
-      "gloss": "Judah"
+      "gloss": "යිජුදාගේ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "the fortune of Israel"
+      "gloss": "⟨את⟩ද",
+      "marks": "සිරක්කාරය"
     },
     {
       "surface": "שבות",
-      "gloss": "and the fortune of"
+      "gloss": "සිරක්කාරය"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "යිස්රාඑල්ගේ"
     },
     {
       "surface": "ובנתים",
-      "gloss": "and I will rebuild them"
+      "gloss": "නැවත ගොඩනඟන්නෙමි"
     },
     {
       "surface": "כבראשנה",
-      "gloss": "as at the first"
+      "gloss": "මුල් අවධියේ මෙන්"
     }
   ],
-  "timestamp": "2026-08-28T00:05:57.305943717Z",
+  "timestamp": "2026-08-28T15:01:47.084719119Z",
   "model": "glm-5.3"
 }

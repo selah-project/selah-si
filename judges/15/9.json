@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "judges 15:9",
-  "book": "judges",
-  "lang": "si",
-  "chapter": 15,
-  "translation": "පෙලිෂ්තීහු නැඟී ⟨දෙවියන් ස්ථානයට? නැත —⟩ යුදාවේ කඳවුරු ලාගෙන ලෙඛියෙහි පැතිරී සිටියාහුය.",
-  "tokens": [],
-  "timestamp": "2026-08-27T21:45:49.351038737Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":9,"ref":"judges 15:9","book":"judges","lang":"si","chapter":15,"translation":"පෙලිෂ්තීහු ⟨ඉහළට⟩ ගියහ; යූදාවෙහි කඳවුරු ලාගත්හ; ලෙඛියෙහි පැතිරී ගියහ.","tokens":[{"surface":"ויעלו","gloss":"ගියහ"},{"surface":"פלשתים","gloss":"පෙලිෂ්තීහු"},{"surface":"ויחנו","gloss":"කඳවුරු ලාගත්හ"},{"surface":"ביהודה","gloss":"යූදාවෙහි"},{"surface":"וינטשו","gloss":"පැතිරී ගියහ"},{"surface":"בלחי","gloss":"ලෙඛියෙහි"}],"timestamp":"2026-08-28T13:52:47.762151448Z","model":"glm-5.3"}

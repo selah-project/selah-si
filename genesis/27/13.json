@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":13,"ref":"genesis 27:13","book":"genesis","lang":"si","chapter":27,"translation":"සහ ඔහුගේ මව ඔහුට කථා කොට කීවාය: ඔබේ ශාපය මා මත ⟨is⟩, මගේ පුත්; මිස නොව මගේ හඬට කන දෙන්න, යන්න, මට ⟨את⟩ ගෙනවුත්න.","tokens":[{"surface":"ותאמר","gloss":"සහ කීවාය"},{"surface":"לו","gloss":"ඔහුට"},{"surface":"אמו","gloss":"ඔහුගේ මව"},{"surface":"עלי","gloss":"මා මත"},{"surface":"קללתך","gloss":"ඔබේ ශාපය"},{"surface":"בני","gloss":"මගේ පුත්"},{"surface":"אך","gloss":"මිස නොව"},{"surface":"שמע","gloss":"කන දෙන්න"},{"surface":"בקלי","gloss":"මගේ හඬට"},{"surface":"ולך","gloss":"යන්න"},{"surface":"קח","gloss":"ගෙනවුත්න"},{"surface":"לי","gloss":"මට"}],"timestamp":"2026-08-27T19:20:41.558936043Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 27,
+  "translation": "ඔහුගේ මව ඔහුට කීවාය: \"මා මත තිබෙවා, මගේ පුත්‍රය, ඔගේ ශාපය; මුත් මගේ හඬට කන් දී, යා මට ⟨විසින්⟩ ගෙන එව.\" ",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "කීවාය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ඔහුගේ මව"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "මා මත"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "ඔගේ ශාපය"
+    },
+    {
+      "surface": "בני",
+      "gloss": "මගේ පුත්‍රය"
+    },
+    {
+      "surface": "אך",
+      "gloss": "මුත්"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "කන් දී"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "මගේ හඬට"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "යා"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ගෙන එව"
+    },
+    {
+      "surface": "לי",
+      "gloss": "මට"
+    }
+  ],
+  "timestamp": "2026-08-28T13:29:24.871066425Z",
+  "model": "glm-5.3"
+}

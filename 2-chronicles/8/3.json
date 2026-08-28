@@ -5,33 +5,33 @@
   "book": "2-chronicles",
   "lang": "si",
   "chapter": 8,
-  "translation": "එවිට ෂෙලෝමෝ ඛමාත-ත්සෝවාවට ගොස් එය ⟨the⟩ යටත් කළේය.",
+  "translation": "ෂලෝමෝ හමාත්-ට්සෝබා වෙත ගියේය, එය ඔහුට යටත් කර ගත්තේය.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ගොස්"
+      "gloss": "ගියේය"
     },
     {
       "surface": "שלמה",
-      "gloss": "ෂෙලෝමෝ"
+      "gloss": "ෂලෝමෝ"
     },
     {
       "surface": "חמת",
-      "gloss": "ඛමාත"
+      "gloss": "හමාත්"
     },
     {
       "surface": "צובה",
-      "gloss": "ත්සෝවා"
+      "gloss": "ට්සෝබා"
     },
     {
       "surface": "ויחזק",
-      "gloss": "යටත් කළේය"
+      "gloss": "යටත් කර ගත්තේය"
     },
     {
       "surface": "עליה",
-      "gloss": "එය මත"
+      "gloss": "එයට එරෙහිව"
     }
   ],
-  "timestamp": "2026-08-28T07:22:02.810179749Z",
+  "timestamp": "2026-08-28T15:05:45.435930789Z",
   "model": "glm-5.3"
 }

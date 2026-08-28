@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "si",
   "chapter": 25,
-  "translation": "කරඬුවට ⟨את⟩ සාක්ෂිය ද තබන්නේ ය — මම ඔබට දෙන දේ එය ය.",
+  "translation": "ඔබ මට දෙන සාක්ෂිය අරුණෙහි ⟨את⟩ තැබුව මැනව.",
   "tokens": [
     {
       "surface": "ונתת",
-      "gloss": "තබන්නේ ය"
+      "gloss": "තැබුව මැනව"
     },
     {
       "surface": "אל",
-      "gloss": "කරඬුවට…ද"
+      "gloss": "තුළ"
     },
     {
       "surface": "הארן",
-      "gloss": "⟨the⟩ කරඬුව"
+      "gloss": "අරුණෙහි"
     },
     {
       "surface": "את",
@@ -26,21 +26,21 @@
     },
     {
       "surface": "העדת",
-      "gloss": "සාඕක්ෂිය"
+      "gloss": "සාක්ෂිය"
     },
     {
       "surface": "אשר",
-      "gloss": "දේ"
+      "gloss": "මට දෙන"
     },
     {
       "surface": "אתן",
-      "gloss": "මම දෙන"
+      "gloss": "මට දෙන"
     },
     {
       "surface": "אליך",
       "gloss": "ඔබට"
     }
   ],
-  "timestamp": "2026-08-28T08:18:16.158870845Z",
+  "timestamp": "2026-08-28T15:43:25.574036990Z",
   "model": "glm-5.3"
 }

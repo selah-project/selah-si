@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":27,"ref":"1-samuel 17:27","book":"1-samuel","lang":"si","chapter":17,"translation":"ජනයා මේ වචනය පරිදි ⟨the⟩ ඔහුට කීවේය: ඔහුට ගහන මිනිසාට මෙසේ කරනු ලැබේ.","tokens":[{"surface":"ויאמר","gloss":"කීවේය"},{"surface":"לו","gloss":"ඔහුට"},{"surface":"העם","gloss":"ජනයා"},{"surface":"כדבר","gloss":"වචනය පරිදි"},{"surface":"הזה","gloss":"මේ"},{"surface":"לאמר","gloss":"මෙසේ"},{"surface":"כה","gloss":"මෙලෙස"},{"surface":"יעשה","gloss":"කරනු ලැබේ"},{"surface":"לאיש","gloss":"මිනිසාට"},{"surface":"אשר","gloss":"...විසින්"},{"surface":"יכנו","gloss":"ගහන"}],"timestamp":"2026-08-27T22:04:45.794506908Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "si",
+  "chapter": 17,
+  "translation": "ජනතිය මෙම වචන පරිදි කියමින් ඔහුට කීවේය: ඔහුව මරන මිනිසාට එසේ කෙරෙන්නේය.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "කීවේය"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඔහුට"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ජනතිය"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "වචන පරිදි"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "මෙම"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "කියමින්"
+    },
+    {
+      "surface": "כה",
+      "gloss": "එසේ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "කෙරෙන්නේය"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "මිනිසාට"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ඔහු"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ඔහුව මරා"
+    }
+  ],
+  "timestamp": "2026-08-28T13:59:29.655922417Z",
+  "model": "glm-5.3"
+}

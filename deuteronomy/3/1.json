@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "deuteronomy 3:1",
-  "book": "deuteronomy",
-  "lang": "si",
-  "chapter": 3,
-  "translation": "එවිට අපි ආපසු හැරී, බාෂානයට ⟨මාර්ගයෙන්⟩ නැගියෙමු; බාෂාන් රජු වන ඕග්, ඔහු සහ ඔහුගේ සියලු සෙනඟද යුද්ධයට අප හමුවීමට එඩ්රෙයි වෙතින් පිටත්ව ආහ. බාෂානය බලා",
-  "tokens": [],
-  "timestamp": "2026-08-27T20:56:47.968423738Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 3:1","book":"deuteronomy","lang":"si","chapter":3,"translation":"ඉන්පසු අපි හැරී බැසන් මාර්ගයෙන් ඉහළට ගියෙමු; බැසන් රජු වන ඕග් ඔහුම සහ ඔහුගේ සියලු ජනයාද යුද්ධයට අප හමුවට එඩ්රෙයි වෙත පිටත්ව ආහ.","tokens":[{"surface":"ונפן","gloss":"ඉන්පසු අපි හැරී"},{"surface":"ונעל","gloss":"ඉහළට ගියෙමු"},{"surface":"דרך","gloss":"මාර්ගයෙන්"},{"surface":"הבשן","gloss":"බැසන්"},{"surface":"ויצא","gloss":"පිටත්ව ආහ"},{"surface":"עוג","gloss":"ඕග්"},{"surface":"מלך","gloss":"රජු"},{"surface":"הבשן","gloss":"බැසන්"},{"surface":"לקראתנו","gloss":"අප හමුවට"},{"surface":"הוא","gloss":"ඔහුම"},{"surface":"וכל","gloss":"සහ සියලු"},{"surface":"עמו","gloss":"ඔහුගේ ජනයා"},{"surface":"למלחמה","gloss":"යුද්ධයට"},{"surface":"אדרעי","gloss":"එඩ්රෙයි වෙත"}],"timestamp":"2026-08-28T15:55:11.158349390Z","model":"glm-5.3"}

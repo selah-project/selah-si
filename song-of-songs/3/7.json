@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"song-of-songs 3:7","book":"song-of-songs","lang":"si","chapter":3,"translation":"බලු, ෂෙලෝමෝගේ ආසනය — ඔහුගේ ⟨the⟩ ඇඳ, ෂෙලෝමෝගේ — වීරයෝ සැට දෙනෙක් එය වටා සිටිති, යිස්රායෙල් වීරයන්ගෙන්.","tokens":[{"surface":"הנה","gloss":"බලු"},{"surface":"מטתו","gloss":"ඔහුගේ ඇඳ"},{"surface":"שלשלמה","gloss":"ෂෙලෝමෝගේ"},{"surface":"ששים","gloss":"සැට"},{"surface":"גברים","gloss":"වීරයෝ"},{"surface":"סביב","gloss":"වටා"},{"surface":"לה","gloss":"එය"},{"surface":"מגברי","gloss":"වීරයන්ගෙන්"},{"surface":"ישראל","gloss":"යිස්රායෙල්"}],"timestamp":"2026-08-28T05:03:30.714792658Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "බල්නු, ෂ්ලොමෝගේ ඇඳ — ෂ්ලොමෝගේ ⟨ඇඳ⟩ — වටේ සැට දෙනෙක් බලකුල යොධයෝ, ඊට වටේ, යිස්රාඑල්ගේ බලකුල යොධයන්ගෙන්.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "බල්නු"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ඔහුගේ ඇඳ"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "ෂ්ලොමෝගේ ⟨ඇඳ⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "සැට"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "බලකුල යොධයෝ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "වටේ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ඊට වටේ"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "බලකුල යොධයන්ගෙන්"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "යිස්රාඑල්ගේ"
+    }
+  ],
+  "timestamp": "2026-08-28T14:36:20.134539353Z",
+  "model": "glm-5.3"
+}

@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "si",
   "chapter": 7,
-  "translation": "සතූ (Zattu) පුත්‍රයන් — අටසිය හතළිස් පහයි.",
+  "translation": "ජට්ටූගේ පුත්‍රයෝ අටසිය තිස් පහයි.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "පුත්‍රයන්"
+      "gloss": "පුත්‍රයෝ"
     },
     {
       "surface": "זתוא",
-      "gloss": "සතූ"
+      "gloss": "ජට්ටූගේ"
     },
     {
       "surface": "שמנה",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "ארבעים",
-      "gloss": "හතළිස්"
+      "gloss": "තිස්"
     },
     {
       "surface": "וחמשה",
-      "gloss": "පහයි"
+      "gloss": "පහ"
     }
   ],
-  "timestamp": "2026-08-28T06:17:53.212707037Z",
+  "timestamp": "2026-08-28T14:45:13.457544025Z",
   "model": "glm-5.3"
 }

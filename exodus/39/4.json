@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":4,"ref":"exodus 39:4","book":"exodus","lang":"si","chapter":39,"translation":"උරහිස් කැබැලි ඔවුහු එයට සාදූහ — සම්බන්ධ වූ ලෙස; එහි කෙළවර දෙක මත ⟨it⟩ ගැට ගැසී තිබුණි.","tokens":[{"surface":"כתפת","gloss":"උරහිස් කැබැලි"},{"surface":"עשו","gloss":"ඔවුහු සාදූහ"},{"surface":"לו","gloss":"එයට"},{"surface":"חברת","gloss":"සම්බන්ධ වූ ලෙස"},{"surface":"על","gloss":"මත"},{"surface":"שני","gloss":"දෙක"},{"surface":"קצוותו","gloss":"කෙළවරැති"},{"surface":"חבר","gloss":"ගැට ගැසී තිබුණි"}],"timestamp":"2026-08-28T08:21:47.853964301Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 39,
+  "translation": "ඒ සඳහා බැඳෙන උරහිස් පටි ඔවුන් කළහ; එහි කෙළවරුන් දෙක මත එය බැඳිණි.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "උරහිස් පටි"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ඔවුන් කළහ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ඒ සඳහා"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "බැඳෙන"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "שני",
+      "gloss": "දෙක"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "එහි කෙළවරුන්"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "බැඳිණි"
+    }
+  ],
+  "timestamp": "2026-08-28T13:36:21.353534836Z",
+  "model": "glm-5.3"
+}

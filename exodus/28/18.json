@@ -5,29 +5,29 @@
   "book": "exodus",
   "lang": "si",
   "chapter": 28,
-  "translation": "දෙවැනි පේළිය — නොෆෙක්, සපීර් සහ යහලොම්.",
+  "translation": "දෙවන ⟨පේළිය⟩: නොපෙක්, සප්පිර් සහ යහලොම්.",
   "tokens": [
     {
       "surface": "והטור",
-      "gloss": "සහ ⟨the⟩ පේළිය"
+      "gloss": "පේළිය"
     },
     {
       "surface": "השני",
-      "gloss": "දෙවැනි"
+      "gloss": "දෙවන"
     },
     {
       "surface": "נפך",
-      "gloss": "නොෆෙක්"
+      "gloss": "නොපෙක්"
     },
     {
       "surface": "ספיר",
-      "gloss": "සපීර්"
+      "gloss": "සප්පිර්"
     },
     {
       "surface": "ויהלם",
-      "gloss": "සහ යහලොම්"
+      "gloss": "යහලොම්"
     }
   ],
-  "timestamp": "2026-08-27T19:55:38.356807057Z",
+  "timestamp": "2026-08-28T13:35:46.986717410Z",
   "model": "glm-5.3"
 }

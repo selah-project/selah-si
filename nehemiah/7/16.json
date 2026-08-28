@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "si",
   "chapter": 7,
-  "translation": "බෙබෙයි (Bebai) පුත්‍රයන් — හයසිය විසි අටයි.",
+  "translation": "බෙබායිගේ පුත්‍රයෝ හයසිය විස්සයි අටයි.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "පුත්‍රයන්"
+      "gloss": "පුත්‍රයෝ"
     },
     {
       "surface": "בבי",
-      "gloss": "බෙබෙයි"
+      "gloss": "බෙබායිගේ"
     },
     {
       "surface": "שש",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "עשרים",
-      "gloss": "විසි"
+      "gloss": "විස්ස"
     },
     {
       "surface": "ושמנה",
-      "gloss": "අටයි"
+      "gloss": "අට"
     }
   ],
-  "timestamp": "2026-08-28T06:17:53.213214320Z",
+  "timestamp": "2026-08-28T14:45:13.458093889Z",
   "model": "glm-5.3"
 }

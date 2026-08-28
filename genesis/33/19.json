@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 33:19","book":"genesis","lang":"si","chapter":33,"translation":"ඔහු තම කූඩාරය එහි ඉදිකළ ⟨the⟩ කුඹුරු කොටස ⟨את⟩, ෂෙකෙම්ගේ පියා වන හමොර්ගේ පුත්‍රයන් අතින්, කෙසිතා සියයකට මිලදී ගත්තේය.","tokens":[{"surface":"ויקן","gloss":"මිලදී ගත්තේය"},{"surface":"את","gloss":"⟨את⟩","marks":"කුඹුරු කොටස"},{"surface":"חלקת","gloss":"කොටස"},{"surface":"השדה","gloss":"කුඹුරු"},{"surface":"אשר","gloss":"—"},{"surface":"נטה","gloss":"ඉදිකළ"},{"surface":"שם","gloss":"එහි"},{"surface":"אהלו","gloss":"තම කූඩාරය"},{"surface":"מיד","gloss":"අතින්"},{"surface":"בני","gloss":"පුත්‍රයන්"},{"surface":"חמור","gloss":"හමොර්"},{"surface":"אבי","gloss":"පියා"},{"surface":"שכם","gloss":"ෂෙකෙම්ගේ"},{"surface":"במאה","gloss":"සියයකට"},{"surface":"קשיטה","gloss":"කෙසිතා"}],"timestamp":"2026-08-27T19:25:21.331483659Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "si",
+  "chapter": 33,
+  "translation": "ඔහු ⟨את⟩ කුඹුරු කොටස මිලට ගත්තේය — තම තැන්න එහි ඉදිකළ ⟨කුමන⟩ ඉඩම — ෂෙඛෙම්ගේ පියා වූ ඛමොර්ගේ පුතුන්ගේ අතින්, කෙෂිතා සියයකට.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "මිලට ගත්තේය"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "කුඹුරු කොටස"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "කොටස"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "කුඹුරු"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "කුමන"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ඉදිකළ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "එහි"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "තම තැන්න"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "අතින්"
+    },
+    {
+      "surface": "בני",
+      "gloss": "පුතුන්ගේ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ඛමොර්"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "පියා"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ෂෙඛෙම්ගේ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "සියයකට"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "කෙෂිතා"
+    }
+  ],
+  "timestamp": "2026-08-28T14:55:19.971602722Z",
+  "model": "glm-5.3"
+}

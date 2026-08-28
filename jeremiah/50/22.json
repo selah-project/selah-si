@@ -5,29 +5,29 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 50,
-  "translation": "යුද්ධයේ හඬ ⟨the⟩ දේශයෙහි, සහ මහා විනාශයක්.",
+  "translation": "දේශයෙහි සටන් හඬකි, සහ මහත් විනාශයකි.",
   "tokens": [
     {
       "surface": "קול",
-      "gloss": "හඬ"
+      "gloss": "හඬකි"
     },
     {
       "surface": "מלחמה",
-      "gloss": "යුද්ධයේ"
+      "gloss": "සටන්"
     },
     {
       "surface": "בארץ",
-      "gloss": "⟨the⟩ දේශයෙහි"
+      "gloss": "දේශයෙහි"
     },
     {
       "surface": "ושבר",
-      "gloss": "සහ විනාශයක්"
+      "gloss": "සහ විනාශයකි"
     },
     {
       "surface": "גדול",
-      "gloss": "මහා"
+      "gloss": "මහත්"
     }
   ],
-  "timestamp": "2026-08-28T00:17:32.274352969Z",
+  "timestamp": "2026-08-28T14:17:58.411765712Z",
   "model": "glm-5.3"
 }

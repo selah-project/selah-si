@@ -5,53 +5,53 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 33,
-  "translation": "Behold, I am bringing up for it wholeness and healing, and I will heal them, and I will reveal to them the abundance of peace and truth.",
+  "translation": "බෙහෙවත්, මම එයට සුවය හා සුව කිරීම ගෙන එමි, ඔවුන් සුවපත් කරමි, ඔවුන්ට සාමයේ හා සත්‍යයේ බහුලත්වය හෙළි කරමි.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "Behold, I"
+      "gloss": "බෙහෙවත්, මම"
     },
     {
       "surface": "מעלה",
-      "gloss": "am bringing up"
+      "gloss": "ගෙන එමි"
     },
     {
       "surface": "לה",
-      "gloss": "for it"
+      "gloss": "එයට"
     },
     {
       "surface": "ארכה",
-      "gloss": "wholeness"
+      "gloss": "සුවය"
     },
     {
       "surface": "ומרפא",
-      "gloss": "and healing"
+      "gloss": "සුව කිරීම"
     },
     {
       "surface": "ורפאתים",
-      "gloss": "and I will heal them"
+      "gloss": "ඔවුන් සුවපත් කරමි"
     },
     {
       "surface": "וגליתי",
-      "gloss": "and I will reveal"
+      "gloss": "හෙළි කරමි"
     },
     {
       "surface": "להם",
-      "gloss": "to them"
+      "gloss": "ඔවුන්ට"
     },
     {
       "surface": "עתרת",
-      "gloss": "the abundance of"
+      "gloss": "බහුලත්වය"
     },
     {
       "surface": "שלום",
-      "gloss": "peace"
+      "gloss": "සාමයේ"
     },
     {
       "surface": "ואמת",
-      "gloss": "and truth"
+      "gloss": "සත්‍යයේ"
     }
   ],
-  "timestamp": "2026-08-28T00:05:57.305712633Z",
+  "timestamp": "2026-08-28T15:23:35.662742678Z",
   "model": "glm-5.3"
 }

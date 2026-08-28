@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 3:15","book":"2-chronicles","lang":"si","chapter":3,"translation":"ගෘහය ඉදිරිපිට ඔහු කුළඔප දෙකක් තැනූයේ — දිග රියන් තිස් පහකි; ඒවායේ ශීර්ෂවල මත ඇති ⟨the⟩ අලංකාරය රියන් පහකි.","tokens":[{"surface":"ויעש","gloss":"තැනූයේ"},{"surface":"לפני","gloss":"ඉදිරිපිට"},{"surface":"הבית","gloss":"ගෘහය"},{"surface":"עמודים","gloss":"කුළඔප"},{"surface":"שנים","gloss":"දෙකක්"},{"surface":"אמות","gloss":"රියන්"},{"surface":"שלשים","gloss":"තිස්"},{"surface":"וחמש","gloss":"පහකි"},{"surface":"ארך","gloss":"දිග"},{"surface":"והצפת","gloss":"අලංකාරය"},{"surface":"אשר","gloss":"ඇති"},{"surface":"על","gloss":"මත"},{"surface":"ראשו","gloss":"ශීර්ෂවල"},{"surface":"אמות","gloss":"රියන්"},{"surface":"חמש","gloss":"පහකි"}],"timestamp":"2026-08-28T07:12:36.692473883Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "si",
+  "chapter": 3,
+  "translation": "ගෘහයට ඉදිරිපිට අඩි තිස් පහක් උස කණු දෙකක් ඔහු කළේය; එහි ශීර්ෂයේ තිබූ ⟨ද⟩ අලංකාරය ⟨අඩි⟩ පහක් ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "කළේය"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ඉදිරිපිට"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ගෘහයට"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "කණු"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "දෙකක්"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඩි"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිස්"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "පහක්"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "අලංකාරය"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ද⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ශීර්ෂයේ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අඩි"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "පහක්"
+    }
+  ],
+  "timestamp": "2026-08-28T14:48:50.509307205Z",
+  "model": "glm-5.3"
+}

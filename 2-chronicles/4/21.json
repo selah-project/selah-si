@@ -5,37 +5,37 @@
   "book": "2-chronicles",
   "lang": "si",
   "chapter": 4,
-  "translation": "සහ ⟨the⟩ පුෂ්පයන්, සහ ⟨the⟩ පහන්, සහ ⟨the⟩ පිහියම් — රනින්; ඒවා ⟨are⟩ සම්පූර්ණ රනින් ය.",
+  "translation": "සහ මල්, පහන්, අත්තික්කම් යන ඒ සියල්ල රන් කළේය — එය පූර්ණ රන් විය.",
   "tokens": [
     {
       "surface": "והפרח",
-      "gloss": "සහ ⟨the⟩ පුෂ්පයන්"
+      "gloss": "සහ මල්"
     },
     {
       "surface": "והנרות",
-      "gloss": "සහ ⟨the⟩ පහන්"
+      "gloss": "පහන්"
     },
     {
       "surface": "והמלקחים",
-      "gloss": "සහ ⟨the⟩ පිහියම්"
+      "gloss": "අත්තික්කම්"
     },
     {
       "surface": "זהב",
-      "gloss": "රනින්"
+      "gloss": "රන්"
     },
     {
       "surface": "הוא",
-      "gloss": "ඒවා"
+      "gloss": "එය"
     },
     {
       "surface": "מכלות",
-      "gloss": "සම්පූර්ණ"
+      "gloss": "පූර්ණ"
     },
     {
       "surface": "זהב",
-      "gloss": "රනින්"
+      "gloss": "රන්"
     }
   ],
-  "timestamp": "2026-08-28T07:12:02.059943044Z",
+  "timestamp": "2026-08-28T14:49:13.569732664Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 36:15","book":"exodus","lang":"si","chapter":36,"translation":"පටියක ⟨the⟩ එකක දිග රියන් තිහක්, පටියක ⟨the⟩ එකක පළල රියන් හතරක්; පටි එකොළහට එකම මිනුමකි.","tokens":[{"surface":"ארך","gloss":"දිග"},{"surface":"היריעה","gloss":"පටියක"},{"surface":"האחת","gloss":"එකක"},{"surface":"שלשים","gloss":"තිහක්"},{"surface":"באמה","gloss":"රියන් වලින්"},{"surface":"וארבע","gloss":"සහ හතරක්"},{"surface":"אמות","gloss":"රියන්"},{"surface":"רחב","gloss":"පළල"},{"surface":"היריעה","gloss":"පටියක"},{"surface":"האחת","gloss":"එකක"},{"surface":"מדה","gloss":"මිනුම"},{"surface":"אחת","gloss":"එකම"},{"surface":"לעשתי","gloss":"එකොළහට (පළමු කොටස)"},{"surface":"עשרה","gloss":"එකොළහට (දෙවන කොටස)"},{"surface":"יריעת","gloss":"පටි"}],"timestamp":"2026-08-27T20:03:33.388071486Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 36,
+  "translation": "එක් තිරයක දිග අම්මා තිසක්, සහ අම්මා හතරක් එක් තිරයක පළල විය; එක් මිනුමක් එකොළොස් තිර සඳහා ⟨විය⟩.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "දිග"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරයක"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "තිසක්"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "අම්මා මිනුමෙන්"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "සහ හතරක්"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "අම්මා"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "පළල"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "තිරයක"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "මිනුමක්"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "එක්"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "එකොළොස්"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(දහයට එකතු)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "තිර"
+    }
+  ],
+  "timestamp": "2026-08-28T13:35:11.556070684Z",
+  "model": "glm-5.3"
+}

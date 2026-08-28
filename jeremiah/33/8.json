@@ -5,69 +5,69 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 33,
-  "translation": "And I will cleanse them from all their iniquity by which they sinned against me, and I will forgive all their iniquities by which they sinned against me, and by which they transgressed against me.",
+  "translation": "මම ඔවුන් මට විරුද්ධව පාපයක් කළ ඔවුන්ගේ සියලු අධර්මයෙන් ⟨את⟩ ඔවුන් පිරිසිදු කරන්නෙමි; මට විරුද්ධව පාපයක් කළ ඔවුන්ගේ සියලු අධර්ම සමාව කරන්නෙමි — මට විරුද්ධව කැරලි කළ ඒවාද ය.",
   "tokens": [
     {
       "surface": "וטהרתים",
-      "gloss": "And I will cleanse them"
+      "gloss": "පිරිසිදු කරන්නෙමි"
     },
     {
       "surface": "מכל",
-      "gloss": "from all"
+      "gloss": "සියලු...ව"
     },
     {
       "surface": "עונם",
-      "gloss": "their iniquity"
+      "gloss": "ඔවුන්ගේ අධර්මයෙන්"
     },
     {
       "surface": "אשר",
-      "gloss": "by which"
+      "gloss": "පාපයක් කළ"
     },
     {
       "surface": "חטאו",
-      "gloss": "they sinned"
+      "gloss": "පාපයක් කළ"
     },
     {
       "surface": "לי",
-      "gloss": "against me"
+      "gloss": "මට විරුද්ධව"
     },
     {
       "surface": "וסלחתי",
-      "gloss": "and I will forgive"
+      "gloss": "සමාව කරන්නෙමි"
     },
     {
       "surface": "לכול",
-      "gloss": "all"
+      "gloss": "සියලු"
     },
     {
       "surface": "עונותיהם",
-      "gloss": "their iniquities"
+      "gloss": "ඔවුන්ගේ අධර්ම"
     },
     {
       "surface": "אשר",
-      "gloss": "by which"
+      "gloss": "පාපයක් කළ"
     },
     {
       "surface": "חטאו",
-      "gloss": "they sinned"
+      "gloss": "පාපයක් කළ"
     },
     {
       "surface": "לי",
-      "gloss": "against me"
+      "gloss": "මට විරුද්ධව"
     },
     {
       "surface": "ואשר",
-      "gloss": "and by which"
+      "gloss": "සහ"
     },
     {
       "surface": "פשעו",
-      "gloss": "they transgressed"
+      "gloss": "කැරලි කළ"
     },
     {
       "surface": "בי",
-      "gloss": "against me"
+      "gloss": "මට විරුද්ධව"
     }
   ],
-  "timestamp": "2026-08-28T00:05:57.306188388Z",
+  "timestamp": "2026-08-28T15:01:47.084987865Z",
   "model": "glm-5.3"
 }

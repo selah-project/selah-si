@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":19,"ref":"daniel 2:19","book":"daniel","lang":"si","chapter":2,"translation":"එවිට රාත්‍රි දර්ශනයකින් දානියෙල්ට රහස හෙළි කරන ලදී; එවිට දානියෙල් අහසේ ⟨the⟩ එලාහ් ආශීර්වාද කළේය.","tokens":[{"surface":"אדין","gloss":"එවිට"},{"surface":"לדניאל","gloss":"දානියෙල්ට"},{"surface":"בחזוא","gloss":"දර්ශනයකින්"},{"surface":"די","gloss":"ශ"},{"surface":"ליליא","gloss":"රාත්‍රි"},{"surface":"רזה","gloss":"රහස"},{"surface":"גלי","gloss":"හෙළි කරන ලදී"},{"surface":"אדין","gloss":"එවිට"},{"surface":"דניאל","gloss":"දානියෙල්"},{"surface":"ברך","gloss":"ආශීර්වාද කළේය"},{"surface":"לאלה","gloss":"එලාහ්"},{"surface":"שמיא","gloss":"අහසේ"}],"timestamp":"2026-08-28T05:33:23.191139660Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 2:19",
+  "book": "daniel",
+  "lang": "si",
+  "chapter": 2,
+  "translation": "එවිට රාත්‍රි දර්ශනයකින් මෙම රහස දානියෙල්ට හෙළි කරන ලදී; එවිට දානියෙල් අහසේ එලාහා ආශීර්වාද කළේය.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "දානියෙල්ට"
+    },
+    {
+      "surface": "בחזוא",
+      "gloss": "දර්ශනයකින්"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨සම්බන්ධයෙන්⟩"
+    },
+    {
+      "surface": "ליליא",
+      "gloss": "රාත්‍රි"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "මෙම රහස"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "හෙළි කරන ලදී"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "එවිට"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "දානියෙල්"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ආශීර්වාද කළේය"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "එලාහා"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "අහසේ"
+    }
+  ],
+  "timestamp": "2026-08-28T14:40:25.451176729Z",
+  "model": "glm-5.3"
+}

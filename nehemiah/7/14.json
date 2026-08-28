@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "si",
   "chapter": 7,
-  "translation": "සක්කෙයි (Zakkai) පුත්‍රයන් — හත්සිය හැටයි.",
+  "translation": "සක්කයිගේ පුත්‍රයෝ හත්සිය හැටයි.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "පුත්‍රයන්"
+      "gloss": "පුත්‍රයෝ"
     },
     {
       "surface": "זכי",
-      "gloss": "සක්කෙයි"
+      "gloss": "සක්කයිගේ"
     },
     {
       "surface": "שבע",
-      "gloss": "හත"
+      "gloss": "හත්"
     },
     {
       "surface": "מאות",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "וששים",
-      "gloss": "හැටයි"
+      "gloss": "හැට"
     }
   ],
-  "timestamp": "2026-08-28T06:17:53.212969701Z",
+  "timestamp": "2026-08-28T14:45:13.457795857Z",
   "model": "glm-5.3"
 }

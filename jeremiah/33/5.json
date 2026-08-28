@@ -5,91 +5,91 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 33,
-  "translation": "They come to fight against ⟨את⟩ the Chaldeans, and to fill ⟨את⟩ the corpses of men, whom I struck in my wrath and in my fury, and from whom I hid my face from this city, upon all their evil.",
+  "translation": "කස්දීන් ⟨සමඟ⟩ සටන් කිරීමට එන්නෝ — ⟨את⟩ කස්දීන් — සහ මිනිසුන්ගේ මළ සිරුරු වලින් ⟨את⟩ පිරවීමට; මම මගේ කෝපයෙන් හා මගේ උග්‍ර රගයෙන් ගැසූ මිනිසුන්; මගේ මුහුණ මේ නගරයෙන් සැඟවූයේ ඔවුන්ගේ සියලු අයහපත නිසාය.",
   "tokens": [
     {
       "surface": "באים",
-      "gloss": "They come"
+      "gloss": "එන්නෝ"
     },
     {
       "surface": "להלחם",
-      "gloss": "to fight"
+      "gloss": "සටන් කිරීමට"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the Chaldeans"
+      "marks": "කස්දීන්"
     },
     {
       "surface": "הכשדים",
-      "gloss": "the Chaldeans"
+      "gloss": "කස්දීන්"
     },
     {
       "surface": "ולמלאם",
-      "gloss": "and to fill them"
+      "gloss": "සහ ⟨ඒ⟩ පිරවීමට"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the corpses of men"
+      "marks": "මළ සිරුරු"
     },
     {
       "surface": "פגרי",
-      "gloss": "the corpses of"
+      "gloss": "මළ සිරුරු"
     },
     {
       "surface": "האדם",
-      "gloss": "men"
+      "gloss": "මිනිසුන්ගේ"
     },
     {
       "surface": "אשר",
-      "gloss": "whom"
+      "gloss": "—"
     },
     {
       "surface": "הכיתי",
-      "gloss": "I struck"
+      "gloss": "මම ගැසූ"
     },
     {
       "surface": "באפי",
-      "gloss": "in my wrath"
+      "gloss": "මගේ කෝපයෙන්"
     },
     {
       "surface": "ובחמתי",
-      "gloss": "and in my fury"
+      "gloss": "හා මගේ උග්‍ර රගයෙන්"
     },
     {
       "surface": "ואשר",
-      "gloss": "and from whom"
+      "gloss": "සහ —"
     },
     {
       "surface": "הסתרתי",
-      "gloss": "I hid"
+      "gloss": "මම සැඟවූයෙමි"
     },
     {
       "surface": "פני",
-      "gloss": "my face"
+      "gloss": "මගේ මුහුණ"
     },
     {
       "surface": "מהעיר",
-      "gloss": "from this city"
+      "gloss": "මේ නගරයෙන්"
     },
     {
       "surface": "הזאת",
-      "gloss": "this"
+      "gloss": "මේ"
     },
     {
       "surface": "על",
-      "gloss": "upon"
+      "gloss": "නිසා"
     },
     {
       "surface": "כל",
-      "gloss": "all"
+      "gloss": "සියලු"
     },
     {
       "surface": "רעתם",
-      "gloss": "their evil"
+      "gloss": "ඔවුන්ගේ අයහපත"
     }
   ],
-  "timestamp": "2026-08-28T00:05:57.305293188Z",
+  "timestamp": "2026-08-28T15:20:47.672674657Z",
   "model": "glm-5.3"
 }

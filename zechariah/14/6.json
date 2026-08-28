@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":6,"ref":"zechariah 14:6","book":"zechariah","lang":"si","chapter":14,"translation":"එදින ⟨දෙයක්⟩ සිදු වනු ඇත — ආලෝකය නොවේ; දීප්තිමත් දේවල් ඝන වී යනු ඇත.","tokens":[{"surface":"והיה","gloss":"සිදු වනු ඇත"},{"surface":"ביום","gloss":"එදින"},{"surface":"ההוא","gloss":"⟨ඒ>"},{"surface":"לא","gloss":"නොවේ"},{"surface":"יהיה","gloss":"වේ"},{"surface":"אור","gloss":"ආලෝකය"},{"surface":"יקרות","gloss":"දීප්තිමත් දේවල්"},{"surface":"יקפאון","gloss":"ඝන වී යනු ඇත"}],"timestamp":"2026-08-28T10:19:41.829213272Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "si",
+  "chapter": 14,
+  "translation": "ඒ දිනයේදී සිදුවන්නේය: ආලෝකය — දිලිසෙන බැබළුම් නොවේ — ⟨ඝන වැස්සක්⟩ ⟨වන්නේය⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "සිදුවන්නේය"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ඒ දිනයේදී"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ඒ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "නොවේ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "වන්නේ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ආලෝකය"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "දිලිසෙන බැබළුම්"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "ඝන වැස්සක්"
+    }
+  ],
+  "timestamp": "2026-08-28T14:26:40.576454979Z",
+  "model": "glm-5.3"
+}

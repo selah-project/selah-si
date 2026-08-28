@@ -5,45 +5,45 @@
   "book": "jeremiah",
   "lang": "si",
   "chapter": 2,
-  "translation": "ඉස්රායෙල් වහලෙක්ද? ගෘහජ වහලෙක්ද ⟨he⟩? මන්ද ⟨is⟩ ඔහු කොල්ලකෑමට ලක් විය?",
+  "translation": "මෙහෙකරුද යිස්රාඑල්? ගෙයි උපන් ඔහුද? ඇයි ඔහු කොල්ලයක් ⟨විය⟩?",
   "tokens": [
     {
       "surface": "העבד",
-      "gloss": "වහලෙක්ද"
+      "gloss": "මෙහෙකරුද"
     },
     {
       "surface": "ישראל",
-      "gloss": "ඉස්රායෙල්"
+      "gloss": "යිස්රාඑල්"
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "ද"
     },
     {
       "surface": "יליד",
-      "gloss": "ගෘහජ"
+      "gloss": "උපන්"
     },
     {
       "surface": "בית",
-      "gloss": "ගෘහජ (ගෙයි)"
+      "gloss": "ගෙයි"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨he⟩"
+      "gloss": "ඔහු"
     },
     {
       "surface": "מדוע",
-      "gloss": "මන්ද"
+      "gloss": "ඇයි"
     },
     {
       "surface": "היה",
-      "gloss": "ලක් විය"
+      "gloss": "විය"
     },
     {
       "surface": "לבז",
-      "gloss": "කොල්ලකෑමට"
+      "gloss": "කොල්ලයක්"
     }
   ],
-  "timestamp": "2026-08-27T23:42:04.376467557Z",
+  "timestamp": "2026-08-28T14:12:58.661252334Z",
   "model": "glm-5.3"
 }

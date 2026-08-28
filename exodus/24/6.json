@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":6,"ref":"exodus 24:6","book":"exodus","lang":"si","chapter":24,"translation":"මොෂේ ⟨the⟩ ලේ හරියට අඩක් ගෙන බාජනවල තැබූ සේක; ⟨the⟩ ලේ හරියට අනෙක් අඩක් පූජාසනය මත ඉසිණි.","tokens":[{"surface":"ויקח","gloss":"ගත් සේක"},{"surface":"משה","gloss":"මොෂේ"},{"surface":"חצי","gloss":"හරියට අඩක්"},{"surface":"הדם","gloss":"ලේ"},{"surface":"וישם","gloss":"තැබූ සේක"},{"surface":"באגנת","gloss":"බාජනවල"},{"surface":"וחצי","gloss":"අනෙක් අඩක්"},{"surface":"הדם","gloss":"ලේ"},{"surface":"זרק","gloss":"ඉසිණි"},{"surface":"על","gloss":"මත"},{"surface":"המזבח","gloss":"පූජාසනය"}],"timestamp":"2026-08-27T19:53:11.715842025Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "si",
+  "chapter": 24,
+  "translation": "මොෂේ ⟨את⟩ රුධිරයේ අඩක් ගෙන බාජනවල තැබුවේය; රුධිරයේ අඩක් පූජාසනය මත ඉසියේය.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ගත්තේය"
+    },
+    {
+      "surface": "משה",
+      "gloss": "මොෂේ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "අඩක්"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "රුධිරයේ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "තැබුවේය"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "බාජනවල"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "අඩක්"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "රුධිරයේ"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "ඉසියේය"
+    },
+    {
+      "surface": "על",
+      "gloss": "මත"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "පූජාසනය"
+    }
+  ],
+  "timestamp": "2026-08-28T13:34:35.596738708Z",
+  "model": "glm-5.3"
+}
