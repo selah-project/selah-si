@@ -64,3 +64,8 @@
 ගැළපීමෙන් — ඔවුන්ට පිළිගත හැක, ඔබ සමඟ සකසා ගත හැක, තවත්
 සාක්ෂි බලා සිටිය හැක, නැතහොත් හේතුව පෙන්වා ප්‍රතික්ෂේප කළ
 හැක. ඇගැයෙන්නේ වචනය — මිනිසා නොවේ.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
